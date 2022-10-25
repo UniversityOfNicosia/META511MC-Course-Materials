@@ -2,7 +2,7 @@
 
 The following list contains the endpoints (links) to the live sessions recordings:
 
-Week 1 - https://arweave.net/yOCEIuZN7VwMhWkRG9MLOwv35czKttNoPWC05JZTP8g
+- **Week 1** - https://arweave.net/yOCEIuZN7VwMhWkRG9MLOwv35czKttNoPWC05JZTP8g
 
 
 
