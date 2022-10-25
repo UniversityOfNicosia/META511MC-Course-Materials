@@ -6,7 +6,7 @@ You can navigate to the files as follows:
 2. Select the material you will like to get (ex. Presentations, Recordings etc.)
 3. In the case of videos follow the link provided in each of the folders
 
-###Quick Links
+### Quick Links
 
 - **[Presentations - (Fall-2022)](/Fall-2022/Presentations/)** 
 - **[Videos Outside OM - (Fall-2022)](/Fall-2022/Videos%20Outside%20of%20OM/README.md)** 
