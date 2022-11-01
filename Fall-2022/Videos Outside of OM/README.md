@@ -9,7 +9,7 @@ The following list contains the endpoints (links) to the live sessions recording
 - **Week 3: PFP NFTs**
     - **Week 3.1** - https://arweave.net/OLvPVv_Kefd3gz7K2DYQK_HIXJ6JxWifSAe8kFkPefM
 
-    - **Week 3.2** - https://arweave.net/vRreGN_IRkqhJPF8Ct-zhQBdU2bbCd826_zHV1Y9tTI
+    - **Week 3.2** - https://arweave.net/Ydv8YHx8pJE2lkXtt-gECAryLxFPiZ5B7LI3BlmBxuY
 
     - **Week 3.3** - https://arweave.net/oj40d0cRryECrY2JUq5ZjNcORZnreKOxcvK3D2jLS_Y
 
