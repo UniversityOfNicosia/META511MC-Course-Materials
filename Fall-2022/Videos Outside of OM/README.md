@@ -11,7 +11,7 @@ The following list contains the endpoints (links) to the live sessions recording
 
     - **Week 3.2** - https://arweave.net/Ydv8YHx8pJE2lkXtt-gECAryLxFPiZ5B7LI3BlmBxuY
 
-    - **Week 3.3** - https://arweave.net/oj40d0cRryECrY2JUq5ZjNcORZnreKOxcvK3D2jLS_Y
+    - **Week 3.3** - https://arweave.net/3wElK7U33fAatvakGICN6jhI0KHKD9cBTitOchhn8_U
 
 **TIP:** Have patience for the loading :D
 
