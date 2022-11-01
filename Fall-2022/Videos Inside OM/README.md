@@ -5,7 +5,7 @@ The following list contains the endpoints (links) to the live sessions recording
 - **Week 1: What is an NFT?** - https://arweave.net/yOCEIuZN7VwMhWkRG9MLOwv35czKttNoPWC05JZTP8g
 
 - **Week 3: PFP NFTs**
-    - **Week 3.3** - https://arweave.net/USXeH7Sqgj0OdCCstw6G54iONZojj2KlcCFAWoJCV-Q
+    - **Week 3.3** - https://arweave.net/uCH4Q1imGu5gApXsNh9NUNCNReXF03bPhFSJ-gvtTcI
 
 
 
