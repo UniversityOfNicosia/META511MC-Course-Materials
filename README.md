@@ -11,3 +11,4 @@ You can navigate to the files as follows:
 - **[Presentations - (Fall-2022)](/Fall-2022/Presentations/)** 
 - **[Videos Outside OM - (Fall-2022)](/Fall-2022/Videos%20Outside%20of%20OM/README.md)** 
 - **[Videos Inside OM - (Fall-2022)](/Fall-2022/Videos%20Inside%20OM/README.md)** 
+- **[Transcripts - (Fall-2022)](/Fall-2022/Transcripts/)**
