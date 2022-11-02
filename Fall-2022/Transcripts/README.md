@@ -13,5 +13,5 @@ Inside this directory you may find the transcripts of the live sessions, were -w
     - .srt - https://arweave.net/4ztnkGQ8TdUcGtQBl8YPE9Jc-t7jm95TiohDjk76ARU
     - .vtt - https://arweave.net/_5oyDXaJ8xRs4moFzaQTIvYPxEJKsiFaWuIZ7jXAB2w
 
-    - **Week 3: PFP NFTs**
-        - **Week 3.1** - 
+- **Week 3: PFP NFTs**
+    - **Week 3.1** - 
