@@ -14,7 +14,7 @@ The following list contains the endpoints (links) to the live sessions recording
     - **Week 3.3** - https://arweave.net/3wElK7U33fAatvakGICN6jhI0KHKD9cBTitOchhn8_U
 
 - **Week 4: Art NFTs (CryptoArt, NFTs)**
- - **Week 4.1** - https://arweave.net/gjLh77YwO72JfYE8s3g-cEcuiID8XDW1idZkAkudRWw
+    - **Week 4.1** - https://arweave.net/gjLh77YwO72JfYE8s3g-cEcuiID8XDW1idZkAkudRWw
 
 **TIP:** Have patience for the loading :D
 
