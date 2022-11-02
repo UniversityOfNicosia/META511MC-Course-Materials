@@ -1,0 +1,1052 @@
+Hello, hello.
+Hello, hi everyone. Welcome to the second live session of the NFTs and the Metaverse
+course offered by the University of Nicosia in partnership with Punk 6529 and the OM.
+I'm George Giaglis and before introducing our topic and our lecturers for today, I'd like
+to take a couple of minutes to remind everyone of a few things related to the course logistics.
+First of all, as you all know, we are building OM's Metacampus, so we should soon be
+able to migrate most of our future educational activities there. You should be able to see
+the Metacampus building site on your right as you look at this screen, so hopefully that
+direction. After we finish today's session, I encourage everyone to make a short journey
+to the portal to the Metacampus and visit it. You will just be able to see our first construction
+there, which is an open amphitheater, where we will probably be meeting for next week's
+live session, but over the coming weeks we will be rolling out other places on the campus
+as well. So that's number one. Number two, please remember that this is a non-chain course,
+so we will be trying to touch upon centralized systems as little as possible. To this end,
+most of the educational material for the course will be made accessible to you in the form
+of NFTs. Those of you who had minted the course access token by last Friday should have already
+received in your course wallet another NFT, this time an ERC 1155 token. Remember the
+discussion we had last week about standards? This token contains all the slides from last
+week's presentation. You should be able to view this NFT on marketplaces like OpenSea
+or LuxRare, although you may need to try different browsers and settings to get it to work properly
+for you. For me, the best experience has been viewing it in OpenSea using Firefox as a browser,
+as Chrome seems to be blocking its content by default, at least on my Mac. We're working
+to make future drops easier to interact with, so if you have any ideas or comments about
+that, as always, please drop us a note on Discord or Twitter or in the chat here. Number
+three, please note that all material regarding the course will be made available on our GitHub
+account, including our live sessions. The live sessions will also be available on YouTube
+for those of you that cannot make the live session. Always monitor our Twitter account,
+this is the unique Metaverse account, for details on how to access this material on more
+centralized, let's say, service providers. Number four, don't forget that you can use
+the OM chat here to ask any questions you want to the lecturers that relate to today's session.
+Starting today, we will also be taking questions from Twitter. Just make sure that you either use
+the NFT Q&A hashtag when posting your question and or mention the unique Metaverse account so
+that we can pick the question and feed it to the lecturers. Final thing, please note that in order
+to manage the load on OM, we are splitting the class in rooms. Each room will have a maximum
+capacity of 500 people. So please note that if you leave and reenter the OM during the live
+session, you might find yourself in a different room with a different classmates, different chat
+history, etc. There's nothing to do on your side. I'm just noting this so that you're not confused
+if you find yourself in another classroom suddenly. Also, please note that if you remain inactive for a
+period of time, your avatar doesn't move, you don't do anything in the chat or anything, OM will
+automatically lock you out of multiplayer mode and you will find yourself alone in the Metaverse
+world. So in that case, simply reload the page and reenter in multiplayer to find your classmates
+again. Okay, now on to today's lecture. Today's session is about a very important, I would dare
+say fundamental aspect of NFTs and this is copyright, trademarks and licensing. Punk 6529
+hinted at the importance of this last week, but today we're going to do a deep dive in the subject
+and explore its different dimensions. As the topic is highly specialized, this week I'm going to be
+taking a backstage role and I'm going to leave the floor to experts. So today's session will be a
+presentation and a live discussion between 6529 and our first guest in this course. So it is a
+pleasure and an honor to present to you Ms. Eliana Torres. Let me read this so that I don't make
+any mistake. Eliana is an attorney in the intellectual property group at Nixon Peabody LLP,
+where she's part of Nixon's blockchain Metaverse and IP teams. She focuses her practice on
+technology transactions, copyrights and trademarks, but she's also an avid collector of NFTs,
+where she has witnessed the many issues involving IP around them. Prior to joining Nixon,
+Eliana practiced as a trademark attorney for the United States Patent and Trademark Office,
+so I cannot think of a better person to discuss issues related to copyright in NFTs with 6529
+than Eliana. Before giving the floor to her, I would like to give the floor very briefly to
+6529 to introduce today's session and then I'm going to leave him and Eliana to drive the discussion.
+So the floor is yours. Thank you George and thank you everyone and great to be back here. I just
+wanted to note the following. I think copyright and trademark issues are among the most misunderstood
+issues in NFTs, so I think this session is very important from a fundamental basis. I also think
+it is important to understand that Eliana is a lawyer, but at the end of the session you will
+not be a lawyer, so this one session will not substitute for many years of law school and
+practicing as a lawyer, so if you are someone who is active in the space, perhaps as a creator or
+a licensee or you're planning something significant to do with IP in the space, regardless of what
+we cover today, you should hire a relevant lawyer with relevant expertise to help you with whatever
+you're going to do. I am not a lawyer, I am a civilian on this topic. I think I know much more
+than most civilians and yet if I had a complicated issue of this type, I would also hire a lawyer.
+So what I hope we can accomplish today is Eliana will cover some of the basics in the first half
+of the session, and then she and I will have a discussion on some of the more juicy spicy issues
+that exist right now in NFTs, and then we'll do the normal Q&A at then, so with that, I'll hand it
+over to Eliana. First of all I want to say thank you for allowing me to be here to 6529 for George,
+everyone else that has helped made this happen, it's a historical moment for all of us, and with that
+said I think we could get started with our lecture for today, and I think it's important for us to
+start with some basics, so if we could get our agenda for today on the next slide please. So this
+is where we are, this is our session two, and we'll have an agenda in the next slide. So we'll go
+over intellectual property, trademarks, copyrights, the transfer of copyrights, NFT licenses, and then
+we'll have the Q&A and conclusions with some further reading and some assignments for you guys.
+So starting with intellectual property, which is the next slide, well we already gave this
+claimer, so let's make sure that we all remember that, and there we go. So intellectual property,
+so I thought it would be useful for us to start with just the basics of what intellectual property
+is, and what it encompasses, and the major areas of law that touches on NFTs. So if we have the
+next slide we'll have a breakdown of the major, the trifecta of intellectual property laws and
+intellectual property in the U.S., so we have the intellectual property definition, which is
+basically you have creations of the mind, such as inventions, literary, artistic works, designs,
+symbols, names, and images using commerce, and they break down into three major areas. Patent for
+the most part is not going to be as relevant today, so I'll leave it aside for the moment, but
+basically it's inventions, and you'll have an exclusive right granted for an invention once
+you go to the U.S. Patent and Trademark Office, and you'll have to go through this artist's process
+to actually get patent rights. At that point you'll be the inventor of that specific patent, but
+you will have to go through that process in order for you to secure that right. That one won't be
+as relevant today, so we'll focus mostly on copyright and trademarks. So copyrights protect
+the original work, and it subsists, so it is basically curated for the time that you put that
+in paper or in any kind of medium that is tangible, and you are the author who become the, basically
+the owner of this copyright from that moment on. Trademark is an indicator of source, basically,
+so you have words, phrases, symbols, signs, or a combination, and they basically distinguish the
+source of goods or services, so basically like the Nike switch that you see, you associate that
+with the source of being Nike for anything that has that specific symbol. So in the next slide,
+we'll start with trademarks. I think the most contentious issues revolve around copyright,
+so that trademarks, we could go briefly over what a trademark is and how to acquire this right,
+and then we'll go into the more substantive issues of copyright. So starting with trademarks,
+in the next slide, we have the definition of a trademark, so you have basically get an exclusive
+right to use a mark in connection with some goods or services, and you get to protect that from
+infringement on dilution, so from anyone using this mark in association with similar goods or
+services. You basically have this right in perpetuity, so as long as you continue to renew it
+and continue to use this right in commerce, so in whatever it is that you decide to use in association
+with your goods or services, as long as you continue using that in commerce, and you continuously
+renew it with the trademark office, if you do have a registration, then that continues to exist.
+So basically, you have goods and services that you use, whatever it is you're using,
+whether a symbol, marker, or a wording, or a combination in commerce, and that is associated
+with specific classes that are considered basically just the categories in which you are using that
+mark in association with. That's how the USPTO classifies them in NFTs, and we'll see this later,
+the specific guidance as to where you should place these classes or how you should describe
+these goods and services according to the USPTO, but I'll go into that in a little bit later. So
+the next slide, please. So we have a lot of NFTs projects that have trademarked their names or
+their brands or in association to anything that they've created. In 2021, actually, there were
+about just a handful of trademarks, maybe 100 or so, and this year, there's been an influx of
+trademarks just related to a metaverse NFTs. So we've seen a huge rise in trademark applications
+that have been filed for specific classes related to NFTs. These classes, as I mentioned, categories
+tend to be class 9 and 42 and some 35. So again, not to confuse you guys, these are just numbers
+that kind of indicate some categories basically, and the majority of those are in class 9 because
+they are considered by the USPTO as downloadable goods that are associated with an underlying
+asset. So you still have to define what that asset is. So similarly, how we have what was
+mentioned in the previous class, which you have the token and you purchase a token, not necessarily
+one that you buy the token and the asset together, but the token relates or points or links back to
+the underlying asset. Similarly, USPTO is using that same kind of definition to categorize this
+trademark registrations. So most of them will be in class 9, all of them for the most part. If you
+have a known downloadable asset or token that links back to something else, you further define
+what that something else is basically, but it will remain in class 9 as a downloadable asset
+basically. So Fedenza actually has a trademark for Fidenza. Then you have Cryptopunks and a lot
+of these are still in the stages of examination. So they'll go through a process of examination
+before getting to the registration from right now. There's a back load since we have so many
+trademarks for this specific classes of goods, and they are taking about nine to 10 months to
+examine this. So we'll see what happens with this trademark applications. There are not
+registrations yet, some of them. Next slide please. So you actually don't need to register your
+trademark, but it is highly encouraged. So what that means is once you start using something in
+commerce, you basically have a trademark by Commonwealth. So you start using that in commerce,
+whatever that is that you use, but it is highly recommended for you to have a registration,
+and you have to show that you're using that in commerce. And that is to show that consumers
+are identifying your product or service with that specific trademark. So the reason why we
+normally advise to have a registration is because you get the ability to enforce your trademark
+rights, and it is highly advisable just because your rights are limited under common law if you
+don't have that registration. And in order for you to bring that lawsuit, you have that registration
+and it's kind of a proof that you actually have been using that in commerce across the United
+States. So having said that, there are some protections that trademark does not extend to
+basically, or they're commonly known as fair use, and they relate to two specific ones. So we have
+classic and nominative fair use, and these are basically just acceptance. I don't want to call
+it exceptions, but they just, trademark rights would not extend to this basically. So classic fair
+use is when someone uses a trademark and is used to describe the goods or services. So basically
+you're not using it to indicate source for whatever you are selling, but you're only using that other
+trademark, someone else's rights to describe your specific goods. So for example, you're using it to
+describe a service. So you're using a trademark for, I don't know, Apple to describe that you offer
+technical services. And you say, you know, we service computers from Apple to Samsung, you're
+not using that to indicate the source of your services and being Apple and Samsung, you're
+basically using that to reference to your own services. Similarly, we have nominative use,
+and you are using it, there's been some case law around nominative use and how much of it you're
+allowed to use someone else's mark in order to describe something else basically. And it could
+be really complex, which is why I kind of just want to breeze over it. This is going to come up
+mostly in some of the case law that we have right now, or not even precedent yet, but some of the
+cases that have been brought in NFC related cases against some infringement that has gone
+on in the space. So common situations where you would use how fair use will be news reporting,
+commentary, product review, parity, and some comparative advertising. So when you are using
+it basically to make fun of or not make fun of it, create some sort of common relief around a
+specific issue and you use somebody else's trademark. That's basically what that would
+entail, but there's some very specific guidelines as to how you go through the definition of fair
+use and where that actually is fair use in relation to all these situations. And hopefully
+as not too complex. But next slide, please. So again, this is why I wanted to kind of
+leave the fair use arguments for this, and this is because we have some trademark infringement
+cases right now. Most of them are surrounding the creation of NFTs that represents some physical
+items. So like that's basically Hermes and Mason Rothschild. So in Medaverkin's case,
+that we'll come to know. In that case, and I think the majority of us have heard of it,
+there was an NFC that was created that resembled the Metabirkin's bags, which are
+quite famous and very expensive. And this designation or this NFT basically was quote
+unquote commentary on the use of specific, it was a political commentary according to the creator.
+However, if he made a significant amount of money, so they had Hermes International soon,
+this creator, and we are still waiting for a decision. The last thing we heard was that
+an injunction was that a motion to dismiss actually was failed. So it was rejected. So
+the loss is going to continue. And I think this case is going to be very important because it's
+going to define whether you have, if you have a trademark for a specific good that is physical.
+So like the Medaverkin's trade dress and the actual trademark of the Birkin's bags,
+whether those are too, you can conflate those basically. So whether you could have an infringement
+because someone else is creating that in a digital form in an NFT. So this is going to determine
+the extent or the scope of the protection of the current registrations for existing brands.
+And then we have the Nike StockX. And this is a little bit different in that,
+and I find this one particularly interesting because Nike in StockX are, again,
+StockX is a reseller of goods and they are using NFTs in association with the shoes that
+they resell. So most of the arguments are kind of surrounding the argument or the analogy that
+is a receipt. So you're basically authenticating actual goods that you can then later on redeem
+as the shoe themselves or they're associated to the shoes. The shoes are Nike's shoes,
+essentially, in StockX because they're resellers. So this one's particularly interesting because
+it brings a lot of kind of doctrines that we have not determined whether they're applicable
+to the NFT space, such as the first sale doctrine and this first sale doctrine basically,
+and I don't want to go into a rabbit hole, but you basically have the ability to sell
+something once you purchase it. So once I buy a painting, I have the right to sell that.
+And that would be like basically what some of the arguments that they're making in this case,
+but these are all trademark-related cases that we have yet to resolve. So we'll have the next
+slide before I go in the rabbit hole and know the descriptions of the cases. So now we enter
+into copyright, and this is particularly applicable to the NFT space. We'll go into the next slide,
+please. Copyright creation is basically once you put something in a tangible medium. So if I write
+something in a piece of paper and that's already tangible and there's enough originality,
+that's enough for me to have a copyright. And that's differentiated from a copyright,
+from a copyright registration. They're separate. So when I say copyright, it's just basically you
+own that copyright, that creation that you made. If you go through a registration process, we'll
+talk about that later, but it's separate. So you own your copyright, that does not mean you
+have a copyright registration. So right now, the laws recently changed from the Copyright Act in
+1976. And you have the life of the author plus 70 years is the extent of your copyright. That's
+how long it will be protected for. And you get with a copyright, you get a bundle of sticks or a
+bundle of rights that we commonly recognize as these six basic rights that you have the right to
+reproduce, prepare derivative work, distribute, perform, display, transmit. So with a copyright,
+you get the right to kind of control this, this the ability to any of those things and exclude
+anyone from doing any of those things. Next slide, please. So now in the reason why I'm going so
+fast is because we're going to enter into a really kind of interesting points about all of these
+issues. One of the issues in copyright is the originality and the fixation. So these are requirements
+for you to have a copyright. The originality is basically a minimum degree of creativity. And
+that's argued in not to get very, I guess, into a new nuances of the entity space. But generative
+works are arguably all of them have the end of creativity, but someone may argue they do not.
+So then we go into the authorship, which is partly the same argument I just made earlier about the
+minimum degree of creativity, because if you use an AI system, for example, AI like Dali or any AI
+platform or coding or anything else that kind of creates the work for you, you still would need that
+level of creativity. And it's a although it's a low standard, you still will be questioned by the
+copyright office about how you use the system and whether that is enough to have a, I guess,
+personhood or human creativity by the human. Because otherwise, you will not be entitled to
+that registration. But the originality comes up often in the infringement cases and that
+registration process. So those are the two times that you'll see this coming to question.
+And then the last thing we need is the fixation. So you'll have the tangible medium of expression
+and whether that's sufficient. And you just need the minimal degree of creativity. Again,
+that's kind of reemphasized there. We'll go into the next slide, please. And this is where it gets
+fun. You have the human authorship requirement and the definition of author is not in the copyright
+act. But they have clearly distinguished and established that you need a human creation
+component. And this was established mostly by Supreme Court in this case, where they determined
+that human authorship was essential to copyright protection. And then it was reemphasized by the
+copyright office in the compendium, where they mentioned that a work must be created by a human
+being. And then it was reemphasized in this really fun case where a monkey basically grabbed
+someone else's camera and took some selfies. And then the copyright office did not grant
+the registration because they said the animal basically was not a human and could not get this
+copyright registration. And that is the actual selfie of the monkey. Next one, please.
+So by default, the creator owns the copyright at the moment of fixation. Again, this is different
+from the registration. And the physical work is not the same thing as ownership in that copyright.
+So if I buy a painting by Botero, this Colombian artist, I could get the physical copy, but that
+does not mean that I could start then using that that same painting to distribute in advertising
+or putting in a movie or use it for other purposes that are commercial or even non-commercial. So
+unless they're following the fair use. But you purchase this painting, you do not get the copyright
+and we'll see how that's similar to NSP space coming up. We'll go into the next slide, please.
+Again, this is a kind of expanded definition of the human authorship requirements. Recently,
+the copyright board dealt with a case by Dr. Thaler, where he tried to copyright a painting
+or a work of art rather, I'm sorry, and he was called the entrance to paradise. And this work of
+art was created by a machine that he coded called creative machine. And the problem here was that
+he named the author the creative machine. So the author was the AI system itself.
+He didn't name himself as the author, he named himself as the owner. So the output of this machine
+and the author was the creative machine. So that is when it became an issue for the copyright
+office and they decided not to grant this registration. And this was later on appealed and
+he still lost it against the board and then he filed lawsuits in DC. And we'll see how that
+turns out. But I think for the last we have heard of this is that they're not going to grant
+him this registration because you have to have the level of authorship that human being as a creator.
+This is different and I want to emphasize this because I have seen this in the space lately
+where we read from some articles that there was a copyright registration issued for a comic strip,
+I think was a comic strip where the AI machine was used. And that was different because the
+author was not named as the AI machine and the copyright office did question the level of
+creativity or the level of work from the human. Yeah, you could go to the next one. I think I'm
+taking a little long so we'll go really quick on that over the next slide. These are the not
+protected things under copyright. Basically you have also fair use similar to to what we mentioned
+for trademarks. And if you want to go to the next slide we'll go into this a little bit faster so
+we can get to the fun stuff. Ideas, procedures, processes and systems. So basically anything
+that's factual it would not be protected on the copyright just doesn't have enough level of creativity
+for the most part that there will be one of the questions that you have when determining whether
+that is fair use. And then both the main works so disclaiming any kind of works under CCO which
+will also will co-relator are also not protected on the copyright once you kind of disclaim those
+rights. So basically you give up or you waive all your rights to the creation that you made.
+We could go on to the next slide so we'll move a little faster. Again this is a copyright
+doctrine of fair use. And it's an affirmative defense and you have this four-part test that
+I alluded to earlier. And these are four of the queries that the courts will look at when
+determining whether a work was fair use and that should not be protected on the copyright,
+therefore potentially no infringement. So they would use this and a case by case determination.
+These are not exclusive to or not the spotters that you don't have to have. You could have a
+little bit more on one of these factors than the others and the courts are kind of there's no
+no bright area. There's no black and white. It's kind of a gray area where they they lean on this
+four-part test. And normally this is used as an affirmative defense and we could go on to the next
+slide. So this part I and I included this slide because I think it's important for us in this
+space to understand a little bit of what works for hire are in the copyright context because
+a lot of the projects right now that I've seen they contract out the creation of the work. So
+they'll have a third party create the art or the music or the video for the NFT projects. So these
+are commonly known as works for hire and they come into specific situations. So one would be
+as an employee. So you create this work of whatever it is that you created for your employer,
+then essentially your employer is the owner and the creator legally the creator of the of the work
+and you give up basically your rights to that owner to that employer. And then the second
+situation in which this comes about will be in these nine categories and unwriting agreement. So
+you have a work for hire agreement basically and you would basically give up their rights
+to that creation to the person who hired you. And these are usually commission works. So
+one of those works will have to fall into these nine categories. And then if none of these takes
+place you would basically enter into an agreement with whoever hired you or whoever you hired and
+you will have an assignment. And we'll have a little bit more expanded definitions of what an
+assignment is in the next few slides. But for the most part they serve work for hire situations
+and they're very two specific situations in which this comes about. We'll have the next slide please.
+This is also important in the space because creators often do this the works or do the
+creations as joint authors. So as a team and this is basically works that are prepared by
+two or more people. So authors, but they have to have that intention that the contributions be
+one. So merge into inseparable parts or independent parts. So by unitary whole and the act is very
+specific about what a joint work is. They would both have an undivided interest in the entirety
+of the copyright and they can exploit the work on a non-exclusive basis without the permission
+of the other. So basically they could have that non-exclusive use as long as they take
+account of the other person and they give them their fair share of profits if they are exploiting
+that. And as long as they don't harm the actual work. This is also important for any creators out
+there in the entity space that are creating works with more than one person making sure that you
+guys have an agreement in place where this is kind of clear as to what you're allowed and not
+allowed to do as a joint author and there's an understanding of what that means. We'll go to
+the next slide please. So we'll go into the registration process which I mentioned earlier.
+The registration does not affect the nature of your copyright but it does affect your ability
+to enforce these rights. Your rights will be limited. You will not be able to bring the federal
+court lawsuits unless you have this registration or a registration rejection. So there's also
+this is not often mentioned but if you did not get a registration from the copyright office you
+could still bring lawsuits and you have to argue that you should have gotten the registration so
+as part of there will be part of your argument but for the most part and just to for simplicity
+you do need a registration to bring a lawsuit in the federal court system and get to enforce your
+rights and that's to stop someone from infringing on your copyright and this is also an example of
+what the copyright registration would look like. Fidenza which I mentioned earlier has a trademark
+registration but they also have a copyright registration which is really interesting to me.
+They have copyright registration on individual Fidenza and I've looked at how many they have.
+I don't remember the exact number but they this one's Fidenza number 56 they actually number them
+and they have individual they didn't copyright them as a collection of works but they copyright
+each one of these individually which is very interesting. We'll go into the next slide.
+So we'll get into it more of a guess debated discussion of what the transfers
+in copyrights entail since they apply pretty heavily to the NFT space. We'll go into the next
+slide please. So this is according to section one of the act it transfers an assignment mortgage
+exclusive license or any other conveyance of a copyright or any exclusive rights comprised
+in a copyright but not including non-exclusive license and I know it sounds like a mouthful
+but just to make it into an analogy that's understandable is basically as if I sell you
+my house if I sell you my house you have full rights and you have all the rights to that house
+and that is different from me giving you a non-exclusive license which is the analogy is I
+let you stay at my house and you could use my house for as long as I tell you that you could use
+my house and you maybe I could tell you that you can only go in the kitchen or I could you
+can only go in the room so I determine what kind of rights I give you with that not non-exclusivity
+and by the non-exclusivity part I mean that I could also let my brother come into the house or
+someone else come into the house so that's the difference between the full transfer so it does
+an assignment and a non-exclusive license. The next slide please. This is more for visual I think
+this is pretty kind of a simple way to kind of understand this transfers so you have the copyright
+and you transfer all the rights so this is again kind of similar to selling the whole house so I
+give you title to all and rights to the entire house I can't just come back to you later and say
+you know give me back my house that's basically what this means I have to give you this right in
+writing and I have to sign it um then you get all the same rights that you that I would get as if you
+were the owner from conception and you then we go into the next one so that's the license and then
+oh the previous one sorry yeah we'll go into the next bucket for a previous slide please yeah
+so license then we have um the exclusive or the non-exclusive for the exclusive part
+it's very similar to an assignment right except you also need it in writing you I will also have
+to give this rights to you by signature and I have to sign them away to you and you only get this
+rights uh it's an exclusive user so I can't give this rights to anyone else that is different from
+a non-exclusive so you wouldn't be special in other words to get this rights to uh in the analogy
+to borrow my house or to go into my house and this could be oral or implied also and we'll go into
+the definitions of those uh in the next slide now the next slide please thank you um so there's a lot
+of issues with the license in the entity space uh because I don't think we have a pretty clear
+understanding of what the law is surrounding or surrounding these licenses so exclusive licenses
+actually terminate at the earlier of one of those two years so 35 years from a date of publication
+or 40 years from the time that you grant this rights um and the time of publication it again this
+this may seem like uh it doesn't make it makes no sense but you could have a copyright registration
+in unpublished works so um you may be able to have uh rights that you granted prior to publication
+so that's how that would make sense so we also have the non-exclusive licenses so these are also
+but you could have it in writing or verbally give these licenses for the most part they're
+writing and they have a variety of termination procedures and that will be explained in the
+actual licensing and license agreement that you grant and then you have an implied non-exclusive
+license that could be terminable uh at will so whenever the person that granted them decides
+and that is there's an exception to this and if you have an implied non-exclusive license
+and this comes about in projects where there was no grant or so no mention of what kind of license
+you got and you got an implied quote unquote license and um then it could be argued that
+you paid consideration that was enough for the license to not be revocable otherwise it would
+be uh revocable so like if you see the the terms of use where it says you know this could be revoked
+at any time basically that's what that means but for the implied one where there is no writing no
+mention of what you actually received when it was just implied based on conduct or you using the
+license and them allowing it um if you had enough consideration the court will look at this consideration
+as enough uh sort of like detrimental reliance so you relied on the what you've been using this
+license for and then it becomes irrevocable so um there are some exceptions that I think will be
+important to note and and I know it's just kind of a very dense area of law so and I'm probably going
+really fast but just important to for us to note that there are exceptions to determination and those
+are transfers by will so by uh testament one someone passes away by works for hire uh the works
+made for hire because essentially your the creator is the the um the creator is not the owner anymore
+but the employer or whoever hired at that point he has those right now and then the grants um by
+other federal laws so for example like you have um at a batman that had that was granted a license
+to someone else in that batman use so like the actual character also had some trademarks in it
+so if there were trademarks embedded into the use of of of that copyright then you can't terminate
+that because then you know what will happen to those trademarks that were also granted under
+that specific license so that's when that really often happens and then um also under foreign laws
+which we will not go into but that's also another exception worth noting um and then we'll go into
+derivative works and you have the authority to continue using the whatever you created so it
+basically works like a layer so anything that you prepare under the grant or so under whatever
+license you receive before the termination you continue to utilize that so like the layer so
+like once you have that whatever you built upon it you can continue to use um after the termination
+but it doesn't extend to any rights after the termination so you cannot continue to continue
+to create more works um based on the first layer that you initially received once it is terminated
+we'll go into the next slide please then we get to the uh the fund part and this is the
+nft licenses and i think for this part point 65 tonight it's going to join me because i think
+we'll get into more of the very uh dicey discussions in this area
+so we could go into the next slide all right hello hello hello could you hear me
+okay loud and clear well first of all thank you so much for that i know for everyone this was
+probably a lot to absorb if this is not something that you've thought about in detail before in
+fact even for me when i was looking at the materials and i think i know a decent amount
+about this topic there were things i had to ask clarifying questions uh i had to read the slides
+a few times the good thing is the slides are going to be available uh we will be available
+in the chat we'll be available on twitter and so we'll be able to follow up on these things
+i would also say i think we're just going to have to run over of the one hour i mean i don't
+think we'll be done in the next 15 minutes we're just getting to the juicy parts i hope all of
+you can stay if you can't it's okay it'll be recorded you can watch the rest of it later
+but i don't want to cut it short um because i think we have a lot of fun things to discuss
+let me put some things in my words from a more nft perspective
+and only if i get anything wrong you should interrupt me and then we'll see where the
+really pressure points are i think this is a good slide here this slide 29 and on the slide
+that we're on let's go back the base model when you buy an nft is exactly the same as if you buy
+a traditional piece of art and i see this being an area of endless confusion particularly by
+non-nft people right like they say oh well what rights do you have or your rights are unclear
+or here are all these like extremely nuanced topics about what rights you might have to the IP
+but of course off-chain pre-nfts your default expectation if you bought a painting if you
+bought a book if you bought a cd if you bought a movie if you bought any piece of art or medium
+the default expectation is that you get no rights whatsoever you have a right to personal use
+the copyright stays with the owner so if you know i famously bought an Andy Warhol tomato soup can
+does not mean i am now the copyright owner of Andy Warhol soup cans and i'm going to make
+t-shirts and pillows and posters the Andy Warhol estate owns the copyrights there you know if
+you bought a harry potter book it does not mean you now own the harry potter franchise right you
+have a license you can read it yourself and most NFTs in the generative art world in the one of one
+world are sold under this model right your default expectation is if you have not heard otherwise
+if there's not been something communicated otherwise if there's not terms and conditions
+otherwise what you should expect you have is the right to that particular instance for your personal
+use but no the IP of the creator has not been transferred to you so your default is exactly
+the same and all of the interesting topics all of the ones where i think people are confused and
+we're leaving seeing some challenging legal issues as the law is not yet adapted to an on-chain world
+is where nft creators have tried to give more rights right things that you wouldn't actually
+typically see off-chain and let's take a look at some of those let's go to the next pitch
+oh yeah i guess i should address this before we get to that you know i think related to this
+and i've spent a lot of time with this oddly i've spent time on this topic even with people
+who are crypto native and they say well i mean sure you have the token but the jpeg as we saw
+last week might be on ipfs or our weave on a server and i can download it all by myself
+and of course the correct answer this is so what you can download i can go download the google logo
+all by myself i can right click save as the google logo and then the google logo is on my desktop
+and that means quite literally absolutely nothing right it does not make me the owner of the google
+logo it does not make me the owner of google uh larry and sergi are not trembling in their seats
+that i've right click saved their logo it means absolutely nothing right and this is the correct
+the actual practical correct analysis so i could say why does it doesn't mean anything i mean
+strictly speaking if i started using the google logo i'm probably violating someone's copy right
+so strictly speaking i might be breaking the law right but even that practically speaking it just
+doesn't matter and in an on-chain world where you know this was very common last year people would
+download punk 6529 and tweet at me and say i have punk 6529 now okay that's great i mean the tokens
+in my wallet you have a jpeg um it's clear who owns punk 6529 and if there's any doubt about this
+try and sell the jpeg right the market value for the right click saved as jpeg is zero so
+i want to address and i'm guessing half the audience three quarters of the audience
+has already passed us but we might have some new people in the audience new people to nfts
+it's a common stumbling block to people new in the space but it truly genuinely in my opinion
+and ellie if you have a different view we share it i just think it means literally absolutely
+nothing it's a non-issue agreed yeah okay all right Valentino um let me skip this because it's
+actually fairly technical and we can come back and discuss this if we need to keep going
+okay let me let's talk about the punks because i think this is super super interesting and
+let's think about the two main frameworks that are might be different than the traditional
+framework are where people are trying to grant commercial rights along with the token
+or where people are saying we're putting the work in the public domain quote unquote cc0
+we'll come to that in the next section let's talk about commercial rights because in some ways
+this is the one that's most legally complicated you know the traditional model is not legally
+complicated the public domain model is actually not legally complicated it's well understood
+it's the licensing model that is legally complicated and the reason we have the
+crypto punks license here is that over the commercial licensing licenses i think it's
+the most well thought out it's the most complete uh you go clearly put a lot of work into it it is
+certainly much more thought out than the board apes license and the mutant apes license which
+you know board apes license a couple paragraphs long and it's not totally clear what it's trying
+to say whereas the crypto punks license is clear what it says is if you have a crypto punks token
+you can commercially exploit your punk not of course anyone else's punk not any of the
+underlying elements in your punk right my punk has a hoodie i can't take a punk-style hoodie
+and exploit that individually i have to exploit punk 6529 specifically you can create derivative
+works you can have sub licensees you can even apply for a trademark for your punk not of course
+you can't use the general yuga trademarks for crypto punks so it is as permissive as you can get
+for the actual owner of the token let's say that's bucket one bucket two there's been some thought
+into what happens if you sell the token further and what they say is if if you've sub licensed
+or you've made derivatives and then you sell the token to the next person everything that you have
+done today holds but you can't do new things right so let's say i've made 10 000 little 6529 punks
+and then i sell my punk to ellie i can still like sell off my inventory of little 6529 punks but i
+can't make a new derivative there's also some uh well let me stop there this is all this is to
+me all of the good news right now there's a couple of bad news from the perspective of
+you're fully crypto native you want to live on a blockchain right you know what's what's the bad
+news well the bad news here and i understand why it's there is since it's a license since you have
+an ongoing relationship with yuga you see yuga like any kind of normal big american company
+then puts things in there like but we can terminate the license or you're not allowed to do certain
+things hate speech or trading with sanctioned entities or what have you say well why would you
+want to do anyway no no one's going to do that deliberately right and into some level i believe
+it's yuga uh covering their butts because you know they they don't want to indirectly be in business
+with a sanctioned entity but it's also moving a variety of obligations on a token holder
+but they don't have in if you own a bitcoin or an ether right it's not your bitcoin or ether can't
+be taken away if you use bitcoin to engage in speech that is not permissible in your country
+right but theoretically your license to your punk could be uh theoretically uh and it's different than
+you know certain applications that use bitcoin or ether have been sanctioned like tornado cash
+right but the protocol itself is not really sanctioned here if the protocol is the token it is
+is through the license there is a counterparty risk a centralization risk right that's i would say
+that's bucket one bucket two which i get i understand why it's there the license has a
+general term there says it can be changed i know why it's there because it's a brand new space
+and the laws might change and they might need to adapt the license to new laws so it's a sensible
+and logical thing to do and i have every view that Yuga has good faith here and their general
+model is to assign the commercial rights to the users but strictly speaking the license
+doesn't can change to mark change and say something different than what it says there and then the
+third thing that this was something i learned through the preparation of this of this session
+and this i want to ask ellie if i understood it right i might have gotten it wrong in which case
+it'll be good to be corrected i had previously known to transferring a copyright
+required a written agreement and there's a whole bunch of consternation of if a
+you know on-chain transaction is a written agreement right of course as an intestine it's
+probably not um but then what i saw is that an exclusive license also requires a written agreement
+to be transferred and i think this license is primarily an exclusive license as it relates
+to 6529 it's not no it's it's non-exclusive it it will be a non-exclusive license
+why would that be so do you want to go back to the i think they do mention that at some point
+in the terms that it's a non-exclusive worldwide license it's not exclusive um otherwise it would
+literally say it this is an exclusive license so basically just one part you as a person would
+get it and if i'm not mistaken i know we had one side where you had like the full terms
+but it says it's a non-exclusive um license but that one yeah it would have to be in writing as well
+and i guess going back to your point i this has not been tested in court yet but there are some
+arguments that you can make that some licenses maybe when you guys intentionally say that you
+know i give you all rights i give you a commercial rights but then it gives you all this other kind
+of like as long as you buy to this and kind of alludes to a it is a license instead of just an
+assignment on rights um and it hasn't been tested in court whether you just transferring the token
+itself in connection to this license it's it's enough to have a cryptographic signature that
+is in writing enough for you to have agreed upon this but again none of this has been tested in
+this kind of it's it's a second issue that that will deal with with the subsequent buyer with that
+even that license the initial license is even enforceable against the uh the next buyer the
+so person a and person b so whether you could enforce that gets the person b but going back
+to your point yeah i think that um it is a non-exclusive license and so i i pulled it up it's
+actually very funny so they say it's exclusive and they also say this is the funny part kid is
+universe wide i don't know how that jurisdiction works universe wide so it says yeah an exclusive
+universe wide royalty free something some license of a license to reproduce a shipment
+prepared derivative works publicly display publicly perform transmit and otherwise exploit
+your cryptopunk art is that the most reason one the previous one may have uh i know that they have
+for example like not you got that state non-exclusive in this one i don't know if you
+i'll pull it up too i know we have the link there but if it's exclusive it has to be writing so um
+that would imply that you had that this will be sufficient enough and normally you have like to
+ascend something so like you have to click that you do agree to this right um that was sufficient
+writing um but that would imply that during the minting process you would have had to agree
+and then this goes back to many issues that have not been tested because this this was uh again this
+was amended so we don't even know if this could be enforceable or there could be an argument that
+it's not enforceable against it the people who bought in post amendments so this has not been
+tested yet in court there's no precedent for this one yet right so and i think this goes to a very
+interesting point like regardless of what it specifically says right and the the Bored apes
+license for sure was trying to transfer the copy copyright right and here are things as far as i
+can tell have not been tested or it's unclear a if you are a secondary buyer which could be on
+a normal marketplace or an exchange or in some type of smart contract or even peer to peer
+are you bound by the license and how right and you've never actually accepted that license
+that's number one number two if someone is trying to transfer copyright or an exclusive license
+even if you have a terms and conditions at the bottom does this qualify as a written agreement
+three the marketplace terms the support i wanted to skip over before because i think it's very
+complicated the marketplace terms tend to be generic right so most of the volume happens in
+open sea right on open not for punks but for everything else open sea has fairly generic
+terms it does not pass through the terms of every single collection and so to the degree you're
+click accepting something an open sea you're accepting the generic open sea terms not the
+collection specific terms and so arguably all of this stuff is open to interpretation challenge
+or it applies in the first place right and i think some of the people who are negative on this are
+like well it's it's bad but i'll give you my counter argument here and this is again i'd love
+your view on this and one is a practical one one another one is a future one a practical one
+let's say it doesn't apply right but yuga intends genuinely i'm a hundred percent
+certain of this it wants its community to do projects with their IP that's the whole point
+of things right they're trying to get 10 000 people working to promote the collection as
+opposed to just a centralized team so to the degree that the buyer more or less acts like its
+applies and the seller or the issuer acts like it supplies doesn't matter i mean like if who's going to
+who if generally your concern would be as a buyer of one of these things that the issuer
+will enforce against you so i don't want you using your punk this way right i don't want you
+making pillows pillowcases with your punk but yuga very clearly does want you to make pillowcases
+with your punk or beer with your punk or coffee brands with your punk that's exactly what they
+want you to do right and so since they want you to do it where would the practical risks come
+that's that's question one and then question two is maybe what will happen is in time and
+i don't think it's imminent but maybe in the next three to five years we will have legislation
+to cover topics like this and the analogy that comes to mind for me is there used to be this
+debate in the 90s about electronic transactions and how can electronic transactions ever be valid
+because you have to sign with a pen and you can't sign with a pen on the internet right there's a
+lot of things that used to say you have to sign with a pen and then i think it was in 1996 the
+united states passed the e-signature act and the e-signature act in one stroke said well all those
+electronic transactions are fine they count exactly as much as if they were signed with a pen
+and this enabled a whole swath of e-commerce to come to life and you know this has been absolutely
+fine that's why we have e-commerce today and then i so i wondered even if there are issues
+now in this kind of teething period if eventually, you know the legislation will change it was
+interesting that copyright office's decision on the ai art you could tell they were uncomfortable
+with the decision they were making right they were just saying look we don't have the right
+to assign copyright to an ai this is congress's job to fix right like if like if congress wants
+to do this they should fix it and then we're happy to do it you could tell them they didn't feel
+comfortable saying all this work's not copyrightable we have to follow the letter of the law and the
+letter of the law says there needs to be human and if they want to cover you know human slash machine
+partnerships they should change the law and so what are your views on this like what's the practical
+risk today that even if this license is not a hundred percent correct enforceable etc what
+practical risk might a punk holder a board abe holder have and you know can you imagine the
+law changing in the future so i think that these are all unaddressed questions that i don't know
+that i don't know anyone that have the answers to i think the most important thing to know is that
+because this is so new i i i think that legally we need some changes but i also think
+technologically we need some changes and i say that because if you were able to transfer the token
+with a license that was available and that required someone to accept the license upon
+each transfer and this was abided by all platforms we would solve a lot of issues with that because
+then people would have the privity of contract with each one each transaction so i think that
+is not just legal but also technologically we need to mature and as far as risk goes i i think
+until we see some more kind of issues with this space we we don't know i would say this is a
+litigious question as far as who would want to bring any sort of issues regarding this licenses
+and their enforceability that would be the risk is is why would anyone want to contest this and
+again i think most of the issues that i have in this space is not just the the legal questions
+but that technological feature and then some of the misunderstandings as far as the amendment
+goes so like what how do we know which license applies if this is amendable at any point so
+like let's say that they're amended multiple times they say let's say you go lab decides to amend it
+three four five times upon this and in the next five years so then at what point do we know which
+license apply to whom and was there any privity of contract to say okay this license number three
+apply to buyer five or buyer six or buyer six hundred um so yeah i would say um that technologically
+we could fix this and then uh the law would definitely have to evolve with that technology
+amazing i i guess well they'll have to update the license on shame so then you can see
+which license applies to which to which to which user right yeah i mean yeah and and i think that
+technologically we could solve a lot of things and if we if we if only the platforms would kind of
+like uh accept some of the smart contracts i know some some companies that are like trying to or
+some platforms that are trying to kind of have this where like you upon each transfer you're
+gonna have to click yes and be able to like read it so kind of like when we go on websites right now
+and accept the terms of use um so each buyer will have an actual understanding what they're
+purchasing and whether there's any encumbrances or liens or any sub-licensed um rights that have
+been passed to a different person i think that that technologically we could solve the the legal
+issues too oh i i love what you were just describing i mean this would let me put it back in my
+words that technologically we could bring the terms and conditions and the sub licenses and
+changes of these and things that were created under the sub licenses and so on shame and and at
+that point you can contract around the number one but it only gets me excited and you can
+programmatically access them right and because right now i do feel this all the commercial
+rights type projects do have a foot in both worlds right you have this global instant
+digitally native permissionless token flying around everywhere and then for it to work this contract
+that literally on the cryptopunks site is a pdf right and so you're saying maybe we can develop
+better technology to bring the pdf side into the programmatic side i think so because right now we
+have three kind of different layers and it's kind of like a sandwich where like you have like
+and it should not be it should not be for the legal perspective so like you're basically saying
+i sell you this house but someone else is hosting whatever rights i have and and that that's some
+that's somewhere else is normally like an aws or at the best an ipfs that holds those rights
+which is the terms of use that i'm mentioning so that should not live separate from the token
+and and if those were hand in hand together just like even we had just two layers where like the
+token itself has the rights but also the metadata was i think again i think the technology is to
+mature so that people could really readily like read that and be able to understand it because
+right now who's going to go into the ether scan and go through the metadata and and click on links
+or be able to know where to go in the metadata to click on the link that kind of takes you to the
+to the terms of use like it's a lot of steps that i don't think people are going to if a judge saw it
+they may see you know there was no actual understanding or knowledge or a sense um through
+the terms of use because nobody's going to go through this metadata process
+that makes perfect sense okay let's go to cc0 and public domain let's skip forward a few slides
+and go go to the next slide actually okay my sense of where we have ended up today in
+so-called cc0 so creative commons zero which is a form of license that tries as much as possible
+to put the copyrights in the public domain and the reason i say as much as possible in some
+countries there are certain rights that you cannot put in the public domain if you want to but
+for an american person i think you can generally you can put all your rights in the public domain
+i believe it's an alternative way to solve some of the issues we just spoke about i think that's
+how people are thinking of them let me give you my sense so because i've spoken to a lot of the
+folks who have done this right and their assessment of the solution is not okay we have to agree on
+a standardized format for legal contracts in terms and conditions and we'll bring them on
+chains to coordinate all the exchanges and do all these things their view is all different they say
+okay well that sounds like an awful lot of work let's take a completely different approach first
+of all let's take the approach that encourages maximum virality right the attention drives
+everything online and if it is the case that having 10 000 people working on your further
+developing your ip is better than having um the 10 people in your marketing team working on your ip
+well it's even better to let the 2.3 billion people online further develop your ip and your ip
+will become more famous and important to get more attention if anyone can work on it so
+that's one theory i think the second theory is even if someone let's say you 6529 have the
+rights to punk 6529 and let's say you had a kind of strict view of how only you wanted to
+to develop it and if someone else started doing things with your punk you should chase them around
+and legally i think part of saying like look this is chasing people around legally online
+in 99.999 of cases it's not worth effort anyway right like i mean it's people copy things all the
+time online and mostly you don't bother chasing them around and say like look it's it's effectively
+it might be legally enforceable but it might be practically not hugely enforceable so i
+don't want to have to even think about that let's let's say point number two point number three of
+this this was x copies point that any version of trying to do it through a licensing agreement
+is going to lead to centralization there is always going to be a counterparty the counterparty is
+always going to want things like oh i need the right to change this agreement for logical reasons
+the laws might change and they might be required to change the agreement but nonetheless it's never
+the content the art is never really free because there's always a counterparty and a counterparty
+that in some ways has more power than you do right like that they can change the contract you can't
+right and so and then the biggest all these issues on is it enforceable is it not enforceable is it
+written transfer did it happen through an exchange did not happen through an exchange was it on mint
+which version applies take all away right you don't have to think about it's a huge simplification
+you don't have to worry about them at all right there's who can i own some public domain pfp some
+mfers for example and i don't have to think about these issues at all because it's clear who can
+use that art anyone right absolutely anyone the product of user i can also use it but so can anyone
+else so it simplifies and then i think what underlies all this all of this is the idea
+that i'm stealing now from punk 4156 and i think in a few days we'll have him on here on the
+course and so we'll really dig into this then he said something a long time ago that i found very
+interesting was the right mental model here is provenance not copyright and how i understood it
+is the following pre nfts let's say you had a really nice image and then it starts getting
+copied which happens all the time right you see an example here with kath some art happens all the
+time someone posts a beautiful photo on Instagram and then like 5 000 people copy right they posted
+themselves they don't attribute it and now you don't know which one's the original because
+everyone's supposed to get everywhere this doesn't really apply in NFTs right like the
+provenance of who actually minted it who owns it who the artist said owns it what who the artist
+recognizes as the owner it's super clear it's the person with the token to the degree that there's
+a person with a token then everyone else that's running around with the art is in a way some
+form of right click saving us right now or to think of it a more positive light is driving value back
+to the token holder right they're creating attention but they're still only one original yes
+they can use it but there's only one original now here we're in completely simultaneously
+completely untested waters and extremely tested waters why do i say extremely tested waters
+the vast you open an art history book the vast majority of art in an art history book anything
+before 1924 is that the right state is in the public domain so it's not like this is something
+brand new to the world you know any van Gogh is in the public domain right uh books from the 18th
+century in the public domain all these things are in the public domain right Romeo and Juliet are in
+the public domain right they've been in the public domain for a long time now and so what an artist
+or creator is doing is accelerating that process and we're not going to wait until my death plus
+x years we're going to put in the public domain now this is what i'm going to respect as the
+originals and then the global culture can remix this uh together and so it strikes me and i'm going to
+ask a narrow question that will go to the economic question from a legal perspective this one seems
+straightforward right like there's not a ton of outstanding issues if let's say i'm an American
+i create a piece of art i put it in the public domain are there any ambiguities can we just go
+ahead and treat it as such i wouldn't say there's ambiguities i would just say there's lack of
+control for the creators so like let's say that um there's you have that cco like copyright uh or
+lack of copyright rather image and then um someone starts using it with the regulatory political
+campaigns then there will be no control over your kind of having any say to prevent any of those
+associations from happening um that will be the only kind of negative that i would say um but i do
+i do understand the moombas kind of uh did this and i think that they have other issues other than
+they just issuing this i think they should have done this in the beginning without the intent
+but um i think that would be um it's easier to manage you they wouldn't have to kind of legally
+enforce any rights uh for on behalf of any holders either so financially and legally it would make
+sense for them to do that but they only again they only get negative to it is the lack of control
+or associations that you may not want with your art so that would be the negative thing i would say
+about that sure right but legally it's clear right it might operationally have the outside
+it's clear all right let's let's see the next few slides
+yeah so this is this is where i think we are today in pfp projects my sense is in pfp projects
+the whole quote unquote game now is being played between commercial licenses and cco licenses
+is releasing a PFP project today and saying you just have a personal use license only
+is probably now market uncompetitive right and for pfp projects which are different than
+art oriented NFTs i think what we'll play out here and i don't know the answer to this right
+and we're going to just have to wait and see which of the following two factors is going to
+end up being more powerful the case for commercial licenses is if i know i have the exclusive license
+for that board eight that's one of my board apes i might be willing to invest in it because i know
+i can monetize it if i invest it and if i knew that even if i invested it you could just take it
+and use it yourself they may be less willing to invest it right that's the case for commercial
+rights the again the economic human behavior case let's say and on the public domain side the flip
+side will be like well sure that everything you said is true but in practice most people won't
+manage to do very much with these things themselves and when you enable the whole world
+to help you you'll actually get further i another way of saying it is
+is i think the public domain folks will say yes you'll get a smaller percentage of a much bigger
+pie right the value that's going to somehow accrue to you the token holder in sort of ambiguous
+ways today right it's not totally clear that like let's say you le take my cryptotodes and make a
+super successful clothing line with it you don't owe me anything right you could make lots of money
+with it and i'll be like oh yes but i'm gaining influence and attention on the original but
+i mean it's unclear if that actually ever converts back to money to me that's the question but
+conceptually i think it's this they're saying the pie is going to be bigger
+your take rate of the pie is going to be smaller but somehow it's going to be more
+than on the other one that most people on most days are not actually going to
+successfully manage to monetize a PFP anyway so my sense it's an economic sense not a legal sense
+is this is where we are in PFPs and now a collection comes out you can't do anything
+you have to wait for the centralized company to do all the work of promoting it driving
+attention etc i think is going to be uncompetitive for a new pfp collection now if marvel comes and
+sells you pfps right and spider-man and four and what have you that might be different right because
+those are while established brands are ready but for a new brand that needs to be established my
+guess is is when we're in the latter two categories now any thoughts there are we on yeah can i add
+something yeah jus I see one of the issues that i would see in that in that model is that
+let's say you have something on the public domain like uh you know i don't know maybe a member and
+someone else starts using it who's not the token holder and then they end up making it into a really
+large brand to a point that it becomes a using in commerce that could be trademarked and then they
+later on trademark that specific Moonbird as their trademark and then you still have that token so
+like and again this is on the waters but wouldn't what would be your opinion as to someone else kind
+of monetizing that potentially for in perpetuity until they choose not to and there's really no
+what will be the value for the holder at that point if any at all when someone else is kind
+of claiming cop trademark not copyright but trademark rights or that Moonbird that was initially
+in this in the public domain um that that would be a concern of mine but what would you do in that
+case now i think that's a very interesting topic i think these topics you know you've seen this with
+some open-source projects where the project itself is released under an MIT license or something
+but the trademark is still centrally held right where and there's some type of process for
+applying to use the trademark i think is a complicated one and it's a very good point
+i don't think there's a straightforward answer yeah those are one of the issues i see yeah
+all right let's see two more examples and i think then we can go to questions and i'm seeing a ton
+of questions coming through the chat we need to give people a chance to get their questions answered
+so in the one of one world this photo here from Gatsomart was i think the most seminal part of
+thinking about cc0 in the one of one world it's a great story she was an established
+photographer pre-nfts and this was one of her most famous images and it was constantly stolen
+right she'd see it on travel blogs and Instagram accounts and people used them on their advertisements
+never credited her never paid her and this is nothing new than fts right in the off-chain world
+and then she said well let me take a different approach and said well i'm going to auction it
+off and i think she had a reserve price of a hundred or something and as soon as it's bought
+it's going to convert to a public domain license now not strictly speaking of cc0 in her case
+she kept some provisions on hate speech i think and acceptable use in her license but effectively
+a public domain license and g money was a big collector bought it and this was a very um interesting
+event because i suspect she monetized this piece more without underneath and her whole prior off-chain
+history of that piece and now it is of course continued to be used by many other people and
+but now she feels okay about it because she might not and i think she money feels okay about it
+because it becomes a very it's become a very well-known piece of photography because a lot of
+people now make derivatives of it and it was interesting because somehow and i'm not saying
+this applies to most people in most photography right doesn't mean that if you put your image in
+the public domain you're going to get a hundred each that supply and demand doesn't work that way
+but if you're a famous photographer and have a famous image it didn't work out this way and i
+thought this was a very interesting and creative approach indifferent than the type of dynamics
+that exist in pfps right nothing about this was g money paid a hundred each because he wants to
+make t-shirts with this picture he wants this picture from an art perspective in the same way
+that he would buy any other one of one piece but believes that the whole overall system around
+this photograph is going to drive attention over time and therefore value so i thought this was
+very interesting a semi-controversial last fall fall 2021 and i think now it's been established
+that like you know some photographers release some pieces of the public domain and i'm not saying
+it's right or wrong it's just a tool right most release them not under a cc0 license and that's
+fine but i think it is a tool that artists have that they can think about and use creatively right
+and not just in a pfp context and let's see one more slide on this which is x copy the x copy is
+very interesting because he is not just a leading crypto artist he's on most metrics among the very
+very top right and when he started and how many pieces of work he's made and what the prices of
+his art he's on a quantitative basis at the very very top i think he's amazing but that's just a
+personal view i say quantitative he's at the very very top and he has a large collection of work
+and then one day the summer he put all of it in the public domain and what's very interesting and
+this has to do with how crypto native he is and therefore also how crypto native his collectors
+are nobody complained and it's very interesting because this is different than the moon bird's
+discussion right moon bird said i'm going to give you commercial rights and then change
+which they're mine and said i actually want to put in the public domain and some people got
+annoyed but i understand that right because if you bought it because i want to have commercial
+rights and now i don't have commercial rights with x copy you never had any rights right you had a
+purse it was just normal art so you just had a personal license to use it you know i own summer
+dot jpeg but i couldn't do anything with summer dot jpeg i just could look at it really nice to
+look at and then the rights were still an x copy and he said okay well i don't want to hold them
+anymore i'm going to give them to the world at large interestingly i think the vast majority
+of his collectors you're just positive not a negative right now i see derivatives of summer
+dot jpeg everywhere and i think it's great and i appreciate the point that you say well what
+if people use it i mean what people say online is well what if nazis start using your art right
+like it's very common thing and i appreciate that in the fullness of time this will happen to some
+person and some collector and some artist but on the whole the kind of my first reaction to it you
+know most of human art histories in the public domain and nazis aren't going around using like
+Renoir's and Van Gogh's and Jane Austen i mean i don't think of nazis as being that art oriented
+to be totally honest they seem to be more busy doing more obnoxious things than like making
+derivatives of important art right so it's an issue but historically when we have data on what
+happens when art is in the public domain and how many times it's used for evil and you know generally
+the answer is it's not right it has not typically happened with historical art and so i thought these
+were interesting in that it's a very different discussion than the pfp licensing discussion
+where the PFP license of discussion is realistically mostly not about the art right nobody's buying
+most PFP collections because they think oh it's grail art they're buying the collections because
+they believe or hope a community can emerge around them and drive value and so in that context the
+licensing discussion is very tactically driven to what's going to encourage people to invest in
+the pieces whereas what we saw with cats and what we're seeing here with Xcopy is yes also cc0 but
+i think cc0 with a different mental model and framework any thoughts on this no i mean i like
+his art too so okay well with that we ran i think i don't i don't want to say we ran over we did an
+hour and a half and i think that that's what we needed to do this presentation if we had tried
+to do it an hour i don't think we could have done it so my suggestion is to be i have on my screen
+open the questions so i'm going to read the questions and i'm going to let you answer them
+um because we have an expert from the uspto here i mean we need to take advantage of this
+i love this one this is great how can Fidenza be trademarked when there is a town in a really
+called Fidenza how does the law work in that case um yeah so that's a great question so it would have
+to be geographically descriptive and because there's likely no connection or nexus for the
+actual trademark person or Tyler Hobbs in this case um with the actual Fidenza in italy it would
+not be descriptive of that specific place so there will have to be a nexus and evidence that
+the trademark is being used geographically descriptive in a geographically descriptive
+manner that the standard used um so Fidenza so it's basically it's similar to kind of
+uh trademarking like a town that's very rural and remote for um computers what would be the nexus
+there so similarly that's that the way the trademark office would kind of read that um and
+they will have to find evidence that is geographically descriptive in that sense so this comes down
+to the issue of classes right you don't just get a trademark for everything you have to get a
+trademark for something specific and Fidenza the town is probably not making an if generative art
+NFTs and so there's no overlap there right is that yeah what do you think about it I think they
+yeah but they're also the easiest way to kind of understand trademarks is the likelihood of
+confusion and that's kind of what trademark says is to prevent consumer confusion in the
+marketplace in in commerce so um someone basically the easiest way to understand is
+if you see Fidenza an NFT are you going to associate Fidenza the town in italy or are you
+going to just refer okay if somebody tells you hey did you buy that Fidenza you're not gonna
+associate it with that italy town you're gonna associate it with the NFT art right so that's
+that's the indicator kind of purpose of trademarks and that wouldn't be geographically
+descriptive in that sense so it just is intended to prevent the confusion and I don't know
+that Fidenza the town will create any kind of like confusion and the consumers find that it's
+related to the actual town initaly yep makes perfect sense okay next question how just would
+like to confirm that AI works at the moment are not protected under copyright law so no it's not
+tough it's just there's it's linguistic it's so basically creating a work of art with AI
+and you name the author the AI system so the author is not you as a human
+inputting some code some kind of basic layers into the system or a blender and then the output
+is you the owner but you're naming the author the actual machine that created this work so
+that's different than saying I used photoshop or I used blender or dally to create this specific
+work of art so during the examination process to get registration and we've seen this being
+posted on Twitter lately they are they ask you questions they're going to ask you how did you
+use the system what did you input into the system and that's how you're going to determine this was
+mostly in again there's no clear line as to what they're using to determine what enough
+input for my human being is as opposed to just machine-made um so that that's the difference
+is I'm naming the author the machine as opposed to naming me as the author in the creation output
+and it's me owning that output um ownership that that was created with the machine does that make
+sense I hope that that's clear it's it could be confusing right my takeaway is how you presented
+might also make a difference right if you go like that case that you mentioned say hey the AI did it
+registered on the AI you're gonna get a no right if you're gonna say yeah I did this but I used some
+tools to help me you might get a yes is that accurate yes yeah it does but it'll in in that
+process they're going to ask you how much of you how much input from the human being was there
+basically in using that that that machine but yes essentially that's how you present it it's going
+to make a difference um and that there was an article recently on the uh I think it was a comic
+strip or a comic book that received a registration using a specific AI system they named themselves
+the human being as the author but they also specified they use midnight uh journey as the
+system that they utilize and during the process of dissemination they probably were asked how
+much input they they put into the into midnight in order to receive that output so that's how
+they receive that cover registration got it okay next question are all these topics considered
+similar across all jurisdictions do we need to register a trademark across all jurisdictions
+so when you have a for trademarks you will get a federal registration so that federal
+registration is basically saying you you have users in commerce across the state
+and um that gives you like a federal kind of protection and you don't have to register in a
+specific jurisdiction so like a state if that I'm not sure if they're asking international or
+national so within the US but within the US you could register it you know with each state but
+that's only going to protect you geographically in that area that that geographic area that you're
+kind of uh trademarking it so if I were to register in Florida for example you know that
+will give me protection in Florida and that would be with a trademark office in the floor
+like they each state has its own trademark process but if you file with the USPTO then
+you're getting a federal registration and that will give you a nationwide protection
+and if you wanted international protection though you'd have to file in other countries too right
+you yeah and there's also a system called the Madrid system that allows you to apply it's to
+have one one specific application that allows you to have protection different jurisdictions
+it's a little bit of a complex system so I won't get into details but you would basically it would
+be more financially uh easier to go through that process than having to go through each country
+because then you'll have to have an attorney in most countries and the USPTO requires that um
+you know if you're applying from abroad that you have representation in the US
+okay this is the part I think you're saying this is where you get a lawyer
+I have to explain all these things to you yeah it could be it could be complex it could be complex
+okay the question says the last week 65 tonight mentioned that most NFTs are not unblocked chains
+they're simple pointers what I what I think this question is most of the art is not on chain it's
+on ipfs or our wave our server does this create any fragility from a legal point of view um I think
+two things uh first I think we have aws aws holds the terms of use I think there's more fragility
+in that sense because you're basically letting a third party host whatever rights you get in that
+token in a third party website in the best case scenario they'll have that also in ipfs but um
+fragility from a legal standpoint no I think more from a technical standpoint I think that you
+the blockchain is always going to dictate you know who's has ownership but the pointers whether
+that pointer works or not I think it's just more creates more of a centralization because someone's
+going to have to pay for that ipfs so if we're kind of to if we want to emphasize or kind of push
+towards that decentralization you're kind of going against the grain if you have someone
+having to pay for that ipfs to continue hosting that so I think that's why some NFT projects
+are moving towards having on chain art and moving the arts on chain so that there's no actual
+fragility in that sense and our way was a little bit better you pay upfront rather than
+continuously having to pay that's a simple way to describe it but from a copyright perspective
+it shouldn't make a difference right like where it's hosted no not really it no
+it's kind of like when you buy a painting and you keep it in a museum you know it just depends
+on which museum you choose and just if you still own the copyright regardless of where
+that that's sitting okay that makes sense this one I'm going to take it says have I deemed
+my cryptopunk 6529 is cc0 and the answer is of course no because the further answer is
+I'm not allowed to that's not my decision to make that's a decision that Yuga Labs was to have to make
+if they were ever to make that decision I don't think theYuy will but like in any case
+they would be the ones to make that decision I am in effect a licensee of Yuga Labs as it relates
+to 6529 there's a license agreement that I have to follow what we mentioned earlier
+and that license agreement wouldn't allow me to on behalf of you to declare that my
+punk is now in the public domain right that's a you get a decision not a me decision this is
+correct is this correct yeah and the way the easiest way to understand is you can give what you
+didn't get yourself so you can give more than you received so you receive an exclusive license you
+can give an assignment at that point so you can it's kind of like a funnel you can give more than
+you received okay here is a semi-technical question I think I don't think it's hard but let me see
+is there ever only one copy of artwork associated with NFT an example they use is IPFS that multiple
+copies may exist on each computer that's pinning it which one's the true version and does that even
+matter in any way no it doesn't matter and the way I see it is when the creator and I'm going to
+give an example so let's say you hire someone to make a piece of art for you the moment they created
+that piece of art and put it in tangible form that's the that's the original basically so anything
+else and again this is untested water so this is just an opinion it will be in maybe some different
+practitioners thing differently but once you put an IPFS that's a copy of that so you know you have
+ownership over the copyright but that's just basically a display of it or maybe a copy or a
+display of the actual copyright that you have ownership over but the moment that was put into
+tangible form that would be the original and doesn't really kind of make any difference
+because it's just the way that it is displayed so you could display it on IPFS or aws or we
+it is the way that it's being displayed in multiple nodes host those things so that's
+what you're referring to um it would just your copyright would not be affected by that
+yep that makes perfect sense another Fidenza question if I sell a Fidenza my Fidenza I wish
+I don't know if it's a person means they wish they have a Fidenza or they wish they could sell
+a fidenza uh what happens to the physical printed artwork that I also bought of my piece
+does the new owner have the right to also print the same piece are they open editions or one of
+ones and I'll just add here I think Tyler does I think just print for the first person who asks
+regardless of the token but how do we think about this from a copyright perspective um I think the
+copyright holder dictates those rights so we will have to go to Tyler Hobbs and those terms he
+and he he does he he prints it for I think the first few um the first I think the first holder
+and if you go to his website it says like which ones are available which ones are not um but I
+would I would say that that's depending on him and I know he's mentioned in the past he's he's
+written articles I don't know if any if you've seen this but he wrote an article about why he
+didn't want to have cc zero as um in his work of art he actually wore what he wanted to keep a
+non-exclusive license and why that the reason why he kind of leaned towards that but um I would lean
+towards this read the terms of Tyler Hobbs and each one of the fidenzas in each one of his works
+um before we uh determined that right and so this is a good example of Fidenza are
+released under a traditional license right they're not a commercial or cc zero and the copyright
+is owned by Tyler and that copyright can be expressed in um the nft art that's on Shane
+in the case of fidenzas but also a print and because Tyler is in charge whatever the rules
+are on printing fidenzas Tyler gets to decide and Tyler could also decide to change the rules
+right tomorrow he could say that everyone that has a fidenza could ask for a print if they want
+I mean he might not want to do that but if you wanted to he could right yeah those are copies
+those would be considered copies of the copyright and he would continue to be to be the owner and
+he does not mention anything against cc zero he said just not every project is intended to be
+nz zero and I agree I think they're you know each model is applicable to each project differently
+okay we have a question here about virtual clothing that says trademark of trademark of
+clothing is a complicated matter one cannot trademark a plain blue shirt but the logo on it
+can we expect that virtual clothing given that the underlying code is unique will be applicable
+to trademark eg will we be able to trademark a plain blue shirt so it would have to indicate
+source so the plain blue shirt is not indicating source that would not function as a trademark
+but what you're asking is that it's hard to trade and I don't know if they're confusing
+copyrights and trademarks I think you might be a little bit of a confusion there but if it's just
+the blue shirt that's indicating source as this source of the remaining goods that you have then
+I would apply for a class nine which is a non-domotable digital asset that points to the blue shirts
+that you're selling that would be what what you basically have to trademark and that's that that
+blue shirt you could actually have a trade dress which is like kind of the pack could be potentially
+even packaging so like the coca-cola bottle has a trademark on the trade dress so like the way
+the coca-cola bottle looks so that's what you're referring to and you could have multiple ways of
+kind of protecting that blue shirt that you're referring to okay and I think you're right it
+might be unclear if this is a trademark or a copyright question okay with regards to the
+can't-be-evil license what's the licenses development and acceptance trajectory and how are high
+potential stakeholders responding to it I think for the benefit of the audience the can't-be-evil
+license is a sample NFT commercial license that Andreessen Horowitz developed on their own
+I had they had asked me for some feedback that I gave it was an Andreessen Horowitz project that
+then they released to the world and said we think this is a good commercial license and feel free
+to use it what are your views on the license have you seen people adopting it you have any
+perspective on this um I'll say this I think everyone it's going to I don't like templates
+personally just because I think templates kind of uh you're adopting someone else's thought
+process basically on what they intended to give um but I think it's a good framework for you to
+think about okay like do I want this and you could slice and dice however you want so like you
+as a copyright holder you get to have all the bundle of rights that we mentioned earlier at the
+beginning and you could slice them and dice them however you want so you could give anyone the right
+to for going back to the analogy of the house you could get someone the right to enter your kitchen
+or only enter your bathroom so it's you you have the say on how much you want to give and what the
+scope of that is um so for those I think this is a good starting point I really think they did a
+great job of kind of like addressing some of the issues in this space but I think you need to read
+those through Lindsay how applicable they are to what you're intending to grant and what you're
+intending to keep a control over yeah this makes sense it's how I think about it too I mean you have
+it's a very interesting template to look at there's no creative common templates look like I mean
+honestly I think the cryptopunks license is quite good in that dimension that's another area to look
+at and I don't know that any major projects are taking these directly copy pasting and not making
+any changes but in a way it doesn't matter right like if there's good ideas and people put them out
+there um it'll help the space move forward yeah yeah oh good let's take maybe a couple more questions
+and then I mean I thank you we've taken up a lot of your time now we're heading towards two hours so
+I I do want to bring it to an end at some point so let's do a couple more questions and then wrap
+this up this is blockchain is borderless which it is or is crypto assets public watch answer borderless
+how do you think about I'm going to rephrase the question a little bit but how do you think about
+copyright and licensing across a variety of foreign countries
+um so that's an interesting question because as far as copyright goes um there's no such thing
+as international copyright so each country has its own regime that protects authors um and they're not
+extraterritorial so um that does so that our US copyright does not protect against copying outside
+of the US works by American authors but we do have some treaties so in specific jurisdictions that
+have signed on so treaties like the burn convention um and that basically you and this is a very
+complicated area so I don't want to get too deep into it but if an American author for example is
+in French in France they will have a member of the treaty party like they will have the same
+rights as a French author would have um but again there's there's more to it than that so it just
+might take on it is um we've been fighting over and international rights and some kind of a
+kind of across the board kind of standardization for a long time I doubt we're going to get to
+a place where everyone's of the same regime um but there are some treaties that allow us to
+have some rights that are similar to or that will have the same treatment if you were in that
+jurisdiction um and a specific person from that jurisdiction so short answer is it's complicated
+possibly more complicated the internet might be even more complicated than international
+trademarks less standardized than trademarks are maybe yeah I would say so um it does like
+there's section 104 which potentially protects like unpolished works so like there's there's a
+different like a kind of nuances to international space that could be very complex but for
+the most part just know that if you are part of a treaty which the US is of such as the burn
+the convention you likely have some rights in that jurisdiction that's also part of that same treaty
+and they could be very similar and I don't want to speak in generalizations but yeah they tend
+to be very similar not to generalize okay last question this is a funny one uh
+crypto punks versus crypto funks they look exactly like the exact same pfp just mirror image
+which any copyright issues there until someone brings the lawsuit then I'll refrain from that
+conversation because I know he tried to be mca but um I think it's just depends on who wants to
+litigate that okay right so that would be a specific that have to be a specific lawsuit
+on a specific topic and then we'd discover I assume the crypto funks would make some type of
+fair use commentary type argument and if you go wanted to pursue them they would say it's
+not that you're commercially using my copyright but so far this in the broad crypto punks versus
+crypto funk sense has not gone to court and so the reality is we don't know until it happens
+with a specific set of facts and a specific set of arguments how a court would decide right yeah and
+I say that also because they could bring into question the copyrightability of the crypto
+punks so that's why it's it's more than just hey are they similar it's a little bit more complex
+because someone could bring into question like is that even a copyrightable um subject matter
+because they're so they were created by AI or and I know Professor Brian Fry has an
+article on the copyrightability of crypto punks so that's why I think there's a lot of things that
+could come into question if that also comes about in a litigation right so because in a way that
+we're not in a way I mean the crypto punks like a lot of general projects a lot of pfp projects
+are generative right you didn't know what streets we're going to get and so what you're saying is
+is for there to be a lawsuit here you go would have to bring it right and if you're
+brought the copyright holder would have to bring it right yes um and that's because they gave exclusive
+rights to so like when you give exclusive rights normally and then this is how it's enforced normally
+when you give exclusive rights you give the person who gets that exclusivity the right to sue as well
+because it's exclusive to you you're basically taking my place as the creator in a way legally speaking
+so um the holder would have to bring that so if you're somebody's in front of your
+punk you could potentially bring that but then they might come back in the defense and say well
+you don't have something that is not even uh copyrightable because it was created by AI so
+therefore there's no there's no actual creation of that's allowed to be copyrighted in the first
+place wow and you have a registration and you have to have a registration in order for you to
+bring that into law so even in the in the first place you also have to have the registration
+which you could potentially have and I think they do mention that in the terms of use you could bring
+that um you could actually register um the uh your your asset and I think they mentioned
+that briefly in the terms of use amazing but you have yeah they explain how you want they want they
+want to keep some kind of control over it over the registration as I think they want to be named as
+the the owner and you could be uh or the author I can't recall but it's in the terms of use that
+whether you could register wow this is where this stuff is super interesting super complicated but
+I mean just utterly fascinating we are here on the frontier I think of IP and technology and networks
+I think we need to say an utterly gigantic thank you to Ellie for today she a presentation was
+hers she put it together I just put in the pretty pictures that was my contribution was like I copy
+pasted some pictures in there all of this was Ellie it's obvious she knows everything inside out
+and backwards I very much appreciate the time she gave us so everyone please give her a virtual
+round of applause and thank you so much thank you I think you did a lot more than that so thank you
+all right um I think studio team you can take us off now
