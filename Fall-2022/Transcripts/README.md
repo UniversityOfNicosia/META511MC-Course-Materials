@@ -14,4 +14,15 @@ Inside this directory you may find the transcripts of the live sessions, were -w
     - .vtt - https://arweave.net/_5oyDXaJ8xRs4moFzaQTIvYPxEJKsiFaWuIZ7jXAB2w
 
 - **Week 3: PFP NFTs**
-    - **Week 3.1** - 
+    - **Week 3.1**
+        - .txt - https://arweave.net/Ur_KBxv9sdgXXVQCLO6CiM-pQnFMMC7eypZIqB0NHNM
+        - .srt - https://arweave.net/B2uuFoEtz4HcxX_PcO7vXMvuvfyOyzHiHsUfef3j8Jo
+        - .vtt - https://arweave.net/ZQ0SF5uYcC5l53bGMX6evU_UnG5wM8vt-oOaAsNf3S4
+        - **Week 3.2**
+        - .txt - https://arweave.net/dX8UJ9vTxrym7JuhEuJXg4UeS-mO7yEee9jIXLijigA
+        - .srt - https://arweave.net/Pdfn_BUXznNyiUZPTBqHq6FmBdAIlSgjNDhgkBmxZkg
+        - .vtt - https://arweave.net/KK7Cpa7Gp3rjbRwA6i-mfZ7FMCDZrnAP3toIep4W-Kc
+        - **Week 3.3**
+        - .txt - https://arweave.net/MWT_qiYSVsNuUdXDmcVG6wK3sZ8vCvOtksfSz4UVp7M
+        - .srt - https://arweave.net/yJbXWxJ85AP9_tEDaXEKYBtHeZaa6YhX_o5duJSh5EA
+        - .vtt - https://arweave.net/jkDYjnO48XdWO2psCI70Mr6TAEYtl1NXPDTdwyk4zUs

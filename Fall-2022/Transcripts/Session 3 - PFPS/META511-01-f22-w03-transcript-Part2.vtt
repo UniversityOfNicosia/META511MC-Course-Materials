@@ -1,0 +1,2219 @@
+WEBVTT
+
+00:00.000 --> 00:29.680
+Okay, welcome everyone and welcome Greg Salano Gargad. It is our first actual guest lecture.
+
+00:29.680 --> 00:34.640
+We had Ellie in the class session, but we have a first guest visiting the course today.
+
+00:34.640 --> 00:43.600
+And super excited about this. He is one of the co-founders of Yuga Labs. Yuga Labs today has a fairly
+
+00:43.600 --> 00:50.400
+dominant position in the PFP area. And so I think there's going to be a lot of really interesting
+
+00:50.400 --> 00:57.440
+things we can discuss starting with some basics and then getting more complicated. But first,
+
+00:57.440 --> 01:04.640
+let me welcome Greg to the course. Thank you so much for having me 6529 and thanks to the
+
+01:04.640 --> 01:11.600
+University of Nicosia for hosting this course. I think it's super cool. It's a really
+
+01:11.600 --> 01:17.120
+exciting way for people to get exposure to a lot of different metaverse thought leaders. I'm
+
+01:17.120 --> 01:22.160
+personally excited about a lot of people you have slated to speak later in the semester as it were.
+
+01:22.160 --> 01:32.240
+Greg, well let's jump right in and I think for our audience is mixed. I think we have people in
+
+01:32.240 --> 01:40.160
+the audience who are absolute NFT gurus and people who are NFT novices. So I'll try and cover
+
+01:40.160 --> 01:46.800
+things that will be helpful to both. Let's start at the beginning. How did Yuga Labs, how did the
+
+01:46.800 --> 01:57.760
+Bored Ape Yacht Cub, how did it come about? Sure. I think to tell that story, it probably helps to tell
+
+01:57.760 --> 02:05.840
+how I was first exposed to crypto. Like a lot of people the first time I heard about Bitcoin in
+
+02:05.840 --> 02:18.800
+perhaps 2010, 2011. I wasn't, I was somewhat dismissive at first. I saw it as just this, yeah,
+
+02:18.800 --> 02:25.440
+magic internet money was how it was talked about in those early days, right? And it didn't really
+
+02:25.440 --> 02:36.640
+capture my attention. But in 2017, I first bought into Ethereum and I immediately called a friend of mine
+
+02:36.640 --> 02:47.120
+while I was here now, aka Gordon Connor and had him get in on, it's a crypto with me. And we fell
+
+02:47.120 --> 02:55.760
+into this whole world very quickly. We spent a lot of time on crypto Twitter following all these
+
+02:55.760 --> 03:02.720
+different personalities that were around. A lot of them, you know, still very active to this day,
+
+03:02.720 --> 03:09.200
+Kobe, Lundar, you know, a lot of different folks that that have been kind of mainstays in this
+
+03:09.200 --> 03:19.200
+space. And it was so exciting, you know, it really felt like crypto engaged our attention like almost
+
+03:19.200 --> 03:28.320
+nothing else. Why me and I in particular would spend a lot of our time hanging out in digital spaces,
+
+03:28.320 --> 03:34.240
+playing World of Warcraft or other different MMORPGs, massive multiplayer online role playing games
+
+03:34.240 --> 03:44.320
+together and weirdly our session with crypto ran very much in parallel with it. It was a parallel
+
+03:44.320 --> 03:54.640
+passion. And in those days, I was exposed to crypto kitties. And it was fascinating. I didn't
+
+03:54.640 --> 04:04.080
+actually buy a cryptocurrency at the time in 2017-2018 that area while we did. But I fell into NFTs
+
+04:04.080 --> 04:13.440
+later more deeply in 2021. There were a slew of different projects that all of a sudden felt like
+
+04:13.440 --> 04:19.920
+they were using the blockchain to as more of a medium than anything else. It wasn't, you know,
+
+04:19.920 --> 04:29.040
+crypto kitties was at its core of a game and an experience. But then when you had hash mass,
+
+04:29.040 --> 04:34.960
+which was kind of this arc project that was using Ethereum as a medium and you had people
+
+04:35.680 --> 04:42.880
+selling an NFT for an extraordinary camera price at Christie's, you really started to feel like
+
+04:42.880 --> 04:51.120
+this is something where this is a new medium opening up in the same way that anything, you know,
+
+04:51.120 --> 04:58.400
+podcasts opened up to the world 10 years before. And if you could be early to that and if you could
+
+04:58.400 --> 05:04.880
+be one of the first people to join in and tell stories on a platform and understand how communities
+
+05:04.880 --> 05:12.480
+would form around it and engage with things and what would succeed, what would be viral, it would be fun.
+
+05:13.360 --> 05:17.600
+There's a lot of power to that because my background was in creative writing. I was a book editor
+
+05:17.600 --> 05:24.480
+for 10 years. I was a poet. And so why didn't I really just were off to the races trying to
+
+05:24.480 --> 05:30.800
+understand what kind of NFT project we could create? We've looped in our other two founders
+
+05:30.800 --> 05:38.320
+tomato and sass aka primanzishan for the engineering part of things. And we spent some months
+
+05:40.400 --> 05:46.800
+playing around with all kinds of ideas. But in the end, what we settled on was we wanted to make a
+
+05:47.840 --> 05:53.840
+an NFT collection, a similar in spirit to CryptoPunks, Matt and John's CryptoPunks that obviously
+
+05:53.840 --> 06:02.880
+have 10,000 NFTs, unique PFCs. But we wanted there to be some inherent utility to the token.
+
+06:02.880 --> 06:08.800
+We wanted it to be something that you could, you know, the prime thing that we were interested in
+
+06:08.800 --> 06:16.080
+from the beginning was NFTs as something that, you know, having a great use space for two things.
+
+06:16.080 --> 06:22.640
+Authenticity and scarcity. And earlier on with CryptoKitties, those two things kind of got a little
+
+06:22.640 --> 06:29.680
+out of whack with the breeding mechanics. There was too much supply, felt dilutive. But with the wave
+
+06:29.680 --> 06:37.440
+of projects coming prominence and the kind of rediscovery or celebration of CryptoPunks that
+
+06:37.440 --> 06:44.480
+was happening in 2021, it was really about the idea of knowing that you had this immutable NFT
+
+06:44.480 --> 06:51.520
+on the blockchain, and there was only X number of them, the prominence of that. And so we came up with
+
+06:51.520 --> 06:55.760
+the idea of Bored Ape Yacht Club. And the inherent utility of the token was going to be that if you
+
+06:55.760 --> 07:02.480
+owned a BAYC, that you were going to be part of a club. And what that club met at the beginning
+
+07:03.760 --> 07:09.120
+was just that you were among like-minded people, hopefully, but also that you got access to a
+
+07:09.120 --> 07:16.960
+digital pixel board, a little space on our website, cryptographically verified that you could use
+
+07:16.960 --> 07:24.800
+your token to get access to the, quote, bathroom and, you know, graffiti on the wall. And if you
+
+07:24.800 --> 07:29.840
+own a BAYC, you could put a pixel down every 15 minutes. And so the bathroom would be kind of
+
+07:29.840 --> 07:39.680
+this palmsest of people writing to this wall in collaboration with one another. And that was
+
+07:39.680 --> 07:48.080
+the initial thing. And as far as the spirit of what Bordeic meant to us early on, we really saw
+
+07:48.960 --> 07:56.560
+a lot of the early influencers and people in the space that we followed for years as Bordeics.
+
+07:56.560 --> 08:02.080
+You know, an ape is an affectionate term in crypto and in trading circles for people who dive
+
+08:02.080 --> 08:08.240
+first into an asset or kind of throw caution to the wind. There's a reason why some of the most
+
+08:08.240 --> 08:12.960
+valuable apes in the crypto punk, some, why some of the most valuable NFTs in the crypto punk
+
+08:12.960 --> 08:17.520
+collection are apes. And so we thought it'd be really cool to make an entire collection, an
+
+08:17.520 --> 08:22.880
+entire NFT project that was just about the apes. But also that it didn't necessarily take itself
+
+08:22.880 --> 08:29.920
+too seriously. There are people on crypto Twitter that you can cryptographically verify or
+
+08:29.920 --> 08:38.640
+worth incredible sums of money. Yet they are spending their days shit-posting, you know, making jokes,
+
+08:38.640 --> 08:43.920
+looking for people to play League of Legends with. They were in every way to us like Bordeics. And
+
+08:43.920 --> 08:51.200
+so we started to imagine like what a this kind of fanciful, irreverent, strange world of the Bordeic
+
+08:51.200 --> 08:56.640
+yacht club might look like. And we said it in our hometown of Miami. We said it in the Everglades.
+
+08:56.640 --> 09:03.680
+And yeah, the rest is history. So let's talk about that. I remember the early days when you
+
+09:03.680 --> 09:10.640
+launched. The the start didn't look shockingly promising. Like the mint didn't mint out right
+
+09:10.640 --> 09:18.320
+away. It took several days. And so it's now have generated maximum coping from every one of us who
+
+09:18.320 --> 09:23.600
+didn't go and mint a lot of Bordeics during that period. I think I bought one the week afterwards
+
+09:23.600 --> 09:30.080
+or something. And okay, it was another PFP project that didn't mint out for several days.
+
+09:30.080 --> 09:34.880
+And there was the Boughton board as you say. And when saying, oh, I wonder who's going to draw
+
+09:34.880 --> 09:44.800
+genitals on the Boughton board, right? But from there to where we are today is kind of a shocking
+
+09:44.800 --> 09:55.200
+difference, right? So let me put it differently. If you saw the project on day 10,
+
+09:57.200 --> 10:04.000
+you could imagine a lot of projects like that on day 10, most of which have not had the success
+
+10:04.000 --> 10:12.800
+or even a fractional success that the project is at. What do you attribute to the fact that
+
+10:12.800 --> 10:20.400
+it started, you know, normally fun, silly, but didn't seem too serious. And suddenly it just
+
+10:20.400 --> 10:26.160
+built up this life of its own and turned into what it turned into. What in your mind was that
+
+10:26.160 --> 10:34.720
+magic, the secret sauce, the magic formula? What did it? Yeah, I attributed to a few things.
+
+10:34.720 --> 10:43.920
+Number one, we tried to set up the incentive structure in a little bit different way
+
+10:44.560 --> 10:49.360
+than a lot of things that had come out at the same time or just before the UIC.
+
+10:50.400 --> 10:55.760
+So you had a series of different projects that were following the formula where each mint
+
+10:55.760 --> 11:00.640
+would cost, you know, first X amount of been saved, thousand, cost a certain price.
+
+11:00.640 --> 11:06.320
+And then the next thousand more and then the next thousand more until in the end the collection
+
+11:06.320 --> 11:14.080
+is sold out. But that leaves you with holders that all have different entry prices into this.
+
+11:14.080 --> 11:20.000
+And then it kind of felt inherently disuniting. It wasn't exactly welcoming when you would
+
+11:20.000 --> 11:26.640
+join a discord and know that the guy next to you paid on the same website from the same
+
+11:26.640 --> 11:31.680
+mentor for the primary sale, the different costs. It felt like something that would help sell
+
+11:31.680 --> 11:37.600
+out a project, but not necessarily be healthy to the sustainability of the project.
+
+11:37.600 --> 11:42.480
+Obviously, crypto punks were a free claim and, you know, completely different.
+
+11:43.200 --> 11:48.800
+But at the time when we were minting in 2021, most projects in the space were following
+
+11:48.800 --> 11:53.680
+this other model. So that was one of the things we did. We said every eight should cost 0.08,
+
+11:53.680 --> 12:01.520
+218 bucks or something like that is what it was at the time. And we tried very hard to
+
+12:02.640 --> 12:10.880
+push a sense of welcoming into our discord. Anytime somebody would join,
+
+12:11.840 --> 12:16.240
+we wanted there to be a stream of all caps welcome there. We wanted
+
+12:17.680 --> 12:22.800
+the founders to be available for any issues people are having. If people meet it to DM us and
+
+12:22.800 --> 12:29.840
+ask us questions, we were around. And I think there was a bit of magic in that
+
+12:31.360 --> 12:41.360
+NBA top shot had just exposed a lot of new people to entities. And we found around the time
+
+12:41.360 --> 12:46.720
+of the BOIC mint. A lot of those people, we were their first kind of Ethereum entity.
+
+12:46.720 --> 12:53.680
+And there was a lot of excitement to that. There was a lot of people, you know, we had built
+
+12:53.680 --> 13:01.280
+this project seemingly hoping for a lot of crypto native people to be exposed. When in fact,
+
+13:01.920 --> 13:06.480
+what ended up happening was a lot of people who'd kind of put a toe into this base. Yes,
+
+13:06.480 --> 13:12.960
+they bought something off coin base before or they had experimented with NBA top shots or
+
+13:12.960 --> 13:19.920
+otherwise. But we were the first thing to kind of bring them into setting up a Metamask wallet
+
+13:19.920 --> 13:28.400
+and getting involved in a community. And capturing that kind of organic energy from the start
+
+13:28.400 --> 13:34.800
+and having those people so excited and finding each other. And as a reminder too, we were in
+
+13:34.800 --> 13:43.440
+COVID. So just finding friends and engagement and having a good time on Discord is a really
+
+13:43.440 --> 13:52.720
+powerful thing just from the start. That helped a lot. And I think also we, frankly as the founders,
+
+13:53.760 --> 14:01.920
+we sold out the collection and then we worked 14 hours a day ever since to not take that moment
+
+14:01.920 --> 14:07.760
+for granted and try and create new experiences in any way that we could. And I think
+
+14:09.200 --> 14:16.800
+you know, when we were doing token gated merch, say a month later and boxing up T-shirts and hats
+
+14:16.800 --> 14:23.360
+that we sold and we were boxing up in my mom's backyard. Yes, there had been token gated
+
+14:23.360 --> 14:32.000
+merch before. Obviously the most famous of which would be unisocks of, you know, if you own
+
+14:32.000 --> 14:40.160
+the token, you could redeem it for actual socks. But it wasn't necessarily a community or felt
+
+14:40.160 --> 14:45.440
+like something that could be its own lifestyle brand. And the other aspect I think that was really
+
+14:45.440 --> 14:53.840
+powerful the whole way through is we gave all of our holders commercial rights to their aid. And
+
+14:53.840 --> 14:59.920
+that sense of having a stake in the project being part of the community and having it tied to your
+
+15:00.640 --> 15:09.680
+online identity that was really powerful and led to a lot of projects and ingenuity and creativity
+
+15:09.680 --> 15:17.440
+in a bottoms up way throughout the space where we had Jenkins de Valet very early on getting signed
+
+15:17.440 --> 15:26.160
+to CAA and developing an entire, his own entire project, you know, really starting with his
+
+15:26.160 --> 15:30.240
+eighth and the story that he was telling and telling other, you know, community member stories.
+
+15:30.800 --> 15:37.920
+And we've now seen everything from animated TV shows that are in development to people
+
+15:37.920 --> 15:44.640
+watching clothing brands, sometimes very simple streetwear, other times as incredible as like,
+
+15:44.640 --> 15:51.120
+you know, $500, like cashmere, exquisite cashmere cardigans being sold at like Fred Segal.
+
+15:52.720 --> 15:58.400
+And that's been really special. Yeah, that was a bit long-winded, but I think that covers
+
+16:00.000 --> 16:04.240
+broadly speaking a lot of what I think I attribute our success to.
+
+16:04.240 --> 16:11.200
+No, it sounds reasonable and I will say I think, you know, there was also a feeling,
+
+16:12.000 --> 16:16.240
+maybe I'm reading this from the outside, but like there were people who
+
+16:18.000 --> 16:23.200
+viewed themselves as the upstart rebels relative to the punks in some capacity, right? Like it was
+
+16:23.200 --> 16:32.640
+the New York cohort, more fun, more irreverent, something in that direction. But I want to build on
+
+16:32.640 --> 16:40.400
+this commercial rights issue because that had had a lot of follow-on effects in the space.
+
+16:40.400 --> 16:45.120
+I think massive follow-on effects. I mean, if I think of the thing that probably changed the
+
+16:45.120 --> 16:55.120
+space the most, it's this. And let's dig into it a little bit. How is that going now, right?
+
+16:55.120 --> 17:01.600
+And then what I mean by this is the following. In the early days, you absolutely saw the initial
+
+17:01.600 --> 17:09.040
+activity, right? Someone would do a DJ set and use their or dates or a coffee brand or a microgroup.
+
+17:10.000 --> 17:16.480
+And certain people signed, as you said, to agencies. There was the group that was the music group
+
+17:16.480 --> 17:24.400
+that was signed. First question, how is that going today a year and a half later? Are these
+
+17:24.400 --> 17:32.160
+things that still developing? Do you have any metrics to track them? Is there, are people sticking to
+
+17:32.160 --> 17:37.920
+it? Because some of the kind of the blow in the bear case on community commercial rights is
+
+17:37.920 --> 17:45.120
+the blue case is obvious. You'll get 10,000 people working to promote the rent. The bear case is
+
+17:45.920 --> 17:50.800
+probably most of those people don't actually have the capacity or capability to build
+
+17:50.800 --> 17:56.320
+a viable business because building businesses is hard. In any case, not just in this case.
+
+17:57.360 --> 18:05.520
+How do you think about it? How do you manage it? How do you track it? What does success look like?
+
+18:05.520 --> 18:13.200
+How do you think about the software? Yeah, I think to start with the idea behind it,
+
+18:13.200 --> 18:23.520
+why it made sense to us was if this token of this BAYC cryptographically verified on the blockchain
+
+18:24.320 --> 18:30.880
+by owning one, we wanted it to be your digital identity in any way you solve it,
+
+18:30.880 --> 18:36.720
+that it would make sense to us to make sure that you had unlimited commercial rights to that thing
+
+18:36.720 --> 18:47.040
+so that if you wanted to appear as your Bordeic in sandbox or in decentralized or in other side
+
+18:47.040 --> 18:51.520
+or in any other kind of metaverse space, you could do that. You wouldn't have to ask permission.
+
+18:52.640 --> 18:58.240
+The optionality of that whole experience is the most important part of it to me.
+
+18:58.240 --> 19:06.000
+Yes, there are people who, there have been people that have expanded a tremendous amount of
+
+19:06.000 --> 19:09.360
+effort or are extremely talented and are building incredible things with their BAYCs.
+
+19:10.080 --> 19:15.840
+There's the Borden Hungry fast food restaurant, there's Dr. von Bees,
+
+19:15.840 --> 19:20.560
+Snoop Dogg's alter ego BAYC that appears with them seemingly on stage all the time these days.
+
+19:20.560 --> 19:30.320
+There's casual sweaters being sold at some of the most revered shops in the world,
+
+19:30.320 --> 19:35.840
+you know, shops in the world like Fred Siegel and there's different animated shows,
+
+19:35.840 --> 19:42.240
+some that are still in development and some more web-3 native versions that are going to be coming
+
+19:42.240 --> 19:51.840
+out that we're aware of. How do we measure it? How do we track it? I don't know the best answer
+
+19:51.840 --> 19:57.520
+to that. The whole idea is that it's a permissionless system and that we don't necessarily need to.
+
+19:58.800 --> 20:04.320
+If these things are able to spread up and do spread up without us, then it's doing its job.
+
+20:05.440 --> 20:10.480
+And as long as people don't feel like there are blockers towards their
+
+20:10.480 --> 20:17.520
+creativity and that's what's most important from our perspective. I don't know if that answers
+
+20:17.520 --> 20:26.000
+your question. No, I think that's clear. I'll say it back in my words, if someone's going to make
+
+20:26.000 --> 20:31.040
+their identity, this PFP their identity, well, they should be able to do whatever they want with it,
+
+20:31.040 --> 20:37.920
+right? They don't have to go ask someone permission and then there's a normal 80, 20, or 90, 10,
+
+20:37.920 --> 20:44.080
+or 95, 5 outcome was a few people will do it off a lot of things and most people won't do very much
+
+20:44.080 --> 20:51.600
+but even if they don't do very much, it's valuable. The idea is valuable even if you don't actually
+
+20:52.560 --> 20:58.160
+start a merchandise shop or a fast food restaurant a day by your board. Is that a fair assessment?
+
+20:58.720 --> 21:06.640
+That's a great summary. Yeah. Okay. In that world, let's build on that. What do you see
+
+21:06.640 --> 21:16.560
+the role of the company and the role of the network in what comes over one year, three years, ten years?
+
+21:17.360 --> 21:25.200
+What do you do now? Because you know, you're now getting into much more verified territory.
+
+21:26.000 --> 21:30.320
+Going from one million to ten million, one thing and ten million to a hundred million is another
+
+21:30.320 --> 21:36.720
+thing. Now whether you look at the market cap of all your tokens or the equity value of the firm,
+
+21:36.720 --> 21:42.800
+generally, we're talking billions. So now this is now moving forward at that level.
+
+21:42.800 --> 21:47.920
+There's a different game than a third level. Who does what? How do they do it? How do you think about it?
+
+21:47.920 --> 21:54.800
+What are the goals? How do I think about this stuff? Yeah. So I think there's a couple different
+
+21:54.800 --> 22:02.400
+questions that I hear there. Number one, yes, you guys experienced exponential growth over the past
+
+22:02.400 --> 22:12.000
+year and a half. In January of this year, we were 11 people today. We're 85 and we'll almost certainly
+
+22:12.000 --> 22:20.320
+be over a hundred before the end of the year. And part of that is having several different teams,
+
+22:20.320 --> 22:27.120
+but the ones that are most built out on the BAYC team and the other side team, that are constantly
+
+22:28.400 --> 22:36.000
+working on projects of vastly different scale. Some things might be as small as a merch shop
+
+22:36.000 --> 22:43.920
+for B O I C. And then there might be projects that have literally, you know, a year plus long
+
+22:43.920 --> 22:51.120
+time span until lunch. And as we approach what we want to do, though, as we think of BAYC say,
+
+22:51.920 --> 22:59.680
+what is a Web 3 lifestyle brand? Look like a Web 3 club. Look like there's things we've talked
+
+22:59.680 --> 23:07.760
+about like having a in real life clubhouse here in Miami where people can get together in the
+
+23:07.760 --> 23:14.640
+vein, perhaps, of something like so house or ZZ's or some of these amazing membership clubs that
+
+23:14.640 --> 23:22.320
+exist. That's one thing. And there's a lot of different aspects of what we're building with B O I
+
+23:22.320 --> 23:27.360
+C. But I'd say the most consistent question in this time and your question about commercial rights
+
+23:27.360 --> 23:35.840
+and what users do is how do we do things in a way that's a value add and doesn't say in
+
+23:35.840 --> 23:45.040
+pin John or step on anyone's toes. Right now, there's several different animated series that I
+
+23:45.040 --> 23:51.200
+know of where people are either we're using at least one word as a character in a show or something
+
+23:51.200 --> 24:04.160
+like that. That's awesome. If we were to come out and do, you know, our own BAYC show and
+
+24:04.160 --> 24:10.320
+not incorporate the community then that hurts those people who are going out and doing, you know,
+
+24:10.320 --> 24:16.880
+trying to tell their stories. So how can we structure our business, what we're doing as a company
+
+24:17.520 --> 24:27.120
+in a way where we're creating sandboxes for other people to build together and enjoy the
+
+24:27.120 --> 24:34.800
+commercial rights and connect with one another and all those sorts of things rather than doing things
+
+24:34.800 --> 24:42.960
+that are redundant or duplicative or taking over things that really should be more on the community
+
+24:42.960 --> 24:51.920
+level than otherwise. Okay, that makes sense. You mentioned twice lifestyle company, right?
+
+24:51.920 --> 25:03.520
+What does that mean to you? Early on, we thought of this idea of like what would a Web 3
+
+25:04.320 --> 25:15.200
+Supreme look like. There's what's it's been very interesting over the past year and a half
+
+25:15.200 --> 25:21.520
+as NFTs have gone more and more into the mainstream how different legacy companies or
+
+25:21.520 --> 25:33.760
+industries have have taken or not to Web 3. There's a lot of game companies that are very actively
+
+25:34.640 --> 25:39.760
+tripling in companies that are very actively building, exploring, enjoying, you know, the fruits
+
+25:39.760 --> 25:48.400
+of a Web 3 division. However, there's a lot of gamers who are more reticent towards games,
+
+25:48.400 --> 25:55.360
+towards blockchain gaming. There's a number of different reasons and thoughts on that we can get
+
+25:55.360 --> 26:05.360
+into that later. On the other hand, you have companies like LVMH and the caring group behind
+
+26:05.360 --> 26:12.800
+Gucci and Valenciaga and so many different major brands who seem to very much be leaning into
+
+26:12.800 --> 26:22.640
+Web 3. They're thinking about, hey, here's this protocol layer tool, this tech that we can use
+
+26:22.640 --> 26:28.880
+that is all about digital scarcity and authenticity. And they have these companies that that's
+
+26:28.880 --> 26:35.680
+the red and butter is creating a brand and maintaining a strict level of scarcity and authenticity.
+
+26:35.680 --> 26:43.840
+And I think for that reason, we're going to see an explosion of more and more interest from that
+
+26:43.840 --> 26:49.440
+that whole sector. And that was something that we thought about very early on with BAUIC,
+
+26:49.440 --> 26:56.640
+where I'm like crypto punks where the punks themselves are kind of the low. There was no crypto
+
+26:56.640 --> 27:01.520
+punks logo per se. There is that kind of beautiful hot pink that they picked for the website,
+
+27:01.520 --> 27:08.480
+but it wasn't really like a Nike swoosh or something like that. Whereas for BAYC,
+
+27:08.480 --> 27:13.600
+we were very cognizant of, hey, we want there to be a logo here, we want there to be a story,
+
+27:13.600 --> 27:22.640
+we want there to be more for people to launch off of and generate stories from and content from
+
+27:25.840 --> 27:30.160
+in a way where constraints and storytelling can be generative and not that we're like saying
+
+27:30.160 --> 27:36.560
+strict canon and that's all there is to the story. So navigating that those lines was always
+
+27:36.560 --> 27:44.320
+really important to us. And so, yeah, we wanted the BAYC school to be our Nike swoosh and what
+
+27:44.320 --> 27:52.640
+does that mean in a Web 3 space? I think there's a lot of potential there. I mean, just seeing that
+
+27:52.640 --> 27:59.920
+Azuki is releasing there a new physical token standard. That's just awesome. I think we're going to see
+
+27:59.920 --> 28:06.800
+a lot more experiments in this space. I think it's very natural for NFT company to be
+
+28:08.000 --> 28:16.560
+diving and thinking of itself as a lifestyle brand. So, here's a question that I go back and
+
+28:16.560 --> 28:23.520
+I think I thought about it a reasonable note. You have 30,000 PFP token holders, right? Let's leave
+
+28:23.520 --> 28:28.960
+the punks out for a second. All right. So, the board apes and the mutant apes. And there's the code
+
+28:28.960 --> 28:32.480
+is that I think are part of the game and are not exactly PFPs. We'll discover that, but that
+
+28:32.480 --> 28:41.200
+even if we put those in, it's another 10,000. So, 40,000. Rolex, which is thought of as a fairly
+
+28:41.200 --> 28:48.000
+exclusive brand, sells a million Rolexes a year. Nike, much of the swoosh, sells 800 million shoes,
+
+28:48.000 --> 28:55.120
+pairs of shoes a year. So, Nike is of course a global brand and hundreds of millions of people
+
+28:55.920 --> 29:03.600
+are part of that brand. Even Rolex, it's almost a code word for, I mean, not
+
+29:03.600 --> 29:10.800
+update luxury, but luxury exclusive. Millions, tens of millions of people own a Rolex or part of the
+
+29:10.800 --> 29:21.120
+Rolex community. Your community is 40,000 people, right? And that's closer to a superhyper elite
+
+29:21.760 --> 29:31.120
+sub-brand of old VH or something like a Soho House, you know, 30 to 40,000 people is a very, very
+
+29:31.120 --> 29:43.920
+elite brand. But I would say the aesthetic of, or it is more fun, less, this is a Swiss watch
+
+29:43.920 --> 29:49.360
+that you're going to hand out, hand down to 11 generations and build a whole wing of your house
+
+29:49.360 --> 29:53.520
+to put it in, right? I give it, neither one's right wrong. It's just the aesthetic that comes out.
+
+29:53.520 --> 30:01.520
+And so, if these are somehow comparable, I don't know the numbers off hand for supreme, but I
+
+30:01.520 --> 30:06.240
+think supreme sells a reasonable amount of goods or a reasonable amount of people on an ongoing
+
+30:06.240 --> 30:15.520
+basis. How does this play out? Does the community need to grow? Do you become hyper elite? Is it
+
+30:15.520 --> 30:21.840
+going to be, you know, Soho House is a lifestyle brand and Nike is a lifestyle brand, but Soho House
+
+30:21.840 --> 30:27.440
+is a lifestyle brand that you need thousands of dollars to get into. And Nike is a lifestyle brand,
+
+30:27.440 --> 30:34.880
+you need like, I don't know, 40 bucks to get into. How does this play out? Yeah, obviously it's a
+
+30:34.880 --> 30:42.240
+question that a lot of people have been asking ever since this new wave of NFT collections have
+
+30:42.240 --> 30:47.200
+come out and attained valuations that are massive. And on par with some of these companies that
+
+30:47.200 --> 30:54.160
+are, we're far exceeding some of these companies that seem to have way more users. I will say,
+
+30:54.160 --> 31:04.000
+I think there's a difference between owning BAYC for me being part of a club, let's say. And other
+
+31:04.000 --> 31:16.000
+ways to experience things and have exposure to BAYC as a brand. And I think as we onboard,
+
+31:16.000 --> 31:22.640
+more and more people into Web 3, there is going to be much more opportunities for things like
+
+31:22.640 --> 31:31.360
+that to happen in a way that are not dilutive necessarily to the BAYC club members, you know,
+
+31:31.360 --> 31:38.720
+the people who own the 10,000 BAYC, 20,000 mutants, but still provide, say, a tiering of access
+
+31:38.720 --> 31:47.040
+to people to buy a BAYC t-shirt. One of our most successful merch shops all time was when we
+
+31:47.040 --> 31:55.760
+did a drop with a collab with the hundreds. And there was a public sale colorway where anyone can
+
+31:55.760 --> 32:02.720
+buy this logo mashup of the BAYC and 100s logo on the hundreds website. And I think we'll see
+
+32:02.720 --> 32:09.760
+a lot more of that. We'll see a lot more of co-labs and ways for people to participate in the space,
+
+32:09.760 --> 32:17.920
+while still maintaining the exclusivity of the club as it stands today. That feels that's very
+
+32:17.920 --> 32:29.360
+important to us. I think it's an unfortunate aspect of some early NFT projects where breeding
+
+32:29.360 --> 32:37.360
+mechanics got totally out of hand and felt more akin to a free-to-play model where
+
+32:38.800 --> 32:45.440
+you're constantly having to devalue the original thing in order to gain a customer acquisition.
+
+32:45.440 --> 32:52.000
+I think there is a much more thoughtful and sustainable model attainable where you treat it,
+
+32:52.000 --> 32:56.400
+like I said, more like a brand and you're not constantly expanding the club or anything like that.
+
+32:56.400 --> 33:03.280
+Well, it's interesting you mentioned free-to-play because this has now gotten
+
+33:04.240 --> 33:15.120
+hot again with Gabriel Layden's Digi Di-Gruz, and it's getting a lot of attention.
+
+33:16.000 --> 33:22.480
+It's not 100% clear to me how that's different than other things that happen in that
+
+33:22.480 --> 33:29.040
+NFT space because I mean, the air drop might be free, but I went and bought a Digi Di-Gruz
+
+33:29.040 --> 33:33.280
+by everything. Oh, my one of everything just to see how I feel when I heard it.
+
+33:33.920 --> 33:39.280
+And it certainly wasn't free when I bought it. I think I paid 50 needs, so I mean, it wasn't,
+
+33:39.920 --> 33:44.320
+I doubt I'll be playing whatever game's going to be there, but it certainly wasn't free for me to
+
+33:44.320 --> 33:50.800
+play it. I had to buy it on the secondary market in OpenSea. What does free-to-play even mean in
+
+33:50.800 --> 33:58.640
+the context of NFTs? I mean, there's a robust secondary market in these characters and it's not
+
+33:58.640 --> 34:06.160
+at all free and how do we think about that? Yeah, I think about free-to-play more in a sense of,
+
+34:09.040 --> 34:13.920
+you know, there's been a lot of innovations in gaming over the past 20 years that the industry
+
+34:13.920 --> 34:20.640
+has changed all the time. I've never worked in gaming, but I've written books on video games
+
+34:20.640 --> 34:28.800
+and you know, been an avid gamer my whole life. And what I think about is the different ways
+
+34:28.800 --> 34:35.280
+where game companies have tried to structure incentives or subscription models to
+
+34:35.280 --> 34:44.720
+acquire new users. And so you have something I think a lot about, for example, as it pertains to, and a
+
+34:44.720 --> 34:50.960
+tease, and the future of watching gaming is Dota AllStars. Dota All-Stars was a MOBA, so a genre of
+
+34:50.960 --> 34:56.720
+video game that now, you know, we look at League of Legends and it's one of the most popular engaging
+
+34:56.720 --> 35:01.280
+video games in the world. And I think I'll cryptate Twitter like the most popular video game in the world,
+
+35:01.280 --> 35:11.360
+probably. But it really started out as this Warcraft 3 mod, this custom game mode,
+
+35:12.560 --> 35:20.880
+called Dota All-Stars, where a user with a pseudonym, IceRog, I believe it was, and I think there
+
+35:20.880 --> 35:31.600
+were some other people involved too, created a game using a open-source map maker of sorts,
+
+35:31.600 --> 35:39.200
+where Warcraft 3 said, hey, if you can use our graphics, our characters, the rigs, and the map
+
+35:39.200 --> 35:47.200
+mode, and make a game and enjoy yourselves. Have fun. Yet Warcraft 3 had no subscription model.
+
+35:47.200 --> 35:51.360
+They weren't making money, they were making 10 bucks a month like they do on Warcraft or something
+
+35:51.360 --> 36:02.560
+like that, or 15. And IceRog had seemingly no in-platform way to monetize this either. And so you
+
+36:02.560 --> 36:11.440
+had this setup where you had arguably one of the most popular games in the world, and nobody was
+
+36:11.440 --> 36:19.280
+really making money directly off of it, until somebody took the learnings of this genre,
+
+36:19.280 --> 36:26.320
+adapt it, and classed them up, professionalized them, and released League of Legends, which,
+
+36:26.320 --> 36:32.160
+you know, and the rest of their history. And now you have a game that makes a couple billion
+
+36:32.160 --> 36:37.360
+dollars a year, I think, selling skin, selling cosmetics that would have on a database.
+
+36:37.360 --> 36:46.080
+So one, and that's the free-to-play model. You know, League of Legends now, they make incredible
+
+36:46.080 --> 36:51.600
+amounts of money on skins, so does Fortnite, Fortnite makes double triple the amount that they do,
+
+36:51.600 --> 36:59.840
+I think. And obviously, these are just cosmetic characters, they're fun, they're your digital avatar
+
+36:59.840 --> 37:07.040
+in the game. You can send the friends, I think, sometimes, but oftentimes not. But you don't
+
+37:07.040 --> 37:16.240
+know, maybe truly own these things. And then you also have a whole lot of, quote, free-to-play
+
+37:16.240 --> 37:23.760
+or games that exist on the app store. People spend over a hundred billion dollars a year on the
+
+37:23.760 --> 37:32.800
+app store, buying digital assets for games. And the way that those games work is you have to keep
+
+37:32.800 --> 37:41.680
+buying a certain item. You'll finally show up to buy it. But seemingly, the next season,
+
+37:41.680 --> 37:45.920
+there's something that's even better, and then you're showing up again and again. And with the
+
+37:45.920 --> 37:53.120
+statistics show us about those games, it's about 8% of the people playing them are accounting for
+
+37:53.120 --> 37:57.520
+like 90 something percent of the revenue of these games. It's a very like whale-driven market.
+
+37:57.520 --> 38:04.320
+And so, when I think about the opportunity for what Gabriel's calling
+
+38:05.440 --> 38:10.800
+played at own or just in general watching gaming, it's the idea of how do we create
+
+38:10.800 --> 38:21.600
+an incentive structure where the next time somebody is creating a game on top of a platform
+
+38:21.600 --> 38:28.960
+the way Dota AllStars is made on top of Warcraft III, that the content creator doesn't need to go
+
+38:28.960 --> 38:36.160
+off and where the person doing this doesn't have to go off and I create a YouTube channel
+
+38:36.160 --> 38:42.400
+or a Patreon or something else in order to monetize the development. That the idea that these
+
+38:42.400 --> 38:49.280
+things are entities at their core means that the ownership and the treatability and the access
+
+38:49.280 --> 38:56.560
+and a lot more crypto-native things here will make the value grow much smoother and so that you don't
+
+38:56.560 --> 39:04.400
+have another company popping up and sucking out all of that. And I agree, I don't know that like
+
+39:06.640 --> 39:15.040
+that the whole play to own thing is a free to own thing is a bit of a meme here and that there's
+
+39:15.040 --> 39:19.520
+been a lot of things that have functioned in this way but what I'm just excited about is the idea
+
+39:19.520 --> 39:32.240
+of games where there's the inherent openness and interoperability of NFTs and what that opens up
+
+39:32.240 --> 39:42.080
+for gaming across different platforms where no longer if there's that authenticity and scarcity
+
+39:42.080 --> 39:48.480
+inherent NFTs and it's in a game then it feels like the traditional free to play some cost systems
+
+39:48.480 --> 39:53.920
+where you're constantly developing the previous thing maybe don't need to happen if there is
+
+39:54.720 --> 40:00.640
+a value of rule that can happen as opposed on like you say a platform royalty level or something
+
+40:00.640 --> 40:08.160
+like that. Okay well you mentioned royalties it was on my to-do list so let's jump into it.
+
+40:08.160 --> 40:14.320
+There has now I'm going to do a little background for the audience. I think through the first
+
+40:14.320 --> 40:24.240
+couple of years of NFTs one of the things that was been promoted as a positive feature particularly
+
+40:24.240 --> 40:31.440
+for artists is that they would earn secondary royalties and by what this means is royalties
+
+40:32.000 --> 40:37.920
+on someone selling their NFTs to someone else. So a primary sale is when it sold by the
+
+40:37.920 --> 40:43.040
+artist or the project creator to the user and the secondary sale is when that user sells it further
+
+40:43.040 --> 40:53.760
+out and this was promoted both as a boon to artists who might in the beginning be less well-known
+
+40:53.760 --> 40:58.080
+and might sell their work inexpensively but then they become successful and somehow they share
+
+40:58.080 --> 41:05.520
+in the success and it has been very effective for the large and successful projects. I mean the
+
+41:05.520 --> 41:12.320
+initial airdrop did not fund you go labs very much money but because the collection became
+
+41:12.320 --> 41:18.000
+very popular and traded a lot it generated a very large income stream of royalties and this
+
+41:18.000 --> 41:24.160
+was let's say state of the world until three to six months ago three to six months ago a lot of
+
+41:24.160 --> 41:32.640
+folks from in my view the fungible claim world looked at royalties and said oh my this is transaction
+
+41:32.640 --> 41:37.040
+tax in a really high one it's two and a half percent or five percent or ten percent
+
+41:38.000 --> 41:49.760
+and this is not so we couldn't imagine like Solana or sushi or B&B taking five or ten percent
+
+41:49.760 --> 41:57.920
+of your B&B every time you sell it. This is crazy and we're in a permissionless blockchain of course
+
+41:57.920 --> 42:06.320
+the blockchain is going to route around these taxes because there's always a way technically to
+
+42:06.320 --> 42:15.120
+run it around them and it started a process of one exchange uh said well I'm not going to
+
+42:16.000 --> 42:21.680
+auto royalties or make them optional and you know I remember saying at the time I mean that's
+
+42:21.680 --> 42:25.360
+clearly not a sustainable business model for them because if it works all the changes you're
+
+42:25.360 --> 42:34.080
+going to do it um and now there's this very active debate where let's say one team
+
+42:35.600 --> 42:43.840
+believes that the NFT project creators and artists are being hopelessly naive in expecting that
+
+42:43.840 --> 42:50.320
+this type of royalty amounts could remain attached to the surface and the other side
+
+42:50.320 --> 43:00.720
+says well this is not the deal we signed up for I'm a photographer I sold you this NFT with these
+
+43:00.720 --> 43:05.440
+terms and you're just violating them and I mean some of the more extreme reactions and I'm okay
+
+43:05.440 --> 43:10.000
+you can sell it for no royalties but then change the metadata on a contract where the metadata
+
+43:10.000 --> 43:14.240
+is not frozen and then you would have that if they were this was we had a deal this was a contract
+
+43:14.240 --> 43:20.880
+we had a deal and and then kind of the third point of view which at least I think more intellectually
+
+43:20.880 --> 43:25.440
+honest than the first point of view as well other artists will come out compete to artists who
+
+43:25.440 --> 43:30.080
+want royalties by offering their work without royalties to me I think that's more intellectually
+
+43:30.080 --> 43:34.400
+honest than people who want to change the rules of the game and then you know there's other
+
+43:34.400 --> 43:39.280
+people sometimes like well we should keep it for artists but you know big projects like you
+
+43:39.280 --> 43:44.560
+know they've made a lot of money they don't need them they'll sell t-shirts or access to the club
+
+43:44.560 --> 43:51.920
+or other drops and on the fifth hand then I'm going to stop or if you'll say well you're just
+
+43:51.920 --> 43:57.360
+going to incent project creators to dilute your initial NFTs because if they're not can't make any
+
+43:57.360 --> 44:02.080
+money off the secondary market they'll just do more drops which might be fine for them but might
+
+44:02.080 --> 44:10.160
+not be so great for you so be careful what you wish for and we're in this I think calm before
+
+44:10.160 --> 44:17.280
+the storm to be honest state right what's your view on this A how do you see it playing out B
+
+44:18.000 --> 44:27.200
+does it is it different for a pfp community for an artist and I guess where do you think we'll
+
+44:27.200 --> 44:34.240
+settle out in one two five years on the stop so I'll start with the caveat that I'm not so much
+
+44:34.240 --> 44:43.280
+of a futurist as has yourself in in thinking about the long term arc of you know playing out how
+
+44:43.280 --> 44:49.520
+some of these things might resolve over the course of say five years I will say from the very
+
+44:49.520 --> 44:59.440
+beginning it's been interesting how of all the different people coming into this space from
+
+44:59.440 --> 45:08.640
+different industries let's say some of the most engaged very early on people who came from
+
+45:08.640 --> 45:17.840
+the music industry which is an industry where people feel where creators have gotten often feel
+
+45:17.840 --> 45:29.120
+like the creators have gotten to rock you my partner Gio series partner here at Yuga that's
+
+45:29.120 --> 45:37.040
+certainly what interested him about the NFT space is here it is a world where creators can have
+
+45:37.600 --> 45:47.120
+a smart contract on day one on their terms and not wait until you know whereas a lot of musicians
+
+45:47.120 --> 45:51.280
+they don't they don't have a great contract day one they work their way up to it with help
+
+45:51.280 --> 46:00.400
+the managers and agents and all this stuff over time and so that there's that power to the idea
+
+46:00.400 --> 46:10.320
+of creator royalties and how easy they were for a while there to set up across the space was
+
+46:10.320 --> 46:22.720
+really powerful so that said we've always known that creator royalties were something that you could
+
+46:22.720 --> 46:30.480
+get around you know the way it functions or those who don't know obviously is it's essentially a
+
+46:30.480 --> 46:37.280
+fee that's getting paid to you by the platform not inherent to the smart contract itself so like
+
+46:37.280 --> 46:46.160
+as if eBay or stock X decided to send a little bit of money to Nike every time somebody bought
+
+46:46.160 --> 46:54.240
+a pair of air Jordans on on their platform and for a long time it's been extremely useful I think
+
+46:54.240 --> 47:02.240
+in directing liquidity and value and creators promoting marketplaces as opposed to others
+
+47:02.240 --> 47:13.600
+I think the way that this is playing out currently is very interesting I think in part it is a
+
+47:13.600 --> 47:23.280
+reaction to marketplace fees being too high I think in part you know a lot of the trading that's
+
+47:23.280 --> 47:28.960
+happened in the past years happened by people that knew perfectly well they could have gotten
+
+47:28.960 --> 47:38.560
+around the royalties should they have chosen to it's things like NFT trader have been around since
+
+47:39.920 --> 47:47.600
+basically since since foray minted as far as I know and yet we've seen a lot of people
+
+47:49.280 --> 47:52.880
+decide that they want to pay the royalty either the buyers want to make sure that that's
+
+47:52.880 --> 47:59.760
+incorporated or to sell it to you and I think there's a lot of power to that number one I think the
+
+47:59.760 --> 48:10.080
+idea where creators or artists may get out competed by others who don't seek a royalty is
+
+48:11.600 --> 48:18.560
+interesting I don't quite see it that way I think the idea of creator royalties has pushed a lot of
+
+48:18.560 --> 48:26.800
+creativity and ingenuity and like just frankly it's made the creative investment into the space
+
+48:28.240 --> 48:35.440
+that much more rewarding and so brought a lot of people into it if the royalties hadn't existed
+
+48:36.080 --> 48:41.120
+I don't think there's any way we would have seen the explosion that we've seen over the past year
+
+48:41.120 --> 48:50.640
+and a half with different people entering this space that said having a you know censorship
+
+48:50.640 --> 48:59.200
+censorship resistance immutable tokens that's important an extremely important aspect to entities
+
+49:00.000 --> 49:05.360
+and it's been kind of funny to see this playing out on both sides
+
+49:05.360 --> 49:13.920
+certain marketplaces coming out against royalties we're saying that they're not going to honor them
+
+49:14.880 --> 49:21.760
+but then also seemingly reacting quite aggressive when a digital artist releases a new smart
+
+49:21.760 --> 49:29.120
+contract a new NFT and smart contract explicitly prohibits set marketplace so I think there's
+
+49:29.120 --> 49:35.920
+going to be quite a bit of gamesmanship a bit of a chess game going on here for the next couple
+
+49:35.920 --> 49:43.520
+months we certainly have a lot of different ideas internally that we are kicking around about
+
+49:43.520 --> 49:55.040
+this issue and how best to preserve the creative energy that's been and champion artist rights
+
+49:55.040 --> 50:06.240
+and also do it in a way where you maintain the what an NFT really needs to be in the openness
+
+50:06.240 --> 50:12.240
+and interoperability and censorship resistance that is integral to what we're talking about here
+
+50:14.240 --> 50:20.400
+it would seem to me that in the boarding universe you do have leveraged I'm not saying
+
+50:20.400 --> 50:27.680
+to get any music but you have leveraged because you do so many off-chain events and utility and
+
+50:27.680 --> 50:34.400
+what have you and you wouldn't you could I had written a thread on royalties and actually in my
+
+50:34.400 --> 50:40.480
+mind how the board apes and the punks could address royalties is different right because let's say
+
+50:40.480 --> 50:44.560
+there were royalties on the punks I think most bunk holders wouldn't particularly
+
+50:44.560 --> 50:51.120
+feel they'd lose anything if they went around right but on a board apel there you could say
+
+50:51.120 --> 50:57.200
+look if you trade it on this zero royalty exchange maybe next year you can't come to ape fest or
+
+50:57.200 --> 51:00.880
+you can't get into the clubhouse for six months or you have to pay your royalty to get back into
+
+51:00.880 --> 51:04.640
+the clubhouse now no this might be annoying and not to branding and I'm not saying it's a good
+
+51:04.640 --> 51:13.200
+business idea but it is a form of leverage that a project that has off-chain activities has
+
+51:13.200 --> 51:18.480
+that a project that does not really have off-chain activities doesn't have has this ever been considered
+
+51:18.480 --> 51:25.840
+discussed thought about at the same time I think there's a because of so many things that you get
+
+51:25.840 --> 51:37.600
+does I think a lot of people have been happy to pay the royalty and I would much rather run my
+
+51:37.600 --> 51:46.800
+business with a carrot than a stick and so I don't love the idea you know of course we we talk
+
+51:46.800 --> 51:53.520
+about all kinds of things but I always want to think about how can I make this the most engaging
+
+51:53.520 --> 52:00.000
+fun strange cool club in the world and have people be so excited to be a part of it then
+
+52:00.000 --> 52:06.880
+if you're coming at it from a defensive position I feel like that's an inherently weak one
+
+52:07.760 --> 52:15.280
+when it comes to a permissionless space and that's where you can frankly I think get out-computed
+
+52:17.200 --> 52:23.760
+so it's just about trying to find the right how can you create an optimistic incentive structure
+
+52:23.760 --> 52:33.280
+rather than a same negative one or a defensive one okay so you're landing basically in the
+
+52:33.280 --> 52:39.520
+people ex copy category of saying you know we're not going to harass our collectors obviously
+
+52:39.520 --> 52:43.920
+it's a social contract and you kind of want to build a collector base that wants to pay the
+
+52:43.920 --> 52:48.480
+royalties that it's a social thing not a technical thing right in the end and it's a positive
+
+52:48.480 --> 52:54.240
+they're getting enough value out of this that they're not going to try and work around it
+
+52:54.240 --> 52:59.840
+because they see value in the community something like that something like that I mean I
+
+52:59.840 --> 53:04.960
+honestly don't speak for you know all of you go and we have a lot of different ideas that you
+
+53:04.960 --> 53:09.360
+know everyone's kicking around and enjoying and and and I think the other important thing here is
+
+53:09.360 --> 53:17.920
+this is a very new space there's a lot of discussions around this whole thing going on
+
+53:17.920 --> 53:22.240
+on crypto twitter right now and it'll be interesting to see how it plays out but but that's
+
+53:22.240 --> 53:29.520
+absolutely correct I would put myself more in the the people ex copy camp of how do we just you
+
+53:29.520 --> 53:38.800
+know worry about your community and how you can best service them and your collectors and a lot
+
+53:38.800 --> 53:45.600
+of this other part will fall away without you needing to be draconian in in anyway
+
+53:45.600 --> 53:52.560
+okay let's talk about cc zero for a second in a few days I'm going to talk to four one five six
+
+53:54.400 --> 54:01.840
+founded the nouns pfp project where that project is in the public delayed it's cc creative
+
+54:01.840 --> 54:09.520
+common zero it has no royalties the money goes to some somewhat fuzzy in my mind form of treasury
+
+54:09.520 --> 54:17.280
+when it goes to treasury and in a way it's a very extreme version of what you had said previously
+
+54:17.280 --> 54:22.560
+so previously to put some words in rather than 30,000 holders of 40,000 and they have
+
+54:23.360 --> 54:27.040
+they're the core community but someone else who might not own a
+
+54:28.080 --> 54:34.640
+or a pfp might buy a board a t-shirt right there's a broader ecosystem around it and
+
+54:34.640 --> 54:41.200
+I would say the nouns are this very explicitly and more extreme right there's only one a day
+
+54:41.200 --> 54:46.560
+you know even though I don't know 30,000 PFPs are not a lot I don't think they're a lot because
+
+54:46.560 --> 54:50.960
+I want to onboard a hundred million people so not a lot the nouns are even more extreme it's
+
+54:50.960 --> 54:57.200
+going to take 82 years for there to be 30,000 nouns but then what the nouns say is not only
+
+54:57.200 --> 55:04.240
+a nouns holder can do whatever they want with their pfp identity so can anyone else and effectively
+
+55:04.240 --> 55:11.760
+what they're saying and I think what 4156 will say later in the week is we're going to start off
+
+55:11.760 --> 55:18.240
+slow because it's a slow model but eventually we're going to just pick up pure network effects
+
+55:18.240 --> 55:25.520
+that someone in you know you'll go might be doing 50 things or 30 things but they'll have to do
+
+55:25.520 --> 55:31.280
+them whereas when we've gone completely permissionless there'll be someone in Japan doing
+
+55:31.280 --> 55:36.880
+something we'll even know about it then someone in Italy doing something and if the flywheel
+
+55:36.880 --> 55:44.720
+picks up and the nouns glasses become the equivalent of the 40 logo that the now the an open
+
+55:44.720 --> 55:51.920
+source brand is to be very successful and I think I mean putting words in his mouth so we'll
+
+55:51.920 --> 55:55.760
+find out later in the week is what he says but it's how to understand from a stutter feed
+
+55:55.760 --> 55:59.920
+what are your views on this how do these two models compete coexist is one better than
+
+55:59.920 --> 56:09.600
+the other does we not know yet um I think they certainly coexist I think um both of these things
+
+56:09.600 --> 56:19.520
+are are very new um and I think it's just it's a different model whereas we're of the opinion
+
+56:19.520 --> 56:29.200
+or have structured our club in this way where set another way only a board eight the the
+
+56:29.200 --> 56:36.000
+rights to use a board eight and and put it on a t-shirt is not in itself inherently extremely
+
+56:36.000 --> 56:46.800
+valuable but what is valuable is if the club becomes a space more and more as it frankly has been
+
+56:46.800 --> 56:52.480
+for a while where a lot of people are spending an enormous amount of effort in order to develop
+
+56:52.480 --> 57:03.120
+the IP of their avatar of their creator and where cco and and this commercial rights debate I think
+
+57:03.120 --> 57:15.680
+shakes out is the idea of we're wondering who is more incentivized to build and build in a like
+
+57:15.680 --> 57:25.680
+long term thought the long term thoughtful way um somebody who owns something and um has that
+
+57:25.680 --> 57:33.760
+true ownership to the IP and so perhaps feels more comfortable or engaged to build on top of it
+
+57:34.560 --> 57:45.040
+or this very open source model that nouns is pursuing um and I don't know that there that you
+
+57:45.040 --> 57:51.120
+know there needs to be a winner and a loser I think they're inherently very different I think
+
+57:51.120 --> 58:00.960
+number one the amount of storytelling and engagement and things that we're doing on the
+
+58:00.960 --> 58:09.760
+Hugo level for our brands particularly BAYC and other side is very different than what 4156 would
+
+58:09.760 --> 58:16.800
+do or frankly want to do with nouns like they're they're trying to create something very different
+
+58:16.800 --> 58:28.240
+um at the same time the kinds of value accrual to people who create on top of either platform I
+
+58:28.240 --> 58:35.920
+think are going to be very different and how that shakes out is kind of remains to be seen
+
+58:35.920 --> 58:46.160
+uh a bit as as the model that they've taken like like he like I think he would agree just
+
+58:46.960 --> 58:53.520
+it's going to take longer to see whether or not it's truly um working as intended or not
+
+58:53.520 --> 59:02.480
+and I think but he's a very thoughtful person and is excited I think about the experimentation
+
+59:02.480 --> 59:07.120
+and the testing uh I think I was saying that they're planning on deleting their discord
+
+59:07.920 --> 59:13.520
+I saw that yeah that's um I don't I don't think we we'd ever be able to do that
+
+59:14.320 --> 59:18.880
+yeah is it is it fair to say you can go on record saying you're not planning to delete
+
+59:18.880 --> 59:23.120
+the board apes discord that's correct you know not until we've got a better replacement
+
+59:25.600 --> 59:30.160
+okay I think that's one more question about board apes and if you have time to extend I want to
+
+59:30.160 --> 59:34.400
+talk about punks another side a little bit too do you have a little bit of time to extend
+
+59:34.960 --> 59:44.240
+share yeah okay so I think largely due to board apes prominence in this space you also attract a lot
+
+59:44.240 --> 59:51.520
+of backlash in different time now mention two things that one that really surprised me one that
+
+59:51.520 --> 59:56.560
+doesn't surprise me as much a few weeks ago I was having an extensive back and forth with
+
+59:56.560 --> 01:00:03.840
+mirage of coin center and I was like you know about how they could promote NFTs you know
+
+01:00:03.840 --> 01:00:07.440
+you just want you just wanted to promote ENS I mean I'm putting words in his mouth but kind of
+
+01:00:08.160 --> 01:00:11.520
+and it's not that the ENS is very nice and very useful you should promote it but I mean
+
+01:00:12.720 --> 01:00:18.080
+TFPs are like the absolute most obvious product market fit for the metaverse where the metaverse
+
+01:00:18.080 --> 01:00:22.560
+is going to be I mean you're going to need a profile picture you'll need an avatar and there was a
+
+01:00:22.560 --> 01:00:28.000
+very negative reaction from him he's like no no no no no board apes done a bunch of
+
+01:00:28.000 --> 01:00:34.080
+a lot of damage to our lobbying because I'm trying to get people to take crypto seriously
+
+01:00:34.880 --> 01:00:39.680
+and all I'm getting is static about overpriced monkey jpegs right like him
+
+01:00:39.680 --> 01:00:45.120
+yeah in the space the sounds weird outside of the space I mean mirage is not outside of the space
+
+01:00:45.120 --> 01:00:52.720
+right he's a deep crypto person he's and he was like oh gosh this hurts my lobbying yeah
+
+01:00:52.720 --> 01:00:57.440
+for this one I said well it doesn't seem like it'd be that hard to explain that TFPs are
+
+01:00:57.440 --> 01:01:03.200
+thing and they'll be expensive ones and inexpensive ones and factors hundreds of thousands
+
+01:01:03.200 --> 01:01:08.160
+of inexpensive ones so like why is this a big deal but it does seem to bother people and I've
+
+01:01:08.160 --> 01:01:13.120
+noticed them the last couple of years that I've been active one of the things although I can't
+
+01:01:13.120 --> 01:01:17.200
+believe people paid this much for a cartoon this is a joke to scam it's a bubble there's that
+
+01:01:17.200 --> 01:01:22.320
+so there's that kind of bucket and then there's I think a much narrower bucket that
+
+01:01:23.440 --> 01:01:31.360
+there are folks who say you know does the collection reinforce stereotypes about different
+
+01:01:31.360 --> 01:01:39.520
+ethnicities and is that a problem what's your view on these two topics so in regards to your
+
+01:01:39.520 --> 01:01:46.240
+second question there I think I was clear earlier on when I said
+
+01:01:48.800 --> 01:01:57.520
+we really see board ape as an homage to a lot of the personalities that we engage with on
+
+01:01:57.520 --> 01:02:04.480
+crypto twitter or follow it on crypto twitter years ago and it is such an affectionate term
+
+01:02:04.480 --> 01:02:13.040
+that people have used for themselves as traders you know across crypto but also just across like
+
+01:02:13.040 --> 01:02:19.360
+you know Web2 stock trading where you have AMC now coming out with a stock dividend ticker
+
+01:02:22.720 --> 01:02:30.240
+and all that and so really that that's what this is about and we have always sought to create a club
+
+01:02:30.240 --> 01:02:35.360
+that is extremely inclusive we were early on thought of almost more like we were getting deemed
+
+01:02:35.360 --> 01:02:40.720
+on for being the care bears with the space with how like friendly our discord was as opposed to
+
+01:02:40.720 --> 01:02:51.200
+say the punks discord early on and that's really important to us there are there's a playfulness
+
+01:02:51.200 --> 01:02:59.680
+and an irreverence and some old school punk and hip hop traits and other things like that but it
+
+01:02:59.680 --> 01:03:06.880
+is all in the spirit of just fun and inclusivity and we stand against hate in every way
+
+01:03:09.040 --> 01:03:17.360
+as part of your other question yeah it's been interesting to see how certain
+
+01:03:20.400 --> 01:03:29.280
+crypto people have not taken teneties whereas it feels like you said to be the ultimate product
+
+01:03:29.280 --> 01:03:35.520
+market fit for the open metaverse and part of it I think I think Neurosh has also been a
+
+01:03:35.520 --> 01:03:40.240
+worker too where he thinks the whole idea of like the metaverse is almost scamming itself
+
+01:03:43.520 --> 01:03:54.480
+which is a bit nuts considering how much time we all spend in front of screens I think that's what
+
+01:03:54.480 --> 01:03:59.200
+like you know I think biology put out a tweet yesterday about this that I thought was very apt
+
+01:03:59.920 --> 01:04:06.000
+where you know what is Twitter if not a version of the metaverse people have digital
+
+01:04:06.000 --> 01:04:11.120
+avatars and they're expressing themselves in the somewhat open system and that we are all spending
+
+01:04:11.120 --> 01:04:18.320
+so much time in COVID-19 accelerated this in front of screens and so the idea of the metaverse
+
+01:04:18.320 --> 01:04:27.120
+is just that we should be spending those that time in inherently open air-operable spaces the idea
+
+01:04:27.120 --> 01:04:36.000
+is that a lot of the web-to- virtual experiences that we've had are maybe more akin to
+
+01:04:37.280 --> 01:04:44.000
+the early internet than the current internet let's say there may be more akin to AOL where
+
+01:04:44.000 --> 01:04:50.000
+everything exists inside of a box and it's trying to keep something that wants to be open closed
+
+01:04:50.720 --> 01:04:57.920
+rather than something that's more open and if we can properly incentivize
+
+01:04:59.200 --> 01:05:05.040
+monetization structures so that their community creators are being able to
+
+01:05:07.280 --> 01:05:11.760
+derive value from what they're creating on a platform on a you know a blockchain platform
+
+01:05:11.760 --> 01:05:17.360
+that's really special and that's going to change a lot of things people are already spending
+
+01:05:17.360 --> 01:05:23.920
+billions of billions dollars a year on all kinds of different skins they're they're just not
+
+01:05:23.920 --> 01:05:28.160
+NFTs League of Legends one of the most successful game companies world they spend you know people buy
+
+01:05:28.160 --> 01:05:34.800
+like two billion dollars of you know jungle rat skins it's team of skins that like sell more than
+
+01:05:34.800 --> 01:05:44.880
+anything else on that platform and so if you think of a boardade as just the nascent expression
+
+01:05:44.880 --> 01:05:52.320
+of authenticity and scarcity and interoperability on the blockchain then I think you become a lot
+
+01:05:52.320 --> 01:06:01.360
+closer to understanding how this can restructure certain industries so yeah it is a little heartbreaking
+
+01:06:01.360 --> 01:06:12.080
+to hear from certain people who don't get it and whose job is to educate others and are so
+
+01:06:12.080 --> 01:06:22.400
+incredibly flippant about the idea of getting an education or engaging more directly with creators
+
+01:06:22.400 --> 01:06:28.400
+in crypto. Look I miss both of those making a lot of sense and on this point I couldn't agree
+
+01:06:28.400 --> 01:06:34.720
+to do more I mean it was always my mind with a bunch of people who all day looking at a screen
+
+01:06:34.720 --> 01:06:42.400
+with a bunch of avatars it just happens to me called Twitter and a lot of other people in centralized
+
+01:06:42.400 --> 01:06:49.760
+games with characters and those same people are like oh I'm a pfp is on better versus practically
+
+01:06:49.760 --> 01:06:54.960
+a scam you know like wait this is the better version of what you're doing right this is the actually
+
+01:06:54.960 --> 01:07:02.480
+crypto native version of what you're doing this is literally the actual most likely use of
+
+01:07:02.480 --> 01:07:07.760
+non custodial crypto for most people on the planet you should lean into it but we're not there
+
+01:07:08.480 --> 01:07:17.200
+I believe my experience has been understanding bitcoin is kind of a zero to one experience
+
+01:07:17.200 --> 01:07:25.200
+a theory of maybe like zero to one or half to one I think people a lot of people in bitcoin could
+
+01:07:25.200 --> 01:07:32.000
+not get there with a theory but a lot of people did I do think NFT is our closer to a
+
+01:07:33.360 --> 01:07:38.720
+not being in crypto and understanding bitcoin type experience than almost anything else
+
+01:07:39.280 --> 01:07:45.520
+post bitcoin I think most people who understood bitcoin could get their heads around Ethereum even
+
+01:07:45.520 --> 01:07:52.480
+if they didn't like it or Solana or Uniswap or what have you but NFTs some of my
+
+01:07:53.840 --> 01:08:01.040
+oldest crypto friends and colleagues who are in absolute OGs and crypto own 50 different tokens
+
+01:08:01.040 --> 01:08:08.080
+understand everything I spent six to twelve months harassing about NFTs before I could get
+
+01:08:08.080 --> 01:08:14.320
+them to sort of mentally accept the model like what this is exact same thing as bitcoin it's
+
+01:08:14.320 --> 01:08:19.920
+exactly the same concept it's just the same concept for non-frontal options so I'm with you it's
+
+01:08:19.920 --> 01:08:26.320
+it's strange okay we mentioned games and you mentioned games at the beginning and you know
+
+01:08:26.320 --> 01:08:33.280
+multiplayer universes let's talk about other side why don't you tell us what other side is I
+
+01:08:33.280 --> 01:08:37.360
+think a lot of the audience will know but maybe put a couple senses that are getting for those
+
+01:08:37.360 --> 01:08:41.760
+who don't and where are we where are we going what are we doing what are the goals on other side
+
+01:08:41.760 --> 01:08:49.440
+absolutely so other side is a metaverse platform in development
+
+01:08:52.400 --> 01:09:02.000
+Yuga is obviously involved but so is improbable an incredible tech company based out of the UK
+
+01:09:02.000 --> 01:09:16.320
+we had an initial customer experience about a two months ago where we had 4500 concurrent users
+
+01:09:18.000 --> 01:09:21.280
+in one space in one virtual space it was incredible we called it first trip
+
+01:09:21.280 --> 01:09:32.560
+and the thesis here is really around the idea that the metaverse should be something that exists
+
+01:09:32.800 --> 01:09:39.520
+on the blockchain that it should be open and interoperable and allow people to come
+
+01:09:39.520 --> 01:09:48.000
+as they are as they want to be the most special video game trailer
+
+01:09:48.000 --> 01:09:55.600
+I ever saw as a kid was the super smash brothers trailer where you had like
+
+01:09:56.320 --> 01:10:05.120
+link Zelda but also Super Mario and Bowser and Kirby and so many other people all mashed together
+
+01:10:05.120 --> 01:10:14.480
+in this world and that's close to our vision of what the metaverse can be except not just
+
+01:10:14.480 --> 01:10:21.680
+enabled by the fact of Yuga owning certain IP in the same way Nintendo does but in the fact that
+
+01:10:21.680 --> 01:10:30.720
+in a world where people are creating projects that are entirely public domain or CC0 or following
+
+01:10:30.720 --> 01:10:35.920
+commercial rights models like the ones that we've extended to all of our projects at Yuga
+
+01:10:35.920 --> 01:10:42.960
+then any game can be kind of like super smash brothers and it was really important to us too though
+
+01:10:42.960 --> 01:10:49.600
+where we don't want this to be like any other web2 game it's just on a blockchain
+
+01:10:50.320 --> 01:10:59.680
+hey it's just a NMO but the NFT you know every asset is NFT it needs to embrace certain aspects
+
+01:11:00.240 --> 01:11:05.840
+of the metaverse that haven't been done before really and that's where having that extreme
+
+01:11:05.840 --> 01:11:14.160
+density of users that's like what we showed on the first trip is is very integral to how we want
+
+01:11:14.160 --> 01:11:21.680
+people and experience the metaverse we want there to be more interaction there's a lot of big
+
+01:11:21.680 --> 01:11:26.560
+companies out there that have visions for the metaverse obviously Facebook rebranded to meta
+
+01:11:26.560 --> 01:11:34.640
+I don't want to speak for anyone else but I think the vision there is very
+
+01:11:36.080 --> 01:11:45.280
+hardware driven you know if there's a lot about VR and perhaps in the future AR that people
+
+01:11:45.280 --> 01:11:51.760
+are thinking about in the metaverse whereas our vision of the metaverse is a space where
+
+01:11:51.760 --> 01:12:00.480
+just the social engagement and where we want to spend our time in digital spaces is what's
+
+01:12:00.480 --> 01:12:06.480
+the most important and as somebody who grew up playing MMORPGs like every quest or Star Wars
+
+01:12:06.480 --> 01:12:12.720
+Galaxy's or World of Warcraft there are games with absolutely atrocious graphics and frankly not
+
+01:12:12.720 --> 01:12:21.200
+much better UI or UX and you know we were running on 56k modems where I have I had some of the most
+
+01:12:21.200 --> 01:12:28.160
+important relationships in my life form on those platforms I have friends that met their significant
+
+01:12:28.160 --> 01:12:37.120
+others and spouses playing MMO RPGs and I think when we have metaverse spaces where
+
+01:12:39.440 --> 01:12:46.080
+that embrace a lot of the openness that we actually had more and more back then than we do nowadays
+
+01:12:46.080 --> 01:12:54.560
+with you know how much more closed source certain games are that a lot of that potentiality
+
+01:12:54.560 --> 01:13:00.160
+and that experience will open up and that that it's inherently better to build a metaverse
+
+01:13:00.160 --> 01:13:07.760
+on the blockchain than it is not to and that's where feels like you can compete with absolute
+
+01:13:07.760 --> 01:13:17.440
+giants where we are using a high-mind of of UDC creators to build on top of a platform
+
+01:13:19.200 --> 01:13:25.440
+in a way where they will be able to retain the most value and so we will attract the best users
+
+01:13:27.760 --> 01:13:36.160
+and other side is our bet on that where and in the same way where Warcraft 3 was a great game
+
+01:13:36.160 --> 01:13:44.240
+super fun game what also had known all stars which spawned a whole industry on its own that was
+
+01:13:44.240 --> 01:13:55.840
+like just creator made other side needs to be a fun game in its own right but also a platform for
+
+01:13:55.840 --> 01:14:00.880
+creators to build on top of the idea of being in the same way that Warcraft 3 was you have to show
+
+01:14:00.880 --> 01:14:08.640
+people the potential introduce them to a story engage them give them you know some emotional
+
+01:14:08.640 --> 01:14:16.880
+an emotional stake in what's being built but also give them an incredible tool set to express
+
+01:14:16.880 --> 01:14:21.440
+themselves on top of the platform and so with other side we fully intend on doing both of those
+
+01:14:21.440 --> 01:14:29.520
+things and unlike a lot of different games where you get a trailer and then four years later
+
+01:14:29.520 --> 01:14:36.080
+you get the game it's something that needs to be done in an iterative way where people can join
+
+01:14:36.880 --> 01:14:44.640
+experience things along the way and give feedback and properly influence the creation of
+
+01:14:44.640 --> 01:14:50.080
+the platform itself through different SDKs and toolkits and that sort of thing and so that's
+
+01:14:50.080 --> 01:14:54.160
+that's the vision for other side so when do we get to go in I think I did that first
+
+01:14:54.160 --> 01:15:00.480
+event convention but when when will we get you you've walked yourself into that question it's not
+
+01:15:00.480 --> 01:15:12.240
+four years away when is it the persistent world will be coming in 2023 there will be multiple
+
+01:15:12.240 --> 01:15:20.000
+experiences many multiple experiences along the way but the the initial kind of persistent world
+
+01:15:20.000 --> 01:15:26.160
+where people will have you know full access to the initial customer experience will be in 2023
+
+01:15:27.760 --> 01:15:34.480
+so the kind of true date failure point of most things that start off with the
+
+01:15:34.480 --> 01:15:41.840
+logic that they're meta versus rather than games is user persistence right you see it on
+
+01:15:42.880 --> 01:15:46.720
+the central end of the year there's a silly argument you want do they have 30 users they are
+
+01:15:46.720 --> 01:15:51.840
+4,000 users they but whatever number it is it's very low at 4,000 it's not a big number right so
+
+01:15:51.840 --> 01:15:55.760
+even if the central ends right about their numbers they're low and then there was the Wall Street
+
+01:15:55.760 --> 01:16:02.320
+Journal article a couple days ago about meta where the biggest social media company in the world
+
+01:16:03.120 --> 01:16:11.520
+and there you know people came they checked it out they didn't go back right and the concurrency
+
+01:16:11.520 --> 01:16:17.920
+of them problems very impressive but the general failure mode of these types of things as you
+
+01:16:17.920 --> 01:16:22.080
+come you look at it's oh wow it's really beautiful I see this with a 65 tonight museum district
+
+01:16:22.080 --> 01:16:27.760
+people come and say oh wow look there's a massive museum and he did a great job displaying
+
+01:16:27.760 --> 01:16:33.760
+generative NFTs and then okay I mean I don't know people are busy with all their lives and
+
+01:16:33.760 --> 01:16:37.040
+we're not gonna come back and looking at every day for the same reason you don't go to the
+
+01:16:37.040 --> 01:16:46.080
+mob every day right people have a life to live conceptually I understand that he is people
+
+01:16:46.080 --> 01:16:50.560
+have their land and so and the tool kits without developed things and you're hoping the community
+
+01:16:50.560 --> 01:16:57.920
+develops interesting things and I'll throw one more out there Tim Cook I think again today was
+
+01:16:57.920 --> 01:17:03.360
+saying look it's not going to be this type of stuff it's going to be augmented reality of the
+
+01:17:03.360 --> 01:17:07.200
+type of like you know you're gonna be living in your day-to-day life you'll have this cool apple
+
+01:17:07.200 --> 01:17:13.600
+glasses I guess next year and I think I'm reading into it you know you'll have app-like
+
+01:17:13.600 --> 01:17:19.520
+functionality you know directions or recipes or I know dinosaurs running around your house or
+
+01:17:19.520 --> 01:17:26.160
+something something along those lines what is going to bring people back into these because
+
+01:17:26.160 --> 01:17:36.240
+I notice like always checking my own usage right and I definitely spend more time on Twitter
+
+01:17:36.240 --> 01:17:42.320
+and in discord than it all means it's not even closer now and until that changes it means
+
+01:17:42.320 --> 01:17:46.800
+the model's not right because for all of this we're going to build decentralized open
+
+01:17:46.800 --> 01:17:53.760
+metaphors well I'm on two centralized platforms most of the day and most of the time that I'm not
+
+01:17:53.760 --> 01:17:58.240
+on those centralized platforms I'm an outlocking Gmail and Microsoft offers and Windows which are
+
+01:17:58.240 --> 01:18:05.680
+also centralized platforms so how do we move real screen time off the centralized platforms into
+
+01:18:05.680 --> 01:18:13.200
+these blockchain-based platforms yeah no it's a great point and obviously one that we think
+
+01:18:13.200 --> 01:18:20.080
+about all the time as well number one I think it needs to be easy to jump in and jump out you need
+
+01:18:20.080 --> 01:18:25.840
+to be able to click a button somebody links to you on Twitter and whether you're on your computer
+
+01:18:25.840 --> 01:18:34.000
+or your own phone you should be able to get inside and in one click that's something that is
+
+01:18:34.000 --> 01:18:44.480
+being built into how we that's how other side will function at the same time it's important
+
+01:18:44.480 --> 01:18:51.440
+also think about like the way that how do successful games even the ones like you know you or I
+
+01:18:51.440 --> 01:18:58.640
+would have grown up playing like really dense virtual worlds with stories and fun what drove us
+
+01:18:58.640 --> 01:19:06.000
+to spend tons of time there for me it was a few things number one there was a story there was
+
+01:19:06.000 --> 01:19:17.520
+a game a core game loop that was engaging and it forced collaboration if you think about I played
+
+01:19:17.520 --> 01:19:25.360
+a ton of legal legends in my life I have never made a friend play that game I blocked tons of
+
+01:19:25.360 --> 01:19:29.680
+people that say talk to things and are trolls on thing but I've never made a friend on the
+
+01:19:29.680 --> 01:19:37.600
+web I have played legal legends friends but their friends I made playing a request or will work
+
+01:19:37.600 --> 01:19:42.000
+after something else because in those traditional and the most there is a reward very tangible reward
+
+01:19:42.000 --> 01:19:48.080
+frankly for interacting with other people the only reason you make a friend in the metaverse is
+
+01:19:48.080 --> 01:19:54.000
+because you're getting your aspect like if you need to slay the dragon and you can do it on your
+
+01:19:54.000 --> 01:20:00.480
+own and it's like step off dude this is my loop but if you have that kind of force collaboration
+
+01:20:00.480 --> 01:20:05.600
+that incentivizing it then that opens up the space for some of those relationships to form
+
+01:20:06.640 --> 01:20:14.880
+but do you actually spend all your time in a metaverse actually going off and slaying dragons and
+
+01:20:14.880 --> 01:20:21.120
+and playing these game loops if it's anything like the games that you know I'm talking about
+
+01:20:21.120 --> 01:20:28.960
+no you actually spend a lot of time in guild chat or in the marketplace or the bizarre looking for
+
+01:20:28.960 --> 01:20:36.480
+items or setting up shop or doing kind of more relaxed things and so I think it's a lot about
+
+01:20:36.480 --> 01:20:40.960
+you know these are things that we're constantly thinking about is you need to
+
+01:20:42.880 --> 01:20:48.080
+reward people for collaborating make it so they have to talk to people and engage with people
+
+01:20:48.080 --> 01:20:53.920
+and have fun doing that and then you also need to create the spaces where it's can be
+
+01:20:56.560 --> 01:21:03.520
+the living room couch or the internet where you can just hang out with people in the same way
+
+01:21:03.520 --> 01:21:09.920
+that a lot of people are using Twitter and discord to this day and so if you're not building with
+
+01:21:09.920 --> 01:21:15.440
+those two things at the forefront then yeah I think it's your destined to fail because even those
+
+01:21:15.440 --> 01:21:21.520
+two things are very difficult to pull off yeah I think it's going to be an incredible decade of
+
+01:21:21.520 --> 01:21:26.000
+experimentation I don't think anyone's nailed it yet I mean there's very successful games that
+
+01:21:26.000 --> 01:21:30.480
+have effectively become metaverses I don't think anyone has started with the word metaverse
+
+01:21:31.040 --> 01:21:36.800
+and gotten an experience really right because if you did it would be a twitter sized
+
+01:21:36.800 --> 01:21:41.440
+company a Facebook size company right like you would spend all our time all right let's wrap
+
+01:21:41.440 --> 01:21:50.320
+up with the punks in first quarter last year you debought the IP of the punks and the Mibits but
+
+01:21:50.320 --> 01:21:58.640
+I think people care more about the punks and the larval abs punks and Mibits and beyond this being
+
+01:21:58.640 --> 01:22:06.240
+like utterly shocking 21 who was there a year less than a year after the mid right I mean if you
+
+01:22:06.240 --> 01:22:14.240
+could have taken odds nine months earlier one of the odds that not only the board aches the
+
+01:22:14.240 --> 01:22:18.240
+punks but then by the punks and I think people would have given you a million to what odds right
+
+01:22:18.240 --> 01:22:26.560
+like it's the most improbable thing that happened in the last 24 months and it was very interesting
+
+01:22:26.560 --> 01:22:39.040
+because the even though the punks had this image of decentralization there actual license terms
+
+01:22:39.040 --> 01:22:44.240
+as far as anyone could tell or fairly centralized and I say as far as anyone could tell because the
+
+01:22:44.240 --> 01:22:49.280
+larval abs founders are absolute geniuses but didn't communicate very much so a lot of people
+
+01:22:49.280 --> 01:22:54.800
+just guessing what they were thinking and this is what I think got 4156 subset with them at the end
+
+01:22:54.800 --> 01:23:03.040
+that and he sold his his ape and so you move the punks to the commercial rights model which
+
+01:23:03.040 --> 01:23:09.840
+objectively is a more decentralized model than that before there's no question about that it's
+
+01:23:09.840 --> 01:23:18.000
+objectively more decentralized and I thought that was very good but also a lot of OG punks holders
+
+01:23:19.200 --> 01:23:24.320
+didn't feel nice they felt disillusioned they and if you dug out it what was the thing that was
+
+01:23:24.320 --> 01:23:31.120
+bothering them it felt like a corporate thing that happened you say well but you know it's just
+
+01:23:31.120 --> 01:23:34.400
+as corporate before as it is now it was owned by one company outside by a different company and
+
+01:23:34.400 --> 01:23:41.120
+this company is more open and I think I'm putting words in their mouth but I think this is actually
+
+01:23:41.120 --> 01:23:50.320
+how it is there was a state of suspended disbelief before but like because the founders were very
+
+01:23:50.320 --> 01:23:56.720
+much absent and I think in a way mostly people could just project onto the punks you know it's
+
+01:23:56.720 --> 01:24:02.240
+an OG and it's an OG message and it's a message of crypto and decentralization and then the
+
+01:24:02.240 --> 01:24:07.440
+crystallization of well that he was owned by a company now it's a bit of a company I think to
+
+01:24:07.440 --> 01:24:16.560
+some some of the OG punks I don't think they loved it I mean if you know those like a mixed
+
+01:24:16.560 --> 01:24:22.240
+reaction I was on the more positive of the group but I think some of the more OGs were less
+
+01:24:22.240 --> 01:24:27.920
+but there's a lot of people in weight and c-mode I think like seeing like okay what will what will
+
+01:24:27.920 --> 01:24:38.480
+happen now with all that how do you view the punks how do you view the punks in your broader
+
+01:24:38.480 --> 01:24:48.000
+extended universe how is there your stewardship how's their pathway might be different than
+
+01:24:48.000 --> 01:24:53.760
+the board apes what does this all mean how should how should the punks community think about
+
+01:24:53.760 --> 01:25:00.080
+the topic from your perspective yeah absolutely it's different it's completely different then
+
+01:25:01.440 --> 01:25:05.600
+crypto punks is very different from board API club and so are the communities and
+
+01:25:05.600 --> 01:25:13.680
+and the projects should be treated extremely differently because of that our
+
+01:25:15.600 --> 01:25:22.720
+vision of crypto punks has always been that they are like the Mona Lisa of NFTs the early cave
+
+01:25:22.720 --> 01:25:34.800
+paintings of NFTs they are these originals that should they be treated with respect and
+
+01:25:34.800 --> 01:25:43.840
+good stewardship will always flourish and that our job is to do just that that what's good for
+
+01:25:43.840 --> 01:25:51.440
+punks is good for apes and what's good for apes is good for punks that's why frankly we wanted to
+
+01:25:51.440 --> 01:26:00.080
+own them rather than someone else who might because we felt like we understood that you know if
+
+01:26:00.080 --> 01:26:07.920
+it something bad were to happen a punks it wouldn't be good for apes and the only reason
+
+01:26:08.960 --> 01:26:14.320
+we felt like we could acquire them that there was a path forward here was if we were going to as
+
+01:26:14.320 --> 01:26:21.360
+you say decentralize the IP with a full commercial license in the vein of what we did for BUIC
+
+01:26:21.360 --> 01:26:32.880
+that felt to us just to be objectively better for punk holders and something that we felt like
+
+01:26:35.040 --> 01:26:45.520
+was being asked for for a while we're at least clarity around it and so we have taken a slow
+
+01:26:45.520 --> 01:26:53.760
+approach here and hope to continue to do so in a way that is in active communication with
+
+01:26:54.400 --> 01:27:04.800
+punk holders I know Noah meets with punks all the time and we want to act in a way that aligns
+
+01:27:04.800 --> 01:27:15.040
+with the majority vision where we can do things like restore the crypto punks app marketplace where
+
+01:27:15.920 --> 01:27:23.760
+there are things that aren't quite working as intended or as they should and they can be spruced
+
+01:27:23.760 --> 01:27:36.480
+up and fixed a bit of retouching to the monolith as it were but you know at most a new frame and not
+
+01:27:36.480 --> 01:27:40.640
+a drastic change of that so that's kind of the broad vision for how we how we view punks
+
+01:27:41.680 --> 01:27:47.600
+like that makes sense it makes sense to me I think on the whole the punks don't need very much their
+
+01:27:47.600 --> 01:27:55.040
+social construction will happen naturally and like most I spoke to Noah and I was trying to think
+
+01:27:55.040 --> 01:28:00.480
+of ideas and like I think a lot of ideas and I'm like yeah most of ideas are actually bad like I'm
+
+01:28:00.480 --> 01:28:06.080
+not going to say anything like like most ideas probably are negative but the median idea one
+
+01:28:06.080 --> 01:28:11.040
+could think of to do with the punks probably is not helpful to the punks right and so it takes a
+
+01:28:11.040 --> 01:28:19.440
+very I think delicate touch to see how that can be distorted without breaking because the punks I
+
+01:28:19.440 --> 01:28:25.680
+think are I think what it is because there's so low res people can project whatever they want on
+
+01:28:25.680 --> 01:28:34.720
+them and to the degree they become more physically insatiated they think they take more physical form
+
+01:28:34.720 --> 01:28:43.200
+it might break the take my image of what six five to nine means right whereas I have a board
+
+01:28:43.200 --> 01:28:48.800
+I have multiple board eights of mutants and I have those they're much more detailed so my
+
+01:28:48.800 --> 01:28:53.360
+image and your image of what my board eight look like are probably pretty close because they're
+
+01:28:53.360 --> 01:28:58.000
+much more detailed whereas like what I envision when I look at six five to nine and when you're
+
+01:28:58.000 --> 01:29:02.720
+envision when I look at those and what no envision is it might be totally different and most of the
+
+01:29:02.720 --> 01:29:10.000
+people have made for me all these like 3d versions of my punks and I've almost without
+
+01:29:10.000 --> 01:29:16.080
+exception came over what I hate them I hate them look at them I'm like ah that's not how and I
+
+01:29:16.080 --> 01:29:21.200
+can't tell you what I envision it but it's not bad what action vision is this low res
+
+01:29:22.160 --> 01:29:28.320
+you know that it's more of a blank slate okay well I have gone way over time and you have
+
+01:29:28.320 --> 01:29:34.960
+very generous with your time I'm going to give you the floor for one more topic what question should
+
+01:29:34.960 --> 01:29:42.320
+I have asked I didn't what should we have covered that we didn't what's the closing words
+
+01:29:42.320 --> 01:29:47.280
+you'd like to leave for the group question that you should have asked but you didn't I don't know
+
+01:29:47.280 --> 01:29:51.440
+I wish we got to talk more about you know memes and shitposts or something like that
+
+01:29:51.440 --> 01:30:00.560
+some of these like that Twitter briarality that that's actually so core to crypto but you know
+
+01:30:00.560 --> 01:30:06.800
+for another day what we'll see is the memes production another day but you do that in the
+
+01:30:06.800 --> 01:30:14.880
+spring semester sounds great okay well thank you so thank you so much this was great and I think
+
+01:30:14.880 --> 01:30:21.760
+the students will get a ton out of this thank you so much for having me thanks for hosting
+
+01:30:21.760 --> 01:30:47.360
+thank you
+

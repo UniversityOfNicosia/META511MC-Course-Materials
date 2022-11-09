@@ -1,0 +1,5816 @@
+1
+00:00:00,000 --> 00:00:27,240
+Welcome everyone to session 3 of meta 5 11 NFTs and the metaverse.
+
+2
+00:00:27,240 --> 00:00:33,480
+This week we're going to talk about PFPs and this week we're going to be doing something
+
+3
+00:00:33,480 --> 00:00:39,800
+different in the prior two weeks and so there'll be a little experimentation as we go
+
+4
+00:00:39,800 --> 00:00:46,760
+along and what I mean by different in this case is how we're going to pull together
+
+5
+00:00:46,760 --> 00:00:50,520
+the material for this week.
+
+6
+00:00:50,520 --> 00:00:55,800
+Last week if you remember Ellie and I and George did a session together and that was the
+
+7
+00:00:55,800 --> 00:00:58,000
+week session.
+
+8
+00:00:58,000 --> 00:01:05,240
+This week I'm going to present some material about PFPs today.
+
+9
+00:01:05,240 --> 00:01:14,660
+Yesterday I reported a session with Garga Greg Solano from Yuga Labs where we covered
+
+10
+00:01:14,660 --> 00:01:22,640
+a lot of these same topics and in more depth and that we will play on Thursday and have
+
+11
+00:01:22,640 --> 00:01:31,080
+Q&A on Thursday and the reason we're holding that back is because in order to have I think
+
+12
+00:01:31,080 --> 00:01:36,280
+a good understanding of that session it's good today to cover some of the more background
+
+13
+00:01:36,280 --> 00:01:46,480
+material because that session implies some good understanding of the topic already.
+
+14
+00:01:46,480 --> 00:01:54,720
+And then hopefully the next few days I'll have a similar discussion with pump 4156 where
+
+15
+00:01:54,720 --> 00:02:02,320
+again for that discussion it is useful to have had the context both of today's discussion
+
+16
+00:02:02,320 --> 00:02:10,800
+and the one with Garga because in many ways one builds on another on another and so they've
+
+17
+00:02:10,800 --> 00:02:17,920
+actually left some slides at the end of this presentation, the conclusions, unconcluded
+
+18
+00:02:17,920 --> 00:02:19,720
+yet.
+
+19
+00:02:19,720 --> 00:02:24,440
+What I'd like to do is fill them in after we've done all three sessions, fill in the further
+
+20
+00:02:24,440 --> 00:02:30,800
+reading because I want to incorporate feedback from the other sessions because we got into
+
+21
+00:02:30,800 --> 00:02:38,120
+some real depth on some of these topics, topics that we'll cover for a few minutes today
+
+22
+00:02:38,120 --> 00:02:43,400
+we covered for an hour and a half in the session with Garga.
+
+23
+00:02:43,400 --> 00:02:48,160
+So we'll see exactly how this works.
+
+24
+00:02:48,160 --> 00:02:52,960
+I think it's a new format for this week and I think it's going to be the format that
+
+25
+00:02:52,960 --> 00:02:59,000
+we're going to increasingly have the following weeks because the pace of guests is going
+
+26
+00:02:59,000 --> 00:03:06,920
+to pick up and so we're trying to find the model where we balance what I think is going
+
+27
+00:03:06,920 --> 00:03:17,920
+on with the course audience is we have everyone from extremely sophisticated users of NFTs
+
+28
+00:03:17,920 --> 00:03:20,760
+to people who are new to the space.
+
+29
+00:03:20,760 --> 00:03:29,040
+And so if you're an extremely sophisticated user of NFTs or in the NFT field you'll
+
+30
+00:03:29,040 --> 00:03:35,000
+probably find some of today's session fairly straightforward and things that are quite
+
+31
+00:03:35,000 --> 00:03:36,560
+obvious to you.
+
+32
+00:03:36,560 --> 00:03:44,480
+On the other hand what is going to come on Thursday I found super interesting and sophisticated
+
+33
+00:03:44,480 --> 00:03:47,800
+and I'm I think a sophisticated user of NFTs.
+
+34
+00:03:47,800 --> 00:03:56,960
+So the overall week is going to touch upon is going to touch upon both basic intermediate
+
+35
+00:03:56,960 --> 00:04:04,240
+and advanced issues in one week and I'd like to stage it and phase it so that particularly
+
+36
+00:04:04,240 --> 00:04:12,360
+for the folks who are newer they can pick up some of the basics so they can stay in touch
+
+37
+00:04:12,360 --> 00:04:17,840
+with the discussion that happens in the more advanced discussions with the guests.
+
+38
+00:04:17,840 --> 00:04:27,080
+So I guess I view my job today as giving the groundwork so that everyone not just our
+
+39
+00:04:27,080 --> 00:04:33,840
+sophisticated students, everyone can get the most out of the more in depth discussions
+
+40
+00:04:33,840 --> 00:04:36,080
+that are going to happen later in the week.
+
+41
+00:04:36,080 --> 00:04:41,400
+And like everything else we are learning in progress as we're doing this.
+
+42
+00:04:41,400 --> 00:04:47,680
+So we'll see exactly what works we'll find unit for next week and then we'll I think
+
+43
+00:04:47,680 --> 00:04:50,160
+figure out a good model for the upcoming weeks.
+
+44
+00:04:50,160 --> 00:04:55,000
+There's a lot of interesting guests coming up and I'm really excited about.
+
+45
+00:04:55,000 --> 00:05:03,040
+So the other thing we might try today and I say this with some trepidation but we don't
+
+46
+00:05:03,040 --> 00:05:04,800
+learn until we try.
+
+47
+00:05:04,800 --> 00:05:09,680
+I'm going to try and do the Q&A in home.
+
+48
+00:05:09,680 --> 00:05:16,720
+So instead of maybe here in StreamYard it's a streaming platform that I'm using to
+
+49
+00:05:16,720 --> 00:05:21,760
+stream into home after I finish presenting the slides.
+
+50
+00:05:21,760 --> 00:05:31,000
+I'm going to try and answer the questions directly in home using OMS audio feature and
+
+51
+00:05:31,000 --> 00:05:37,160
+the really interesting question is how are we going to manage moderation in that model.
+
+52
+00:05:37,160 --> 00:05:44,840
+We have audio turned off because I think with hundreds of people we could we might lose
+
+53
+00:05:44,840 --> 00:05:45,840
+folks.
+
+54
+00:05:45,840 --> 00:05:48,840
+I will see what's helpful to it.
+
+55
+00:05:48,840 --> 00:05:54,040
+I think there might also be some issues of people in different rooms, there are messages
+
+56
+00:05:54,040 --> 00:05:55,040
+like it was.
+
+57
+00:05:55,040 --> 00:05:57,920
+So we'll see how it is at the end of the session.
+
+58
+00:05:57,920 --> 00:06:05,480
+I might be conservative and just handle this week's session once again in the StreamYard
+
+59
+00:06:05,480 --> 00:06:06,480
+model.
+
+60
+00:06:06,480 --> 00:06:11,480
+We'll make it the end time decision of the session.
+
+61
+00:06:11,480 --> 00:06:15,240
+So with that let me get into the slides and let me cover some basics.
+
+62
+00:06:15,240 --> 00:06:19,560
+Let's make sure we get everyone on the same page so that we're good for today's Q&A
+
+63
+00:06:19,560 --> 00:06:22,600
+and we're good for later in the week.
+
+64
+00:06:22,600 --> 00:06:29,240
+So we're in session three, we're going to talk about PFPs and we're going to put it
+
+65
+00:06:29,240 --> 00:06:37,520
+in three buckets, PFPs and virtual identity in general, PFPs in an NFT context and a few
+
+66
+00:06:37,520 --> 00:06:42,080
+quantitative methods.
+
+67
+00:06:42,080 --> 00:06:45,400
+This is what I had mentioned earlier today.
+
+68
+00:06:45,400 --> 00:06:57,000
+We have the first session on Thursday at let me try at one thirty Eastern time.
+
+69
+00:06:57,000 --> 00:07:02,400
+I think in Eastern time or one thirty New York time, we're going to do the session with
+
+70
+00:07:02,400 --> 00:07:09,080
+Darga and we're still working on logistics for one five six, it will come later.
+
+71
+00:07:09,080 --> 00:07:16,080
+So please follow the unique metaverse Twitter account about keeping posted with all the
+
+72
+00:07:16,080 --> 00:07:18,080
+logistics.
+
+73
+00:07:18,080 --> 00:07:25,120
+All right, I'll start with the absolute basics because I do find that sometimes people
+
+74
+00:07:25,120 --> 00:07:27,400
+who are not in the NFT space are little.
+
+75
+00:07:27,400 --> 00:07:35,200
+What does PFP mean and I'm going to laugh here because I remember when I asked someone
+
+76
+00:07:35,200 --> 00:07:42,200
+about that and I actually gave them the, what does it mean and they explained it to me
+
+77
+00:07:42,200 --> 00:07:44,200
+and it means profile picture.
+
+78
+00:07:44,200 --> 00:07:52,200
+Sounds very fancy actually just means profile picture and profile pictures obviously predate
+
+79
+00:07:52,200 --> 00:08:03,200
+and if keys profile pictures are a key component of every single social media.
+
+80
+00:08:03,200 --> 00:08:10,200
+You see them in different styles.
+
+81
+00:08:10,200 --> 00:08:16,200
+I would say the typical, I don't think I'm going to surprise anyone here, the typical profile
+
+82
+00:08:16,200 --> 00:08:17,200
+picture we'll see.
+
+83
+00:08:17,200 --> 00:08:22,200
+I'm like then it might be different in the typical profile picture you'll see on Instagram,
+
+84
+00:08:22,200 --> 00:08:28,200
+even though Gates feels he needs to put on his nice business casual for profile picture
+
+85
+00:08:28,200 --> 00:08:34,200
+as does every one.
+
+86
+00:08:34,200 --> 00:08:37,200
+And what do people use as their profile picture?
+
+87
+00:08:37,200 --> 00:08:40,200
+Absolutely anything.
+
+88
+00:08:40,200 --> 00:08:48,200
+The normal model where I think people used to, what people used to do historically and
+
+89
+00:08:48,200 --> 00:08:56,200
+still most people, is they put a picture of themselves, actually the literal picture of themselves.
+
+90
+00:08:56,200 --> 00:09:01,200
+And this is nothing new than a key, so people put a picture of them and sure everyone
+
+91
+00:09:01,200 --> 00:09:07,200
+in the group here has social media accounts and often has a picture of them.
+
+92
+00:09:07,200 --> 00:09:15,200
+Some people put an illustration of themselves, Tyler Hobbs, an amazing generative artist,
+
+93
+00:09:15,200 --> 00:09:20,200
+but his profile picture is an illustration of himself.
+
+94
+00:09:20,200 --> 00:09:29,200
+Naval is an amazing generative investor and a very abstract picture of themselves.
+
+95
+00:09:29,200 --> 00:09:34,200
+Some people put a picture of something else that's important, a special place of each.
+
+96
+00:09:34,200 --> 00:09:39,200
+Sometimes they're spouse, they're children.
+
+97
+00:09:39,200 --> 00:09:46,200
+And over the last, and it hasn't been very long, last one and a half to two years,
+
+98
+00:09:46,200 --> 00:09:55,200
+there has been a different spread where people are putting it as a PFT and NFT.
+
+99
+00:09:55,200 --> 00:10:00,200
+And even here, there's kind of two models.
+
+100
+00:10:00,200 --> 00:10:12,200
+People who are using an NFT from a collection that is specifically oriented to be a PFT collection.
+
+101
+00:10:12,200 --> 00:10:23,200
+And then people who are just putting it as a PFT and NFT that might just be a piece of work.
+
+102
+00:10:23,200 --> 00:10:31,200
+So, it's interesting that a KFPs even predate the Internet.
+
+103
+00:10:31,200 --> 00:10:35,200
+Your high school yearbook has PFPs.
+
+104
+00:10:35,200 --> 00:10:43,200
+And I was thinking about the slides for this session.
+
+105
+00:10:43,200 --> 00:10:48,200
+And I remember how Facebook started.
+
+106
+00:10:48,200 --> 00:10:51,200
+And Facebook literally started on this concept.
+
+107
+00:10:51,200 --> 00:10:56,200
+Mark Zuckerberg was a sophomore, I think, a Harvard.
+
+108
+00:10:56,200 --> 00:11:03,200
+And Harvard had a Facebook where you could see your classmates that can come and classmates.
+
+109
+00:11:03,200 --> 00:11:07,200
+And open it and look for their pictures.
+
+110
+00:11:07,200 --> 00:11:12,200
+And he said, well, this is 2004.
+
+111
+00:11:12,200 --> 00:11:16,200
+We have the Internet. Why do I have to look at a physical look?
+
+112
+00:11:16,200 --> 00:11:21,200
+And I put this online.
+
+113
+00:11:21,200 --> 00:11:27,200
+And over to the right is what early Facebook was like.
+
+114
+00:11:27,200 --> 00:11:36,200
+It's not the work online as opposed to Internet. And you could check it on your Facebook.
+
+115
+00:11:36,200 --> 00:11:40,200
+It is fundamental to social media.
+
+116
+00:11:40,200 --> 00:11:44,200
+It is fundamental to how we organize ourselves in social media.
+
+117
+00:11:44,200 --> 00:11:52,200
+Because social media is about people, about community, about identity.
+
+118
+00:11:52,200 --> 00:11:59,200
+And sure, there's a variety of technological platforms that are underlined.
+
+119
+00:11:59,200 --> 00:12:04,200
+But the human needs are the same.
+
+120
+00:12:04,200 --> 00:12:11,200
+It is a social media platform without any people in it.
+
+121
+00:12:11,200 --> 00:12:15,200
+It's absolutely worth it.
+
+122
+00:12:15,200 --> 00:12:20,200
+And I say that in the universe and say, well, that's obvious, but it's not obvious.
+
+123
+00:12:20,200 --> 00:12:24,200
+You know, not all software is like that.
+
+124
+00:12:24,200 --> 00:12:28,200
+Global search engine is very valuable to me if it was the exact same global search engine
+
+125
+00:12:28,200 --> 00:12:31,200
+or was that there wasn't anyone else using it.
+
+126
+00:12:31,200 --> 00:12:33,200
+It's perfectly valuable.
+
+127
+00:12:33,200 --> 00:12:42,200
+I need to find direction somewhere I need to look up and find the article from the crimson in 2004.
+
+128
+00:12:42,200 --> 00:12:47,200
+It was very useful, even in a solo usage case.
+
+129
+00:12:47,200 --> 00:12:53,200
+Social media is not.
+
+130
+00:12:53,200 --> 00:12:59,200
+Social media is pointless in the social media of the solo usage case.
+
+131
+00:12:59,200 --> 00:13:07,200
+And this is actually an important part, and it's one we need to keep in mind,
+
+132
+00:13:07,200 --> 00:13:18,200
+the what the web to social media companies have successfully done is tap into core human desires.
+
+133
+00:13:18,200 --> 00:13:25,200
+See their classmates or their friends or their family or people they hope to meet or people they admire or people who they think they're interesting.
+
+134
+00:13:25,200 --> 00:13:30,200
+Or in some cases, use the people they dislike.
+
+135
+00:13:30,200 --> 00:13:46,200
+And the social media platform gives you the mechanism by which you can find the communicate with them, yell at them online that we like to.
+
+136
+00:13:46,200 --> 00:13:49,200
+And they're built.
+
+137
+00:13:49,200 --> 00:14:01,200
+They're only value is, in fact, people who are using it.
+
+138
+00:14:01,200 --> 00:14:08,200
+And in a way, they've done an excellent job of capturing value that is latent and pre-existing in humans.
+
+139
+00:14:08,200 --> 00:14:12,200
+And then in some cases, you know, selling it back to you.
+
+140
+00:14:12,200 --> 00:14:19,200
+And the general model of a social media company is you want to go look at other people's profile picture.
+
+141
+00:14:19,200 --> 00:14:22,200
+And this is the basic thing, or what it is.
+
+142
+00:14:22,200 --> 00:14:28,200
+See what Mark is saying or George is saying or Tim Kardashian is saying.
+
+143
+00:14:28,200 --> 00:14:41,200
+And that attention, that human attention of yours is then being partially monetized with certain, certain post coming in that are advertisements.
+
+144
+00:14:41,200 --> 00:14:50,200
+So, PFPs were interesting at the level of your printed high school yearbook.
+
+145
+00:14:50,200 --> 00:14:53,200
+I think they still have minds for it.
+
+146
+00:14:53,200 --> 00:14:59,200
+But now we're near as interesting as they became when you can take them online.
+
+147
+00:14:59,200 --> 00:15:05,200
+So they became there much more interesting online.
+
+148
+00:15:05,200 --> 00:15:15,200
+And I think we should note because virtual identities are not only two-dimensional.
+
+149
+00:15:15,200 --> 00:15:19,200
+We have had a long history of avatars.
+
+150
+00:15:19,200 --> 00:15:24,200
+And avatars primarily came out of the gaming world.
+
+151
+00:15:24,200 --> 00:15:29,200
+And they have become progressively more three-dimensional.
+
+152
+00:15:29,200 --> 00:15:35,200
+It started off as fairly two-dimensional as well, you know, 1990s era video games.
+
+153
+00:15:35,200 --> 00:15:41,200
+And avatars had characters you played as a character in that game.
+
+154
+00:15:41,200 --> 00:15:47,200
+And some of those graphics today were, would give you this quite low resolution and that interesting.
+
+155
+00:15:47,200 --> 00:15:49,200
+But it didn't actually matter.
+
+156
+00:15:49,200 --> 00:15:51,200
+They still became engaged.
+
+157
+00:15:51,200 --> 00:15:55,200
+You still felt you were a football player.
+
+158
+00:15:55,200 --> 00:16:02,200
+You were a football player, you were a football player, or the player or the fighter or the warrior.
+
+159
+00:16:02,200 --> 00:16:07,200
+And you inhabited that identity.
+
+160
+00:16:07,200 --> 00:16:14,200
+Even on a very basic, not very high resolution, not particularly three-dimensional.
+
+161
+00:16:14,200 --> 00:16:26,200
+And avatars, well, as Mr. Moore, Moore's Law, Moore's Law is the version of Moore's Law for GPUs that wasn't even given it.
+
+162
+00:16:26,200 --> 00:16:31,200
+Help us have more graphic processing capacity.
+
+163
+00:16:31,200 --> 00:16:35,200
+The characters became more complex, more three-dimensional.
+
+164
+00:16:35,200 --> 00:16:41,200
+And in time, more customizable.
+
+165
+00:16:41,200 --> 00:16:47,200
+And so, there is a gigantic gaming economy.
+
+166
+00:16:47,200 --> 00:16:52,200
+Based on people, having an avatar in some type of game,
+
+167
+00:16:52,200 --> 00:16:57,200
+you're going to grab the creator, module, and read the lectures.
+
+168
+00:16:57,200 --> 00:17:00,200
+This happens in dozens of games.
+
+169
+00:17:00,200 --> 00:17:06,200
+And people customize their avatar to reflect what they'd like it to be.
+
+170
+00:17:06,200 --> 00:17:24,200
+And largely, those gaming economies are driven by the companies selling new features for your avatar,
+
+171
+00:17:24,200 --> 00:17:37,200
+a skin, or a piece of clothing, or some object to carry, and some of these are gigantic businesses.
+
+172
+00:17:37,200 --> 00:17:43,200
+Based on this fundamental human need to represent yourself in that context,
+
+173
+00:17:43,200 --> 00:17:45,200
+in that context, might be a game or a mental field.
+
+174
+00:17:45,200 --> 00:17:49,200
+You can call some of those games for the metaverses.
+
+175
+00:17:49,200 --> 00:17:55,200
+And the reality is, for the same reason that in real life,
+
+176
+00:17:55,200 --> 00:18:02,200
+we don't all wear the exact same state-issued set of packet pants,
+
+177
+00:18:02,200 --> 00:18:08,200
+and the state-issued white t-shirt, and everyone does not wear the exact same clothing.
+
+178
+00:18:08,200 --> 00:18:15,200
+This appears to be true in virtual roles, because we're still the same people who are virtual roles.
+
+179
+00:18:15,200 --> 00:18:21,200
+And on the whole, people do not want to just have the exact same avatar as everyone else.
+
+180
+00:18:21,200 --> 00:18:24,200
+And depending on your interest in that world, or in that game,
+
+181
+00:18:24,200 --> 00:18:26,200
+and your budget, and how much money you have available,
+
+182
+00:18:26,200 --> 00:18:31,200
+and the dynamics, how many customizations you can earn by playing versus buying,
+
+183
+00:18:31,200 --> 00:18:35,200
+you might customize more or less, you might spend more or less,
+
+184
+00:18:35,200 --> 00:18:42,200
+but very obviously, the cases that people want to express their identity,
+
+185
+00:18:42,200 --> 00:18:46,200
+want to express their identity, whether it's in TV or in TV,
+
+186
+00:18:46,200 --> 00:18:49,200
+whether it's on social media, whether it's in gaming,
+
+187
+00:18:49,200 --> 00:18:54,200
+all of this predates an FT.
+
+188
+00:18:54,200 --> 00:19:00,200
+None of this was invented in 2021.
+
+189
+00:19:00,200 --> 00:19:07,200
+Arguably, almost all of the largest technology companies in the world,
+
+190
+00:19:07,200 --> 00:19:14,200
+the social media companies, the gaming companies, I leave aside in a Google search,
+
+191
+00:19:14,200 --> 00:19:20,200
+actually Apple, the new Tardews, but most of the Web2 slash gaming companies
+
+192
+00:19:20,200 --> 00:19:26,200
+have this concept at the heart of their model.
+
+193
+00:19:26,200 --> 00:19:33,200
+And one of the things that I find very interesting is there's a lot of pushback
+
+194
+00:19:33,200 --> 00:19:40,200
+from non-NFT people, so I don't know. I can't believe people using these silly avatar
+
+195
+00:19:40,200 --> 00:19:44,200
+or the silly TFPs, they're paying money for them.
+
+196
+00:19:44,200 --> 00:19:48,200
+What's wrong with them? Harding would pay money for them.
+
+197
+00:19:48,200 --> 00:19:50,200
+There are the largest tech companies in the world,
+
+198
+00:19:50,200 --> 00:19:53,200
+the largest gaming companies in the world are baseless of that type of content.
+
+199
+00:19:53,200 --> 00:19:57,200
+And we'll talk later what this means in the NFT context,
+
+200
+00:19:57,200 --> 00:20:01,200
+but this was not invented in 2021.
+
+201
+00:20:01,200 --> 00:20:05,200
+It's key to human nature, it's key to human identity,
+
+202
+00:20:05,200 --> 00:20:12,200
+human identity will express itself regardless of the exact mechanism
+
+203
+00:20:12,200 --> 00:20:15,200
+by which we interact with others.
+
+204
+00:20:15,200 --> 00:20:22,200
+And that's what we've been saying with them.
+
+205
+00:20:22,200 --> 00:20:24,200
+So I keep saying the word identity.
+
+206
+00:20:24,200 --> 00:20:27,200
+To me, that's the most important word in this session.
+
+207
+00:20:27,200 --> 00:20:34,200
+And identity can mean multiple things.
+
+208
+00:20:34,200 --> 00:20:38,200
+First of all, there's personal identity,
+
+209
+00:20:38,200 --> 00:20:40,200
+and people might feel that they are a certain way,
+
+210
+00:20:40,200 --> 00:20:42,200
+they're not feeling a certain way,
+
+211
+00:20:42,200 --> 00:20:44,200
+and they want to express it in a certain way.
+
+212
+00:20:44,200 --> 00:20:47,200
+But I would not look at the parenthesis there.
+
+213
+00:20:47,200 --> 00:20:51,200
+I think people can and do have multiple identities,
+
+214
+00:20:51,200 --> 00:20:54,200
+talk about the translation, slide or two.
+
+215
+00:20:54,200 --> 00:20:59,200
+The first form of identity is expressing yourself as an individual.
+
+216
+00:20:59,200 --> 00:21:02,200
+I'm Tyler Hobbs.
+
+217
+00:21:02,200 --> 00:21:05,200
+I view myself in this way.
+
+218
+00:21:05,200 --> 00:21:07,200
+This is how I view myself literally.
+
+219
+00:21:07,200 --> 00:21:10,200
+It is the illustration of Tyler Hobbs.
+
+220
+00:21:10,200 --> 00:21:12,200
+But in a certain artist's style,
+
+221
+00:21:12,200 --> 00:21:15,200
+it reflects something however I think about himself.
+
+222
+00:21:15,200 --> 00:21:17,200
+And this is how I'd like to present myself to you all.
+
+223
+00:21:17,200 --> 00:21:20,200
+That's a personal identity.
+
+224
+00:21:20,200 --> 00:21:23,200
+People, of course, don't just have personal identity.
+
+225
+00:21:23,200 --> 00:21:26,200
+Because they have a wide variety of communities.
+
+226
+00:21:26,200 --> 00:21:29,200
+You might think of yourself as an Italian.
+
+227
+00:21:29,200 --> 00:21:32,200
+You might think of yourself as a physician.
+
+228
+00:21:32,200 --> 00:21:34,200
+You might think of yourself as a graduate
+
+229
+00:21:34,200 --> 00:21:36,200
+from the University of Alabama.
+
+230
+00:21:36,200 --> 00:21:43,200
+You might think of yourself as a fan of Chicago most.
+
+231
+00:21:43,200 --> 00:21:46,200
+All of these are artists communities.
+
+232
+00:21:46,200 --> 00:21:49,200
+Everyone belongs in multiple communities.
+
+233
+00:21:49,200 --> 00:21:56,200
+And people have a long history of also expressing
+
+234
+00:21:56,200 --> 00:21:58,200
+in visual form.
+
+235
+00:21:58,200 --> 00:22:02,200
+They're commitment to that community.
+
+236
+00:22:02,200 --> 00:22:06,200
+You drive around the American countryside and suburbs.
+
+237
+00:22:06,200 --> 00:22:09,200
+You see a lot of American fights.
+
+238
+00:22:09,200 --> 00:22:12,200
+You go to a football game,
+
+239
+00:22:12,200 --> 00:22:18,200
+a good chunk of the people in the football game,
+
+240
+00:22:18,200 --> 00:22:19,200
+and the stadiums,
+
+241
+00:22:19,200 --> 00:22:21,200
+grown adults,
+
+242
+00:22:21,200 --> 00:22:24,200
+have went and brought clothing
+
+243
+00:22:24,200 --> 00:22:31,200
+that reflects the identity of their team.
+
+244
+00:22:31,200 --> 00:22:33,200
+You take this for granted,
+
+245
+00:22:33,200 --> 00:22:36,200
+like the people will buy
+
+246
+00:22:36,200 --> 00:22:41,200
+a LeBron James shirt.
+
+247
+00:22:41,200 --> 00:22:44,200
+But it's not 100% obvious that makes sense, right?
+
+248
+00:22:44,200 --> 00:22:49,200
+If you were, if a athletic brand of athletic care
+
+249
+00:22:49,200 --> 00:22:50,200
+didn't exist,
+
+250
+00:22:50,200 --> 00:22:52,200
+and someone came and said,
+
+251
+00:22:52,200 --> 00:22:54,200
+well, we're going to,
+
+252
+00:22:54,200 --> 00:22:57,200
+I'm going to charge people 80 bucks
+
+253
+00:22:57,200 --> 00:23:00,200
+to have a LeBron James number on their back
+
+254
+00:23:00,200 --> 00:23:03,200
+and they go to basketball game.
+
+255
+00:23:03,200 --> 00:23:04,200
+Some of them are logical,
+
+256
+00:23:04,200 --> 00:23:05,200
+come on,
+
+257
+00:23:05,200 --> 00:23:06,200
+who wants to do this?
+
+258
+00:23:06,200 --> 00:23:08,200
+These are grown adults.
+
+259
+00:23:08,200 --> 00:23:09,200
+These are grown adults,
+
+260
+00:23:09,200 --> 00:23:12,200
+even while they even want to do this.
+
+261
+00:23:12,200 --> 00:23:14,200
+People don't do it,
+
+262
+00:23:14,200 --> 00:23:15,200
+and they do it at scale,
+
+263
+00:23:15,200 --> 00:23:17,200
+and it's very common.
+
+264
+00:23:17,200 --> 00:23:19,200
+And now,
+
+265
+00:23:19,200 --> 00:23:24,200
+if you walk around American University campuses,
+
+266
+00:23:24,200 --> 00:23:27,200
+which I think probably
+
+267
+00:23:27,200 --> 00:23:28,200
+have done the best job
+
+268
+00:23:28,200 --> 00:23:31,200
+among university identities.
+
+269
+00:23:31,200 --> 00:23:34,200
+There are days you walk around the campus
+
+270
+00:23:34,200 --> 00:23:35,200
+on the SCC
+
+271
+00:23:35,200 --> 00:23:38,200
+and asserted the student population
+
+272
+00:23:38,200 --> 00:23:40,200
+is wearing some type of,
+
+273
+00:23:40,200 --> 00:23:43,200
+yeah, you're related to,
+
+274
+00:23:43,200 --> 00:23:45,200
+well, I didn't do that community identify them.
+
+275
+00:23:45,200 --> 00:23:46,200
+By the way,
+
+276
+00:23:46,200 --> 00:23:48,200
+I'm saying all these things,
+
+277
+00:23:48,200 --> 00:23:49,200
+always as anything wrong with it.
+
+278
+00:23:49,200 --> 00:23:50,200
+I think it's definitely normal.
+
+279
+00:23:50,200 --> 00:23:53,200
+I think this is how humans are organized.
+
+280
+00:23:53,200 --> 00:23:56,200
+Humans like to belong to groups,
+
+281
+00:23:56,200 --> 00:23:57,200
+all the groups,
+
+282
+00:23:57,200 --> 00:23:58,200
+all the tribes,
+
+283
+00:23:58,200 --> 00:23:59,200
+like it's,
+
+284
+00:23:59,200 --> 00:24:02,200
+it's fundamental to our nature.
+
+285
+00:24:02,200 --> 00:24:06,200
+And it's cross-technology.
+
+286
+00:24:06,200 --> 00:24:08,200
+It's cross-analysis.
+
+287
+00:24:08,200 --> 00:24:11,200
+It's something fundamental to the nation.
+
+288
+00:24:11,200 --> 00:24:13,200
+And then I think the third one,
+
+289
+00:24:13,200 --> 00:24:16,200
+which might be a little bit more abstract,
+
+290
+00:24:16,200 --> 00:24:19,200
+a little bit more sophisticated.
+
+291
+00:24:19,200 --> 00:24:21,200
+But I do think it exists.
+
+292
+00:24:21,200 --> 00:24:24,200
+Let's call it branding.
+
+293
+00:24:24,200 --> 00:24:27,200
+Let's call it recall.
+
+294
+00:24:27,200 --> 00:24:29,200
+Having symbols,
+
+295
+00:24:29,200 --> 00:24:31,200
+symbolic thinking,
+
+296
+00:24:31,200 --> 00:24:33,200
+mimetic thinking,
+
+297
+00:24:33,200 --> 00:24:38,200
+is easier to remember.
+
+298
+00:24:38,200 --> 00:24:40,200
+Every single person
+
+299
+00:24:40,200 --> 00:24:43,200
+and visualized instantly
+
+300
+00:24:43,200 --> 00:24:46,200
+the making solution.
+
+301
+00:24:46,200 --> 00:24:48,200
+If I ask you to visualize
+
+302
+00:24:48,200 --> 00:24:51,200
+the face of the CEO of Nike,
+
+303
+00:24:51,200 --> 00:24:55,200
+I bet almost nobody can.
+
+304
+00:24:55,200 --> 00:24:56,200
+And this is why,
+
+305
+00:24:56,200 --> 00:24:57,200
+Nike shows,
+
+306
+00:24:57,200 --> 00:24:59,200
+always come with a solution.
+
+307
+00:24:59,200 --> 00:25:00,200
+As the Nike teachers,
+
+308
+00:25:00,200 --> 00:25:01,200
+as the Nike ads,
+
+309
+00:25:01,200 --> 00:25:03,200
+and they never come with the face
+
+310
+00:25:03,200 --> 00:25:08,200
+of the current CEO of Nike.
+
+311
+00:25:08,200 --> 00:25:09,200
+Partially it's because,
+
+312
+00:25:09,200 --> 00:25:11,200
+you know, less than a CEO's change.
+
+313
+00:25:11,200 --> 00:25:12,200
+That's part of it.
+
+314
+00:25:12,200 --> 00:25:14,200
+That's not the whole part of it.
+
+315
+00:25:14,200 --> 00:25:16,200
+The main part of it
+
+316
+00:25:16,200 --> 00:25:18,200
+is that logos,
+
+317
+00:25:18,200 --> 00:25:20,200
+and dense information.
+
+318
+00:25:20,200 --> 00:25:22,200
+Good logos are simple.
+
+319
+00:25:22,200 --> 00:25:27,200
+A picture of the CEO of Nike,
+
+320
+00:25:27,200 --> 00:25:28,200
+is very rich.
+
+321
+00:25:28,200 --> 00:25:29,200
+It's very detailed.
+
+322
+00:25:29,200 --> 00:25:31,200
+It contains a lot of information.
+
+323
+00:25:31,200 --> 00:25:33,200
+It's hard to remember.
+
+324
+00:25:33,200 --> 00:25:35,200
+The source is very simple.
+
+325
+00:25:35,200 --> 00:25:37,200
+It's easy to remember.
+
+326
+00:25:37,200 --> 00:25:39,200
+And there is something like this
+
+327
+00:25:39,200 --> 00:25:43,200
+growing on with TFPs.
+
+328
+00:25:43,200 --> 00:25:47,200
+A crypto-punk TFP
+
+329
+00:25:47,200 --> 00:25:50,200
+is lower resolution than the average
+
+330
+00:25:50,200 --> 00:25:54,200
+length in photographs.
+
+331
+00:25:54,200 --> 00:25:56,200
+And in some ways,
+
+332
+00:25:56,200 --> 00:25:57,200
+in some capacitors,
+
+333
+00:25:57,200 --> 00:25:59,200
+some people say, well, there's a lot of them.
+
+334
+00:25:59,200 --> 00:26:00,200
+They look the same.
+
+335
+00:26:00,200 --> 00:26:02,200
+You know, there's 200-something hoodie
+
+336
+00:26:02,200 --> 00:26:03,200
+folks, they all look the same.
+
+337
+00:26:03,200 --> 00:26:04,200
+And that might be true.
+
+338
+00:26:04,200 --> 00:26:06,200
+But there's also, like,
+
+339
+00:26:06,200 --> 00:26:12,200
+you know, several tens of millions of people
+
+340
+00:26:12,200 --> 00:26:14,200
+in their office casual,
+
+341
+00:26:14,200 --> 00:26:16,200
+isn't as casual and length-in,
+
+342
+00:26:16,200 --> 00:26:18,200
+and they all look the same too.
+
+343
+00:26:18,200 --> 00:26:20,200
+So, I think there's something
+
+344
+00:26:20,200 --> 00:26:23,200
+about the installation of information
+
+345
+00:26:23,200 --> 00:26:25,200
+that happens with this.
+
+346
+00:26:25,200 --> 00:26:27,200
+This is part of this.
+
+347
+00:26:27,200 --> 00:26:28,200
+This is a more sophisticated point.
+
+348
+00:26:28,200 --> 00:26:29,200
+Everyone naturally understands,
+
+349
+00:26:29,200 --> 00:26:30,200
+personally, then,
+
+350
+00:26:30,200 --> 00:26:31,200
+to the community belonging.
+
+351
+00:26:31,200 --> 00:26:32,200
+But I think this part of this,
+
+352
+00:26:32,200 --> 00:26:34,200
+and I think this drives part of this.
+
+353
+00:26:34,200 --> 00:26:36,200
+I think it's why community belonging
+
+354
+00:26:36,200 --> 00:26:38,200
+tends to rally around something.
+
+355
+00:26:38,200 --> 00:26:40,200
+It doesn't tend to rally around individuals
+
+356
+00:26:40,200 --> 00:26:43,200
+on the whole.
+
+357
+00:26:43,200 --> 00:26:46,200
+And, I mean, this is,
+
+358
+00:26:46,200 --> 00:26:49,200
+TFPs send a message not only about
+
+359
+00:26:49,200 --> 00:26:51,200
+the individual,
+
+360
+00:26:51,200 --> 00:26:53,200
+and their values,
+
+361
+00:26:53,200 --> 00:26:55,200
+they're happening with...
+
+362
+00:26:55,200 --> 00:26:56,200
+I think that also the values of the
+
+363
+00:26:56,200 --> 00:26:58,200
+broader community, right?
+
+364
+00:26:58,200 --> 00:27:00,200
+So, this is someone who
+
+365
+00:27:00,200 --> 00:27:02,200
+reflects both some personal values
+
+366
+00:27:02,200 --> 00:27:03,200
+and the values of the
+
+367
+00:27:03,200 --> 00:27:06,200
+surfing community.
+
+368
+00:27:06,200 --> 00:27:09,200
+Now,
+
+369
+00:27:09,200 --> 00:27:11,200
+we mentioned identity's plural,
+
+370
+00:27:11,200 --> 00:27:15,200
+and we'll come back to identity's plural.
+
+371
+00:27:15,200 --> 00:27:19,200
+Everyone has multiple identities.
+
+372
+00:27:19,200 --> 00:27:21,200
+Everyone plays multiple roles,
+
+373
+00:27:21,200 --> 00:27:25,200
+so you are
+
+374
+00:27:25,200 --> 00:27:29,200
+a scientist
+
+375
+00:27:29,200 --> 00:27:31,200
+and a mother
+
+376
+00:27:31,200 --> 00:27:33,200
+and a golfer
+
+377
+00:27:33,200 --> 00:27:36,200
+and a Roman Catholic
+
+378
+00:27:36,200 --> 00:27:41,200
+and a lover of
+
+379
+00:27:41,200 --> 00:27:43,200
+obscure sashimi,
+
+380
+00:27:43,200 --> 00:27:45,200
+all of those are part of your identity
+
+381
+00:27:45,200 --> 00:27:47,200
+and your personality.
+
+382
+00:27:47,200 --> 00:27:49,200
+And some people,
+
+383
+00:27:49,200 --> 00:27:51,200
+many of you,
+
+384
+00:27:51,200 --> 00:27:53,200
+blend them together.
+
+385
+00:27:53,200 --> 00:27:55,200
+Here is me,
+
+386
+00:27:55,200 --> 00:27:56,200
+a rich,
+
+387
+00:27:56,200 --> 00:27:57,200
+capitalist-favor-person.
+
+388
+00:27:57,200 --> 00:27:59,200
+I'm very interested in science
+
+389
+00:27:59,200 --> 00:28:01,200
+as well, right?
+
+390
+00:28:01,200 --> 00:28:03,200
+Um,
+
+391
+00:28:03,200 --> 00:28:05,200
+sushi from
+
+392
+00:28:05,200 --> 00:28:07,200
+obscure waters of New Zealand.
+
+393
+00:28:07,200 --> 00:28:08,200
+That's absolutely fine, right?
+
+394
+00:28:08,200 --> 00:28:09,200
+Those are people who,
+
+395
+00:28:09,200 --> 00:28:11,200
+many people,
+
+396
+00:28:11,200 --> 00:28:13,200
+none of these women say it's good or bad,
+
+397
+00:28:13,200 --> 00:28:15,200
+but for ways people express it.
+
+398
+00:28:15,200 --> 00:28:18,200
+People will express it as one identity.
+
+399
+00:28:18,200 --> 00:28:20,200
+But other people,
+
+400
+00:28:20,200 --> 00:28:22,200
+in fact, I think,
+
+401
+00:28:22,200 --> 00:28:24,200
+probably more people,
+
+402
+00:28:24,200 --> 00:28:26,200
+separate those women.
+
+403
+00:28:26,200 --> 00:28:28,200
+And then,
+
+404
+00:28:28,200 --> 00:28:30,200
+it might be because of practical reasons,
+
+405
+00:28:30,200 --> 00:28:32,200
+but I'm also happy for other reasons.
+
+406
+00:28:32,200 --> 00:28:34,200
+So,
+
+407
+00:28:34,200 --> 00:28:36,200
+it's very common,
+
+408
+00:28:36,200 --> 00:28:38,200
+that people use different
+
+409
+00:28:38,200 --> 00:28:42,200
+PFPs on different social media platforms.
+
+410
+00:28:42,200 --> 00:28:44,200
+On LinkedIn,
+
+411
+00:28:44,200 --> 00:28:46,200
+where, earlier,
+
+412
+00:28:46,200 --> 00:28:48,200
+we discussed the practical reason, right?
+
+413
+00:28:48,200 --> 00:28:50,200
+On LinkedIn, you might have your serious foot.
+
+414
+00:28:50,200 --> 00:28:52,200
+And that photo
+
+415
+00:28:52,200 --> 00:28:54,200
+is there to
+
+416
+00:28:54,200 --> 00:28:56,200
+demonstrate to a recruiter,
+
+417
+00:28:56,200 --> 00:28:58,200
+a fixed employer,
+
+418
+00:28:58,200 --> 00:29:00,200
+and have a serious professional
+
+419
+00:29:00,200 --> 00:29:02,200
+you're going to come to work and do the job.
+
+420
+00:29:02,200 --> 00:29:04,200
+On an Instagram,
+
+421
+00:29:04,200 --> 00:29:06,200
+where maybe you're
+
+422
+00:29:06,200 --> 00:29:08,200
+really only targeting it to your friends
+
+423
+00:29:08,200 --> 00:29:10,200
+or broader community,
+
+424
+00:29:10,200 --> 00:29:12,200
+you might have a more fun photo.
+
+425
+00:29:12,200 --> 00:29:14,200
+And on
+
+426
+00:29:14,200 --> 00:29:16,200
+a platform,
+
+427
+00:29:16,200 --> 00:29:18,200
+you might have a more
+
+428
+00:29:18,200 --> 00:29:20,200
+fixed photo,
+
+429
+00:29:20,200 --> 00:29:22,200
+because there you're trying to
+
+430
+00:29:22,200 --> 00:29:24,200
+attract
+
+431
+00:29:24,200 --> 00:29:26,200
+a worker,
+
+432
+00:29:26,200 --> 00:29:28,200
+and you want to
+
+433
+00:29:28,200 --> 00:29:30,200
+send a different message.
+
+434
+00:29:30,200 --> 00:29:32,200
+This is called practical reason.
+
+435
+00:29:32,200 --> 00:29:34,200
+But there might also be
+
+436
+00:29:34,200 --> 00:29:36,200
+not exactly practical reason,
+
+437
+00:29:36,200 --> 00:29:38,200
+but you'll worry that the process
+
+438
+00:29:38,200 --> 00:29:40,200
+will see the certification
+
+439
+00:29:40,200 --> 00:29:42,200
+not acted.
+
+440
+00:29:42,200 --> 00:29:44,200
+So,
+
+441
+00:29:44,200 --> 00:29:46,200
+ways that you can
+
+442
+00:29:46,200 --> 00:29:48,200
+express one event to be more fully,
+
+443
+00:29:48,200 --> 00:29:50,200
+if you're not mixing it
+
+444
+00:29:50,200 --> 00:29:52,200
+with another event.
+
+445
+00:29:52,200 --> 00:29:54,200
+So, let's say you are
+
+446
+00:29:54,200 --> 00:29:56,200
+in the 1990s,
+
+447
+00:29:56,200 --> 00:29:58,200
+you're heavy
+
+448
+00:29:58,200 --> 00:30:00,200
+into the voting boards of
+
+449
+00:30:00,200 --> 00:30:02,200
+Doom,
+
+450
+00:30:02,200 --> 00:30:04,200
+who was a video game back then,
+
+451
+00:30:04,200 --> 00:30:06,200
+you can mod it
+
+452
+00:30:06,200 --> 00:30:08,200
+in a user community,
+
+453
+00:30:08,200 --> 00:30:10,200
+and let's say you were
+
+454
+00:30:10,200 --> 00:30:12,200
+a doctor,
+
+455
+00:30:12,200 --> 00:30:14,200
+but this is what you did
+
+456
+00:30:14,200 --> 00:30:16,200
+to blow off steam,
+
+457
+00:30:16,200 --> 00:30:18,200
+you designed
+
+458
+00:30:18,200 --> 00:30:20,200
+custom Doom boards
+
+459
+00:30:20,200 --> 00:30:22,200
+you went around,
+
+460
+00:30:22,200 --> 00:30:24,200
+shooting rockets with monsters,
+
+461
+00:30:24,200 --> 00:30:26,200
+whatever.
+
+462
+00:30:26,200 --> 00:30:28,200
+In that world,
+
+463
+00:30:28,200 --> 00:30:30,200
+the things that are interesting
+
+464
+00:30:30,200 --> 00:30:32,200
+in that world,
+
+465
+00:30:32,200 --> 00:30:34,200
+because people are going to care about
+
+466
+00:30:34,200 --> 00:30:36,200
+in that world,
+
+467
+00:30:36,200 --> 00:30:38,200
+they'll be topics like
+
+468
+00:30:38,200 --> 00:30:40,200
+23 patients today,
+
+469
+00:30:40,200 --> 00:30:42,200
+and they told you about their
+
+470
+00:30:42,200 --> 00:30:42,200
+shorts rolled,
+
+471
+00:30:42,200 --> 00:30:44,200
+and their flu
+
+472
+00:30:44,200 --> 00:30:44,200
+would have you.
+
+473
+00:30:44,200 --> 00:30:46,200
+It's not that interesting.
+
+474
+00:30:46,200 --> 00:30:48,200
+It's not relevant to that
+
+475
+00:30:48,200 --> 00:30:50,200
+content,
+
+476
+00:30:50,200 --> 00:30:52,200
+and you wouldn't be as effectively
+
+477
+00:30:52,200 --> 00:30:54,200
+as sharing that content.
+
+478
+00:30:54,200 --> 00:30:56,200
+If you talked about those things,
+
+479
+00:30:56,200 --> 00:30:58,200
+and so there's
+
+480
+00:30:58,200 --> 00:31:00,200
+a model
+
+481
+00:31:00,200 --> 00:31:02,200
+that is not based on practical
+
+482
+00:31:02,200 --> 00:31:04,200
+concerns, like you have
+
+483
+00:31:04,200 --> 00:31:06,200
+the GP isn't concerned
+
+484
+00:31:06,200 --> 00:31:08,200
+with video games,
+
+485
+00:31:08,200 --> 00:31:10,200
+it's a good problem,
+
+486
+00:31:10,200 --> 00:31:12,200
+not a problem at all.
+
+487
+00:31:12,200 --> 00:31:14,200
+Nonetheless,
+
+488
+00:31:14,200 --> 00:31:16,200
+when he goes to work,
+
+489
+00:31:16,200 --> 00:31:18,200
+he kind of
+
+490
+00:31:18,200 --> 00:31:20,200
+uploads one program
+
+491
+00:31:20,200 --> 00:31:22,200
+to how he makes about his day.
+
+492
+00:31:22,200 --> 00:31:24,200
+When he goes and plays a Doom,
+
+493
+00:31:24,200 --> 00:31:26,200
+it's a different thing,
+
+494
+00:31:26,200 --> 00:31:28,200
+and when he's in the Doom community,
+
+495
+00:31:28,200 --> 00:31:30,200
+a different person.
+
+496
+00:31:30,200 --> 00:31:32,200
+This is very common and very normal.
+
+497
+00:31:32,200 --> 00:31:34,200
+And I think most people
+
+498
+00:31:34,200 --> 00:31:36,200
+we're going to see
+
+499
+00:31:36,200 --> 00:31:38,200
+with EFP's and
+
+500
+00:31:38,200 --> 00:31:40,200
+metaverse experiments
+
+501
+00:31:40,200 --> 00:31:42,200
+is a lot of people
+
+502
+00:31:42,200 --> 00:31:44,200
+will become
+
+503
+00:31:44,200 --> 00:31:46,200
+more distinct
+
+504
+00:31:46,200 --> 00:31:50,200
+version of this.
+
+505
+00:31:50,200 --> 00:31:54,200
+Related and unrelated,
+
+506
+00:31:54,200 --> 00:31:56,200
+but related,
+
+507
+00:31:56,200 --> 00:31:58,200
+is unanimity.
+
+508
+00:31:58,200 --> 00:32:00,200
+That doctor
+
+509
+00:32:00,200 --> 00:32:02,200
+on the bulletin board
+
+510
+00:32:02,200 --> 00:32:04,200
+is going to be
+
+511
+00:32:04,200 --> 00:32:06,200
+unanimous.
+
+512
+00:32:06,200 --> 00:32:08,200
+Username
+
+513
+00:32:08,200 --> 00:32:10,200
+might be
+
+514
+00:32:10,200 --> 00:32:12,200
+monster slayer 1997,
+
+515
+00:32:12,200 --> 00:32:14,200
+not
+
+516
+00:32:14,200 --> 00:32:16,200
+Mike Smith,
+
+517
+00:32:16,200 --> 00:32:20,200
+general practitioner.
+
+518
+00:32:20,200 --> 00:32:22,200
+And it was all
+
+519
+00:32:22,200 --> 00:32:24,200
+a look at this weird
+
+520
+00:32:24,200 --> 00:32:26,200
+thing that's happened
+
+521
+00:32:26,200 --> 00:32:28,200
+on the internet,
+
+522
+00:32:28,200 --> 00:32:30,200
+early comfortable with it.
+
+523
+00:32:30,200 --> 00:32:30,200
+What does it mean?
+
+524
+00:32:30,200 --> 00:32:32,200
+Empowered history
+
+525
+00:32:32,200 --> 00:32:34,200
+of
+
+526
+00:32:34,200 --> 00:32:36,200
+pseudanonymous
+
+527
+00:32:36,200 --> 00:32:38,200
+writers and people.
+
+528
+00:32:38,200 --> 00:32:40,200
+I pull one example of many,
+
+529
+00:32:40,200 --> 00:32:42,200
+here, which are the federal
+
+530
+00:32:42,200 --> 00:32:44,200
+papers, which were
+
+531
+00:32:44,200 --> 00:32:46,200
+a series of essays written
+
+532
+00:32:46,200 --> 00:32:48,200
+in support of the
+
+533
+00:32:48,200 --> 00:32:50,200
+Constitution of the United
+
+534
+00:32:50,200 --> 00:32:52,200
+States, were published in
+
+535
+00:32:52,200 --> 00:32:54,200
+newspapers and
+
+536
+00:32:54,200 --> 00:32:56,200
+pulled together.
+
+537
+00:32:56,200 --> 00:32:58,200
+And they were written
+
+538
+00:32:58,200 --> 00:33:00,200
+and they could have
+
+539
+00:33:00,200 --> 00:33:02,200
+absolutely written them under
+
+540
+00:33:02,200 --> 00:33:04,200
+their own name.
+
+541
+00:33:04,200 --> 00:33:06,200
+But they wrote them under
+
+542
+00:33:06,200 --> 00:33:08,200
+a sheet of them.
+
+543
+00:33:08,200 --> 00:33:10,200
+And for a variety of reasons
+
+544
+00:33:10,200 --> 00:33:12,200
+they didn't want to feel
+
+545
+00:33:12,200 --> 00:33:14,200
+they didn't want to feel
+
+546
+00:33:14,200 --> 00:33:16,200
+they were self-promoting
+
+547
+00:33:16,200 --> 00:33:18,200
+themselves.
+
+548
+00:33:18,200 --> 00:33:20,200
+Or maybe they wanted to
+
+549
+00:33:20,200 --> 00:33:20,200
+put the focus on the ideas
+
+550
+00:33:20,200 --> 00:33:22,200
+a variety of reasons
+
+551
+00:33:22,200 --> 00:33:24,200
+someone might do this.
+
+552
+00:33:24,200 --> 00:33:26,200
+But it's a known
+
+553
+00:33:26,200 --> 00:33:28,200
+way for the internet.
+
+554
+00:33:28,200 --> 00:33:30,200
+And so you
+
+555
+00:33:30,200 --> 00:33:32,200
+put this together,
+
+556
+00:33:32,200 --> 00:33:34,200
+sometimes,
+
+557
+00:33:34,200 --> 00:33:36,200
+an identity
+
+558
+00:33:36,200 --> 00:33:38,200
+might not just be
+
+559
+00:33:38,200 --> 00:33:40,200
+a focus area.
+
+560
+00:33:40,200 --> 00:33:42,200
+Oh, and this is my talk
+
+561
+00:33:42,200 --> 00:33:44,200
+about you.
+
+562
+00:33:44,200 --> 00:33:46,200
+It might be a way to have
+
+563
+00:33:46,200 --> 00:33:48,200
+some synonymity.
+
+564
+00:33:48,200 --> 00:33:50,200
+And to
+
+565
+00:33:50,200 --> 00:33:52,200
+separate a certain area
+
+566
+00:33:52,200 --> 00:33:54,200
+from a certain other area.
+
+567
+00:33:54,200 --> 00:33:56,200
+And for it's
+
+568
+00:33:56,200 --> 00:33:58,200
+synonymity.
+
+569
+00:33:58,200 --> 00:34:00,200
+Because I think that's
+
+570
+00:34:00,200 --> 00:34:02,200
+basically we have
+
+571
+00:34:02,200 --> 00:34:04,200
+a anonymous people online.
+
+572
+00:34:04,200 --> 00:34:06,200
+And we have
+
+573
+00:34:06,200 --> 00:34:08,200
+synonymous people online.
+
+574
+00:34:08,200 --> 00:34:10,200
+And we rarely have
+
+575
+00:34:10,200 --> 00:34:12,200
+purely anonymous people.
+
+576
+00:34:12,200 --> 00:34:14,200
+Anonymous would mean
+
+577
+00:34:14,200 --> 00:34:16,200
+something like there is
+
+578
+00:34:16,200 --> 00:34:18,200
+no anonymous.
+
+579
+00:34:18,200 --> 00:34:20,200
+It's not anonymous.
+
+580
+00:34:20,200 --> 00:34:22,200
+It's synonymous.
+
+581
+00:34:22,200 --> 00:34:24,200
+It's synonymous with
+
+582
+00:34:24,200 --> 00:34:26,200
+the same profile picture.
+
+583
+00:34:26,200 --> 00:34:28,200
+There is a continuity
+
+584
+00:34:28,200 --> 00:34:30,200
+in one day to the next.
+
+585
+00:34:30,200 --> 00:34:32,200
+And clearly anonymous
+
+586
+00:34:32,200 --> 00:34:34,200
+or someone who would
+
+587
+00:34:34,200 --> 00:34:36,200
+be logging in
+
+588
+00:34:36,200 --> 00:34:38,200
+one day as
+
+589
+00:34:38,200 --> 00:34:40,200
+and on
+
+590
+00:34:40,200 --> 00:34:42,200
+6778-1112-14.
+
+591
+00:34:42,200 --> 00:34:44,200
+Posting something
+
+592
+00:34:44,200 --> 00:34:46,200
+gone.
+
+593
+00:34:46,200 --> 00:34:48,200
+Going back to the
+
+594
+00:34:48,200 --> 00:34:50,200
+different account.
+
+595
+00:34:50,200 --> 00:34:50,200
+Posting something gone.
+
+596
+00:34:50,200 --> 00:34:52,200
+But that's very rare.
+
+597
+00:34:52,200 --> 00:34:54,200
+You don't see very
+
+598
+00:34:54,200 --> 00:34:56,200
+much of it.
+
+599
+00:34:56,200 --> 00:34:58,200
+I can't even imagine
+
+600
+00:34:58,200 --> 00:35:00,200
+the time for
+
+601
+00:35:00,200 --> 00:35:02,200
+imagining an example
+
+602
+00:35:02,200 --> 00:35:04,200
+in the NFT Twitter
+
+603
+00:35:04,200 --> 00:35:06,200
+network.
+
+604
+00:35:06,200 --> 00:35:08,200
+And what's really
+
+605
+00:35:08,200 --> 00:35:10,200
+what the choices are
+
+606
+00:35:10,200 --> 00:35:10,200
+between
+
+607
+00:35:10,200 --> 00:35:11,200
+the
+
+608
+00:35:11,200 --> 00:35:12,200
+anonymous.
+
+609
+00:35:12,200 --> 00:35:14,200
+You go and say
+
+610
+00:35:14,200 --> 00:35:14,200
+portrait
+
+611
+00:35:14,200 --> 00:35:16,200
+no instructor has
+
+612
+00:35:16,200 --> 00:35:18,200
+and the
+
+613
+00:35:18,200 --> 00:35:20,200
+photo is
+
+614
+00:35:20,200 --> 00:35:22,200
+one for sure.
+
+615
+00:35:22,200 --> 00:35:24,200
+And you go there.
+
+616
+00:35:24,200 --> 00:35:26,200
+And it's
+
+617
+00:35:26,200 --> 00:35:28,200
+towards your place.
+
+618
+00:35:28,200 --> 00:35:30,200
+And looking at his
+
+619
+00:35:30,200 --> 00:35:32,200
+PFP, it's a picture of him.
+
+620
+00:35:32,200 --> 00:35:34,200
+This is me.
+
+621
+00:35:34,200 --> 00:35:36,200
+I'm talking about
+
+622
+00:35:36,200 --> 00:35:38,200
+the number of people.
+
+623
+00:35:38,200 --> 00:35:40,200
+Again, I'm saying this thing.
+
+624
+00:35:40,200 --> 00:35:42,200
+I'm talking about
+
+625
+00:35:42,200 --> 00:35:44,200
+it.
+
+626
+00:35:44,200 --> 00:35:46,200
+Well,
+
+627
+00:35:46,200 --> 00:35:48,200
+you can mentally model
+
+628
+00:35:48,200 --> 00:35:50,200
+that person.
+
+629
+00:35:50,200 --> 00:35:52,200
+And
+
+630
+00:35:52,200 --> 00:35:54,200
+this is also nothing.
+
+631
+00:35:54,200 --> 00:35:56,200
+I remember
+
+632
+00:35:56,200 --> 00:35:58,200
+bulletin boards.
+
+633
+00:35:58,200 --> 00:36:00,200
+And I'm 15 and 20 years ago.
+
+634
+00:36:00,200 --> 00:36:02,200
+Most people
+
+635
+00:36:02,200 --> 00:36:04,200
+did not put their
+
+636
+00:36:04,200 --> 00:36:06,200
+whole name
+
+637
+00:36:06,200 --> 00:36:08,200
+and social security number
+
+638
+00:36:08,200 --> 00:36:10,200
+go post the bulletin board.
+
+639
+00:36:10,200 --> 00:36:12,200
+I remember being
+
+640
+00:36:12,200 --> 00:36:14,200
+on different bulletin boards
+
+641
+00:36:14,200 --> 00:36:16,200
+or had those usually
+
+642
+00:36:16,200 --> 00:36:18,200
+something made up.
+
+643
+00:36:18,200 --> 00:36:20,200
+And it was fine.
+
+644
+00:36:20,200 --> 00:36:22,200
+You kept seeing that
+
+645
+00:36:22,200 --> 00:36:24,200
+anonymous person
+
+646
+00:36:24,200 --> 00:36:26,200
+come back every time
+
+647
+00:36:26,200 --> 00:36:28,200
+and say things.
+
+648
+00:36:28,200 --> 00:36:30,200
+And you can develop
+
+649
+00:36:30,200 --> 00:36:32,200
+a consistent understanding
+
+650
+00:36:32,200 --> 00:36:34,200
+of what that person was.
+
+651
+00:36:34,200 --> 00:36:36,200
+And how you want
+
+652
+00:36:36,200 --> 00:36:38,200
+to interact with
+
+653
+00:36:38,200 --> 00:36:40,200
+them was
+
+654
+00:36:40,200 --> 00:36:42,200
+quite less
+
+655
+00:36:42,200 --> 00:36:44,200
+interesting.
+
+656
+00:36:44,200 --> 00:36:46,200
+I also want to note this
+
+657
+00:36:46,200 --> 00:36:48,200
+briefly.
+
+658
+00:36:48,200 --> 00:36:50,200
+I don't have much to say about this
+
+659
+00:36:50,200 --> 00:36:52,200
+because this was something
+
+660
+00:36:52,200 --> 00:36:54,200
+wrong.
+
+661
+00:36:54,200 --> 00:36:56,200
+I was shared with
+
+662
+00:36:56,200 --> 00:36:58,200
+me by one of the
+
+663
+00:36:58,200 --> 00:37:00,200
+unique things.
+
+664
+00:37:00,200 --> 00:37:02,200
+And I don't have
+
+665
+00:37:02,200 --> 00:37:04,200
+depth of knowledge.
+
+666
+00:37:04,200 --> 00:37:06,200
+Everyone thinks
+
+667
+00:37:06,200 --> 00:37:08,200
+of it.
+
+668
+00:37:08,200 --> 00:37:10,200
+The relationship between
+
+669
+00:37:10,200 --> 00:37:12,200
+me and my person
+
+670
+00:37:12,200 --> 00:37:14,200
+I want to express this
+
+671
+00:37:14,200 --> 00:37:16,200
+why part of my
+
+672
+00:37:16,200 --> 00:37:18,200
+personality with this
+
+673
+00:37:18,200 --> 00:37:20,200
+avatar.
+
+674
+00:37:20,200 --> 00:37:22,200
+It appears
+
+675
+00:37:22,200 --> 00:37:24,200
+this is fascinating
+
+676
+00:37:24,200 --> 00:37:26,200
+that the effects
+
+677
+00:37:26,200 --> 00:37:28,200
+are violent,
+
+678
+00:37:28,200 --> 00:37:30,200
+that the
+
+679
+00:37:30,200 --> 00:37:32,200
+avatar can
+
+680
+00:37:32,200 --> 00:37:34,200
+impact you back.
+
+681
+00:37:34,200 --> 00:37:36,200
+There is a faculty
+
+682
+00:37:36,200 --> 00:37:38,200
+number at the
+
+683
+00:37:38,200 --> 00:37:40,200
+station.
+
+684
+00:37:40,200 --> 00:37:42,200
+You can see
+
+685
+00:37:42,200 --> 00:37:44,200
+in this photo
+
+686
+00:37:44,200 --> 00:37:46,200
+avatars that look
+
+687
+00:37:46,200 --> 00:37:48,200
+like normal people
+
+688
+00:37:48,200 --> 00:37:50,200
+and avatars that look
+
+689
+00:37:50,200 --> 00:37:52,200
+super strong.
+
+690
+00:37:52,200 --> 00:37:54,200
+And it turns out that
+
+691
+00:37:54,200 --> 00:37:56,200
+if you put
+
+692
+00:37:56,200 --> 00:37:58,200
+your goggles on people
+
+693
+00:37:58,200 --> 00:38:00,200
+and you show them
+
+694
+00:38:00,200 --> 00:38:02,200
+themselves as
+
+695
+00:38:02,200 --> 00:38:04,200
+a normal person and you
+
+696
+00:38:04,200 --> 00:38:06,200
+ask them to do a test
+
+697
+00:38:06,200 --> 00:38:08,200
+against you.
+
+698
+00:38:08,200 --> 00:38:10,200
+They are
+
+699
+00:38:10,200 --> 00:38:12,200
+only in their
+
+700
+00:38:12,200 --> 00:38:14,200
+visual field
+
+701
+00:38:14,200 --> 00:38:16,200
+division and then
+
+702
+00:38:16,200 --> 00:38:18,200
+ask them to do the hand
+
+703
+00:38:18,200 --> 00:38:20,200
+test again and get
+
+704
+00:38:20,200 --> 00:38:22,200
+charmer.
+
+705
+00:38:22,200 --> 00:38:24,200
+It's actually
+
+706
+00:38:24,200 --> 00:38:26,200
+wild.
+
+707
+00:38:26,200 --> 00:38:28,200
+And I suspect
+
+708
+00:38:28,200 --> 00:38:30,200
+we're going to learn
+
+709
+00:38:30,200 --> 00:38:32,200
+a lot.
+
+710
+00:38:32,200 --> 00:38:34,200
+I didn't put
+
+711
+00:38:34,200 --> 00:38:36,200
+my goggles on people
+
+712
+00:38:36,200 --> 00:38:36,200
+who
+
+713
+00:38:36,200 --> 00:38:38,200
+were burned victims,
+
+714
+00:38:38,200 --> 00:38:40,200
+burned victims who
+
+715
+00:38:40,200 --> 00:38:42,200
+were virtual reality
+
+716
+00:38:42,200 --> 00:38:44,200
+goggles and
+
+717
+00:38:44,200 --> 00:38:46,200
+were put in a
+
+718
+00:38:46,200 --> 00:38:48,200
+snowy ice cold environment
+
+719
+00:38:48,200 --> 00:38:50,200
+at
+
+720
+00:38:50,200 --> 00:38:52,200
+lower perceived
+
+721
+00:38:52,200 --> 00:38:54,200
+pain levels than those
+
+722
+00:38:54,200 --> 00:38:56,200
+with them.
+
+723
+00:38:56,200 --> 00:38:58,200
+But again, it's weird
+
+724
+00:38:58,200 --> 00:39:00,200
+because you think of
+
+725
+00:39:00,200 --> 00:39:02,200
+pain or hand strength
+
+726
+00:39:02,200 --> 00:39:04,200
+and it's going to be very
+
+727
+00:39:04,200 --> 00:39:06,200
+interesting as we have
+
+728
+00:39:06,200 --> 00:39:08,200
+over the course of the
+
+729
+00:39:08,200 --> 00:39:10,200
+decade more
+
+730
+00:39:10,200 --> 00:39:12,200
+VR and
+
+731
+00:39:12,200 --> 00:39:14,200
+AR environments
+
+732
+00:39:14,200 --> 00:39:16,200
+better and more robust
+
+733
+00:39:16,200 --> 00:39:18,200
+avatars.
+
+734
+00:39:18,200 --> 00:39:20,200
+What does bilateral
+
+735
+00:39:20,200 --> 00:39:20,200
+relationship
+
+736
+00:39:20,200 --> 00:39:22,200
+is going to look
+
+737
+00:39:22,200 --> 00:39:24,200
+like and hopefully we'll
+
+738
+00:39:24,200 --> 00:39:26,200
+get some experts
+
+739
+00:39:26,200 --> 00:39:28,200
+towards the end of the
+
+740
+00:39:28,200 --> 00:39:30,200
+course.
+
+741
+00:39:30,200 --> 00:39:32,200
+I know to stop
+
+742
+00:39:32,200 --> 00:39:34,200
+a better than the end.
+
+743
+00:39:34,200 --> 00:39:36,200
+I'm not an expert.
+
+744
+00:39:36,200 --> 00:39:38,200
+But it's
+
+745
+00:39:38,200 --> 00:39:40,200
+I find it interesting to
+
+746
+00:39:40,200 --> 00:39:42,200
+just put that
+
+747
+00:39:42,200 --> 00:39:44,200
+concept out.
+
+748
+00:39:44,200 --> 00:39:46,200
+The relationship
+
+749
+00:39:46,200 --> 00:39:48,200
+between you and your
+
+750
+00:39:48,200 --> 00:39:50,200
+avatar you and your
+
+751
+00:39:50,200 --> 00:39:52,200
+PFT might not be 100%
+
+752
+00:39:52,200 --> 00:39:54,200
+unilateral.
+
+753
+00:39:54,200 --> 00:39:56,200
+It might be
+
+754
+00:39:56,200 --> 00:39:58,200
+to some degree bilateral.
+
+755
+00:39:58,200 --> 00:40:00,200
+But I think
+
+756
+00:40:00,200 --> 00:40:02,200
+we're going to
+
+757
+00:40:02,200 --> 00:40:04,200
+discuss in
+
+758
+00:40:04,200 --> 00:40:06,200
+NFT collections.
+
+759
+00:40:06,200 --> 00:40:08,200
+Here I'm linking to a slide
+
+760
+00:40:08,200 --> 00:40:10,200
+from last week's session
+
+761
+00:40:10,200 --> 00:40:12,200
+where we were talking
+
+762
+00:40:12,200 --> 00:40:14,200
+about IP issues
+
+763
+00:40:14,200 --> 00:40:16,200
+in
+
+764
+00:40:16,200 --> 00:40:18,200
+NFTs and specifically in
+
+765
+00:40:18,200 --> 00:40:20,200
+PFT.
+
+766
+00:40:20,200 --> 00:40:22,200
+And one of the things
+
+767
+00:40:22,200 --> 00:40:24,200
+that I'm going to take
+
+768
+00:40:24,200 --> 00:40:26,200
+with us because today
+
+769
+00:40:26,200 --> 00:40:28,200
+we're going to talk
+
+770
+00:40:28,200 --> 00:40:30,200
+about IP issues.
+
+771
+00:40:30,200 --> 00:40:32,200
+And the first
+
+772
+00:40:32,200 --> 00:40:34,200
+model is
+
+773
+00:40:34,200 --> 00:40:36,200
+PFT collections that
+
+774
+00:40:36,200 --> 00:40:38,200
+give you commercial rights
+
+775
+00:40:38,200 --> 00:40:40,200
+to avatar
+
+776
+00:40:40,200 --> 00:40:42,200
+and PFT collections
+
+777
+00:40:42,200 --> 00:40:44,200
+that say your
+
+778
+00:40:44,200 --> 00:40:46,200
+avatars in the
+
+779
+00:40:46,200 --> 00:40:48,200
+domain if
+
+780
+00:40:48,200 --> 00:40:50,200
+anyone can use it.
+
+781
+00:40:50,200 --> 00:40:52,200
+You can also use it
+
+782
+00:40:52,200 --> 00:40:54,200
+anyone else can use it.
+
+783
+00:40:54,200 --> 00:40:56,200
+You can also use it
+
+784
+00:40:56,200 --> 00:40:58,200
+around
+
+785
+00:40:58,200 --> 00:40:58,200
+everyone's
+
+786
+00:40:58,200 --> 00:41:00,200
+moral
+
+787
+00:41:00,200 --> 00:41:02,200
+as my credit.
+
+788
+00:41:02,200 --> 00:41:04,200
+I just say this we're
+
+789
+00:41:04,200 --> 00:41:06,200
+talking to read
+
+790
+00:41:06,200 --> 00:41:08,200
+discuss last week's session
+
+791
+00:41:08,200 --> 00:41:10,200
+but keep that in mind as we
+
+792
+00:41:10,200 --> 00:41:12,200
+discuss some of the things
+
+793
+00:41:12,200 --> 00:41:14,200
+discussed today.
+
+794
+00:41:14,200 --> 00:41:16,200
+But also when we speak
+
+795
+00:41:16,200 --> 00:41:18,200
+to
+
+796
+00:41:18,200 --> 00:41:20,200
+Arda on Thursday
+
+797
+00:41:20,200 --> 00:41:22,200
+four 156
+
+798
+00:41:22,200 --> 00:41:22,200
+they're not accidental guests.
+
+799
+00:41:22,200 --> 00:41:27,240
+model and the public dream market. So that's what we're going to talk to them and ask them why they think
+
+800
+00:41:27,240 --> 00:41:33,400
+not say, good model for their collection and what the process of minuses are. So I think that's
+
+801
+00:41:34,200 --> 00:41:42,040
+it's important to keep this in the back of your mind. Now one of the things again is it'll be known
+
+802
+00:41:42,040 --> 00:41:52,600
+by the older people in the NFT space but less known as less known by the newer people. I put
+
+803
+00:41:52,600 --> 00:42:00,520
+up on what you're viewed as the definitive initial original PFP collection. And not strictly speaking
+
+804
+00:42:00,520 --> 00:42:06,360
+start as a PFP collection. Larvalabs, the founders, Matt and John did not come out and say, hey,
+
+805
+00:42:06,360 --> 00:42:14,920
+everyone needs profile pictures that look like low res cartoons. And so here come picture profile
+
+806
+00:42:14,920 --> 00:42:21,880
+pictures you can use it on Twitter. This wasn't at all. They were designed as a whole project
+
+807
+00:42:21,880 --> 00:42:30,120
+where you could claim them for free. The traits for generative, what I mean by that,
+
+808
+00:42:30,760 --> 00:42:34,440
+you're going to know in advance what you get to be some combination of the traits that
+
+809
+00:42:34,440 --> 00:42:40,840
+were probability adjusted. And you can get an alienate as long as you win. And it came along
+
+810
+00:42:40,840 --> 00:42:47,480
+with as a project and the founders definitely thought of this as a complete project, not just to be
+
+811
+00:42:49,480 --> 00:42:56,040
+at the point itself, but the overall system, which included the front end website that was
+
+812
+00:42:56,040 --> 00:43:04,680
+created, allowed you to trade them, allowed you to trade them for tier of fees, make offers, list them for sale.
+
+813
+00:43:05,000 --> 00:43:16,760
+It was a very sophisticated project for its time. It has done more, it comes, it came on day one
+
+814
+00:43:16,760 --> 00:43:24,440
+with more complete infrastructure than almost every PFP project you want today. But I believe the
+
+815
+00:43:24,440 --> 00:43:36,440
+mental models on what the puncture, where is it art or is it collectible? It wasn't then,
+
+816
+00:43:36,440 --> 00:43:45,960
+is it a PFP? And this quote here is from an interview that the larval abs scheme
+
+817
+00:43:45,960 --> 00:43:54,120
+did with art known who's a true expert in the NFT space. And he asked them is there what,
+
+818
+00:43:55,960 --> 00:44:01,720
+what is it? Is it digital art or is it a collectible project? And their answer was basically,
+
+819
+00:44:02,920 --> 00:44:08,840
+it doesn't really matter. You don't care what people call it, we just thought it was really
+
+820
+00:44:09,640 --> 00:44:14,840
+interesting. And we want to emphasize that part of the project wasn't just the point in
+
+821
+00:44:14,840 --> 00:44:19,960
+the art, but also the contract and the marketplace that's all built in together.
+
+822
+00:44:21,320 --> 00:44:25,320
+What's really interesting when you look at this, you know, what's not there is PFP.
+
+823
+00:44:27,000 --> 00:44:33,960
+Because that's on how they were thinking. The use of puncture pumps as PFP was emergent.
+
+824
+00:44:36,200 --> 00:44:44,280
+It happened on the community, it was not designed. It was not necessarily obvious
+
+825
+00:44:44,280 --> 00:44:50,600
+as it is now. It didn't happen right away. The project was launched in 2017. And I'm not saying
+
+826
+00:44:50,600 --> 00:44:57,720
+these are the first times that people used a crypto pump as their profile machine.
+
+827
+00:44:58,760 --> 00:45:02,760
+But they were the first times I know, which doesn't mean I'm trying to happen before,
+
+828
+00:45:02,760 --> 00:45:11,640
+but these weren't seminal events. And the first was in January when key money paid,
+
+829
+00:45:11,640 --> 00:45:16,840
+I think $100,000 is the pump gave us back that was a gigantic record.
+
+830
+00:45:18,440 --> 00:45:25,160
+And then made it his profile picture. And then a few weeks later, 4156,
+
+831
+00:45:27,800 --> 00:45:34,040
+made a higher money, a little more of Hanter, is the pump gave. And also made it his profile picture,
+
+832
+00:45:34,040 --> 00:45:42,760
+and also encouraged a lot of derivatives to be made of his profile picture. And we're going
+
+833
+00:45:42,760 --> 00:45:49,320
+to speak to both 4156 and G1U. Of course, we're going to ask them directly how they thought
+
+834
+00:45:49,320 --> 00:45:54,600
+of why they did it, what it meant. But I remember both of these thinking in my mind,
+
+835
+00:45:54,600 --> 00:46:05,160
+I'm like, oh, that's interesting. And over the next few months, a lot more people did.
+
+836
+00:46:05,160 --> 00:46:11,800
+There's a lot more crypto points to it. And then a lot of people with other PFP collections.
+
+837
+00:46:13,800 --> 00:46:18,120
+From my perspective, it seemed like this agreement I'm proud of hearing about it on Twitter.
+
+838
+00:46:18,120 --> 00:46:30,280
+But I think NFTs as PFP was a 2021 funder. And I think it is a unbelievable fund.
+
+839
+00:46:30,280 --> 00:46:34,600
+We'll talk about what that might mean, but it's an incredible fund.
+
+840
+00:46:34,600 --> 00:46:54,680
+It's certainly impacted my thinking about 659, that it became very obvious to me in 2021,
+
+841
+00:46:54,680 --> 00:47:03,320
+early 2020. That's the idea that you can have an NFT in that NFT to represent your virtual identity,
+
+842
+00:47:03,320 --> 00:47:10,360
+whether it's a 2D PFD or whether it's a 3D avatar. And the models are going to change
+
+843
+00:47:10,920 --> 00:47:16,040
+a hundred times over the next few months. But the idea that you're going to have a
+
+844
+00:47:16,040 --> 00:47:23,240
+visual presence for presenting yourself is not going to change. And that there is something
+
+845
+00:47:23,240 --> 00:47:35,480
+interesting in representing that as NFTs. And that this is how that if there is a broad open,
+
+846
+00:47:35,480 --> 00:47:43,960
+decentralized, metaverse, internet, the internet with persistent digital objects,
+
+847
+00:47:43,960 --> 00:47:51,240
+well, that it makes sense to do it this way, as opposed to just uploading the cover itself.
+
+848
+00:47:51,240 --> 00:48:02,520
+It made a lot of sense to me. And that was my exact logic, nine, six, five, two, and I'm going to
+
+849
+00:48:03,480 --> 00:48:06,840
+still go personal for a second because I think it's wrong. I'm doing six, five,
+
+850
+00:48:06,840 --> 00:48:17,240
+tonight is one of the better known PFP NFTs now. Why did I do it? Why did I not just start
+
+851
+00:48:17,240 --> 00:48:26,280
+tweeting about NFTs? My professional question. Well, the first is I like to do things by doing
+
+852
+00:48:26,280 --> 00:48:30,120
+things. And I thought, this is how I think this is the native of the way it's going to be done.
+
+853
+00:48:31,000 --> 00:48:36,760
+In NFTs, I started wanting to live in a space the way it's how I think it's going to play out.
+
+854
+00:48:36,760 --> 00:48:42,360
+You'll be able to learn by doing it personally. The second one was fun.
+
+855
+00:48:42,360 --> 00:48:53,800
+The third, I thought it would clarify the message that I wanted to say and also help me test
+
+856
+00:48:53,800 --> 00:48:59,800
+the message that I wanted to say. So I have a reasonable professional reputation,
+
+857
+00:48:59,800 --> 00:49:05,400
+including in crypto. And I could have said like, oh, I thought these new things about NFTs
+
+858
+00:49:05,400 --> 00:49:12,600
+and I would tell you what, we will get some feedback and audience views. But I started
+
+859
+00:49:12,600 --> 00:49:21,800
+subscribe to that. I was zero followers as a brand new account, but with the six, five, nine,
+
+860
+00:49:21,800 --> 00:49:29,800
+PFP. Because I was about to talk about NFTs. And this is now part of my identity. I want to talk
+
+861
+00:49:29,800 --> 00:49:38,680
+about NFTs under that identity. And I don't actually want to mix it up with what I forget
+
+862
+00:49:38,680 --> 00:49:45,720
+the last. I would just matter. I don't think you know what I want to talk about is the open
+
+863
+00:49:45,720 --> 00:49:55,880
+network and how it's very socially important that we succeed at it. And you know, in no way,
+
+864
+00:49:55,880 --> 00:49:59,800
+am I comparing myself to the federal speakers? Imagine if I had a joke, we have no idea what
+
+865
+00:50:00,680 --> 00:50:04,440
+the readers of the federal speakers have no idea what Alexander Hamilton had for them or that
+
+866
+00:50:04,440 --> 00:50:10,680
+like, why should they, right? Would anything have been improved if they did? I doubt it. So the
+
+867
+00:50:16,120 --> 00:50:22,120
+area was all of the things mentioned. It was an identity where they community, in this case,
+
+868
+00:50:22,120 --> 00:50:30,040
+the community of NFTs holders. And they went to sharpen the message and stand a focus
+
+869
+00:50:30,040 --> 00:50:40,600
+message. And I think it's working. And I think it's not just something that you would say,
+
+870
+00:50:40,600 --> 00:50:47,880
+oh, well, this is very unique to subscribe tonight. Other people won't use it. I've spoken to a
+
+871
+00:50:47,880 --> 00:50:54,760
+lot of people. A lot of people, my professional network, who are fascinated and kind of frightened
+
+872
+00:50:56,120 --> 00:51:02,120
+by this type of thing. And what I tell them is, oh, this is, oh, first of all, this is just a
+
+873
+00:51:02,120 --> 00:51:10,440
+long time pre-NFT to discuss with nothing new. But also, I don't think my experience
+
+874
+00:51:11,240 --> 00:51:16,280
+is going to be some weird one-off experience. I think my experience and everyone's experience,
+
+875
+00:51:16,280 --> 00:51:23,480
+I think most people will present multiple identities online, like they sort of do now,
+
+876
+00:51:24,440 --> 00:51:34,520
+but a little bit. And so this, I think it's very interesting. I think
+
+877
+00:51:34,520 --> 00:51:45,160
+the NFTs do have at some level product market that that level means that people will want, need,
+
+878
+00:51:45,160 --> 00:51:51,400
+it personalized, customized for what were their values and interest in identity,
+
+879
+00:51:52,280 --> 00:51:55,400
+virtual identity online. Now, this doesn't mean that
+
+880
+00:51:55,400 --> 00:52:03,240
+you can date your worth thirteen years, whatever is a totally different question, or how the
+
+881
+00:52:03,240 --> 00:52:08,040
+projects are trying to find their position in the marketplace. It's very complicated,
+
+882
+00:52:08,040 --> 00:52:15,480
+interesting question, but not today's question. The question is, there is not this point.
+
+883
+00:52:15,480 --> 00:52:23,560
+There was one, I believe, people will use the NFTs in this way. And it's a fairly obvious
+
+884
+00:52:23,560 --> 00:52:30,440
+and truly obvious usage case in virtual worlds and for NFTs.
+
+885
+00:52:36,120 --> 00:52:43,240
+Really, for a good friend brought on a slide, I think this is a little bit more of the same that,
+
+886
+00:52:45,240 --> 00:52:52,440
+what happens, I'm saying this more for people for not even the space, what happens when I see
+
+887
+00:52:52,440 --> 00:52:57,560
+this NFTs? What is it done before I get to know Barat? What messaging is he saying?
+
+888
+00:52:57,560 --> 00:53:01,960
+What is it saying when he's contentative? That's what, that's kind of the messaging of the
+
+889
+00:53:01,960 --> 00:53:06,440
+punks. And the crypto native comes one of two ways, right? Either you were early enough to
+
+890
+00:53:06,440 --> 00:53:10,040
+own a punk early, because probably really, really contentative, not because you were good idea
+
+891
+00:53:10,040 --> 00:53:16,040
+to buy one of them. Or if you're in relative journey completely, it means you are willing to sacrifice
+
+892
+00:53:16,040 --> 00:53:23,000
+a lot of capital to own one of them. Anyway, I tell what people are just doing this, for example,
+
+893
+00:53:23,000 --> 00:53:29,400
+solves the way that they're not. We try that with some people, but on average, on average,
+
+894
+00:53:29,400 --> 00:53:35,560
+statistically, someone who was holding a punk, and they could instead be holding tens of thousands
+
+895
+00:53:35,560 --> 00:53:42,360
+or hundreds of thousands of dollars, or a few cases where it's not. Is it making a decision
+
+896
+00:53:42,360 --> 00:53:47,880
+that a punk is more important to them than tens or hundreds or thousands of dollars, or millions
+
+897
+00:53:47,880 --> 00:53:54,040
+of dollars? So statistically, you will know something about it. It is highly unlikely, for example,
+
+898
+00:53:54,040 --> 00:54:00,120
+that they hate crypto assets. It is quite likely that they like crypto assets, that they believe
+
+899
+00:54:00,120 --> 00:54:05,560
+them, that they're willing to sacrifice, yeah, assets, and yeah, in some humans in order to make
+
+900
+00:54:05,560 --> 00:54:13,560
+this thing. And so while you might not know anything about, or not specifically, you will know
+
+901
+00:54:13,560 --> 00:54:19,400
+something in an aggregate, across the 10,000. This leads to two, right, where there's no
+
+902
+00:54:20,600 --> 00:54:24,840
+punks followed, punks, I think that has died off a little bit, but you know, the punks discord was
+
+903
+00:54:24,840 --> 00:54:29,640
+very popular, and people thought they had shared values, and I think they do have shared values,
+
+904
+00:54:29,640 --> 00:54:33,640
+and the word, it's the sport, that's a different sort of shared value. That's true, and the
+
+905
+00:54:33,640 --> 00:54:37,480
+moon words discord has a different share of shared values, not all pretty similar at this age,
+
+906
+00:54:37,480 --> 00:54:43,400
+right? We haven't, they're all quite similar people, anyone who's currently buying a
+
+907
+00:54:44,360 --> 00:54:51,160
+PFP on a fee, but there are differences between those community, and they're being expressed,
+
+908
+00:54:51,160 --> 00:54:59,000
+and this is where collections of PFPs possibly mean something, because they're a way,
+
+909
+00:54:59,000 --> 00:55:05,480
+very short hand, to see what something is for us, has made a random drawing of
+
+910
+00:55:06,360 --> 00:55:12,520
+himself and presented it. But we're, you know, a fantastic collector, an excellent writer,
+
+911
+00:55:12,520 --> 00:55:20,120
+and so it has forced to come, someone we respect to follow, in any case. However, there's a
+
+912
+00:55:20,120 --> 00:55:24,920
+cognitive short cut, he's sending a message to something, a cognitive short cut that I
+
+913
+00:55:24,920 --> 00:55:30,360
+express these types of values, not perfectly not completely, you know, you don't, if you wear
+
+914
+00:55:30,360 --> 00:55:34,840
+University of Alabama t-shirt, it doesn't mean you would have your social University of Alabama,
+
+915
+00:55:34,840 --> 00:55:40,040
+but you're doing some type of cognitive short cut. And of course, it allows for
+
+916
+00:55:40,680 --> 00:55:49,640
+pseudonymity in a way that is a cool photo, that's it. Now, to talk about this a lot,
+
+917
+00:55:49,640 --> 00:55:56,600
+yesterday, we'll talk about it on Thursday, the time to introduce another concept,
+
+918
+00:55:56,600 --> 00:56:05,560
+a very controversial concept in PFPs, which is the concept of utility. And utility was,
+
+919
+00:56:07,640 --> 00:56:11,800
+I believe, and this is not to say that there weren't some utility aspects in prior collections,
+
+920
+00:56:12,840 --> 00:56:19,080
+this concept is an important concept in the PFP culture. I think it was largely popularized by you,
+
+921
+00:56:19,080 --> 00:56:27,800
+Liga, which founded the Bordips.com PFP culture. It was very ambitious,
+
+922
+00:56:28,360 --> 00:56:35,480
+post-mintly, in offering all types of benefits, buddies, fun features to their community.
+
+923
+00:56:36,920 --> 00:56:43,240
+Which is very different from the cryptopart, that the Marvel abs team, after they minted
+
+924
+00:56:43,240 --> 00:56:52,840
+the PFPs, did something that approximates to nothing. And then there's a lot of criticism of
+
+925
+00:56:52,840 --> 00:56:59,400
+the state, and people go back and forth, which was better. But they did not organize parties for
+
+926
+00:56:59,400 --> 00:57:05,080
+punks, they did not make a game for punks, they did not make t-shirts for punks and minerals.
+
+927
+00:57:05,880 --> 00:57:11,080
+I said, oh, this is an interesting, digital art collectible project. We have done it,
+
+928
+00:57:11,080 --> 00:57:16,200
+and then what happened with the punks was quite emerging. Yuga was a little different.
+
+929
+00:57:17,720 --> 00:57:24,120
+Yuga started off with access to a virtual yacht club, and you could make them walls,
+
+930
+00:57:24,120 --> 00:57:29,800
+but then they helped parties in New York, they air-dropped, additional NFTs,
+
+931
+00:57:29,800 --> 00:57:33,400
+they're now building a game called, or a Metaverse, or a game Metaverse, called,
+
+932
+00:57:33,400 --> 00:57:44,680
+other side. And so Yuga, the company, does an awful lot of things. And they also copyright
+
+933
+00:57:44,680 --> 00:57:50,440
+a different concept, a concept of commercial rights. And if Optimus was very good to illustrate,
+
+934
+00:57:52,040 --> 00:57:55,240
+it was, the logic wasn't necessarily that every single
+
+935
+00:57:56,600 --> 00:58:00,600
+or they pulled or launched an aggressiveness, but if this is going to be your identity,
+
+936
+00:58:00,600 --> 00:58:08,200
+you should be able to do it every while. And crypto punks from our labs were not totally clear
+
+937
+00:58:08,200 --> 00:58:12,600
+what you could do with your crypto punks. And Yuga said, no, if you're on this 48, you could do it
+
+938
+00:58:12,600 --> 00:58:17,960
+every while. And you don't have to ask this information, it's your identity. Almost the idea of
+
+939
+00:58:17,960 --> 00:58:26,360
+that commercial rights was just as important as commercial rights. And whatever reason,
+
+940
+00:58:26,360 --> 00:58:32,120
+maybe it was these things that they did, or maybe it was a moment in time, or maybe it was
+
+941
+00:58:32,120 --> 00:58:39,000
+the minty model. Whatever the case was, the board had got up to very, very well economic,
+
+942
+00:58:39,000 --> 00:58:43,800
+it was mint of the point zero, repeat from you. At some point, it crossed a hundred
+
+943
+00:58:43,800 --> 00:58:59,800
+meters per BFB. And I know this isn't just a question, and no idea what that price was for, or any
+
+944
+00:59:00,280 --> 00:59:07,000
+interesting thing is to follow. Because it did well, and because it had a lot of utility,
+
+945
+00:59:07,000 --> 00:59:18,040
+a lot of other collections followed this effort. And so the typical election, you know,
+
+946
+00:59:18,040 --> 00:59:29,240
+the punks have the benefit that they were first, early, have heritage in history and provenance.
+
+947
+00:59:29,240 --> 00:59:40,920
+And so it's plausible to believe that the crypto punks are the Andy Warhol shoot cans of BFBs.
+
+948
+00:59:42,360 --> 00:59:47,400
+They were the first people in the original, they were extremely well-fought out, they were very
+
+949
+00:59:47,400 --> 00:59:53,640
+comprehensive, they had a form of artistic thinking in them. They are just between the fact that
+
+950
+00:59:53,640 --> 00:59:59,880
+there's simplistic, probably actually even helps them in terms of, you know, being less
+
+951
+01:00:00,920 --> 01:00:07,480
+impacted by fashion trends. And so this, that opportunity was unique to the punks.
+
+952
+01:00:08,920 --> 01:00:15,240
+What has happened with the BFB culture, because the first one that managed to make real
+
+953
+01:00:15,240 --> 01:00:23,640
+inroads against the punks, and today is probably the same market capacity for it. And this heavy utility
+
+954
+01:00:23,640 --> 01:00:28,680
+focus, this space shift there, because obviously people are saying, oh my gosh, the great business
+
+955
+01:00:28,680 --> 01:00:35,720
+opportunity is like, people like having an FD, there are PFPs, there's 10,000 punks, people can
+
+956
+01:00:35,720 --> 01:00:41,080
+do a very quick check, check if there's more than 10,000 people know. You know, all you have,
+
+957
+01:00:41,080 --> 01:00:45,400
+maybe there's not 10,000 people who want to spend a lot of money in the BFB. And I think this is
+
+958
+01:00:45,400 --> 01:00:50,280
+probably also incorrect. The most amazing stuff that I read in the last couple of months,
+
+959
+01:00:50,280 --> 01:00:56,040
+is the Rolex, which a lot of people think it was a luxury league product. So it was one million
+
+960
+01:00:56,040 --> 01:01:01,720
+watches a year. And over the last, I don't know how many years, three decades have sold 40 million
+
+961
+01:01:01,720 --> 01:01:10,440
+something watching. And so, the Rolex is, of course, an identity object. It is not an object that
+
+962
+01:01:11,480 --> 01:01:16,680
+whose goal is to tell you the time, certainly not in 2022, you have a phone on you that'll
+
+963
+01:01:17,880 --> 01:01:22,600
+watch with the Zillion features for a couple hundred bucks. You're buying your Rolex for
+
+964
+01:01:22,600 --> 01:01:28,120
+identity reasons, many belonging reasons, especially. And the average Rolex is under $12,000,
+
+965
+01:01:28,120 --> 01:01:33,240
+$13,000, which is still a reasonably priced BFB. And there's a million of those a year, right? So,
+
+966
+01:01:33,960 --> 01:01:39,640
+a lot of people in the post-based NFTs phase with an entrepreneurial line and in this lab. Well,
+
+967
+01:01:41,400 --> 01:01:50,920
+obviously, there's going to be more demand for BFBs in a thousand. And in which case,
+
+968
+01:01:50,920 --> 01:01:59,960
+we should make some. And how do we get people to be introduced not already to do things for
+
+969
+01:01:59,960 --> 01:02:09,480
+them, you tell anyone. And this, I would say, is one of the very big interesting and outstanding
+
+970
+01:02:09,480 --> 01:02:17,800
+questions about this. Because in a lot of products, there will be so far in watches near an Apple.
+
+971
+01:02:17,800 --> 01:02:22,520
+I don't think you can replicate the
+
+972
+01:02:24,360 --> 01:02:30,520
+birth of different components anymore. And then I think the interesting question,
+
+973
+01:02:30,520 --> 01:02:36,200
+where you're telling a question, really boils down to, is anyone actually want these things?
+
+974
+01:02:36,200 --> 01:02:42,520
+Are these things interesting? You know, you can get physical builds, you get air drops,
+
+975
+01:02:42,520 --> 01:02:51,240
+you get access to market reports. When we get cover rolls on here later, we're going to ask
+
+976
+01:02:51,240 --> 01:02:57,480
+them why in something so funny, but not previously, I think I wanted to funny that, right? And so,
+
+977
+01:02:58,040 --> 01:03:02,280
+some of them are saying we're going to make cows, we're going to make metaphors, we're going to make games.
+
+978
+01:03:02,280 --> 01:03:13,160
+And I think in some cases, it is a bit, a solution looking for a problem, as opposed to necessarily
+
+979
+01:03:13,160 --> 01:03:20,840
+a problem that is very obviously solved by these solutions. I think to me, what has happened
+
+980
+01:03:20,840 --> 01:03:27,720
+to certain collections generated the high market value. And then people kind of look around and
+
+981
+01:03:27,720 --> 01:03:33,720
+say, well, why does it have this high market value? Well, we need to do things justified and
+
+982
+01:03:33,720 --> 01:03:40,120
+it's not necessarily, if those things are the right things, some of them might come out to be the
+
+983
+01:03:40,120 --> 01:03:49,640
+right, some of them might not. And the reality is we don't know you, right? NFTs as a PFP concept
+
+984
+01:03:49,640 --> 01:03:55,560
+is not even two years old. Utility-oriented PFP collections are maybe a year and a half old.
+
+985
+01:03:55,560 --> 01:04:01,560
+Most of you are still in the orange of PFP, or should something up for a few months. Is there
+
+986
+01:04:03,240 --> 01:04:08,600
+any doubt in my mind that people will use PFP, isn't? If you want them to be
+
+987
+01:04:09,160 --> 01:04:15,400
+or fiably yours and take your identity across different applications, all they should be in,
+
+988
+01:04:15,400 --> 01:04:27,160
+NFTs, they are done. Is it clear in my mind that it's good that there is a company that has
+
+989
+01:04:27,160 --> 01:04:33,960
+issued those NFTs and that company is going to do interesting activities for you, though.
+
+990
+01:04:34,520 --> 01:04:39,960
+Make your physical clubhouse, the whole party is going to solve your t-shirts, go to special shows
+
+991
+01:04:39,960 --> 01:04:45,560
+with actors. Or maybe I think some people will figure it out. I can do some of those in work,
+
+992
+01:04:46,760 --> 01:04:51,480
+but some of them will not. In fact, most of them will not. And we're at the beginning of a vast
+
+993
+01:04:51,480 --> 01:04:58,680
+process of exploration of which models do work. In which models don't work. In which models work
+
+994
+01:04:58,680 --> 01:05:02,680
+for which communities, it's going to be different. But some communities are going to value.
+
+995
+01:05:03,720 --> 01:05:07,480
+You can just see this very clearly between the proximity and the more interesting,
+
+996
+01:05:07,480 --> 01:05:11,640
+the more interesting and many, very much, values. It's best to meet other people. They'll learn
+
+997
+01:05:11,640 --> 01:05:15,400
+the joy of having the time instead of why they're going to be out party on the Pearson.
+
+998
+01:05:16,360 --> 01:05:20,520
+And then if the folks did something similar, but how far the psychological profile of
+
+999
+01:05:20,520 --> 01:05:25,720
+the company goes, what's interesting about that? Neither is right. Neither is wrong. There's
+
+1000
+01:05:25,720 --> 01:05:33,000
+going to be different things for different types of people. So when this experimentation phase,
+
+1001
+01:05:33,000 --> 01:05:39,160
+and I'll mention the nouns here, because the nouns are another take on the same model,
+
+1002
+01:05:39,640 --> 01:05:46,520
+because we're going to talk about these. The nouns are the step beyond commercial rights. They
+
+1003
+01:05:46,520 --> 01:05:51,640
+like the crypto tools and the city needs and the NFRS are collections that say,
+
+1004
+01:05:51,640 --> 01:06:04,680
+we're building a collection that is meant to be a network oriented collection. What do I mean
+
+1005
+01:06:04,680 --> 01:06:12,200
+by that? I need to think of it in phases. If I'm a company and I don't give commercial rights,
+
+1006
+01:06:12,200 --> 01:06:18,280
+I'm a company. I'm starting a lifestyle company, a street work company. I have five or ten people
+
+1007
+01:06:18,280 --> 01:06:28,760
+at my company and make you products. Hopefully, my people are talented and smart and have
+
+1008
+01:06:28,760 --> 01:06:35,080
+tasted people like it. And if I'm a commercial collector, too, maybe there'll be
+
+1009
+01:06:36,200 --> 01:06:39,560
+thousands of people who have commercial rights, and if there's a few hundred or dozens,
+
+1010
+01:06:39,560 --> 01:06:45,240
+we'll do some interesting things. So I get some number. The idea behind nouns,
+
+1011
+01:06:45,240 --> 01:06:51,000
+there's many of those names, but the relevant idea here is, I don't know why, there's a whole world
+
+1012
+01:06:51,000 --> 01:06:57,080
+to that force. Why should it just be the people who happen to hold a noun? Maybe someone
+
+1013
+01:06:57,720 --> 01:07:04,520
+in Japan who turns out to be super talented and wants to be a project with these famous nouns
+
+1014
+01:07:04,520 --> 01:07:10,680
+ones. You can just go it. It doesn't need to ask a more permission. And the only thing that's
+
+1015
+01:07:10,680 --> 01:07:18,920
+good is that good is that bad. Well, the model there, and the underlying theory there, is
+
+1016
+01:07:20,680 --> 01:07:25,240
+in an attention economy, in a networked attention economy, really the only thing that's
+
+1017
+01:07:25,240 --> 01:07:30,920
+going to drive long-term now is long-term tension. I think this would be the less-case serve now,
+
+1018
+01:07:30,920 --> 01:07:35,000
+if they become some type of global brand. Then through some mechanisms somehow
+
+1019
+01:07:35,000 --> 01:07:42,040
+still unclear, owning an actual noun tough and will show a level of provenance and
+
+1020
+01:07:42,040 --> 01:07:52,040
+its need, and it should be valuable. It is the far edge of GFP experimentation in life.
+
+1021
+01:07:53,160 --> 01:07:57,000
+You now would get into this at all, and get to deep into this, I would love a whole session,
+
+1022
+01:07:57,000 --> 01:07:59,480
+like with 411Xs, about this office.
+
+1023
+01:07:59,480 --> 01:08:08,360
+Also, you know, we had mentioned avatars, avatars, of course, coming. They're coming to GFP world.
+
+1024
+01:08:08,360 --> 01:08:17,800
+They're summarizing the needs of the cybercalls. There's more coming. Will there be
+
+1025
+01:08:19,400 --> 01:08:24,200
+avatar-based collections for moving around in virtual lands, of course? There's 100% happening.
+
+1026
+01:08:24,200 --> 01:08:29,160
+With the agency of this, I will expect a lot more of this, and they'll be an interesting question.
+
+1027
+01:08:29,160 --> 01:08:35,800
+What's better? Do you keep two? Do you have one? Do you have one? Do you have only one?
+
+1028
+01:08:35,800 --> 01:08:39,800
+In which case is it a 2D render than 3D? Is it 3D render than 2D?
+
+1029
+01:08:40,600 --> 01:08:43,240
+I don't know, but we're going to find out of the next five to the end of the year.
+
+1030
+01:08:45,720 --> 01:08:50,520
+Now, I'm going to go highly abstract, or something, a whole lot.
+
+1031
+01:08:50,520 --> 01:09:02,760
+I want to inject into your thinking. One of the things that fascinates me about GFP collections
+
+1032
+01:09:03,640 --> 01:09:13,320
+is this idea that they are a publicly readable community database.
+
+1033
+01:09:13,320 --> 01:09:19,160
+What do I mean by that? We talked about the particulates.
+
+1034
+01:09:21,320 --> 01:09:24,040
+You don't have to know who any of the
+
+1035
+01:09:25,880 --> 01:09:31,080
+HEPDO blog holders are in real life. You don't need to know their mailing address,
+
+1036
+01:09:31,080 --> 01:09:34,600
+the social security number, their email, where they live,
+
+1037
+01:09:34,600 --> 01:09:42,680
+to be able to address them. What do I mean by address them? Well, you can airdrop them
+
+1038
+01:09:43,800 --> 01:09:51,320
+a token of any type by airdroping it to the addresses that have HEPDO.
+
+1039
+01:09:52,200 --> 01:09:55,400
+You don't need anyone's permission to do it. It's right there. It's easy to find if you know it.
+
+1040
+01:09:55,960 --> 01:10:02,520
+You can create an application, where someone who has a HEPDO blog
+
+1041
+01:10:02,520 --> 01:10:07,960
+is in with their web3 blog, and can enable features in their application.
+
+1042
+01:10:08,520 --> 01:10:10,520
+Now, if those features were, it could be things like,
+
+1043
+01:10:11,960 --> 01:10:17,080
+our own against your crypto blog, because you know, you feel you know how much
+
+1044
+01:10:17,080 --> 01:10:20,760
+your crypto blog's are worth, and you're willing to take a crypto blog as collateral,
+
+1045
+01:10:21,240 --> 01:10:24,360
+and extend a blog against it. It could be
+
+1046
+01:10:26,040 --> 01:10:29,560
+signing a licensing degree with the crypto blog's world bought by Yuga.
+
+1047
+01:10:29,560 --> 01:10:37,320
+And so they now have commercial rights, and so let's say I wanted to sell coffee mons with
+
+1048
+01:10:37,320 --> 01:10:42,840
+crypto books on them. I could make an application and say, hey, I want to
+
+1049
+01:10:42,840 --> 01:10:48,520
+sublice them some the way you can express to me that you're interested. I don't have to
+
+1050
+01:10:48,520 --> 01:10:54,680
+email your call. You need to come here and sign something crypto graphically,
+
+1051
+01:10:54,680 --> 01:11:02,840
+with a non-exclusive sublice. You could say in another verse environment,
+
+1052
+01:11:02,840 --> 01:11:08,680
+and bomb, and say, oh, here's a neighborhood, and this neighborhood is only available to
+
+1053
+01:11:09,640 --> 01:11:13,800
+crypto blog holders, and how will we know your crypto blog holders? Because we'll check
+
+1054
+01:11:13,800 --> 01:11:18,440
+your wallet when you log in. If you haven't crypto, then you can come in, and if you can't,
+
+1055
+01:11:18,440 --> 01:11:26,760
+you could make a game. So if you're in this game, now it's very interesting. Everyone,
+
+1056
+01:11:26,760 --> 01:11:31,400
+nine to seven, how they want to do it, everyone under making games, once they've grown game assets,
+
+1057
+01:11:31,400 --> 01:11:41,640
+they can monetize it, but people will make games that would use existing FTS.
+
+1058
+01:11:42,680 --> 01:11:45,880
+You can say, oh, look, I made this whole game, and if I have a crypto blog,
+
+1059
+01:11:45,880 --> 01:11:50,840
+then I get a special org of power, and if there's something in the game.
+
+1060
+01:11:52,360 --> 01:11:55,240
+You can even go into the first of the world. You can sell it down,
+
+1061
+01:11:56,600 --> 01:12:04,040
+actually running a physical blog in Manhattan, and it's token gated, and you can come in,
+
+1062
+01:12:04,040 --> 01:12:10,200
+you can, there's different models now on a mobile device, demonstrate ownership of the token,
+
+1063
+01:12:10,200 --> 01:12:15,240
+and I was not just for bugs, maybe it's for a different type of blockchain, because people who are
+
+1064
+01:12:15,880 --> 01:12:23,720
+generally into NFTs, NFT club, NYC, right? It's a cool bar. You only want NFT nerds,
+
+1065
+01:12:23,720 --> 01:12:28,040
+so you can talk about NFTs all day long, not saying it's necessarily good business,
+
+1066
+01:12:28,040 --> 01:12:33,560
+I don't understand, you can in fact do. And if you think about this concept,
+
+1067
+01:12:33,560 --> 01:12:42,840
+it's saying shine normal psychic, because there are all types of community databases in the world.
+
+1068
+01:12:42,840 --> 01:12:51,080
+They are all held in fact from twice the end of it. They all have a variety of personal information
+
+1069
+01:12:51,080 --> 01:12:59,960
+involved, right? And, hey, you can't easily get access to them, and need to get access to them
+
+1070
+01:12:59,960 --> 01:13:07,800
+for someone to give you access to them. Usually, usually, they're going to handle
+
+1071
+01:13:07,800 --> 01:13:11,320
+where people's personal information, right? So, let's say,
+
+1072
+01:13:15,320 --> 01:13:22,360
+I wanted access to a database of a Catholic church network. I haven't done that, I'm
+
+1073
+01:13:22,360 --> 01:13:26,280
+trying to deal with a Catholic church, and I don't think they would, but let's say they did,
+
+1074
+01:13:26,280 --> 01:13:31,320
+I certainly couldn't do anything directly, because I would expose everyone's personal information,
+
+1075
+01:13:31,320 --> 01:13:35,880
+so you could do some lot of work out here, include a mailer to their house, or what have you.
+
+1076
+01:13:35,880 --> 01:13:39,960
+But, none of these things are easily made. None of these things are particularly interesting
+
+1077
+01:13:39,960 --> 01:13:50,440
+in 2022. Whereas, should it be the community to start forming new NFT collection?
+
+1078
+01:13:50,440 --> 01:13:58,200
+And, those NFT collections mean something. And, by mean something, actually, not that there's
+
+1079
+01:13:58,200 --> 01:14:05,880
+a whole t-shirt or a game, mean something and they have distinctive value, distinctive psycho-demographies.
+
+1080
+01:14:07,160 --> 01:14:12,600
+It's going to be very interesting, because you can then have the world large
+
+1081
+01:14:13,320 --> 01:14:18,440
+developing things for your community, regardless of which model you are, like you don't have
+
+1082
+01:14:18,440 --> 01:14:24,760
+you can get a commercial model, or you can get a CCZ model, someone can still make an opt-in service
+
+1083
+01:14:24,760 --> 01:14:34,360
+for your community. I think this idea is underappreciated. I think I need to work on it and develop
+
+1084
+01:14:34,360 --> 01:14:41,080
+more. I think it's a very large idea. And, much more interesting idea than most of what is going
+
+1085
+01:14:41,080 --> 01:14:47,480
+on on the Internet. I always say everything, but most of what is going on. Next question,
+
+1086
+01:14:47,480 --> 01:14:55,800
+I want to ask this for the new people. Why do people pay so much to people? It is almost
+
+1087
+01:14:55,800 --> 01:15:02,600
+like the generic first argument that people at all, NFTs are a scam. I can't believe someone paid
+
+1088
+01:15:02,600 --> 01:15:12,120
+100 grand for this one to pay. Well, of course, some of what's going on is speculation. Of
+
+1089
+01:15:12,120 --> 01:15:18,920
+course, some of what's going on is, of course, prices go up and prices go down a lot, which
+
+1090
+01:15:18,920 --> 01:15:28,200
+happens a lot in particular, and it's the most directly monetized space on the Internet.
+
+1091
+01:15:28,200 --> 01:15:31,960
+Now, some of it is just, you know, something that's definitely going to get some popular
+
+1092
+01:15:31,960 --> 01:15:36,360
+price goes up in a place like that. And, of course, some of it. Why isn't the price for all
+
+1093
+01:15:36,360 --> 01:15:41,320
+these things like 10 bucks? Let's start with the particular punch, which is where the logic
+
+1094
+01:15:41,320 --> 01:15:48,440
+started in the long time. We have the particular punch meant something natively importantly,
+
+1095
+01:15:48,440 --> 01:15:56,440
+artistically, as the first of its type in the particular world. Well, certain people,
+
+1096
+01:15:56,440 --> 01:16:05,960
+myself and readers, want to express my identity through owning a part of that culture,
+
+1097
+01:16:05,960 --> 01:16:11,480
+just like I've expressed my identity with a person or a people's story, but I do it because
+
+1098
+01:16:11,480 --> 01:16:16,360
+to me, it's the exact same thing. I express my identity by owning and or ultimately.
+
+1099
+01:16:18,040 --> 01:16:22,040
+It says something about it. I like that type of thing.
+
+1100
+01:16:22,040 --> 01:16:37,960
+And it turns out the net market dynamics of how many people feel that way and how many
+
+1101
+01:16:37,960 --> 01:16:44,200
+crypto-punks they offer. And given the crypto-punks that in a somewhat special place in the
+
+1102
+01:16:46,040 --> 01:16:50,920
+hierarchy, and given that the people who tend to feel that way and to have a lot of
+
+1103
+01:16:50,920 --> 01:16:59,400
+crypto assets and have gotten fairly rich over the last few years. The market
+
+1104
+01:17:00,600 --> 01:17:05,080
+clears at whatever price of the people. What point today is 99?
+
+1105
+01:17:08,440 --> 01:17:15,960
+Does it mean it should be 90 and not 10 or 90 and not 900? Nobody knows. We all discover this
+
+1106
+01:17:15,960 --> 01:17:25,400
+over time. But it is no different conceptually to why a tomato soup can cost whatever it can
+
+1107
+01:17:25,400 --> 01:17:29,720
+be. This is how the hell the logic starts. And they all want about these utility miscollection.
+
+1108
+01:17:30,440 --> 01:17:36,760
+Not the same thing at first, right now, and everyone's trying to, you know, the project promoters
+
+1109
+01:17:36,760 --> 01:17:42,440
+are trying to replicate in short circuit the pathway of crypto-punks. Make the same thing you have
+
+1110
+01:17:42,440 --> 01:17:48,440
+in crypto-punks. And this is where some of the mismatch happens. There are a lot of people
+
+1111
+01:17:49,800 --> 01:17:55,320
+and look at the auto-quote utility and say, well, I'm not sure that's worth it.
+
+1112
+01:17:55,320 --> 01:18:00,280
+Why is it worth it to be there? If everything is going to be an interesting question,
+
+1113
+01:18:00,280 --> 01:18:05,640
+most utility miscollections, I believe, will fail at all. Now, ones that work
+
+1114
+01:18:05,640 --> 01:18:16,840
+are the ones who managed to build a broad ecosystem, but the original TFPs are not highly
+
+1115
+01:18:16,840 --> 01:18:24,440
+deadly. I spoke about this one earlier. They hope that someday the boarded ecosystem
+
+1116
+01:18:25,240 --> 01:18:30,600
+is as large as some of the major life-stover internet. And if that's the case,
+
+1117
+01:18:30,600 --> 01:18:37,560
+when there's only 30,000 TFPs, it is likely that the demand for those TFPs to be sufficient
+
+1118
+01:18:38,120 --> 01:18:43,880
+of the prices will be, you know, not zero, significant. We don't know these things,
+
+1119
+01:18:45,400 --> 01:18:55,800
+and because, like, most startup ideas, most collections will fail, price will not be high.
+
+1120
+01:18:55,800 --> 01:19:03,400
+You're going to have this continuous tension with non-cryptop people, non-NFT people.
+
+1121
+01:19:03,400 --> 01:19:08,760
+Those are like, oh, come on, this is like all-time-some-type scale and some-type problem.
+
+1122
+01:19:10,200 --> 01:19:14,200
+And, you know, the leading investment of the TFP might get out of this,
+
+1123
+01:19:15,560 --> 01:19:22,920
+but some of them will, I think, create a strong social construction. And for those,
+
+1124
+01:19:22,920 --> 01:19:30,840
+I think you will hold on. If there is continued demand for a million roles in the year,
+
+1125
+01:19:33,720 --> 01:19:37,560
+there is going to be more than 10 or 20 or 30,000 valuable people.
+
+1126
+01:19:38,200 --> 01:19:43,240
+A valuable, I don't know, which ones I don't know. I'm not sure if you've ever given
+
+1127
+01:19:43,240 --> 01:19:49,400
+the rest of the question, you know, but I think it's fair to say that most TFPs will not be
+
+1128
+01:19:49,400 --> 01:19:56,920
+expected, in expected. And if you will have value, and the fact that they have value is not
+
+1129
+01:19:57,400 --> 01:20:05,560
+some type of a priori takeaway that there's a scam going on. It's not an input.
+
+1130
+01:20:06,360 --> 01:20:11,560
+A thing of quite sloppy thinking, even if a lot of these things don't actually hold value.
+
+1131
+01:20:11,560 --> 01:20:18,920
+Now, some questions that I want you to think about, as we talk about,
+
+1132
+01:20:19,640 --> 01:20:27,160
+as we go through the next two interviews, discussions will start in four or one five six.
+
+1133
+01:20:27,160 --> 01:20:31,320
+There are things that happen, that I have in the back of my mind when I'm chatting with them,
+
+1134
+01:20:31,320 --> 01:20:34,520
+and you'll see them come out, and I want to let you know the question that I'm thinking.
+
+1135
+01:20:35,720 --> 01:20:39,240
+The first is valuation that was discussed. You're telling me, what does it mean?
+
+1136
+01:20:39,240 --> 01:20:42,920
+It doesn't mean anything, right? This is what people actually want. What do people want?
+
+1137
+01:20:45,400 --> 01:20:50,120
+As it present, this is a kind of an excuse question. I'll talk about this more later in the course
+
+1138
+01:20:50,120 --> 01:20:54,120
+when we talk about security and legislations, and I want to get it deep into it now.
+
+1139
+01:20:54,120 --> 01:20:58,520
+As it presents some risks, I hope this will be classified as security. We'll see.
+
+1140
+01:20:58,520 --> 01:21:05,400
+I mean, it's not for today. What are the trade-offs between commercial licenses versus
+
+1141
+01:21:05,400 --> 01:21:12,920
+QC-0 public domain licenses? Are these really communities, or are these customers
+
+1142
+01:21:12,920 --> 01:21:22,040
+or companies that need? Are these art Christmases, or maybe the social construction that is
+
+1143
+01:21:22,040 --> 01:21:28,840
+global, or are they fashion businesses, or are they, it's fashion, it's not fashion.
+
+1144
+01:21:29,880 --> 01:21:32,840
+What are the revenue models, you know, is it from primary sales,
+
+1145
+01:21:32,840 --> 01:21:37,160
+from ongoing royalties? How is this impact to move the current debate happening in royalties?
+
+1146
+01:21:37,160 --> 01:21:41,640
+These are the types of things I want to dig into with, for example, 156,
+
+1147
+01:21:43,080 --> 01:21:49,320
+and get into the more hard-hitting question. I think you now have the basis covered. You have
+
+1148
+01:21:49,320 --> 01:21:56,280
+some basic frameworks and models covered, and then we'll get into some more hard-hitting question.
+
+1149
+01:21:56,280 --> 01:22:04,520
+Now, I want to share a couple of just numbers, and then we'll go to Q&A. I pulled this from
+
+1150
+01:22:04,520 --> 01:22:11,640
+the NFT valuation team. What's interesting, so far they've tracked TFPs in generative art,
+
+1151
+01:22:12,920 --> 01:22:18,360
+and one of one art, probably in the next few months, I don't think one of one art is likely
+
+1152
+01:22:18,360 --> 01:22:23,160
+to be bigger than generative art. And what's interesting so far is the market value of TFPs
+
+1153
+01:22:23,160 --> 01:22:27,720
+is higher than the market value. I suspect we'll see the other categories that have TFPs.
+
+1154
+01:22:30,840 --> 01:22:34,040
+There's a couple of reasons you can imagine. One, because maybe it's easier,
+
+1155
+01:22:34,040 --> 01:22:38,680
+it's the easy way to get started. It's understandable what, which ones are more valuable,
+
+1156
+01:22:38,680 --> 01:22:43,480
+less valuable, more rare, or lesser. It's understandable what you do with it, just a hundred profile.
+
+1157
+01:22:43,480 --> 01:22:53,960
+So that's one idea. The other idea, maybe it has product market fit. Maybe this is a thing that
+
+1158
+01:22:53,960 --> 01:23:03,320
+everyone is going to want. Everyone. And maybe whereas owning a piece of generative art is
+
+1159
+01:23:03,320 --> 01:23:09,080
+something only a few people are going to want. So we don't know the reasons, but today,
+
+1160
+01:23:09,080 --> 01:23:15,480
+they're a large percentage, the largest percentage of the NFT market capitalization.
+
+1161
+01:23:16,280 --> 01:23:22,040
+Eight, over the top ten collections, by market capital, 15 collections, more of those,
+
+1162
+01:23:22,040 --> 01:23:26,680
+or the top five, or you've been five of the top ten, or you've been. So it is quite concentrated.
+
+1163
+01:23:28,520 --> 01:23:31,400
+I think I was in a semi-debate on Twitter about this.
+
+1164
+01:23:31,400 --> 01:23:41,800
+Does someone ask it? Is this an apple? No. NFT is of the furthest thing from an apple,
+
+1165
+01:23:41,800 --> 01:23:48,200
+right? There's no barriers to entry them, none zero. I can go out this afternoon and mint 1,000
+
+1166
+01:23:48,200 --> 01:23:57,720
+PFP collections until it happens. So I think it is more of a reflection of the maturity of this
+
+1167
+01:23:57,720 --> 01:24:05,000
+space than one company who calls the IP for 50, 60 percent of the market capital, 50. And
+
+1168
+01:24:05,000 --> 01:24:13,080
+really, this really happened because they were able to buy the crypto points IP. But I'm all
+
+1169
+01:24:13,080 --> 01:24:20,280
+about 100 percent certain that this number will diminish over time because there's people who
+
+1170
+01:24:20,280 --> 01:24:27,720
+will be launching new PFP collections. And some of them will shift some vein of interest
+
+1171
+01:24:27,720 --> 01:24:34,280
+along the public. And there's no reason to believe that only you'll get to do it.
+
+1172
+01:24:35,240 --> 01:24:40,920
+Many communities, artists, companies, etc. will come after this space. So I think that number
+
+1173
+01:24:40,920 --> 01:24:47,400
+isn't that kind of, but it also will go down over time, natural, because unlike how you think
+
+1174
+01:24:47,400 --> 01:24:52,680
+about classes from Apple, your utility company, they've literally run the pipes to your house
+
+1175
+01:24:52,680 --> 01:24:58,920
+and class from Apple. You'll get does not have a class from Apple. Anyone can launch a PFP collection.
+
+1176
+01:24:59,960 --> 01:25:05,400
+What they've done is very good execution. So I do think that number will match on from now.
+
+1177
+01:25:06,520 --> 01:25:16,280
+And then the last data point, this is volume from, you know, I hate lectures from all time,
+
+1178
+01:25:16,280 --> 01:25:23,160
+basically before January 2021. It was in, in barely even see it on the chart.
+
+1179
+01:25:24,360 --> 01:25:33,000
+And there were big spikes in fall of August and September of 2021. A huge spike in April is the
+
+1180
+01:25:33,000 --> 01:25:42,120
+other side of mint. And today I'm going to down quite a bit. Crypto volume in general,
+
+1181
+01:25:42,120 --> 01:25:48,600
+and I'm talking. And given this is the least established part of the crypto asset
+
+1182
+01:25:48,600 --> 01:25:54,760
+field, it's logical to expect that they'll be down even more. This does not have priority
+
+1183
+01:25:54,760 --> 01:26:03,080
+bothering me. I think this is going to be very, very large field. And this reminds me of what
+
+1184
+01:26:03,080 --> 01:26:11,880
+was happening early, but it's like selectivity and then long periods of much less activity.
+
+1185
+01:26:12,760 --> 01:26:22,040
+I think that's how it's going to happen here as well. And so this is what I wanted to cover
+
+1186
+01:26:22,040 --> 01:26:29,560
+today. What I'm going to do is I don't want to mint presentation yet. I want to finish the
+
+1187
+01:26:29,560 --> 01:26:41,720
+chat with the others. Also information from those chats and share it once it's fully complete
+
+1188
+01:26:42,600 --> 01:26:49,320
+towards the end of the week. Now, I don't know if George or Valentina's can tell me,
+
+1189
+01:26:49,320 --> 01:26:55,320
+are we in one room in which case I can maybe drop down and try and do voice chat and all,
+
+1190
+01:26:55,320 --> 01:27:00,040
+or are there multiple rooms in which case I think we need to be able to display for now several
+
+1191
+01:27:03,240 --> 01:27:10,520
+information. Okay, well, nobody's replying to me here. So I am going to assume, assume we're,
+
+1192
+01:27:10,520 --> 01:27:18,120
+I'm going to take a section and just answer questions here. So let me stop here.
+
+1193
+01:27:18,120 --> 01:27:35,080
+Okay. Why don't you feed questions to the team in
+
+1194
+01:27:35,080 --> 01:27:49,880
+on? I'll try and answer them here. And the team I'm looking in the live channel, the final of the
+
+1195
+01:27:49,880 --> 01:27:56,120
+live channel, looking for a question. I'll assume I will see them there. I see three of them so far.
+
+1196
+01:27:56,120 --> 01:28:05,400
+I assume they're more than three questions, so we should feed them into them. I'll take this
+
+1197
+01:28:05,400 --> 01:28:09,240
+question to basically not take this question. What is the best way to do marketing for your
+
+1198
+01:28:09,240 --> 01:28:17,640
+PFP project? I'll tell you the worst way to do marketing. Send me DM on Twitter and say, hey,
+
+1199
+01:28:17,640 --> 01:28:27,880
+what's your, what's your rate card for marketing my PFP project? I get that, I get that the 10 or
+
+1200
+01:28:29,000 --> 01:28:37,800
+15 times every single day. Needless to say, I don't even bother replying to these. And
+
+1201
+01:28:37,800 --> 01:28:42,680
+needless to say, this is unlikely to be a model that is going to be successful.
+
+1202
+01:28:42,680 --> 01:28:54,680
+Right. The idea of hoping some people with reach will for some reason take your money and say,
+
+1203
+01:28:54,680 --> 01:29:01,000
+wow, this is a full PFP collection. And people are going to care about that or care about that in
+
+1204
+01:29:01,000 --> 01:29:13,320
+the long term. It's a terrible one. I'm almost 100% certain that this will not work. The things that
+
+1205
+01:29:13,320 --> 01:29:24,360
+I can have work that's what I'm going to say is this one. That's how it steps. You'll have to
+
+1206
+01:29:24,360 --> 01:29:35,000
+find a core of people who have a shared ethos. The pumps are to share ethos around the idea of
+
+1207
+01:29:39,000 --> 01:29:44,440
+the more dates. For sure, early on had a shared ethos around the idea of
+
+1208
+01:29:44,440 --> 01:29:57,560
+taking themselves less seriously and less expensively than the pumps. The CDVs have a shared ethos
+
+1209
+01:29:57,560 --> 01:30:06,440
+of taking themselves extremely non-served. And it's one of those, you know, anti-branding,
+
+1210
+01:30:06,440 --> 01:30:15,880
+anti-status ethos. You're willing to use a CDV as your PFP. You don't care about status. It's an
+
+1211
+01:30:15,880 --> 01:30:28,360
+anti-status, status flex. The nouns have an ethos. The ethos has what they're trying to test.
+
+1212
+01:30:28,360 --> 01:30:40,280
+This idea of an extremely decentralized PFP project. In fact, I don't do anything. This one is
+
+1213
+01:30:40,280 --> 01:30:45,720
+pretty free from the project. Ethics is building a better home. Let's go to that and see if you think
+
+1214
+01:30:45,720 --> 01:30:55,160
+that through it on. It certainly will get me. What is not likely, so to me, you have to start with
+
+1215
+01:30:55,160 --> 01:31:03,080
+that question. Who wants to be a part of it? Why do they want to be a part of it? Ask yourself
+
+1216
+01:31:03,080 --> 01:31:13,640
+if these people would want to be together for any other reason. What tends to be the default
+
+1217
+01:31:13,640 --> 01:31:23,560
+case of a new PFP project, which is why the default new PFP project is it starts off with the
+
+1218
+01:31:23,560 --> 01:31:29,320
+needs of the creator. The perceived needs of the creator ends up in some of the more lines of
+
+1219
+01:31:29,320 --> 01:31:39,480
+I want to make a lot of money and have no interest in the actual needs of the people from whom
+
+1220
+01:31:40,200 --> 01:31:47,160
+you're hoping to make a lot of money. So the starting point has to go, who are you addressing?
+
+1221
+01:31:47,160 --> 01:31:54,120
+Why are you addressing? Why are you addressing those people? What are you helping them for in
+
+1222
+01:31:54,120 --> 01:32:02,840
+their lives and start there? It's hard to have any ideas. I just want to make 10,000 generative
+
+1223
+01:32:02,840 --> 01:32:15,640
+problems. Well, this is not like there are other people who have made some money in this. So I can't say
+
+1224
+01:32:15,640 --> 01:32:24,440
+I'm in favor of it, but it has happened. You have to start always thinking about the questions
+
+1225
+01:32:24,440 --> 01:32:30,840
+in community that people start there, not when you're working. If you start a project and then ask
+
+1226
+01:32:30,840 --> 01:32:41,320
+yourself why does someone want it? Well, weird model. Okay, next question.
+
+1227
+01:32:43,640 --> 01:32:50,280
+PFP identity can be tied to the cultural object framework perhaps. Yeah, so this is something
+
+1228
+01:32:50,280 --> 01:32:55,240
+I tweeted about. The cultural object framework is something that I just completely made up.
+
+1229
+01:32:55,240 --> 01:33:01,880
+But I still think it's something that everyone knows a bunch of cultural objects. Those cultural
+
+1230
+01:33:01,880 --> 01:33:07,240
+objects might be make you or the Mona Lisa or Donald Trump or Donald Trump is a cultural object
+
+1231
+01:33:07,240 --> 01:33:14,120
+as much as you can be. I can put your call tips on ideas. What about? There's a bunch of global
+
+1232
+01:33:14,120 --> 01:33:19,000
+cultural objects. There's a bunch of national ones. Italians have different ones in America
+
+1233
+01:33:19,000 --> 01:33:23,560
+and then you have local ones in your community, local high schools, local cultural objects.
+
+1234
+01:33:23,560 --> 01:33:36,040
+Nobody else cares about it. And at any point in time, people have maybe a few thousand cultural
+
+1235
+01:33:36,040 --> 01:33:41,400
+objects they remember. I think it's just a limitation from the number. You just sit down
+
+1236
+01:33:41,400 --> 01:33:46,040
+and find the right amount. Every cultural object you can think of. I know you're good. I think
+
+1237
+01:33:46,040 --> 01:33:55,000
+people come to themselves. The ones that have made it as global cultural objects. They're
+
+1238
+01:33:55,000 --> 01:34:00,680
+everyone in planet Earth and Earth. By my side, I'm the goal. I'm the goal is super valuable
+
+1239
+01:34:01,240 --> 01:34:08,120
+not because you know, physical water is super valuable. It's super valuable because several
+
+1240
+01:34:08,120 --> 01:34:16,680
+billion people will recognize that bottle and say, oh, that's very specific. Very specific
+
+1241
+01:34:18,920 --> 01:34:22,520
+physical water. So this has
+
+1242
+01:34:26,360 --> 01:34:33,400
+a background and I think some PSP projects are currently in the competition and become global
+
+1243
+01:34:33,400 --> 01:34:41,240
+cultural objects. How many will make it? No more than a handful. Why? Because how many global
+
+1244
+01:34:41,240 --> 01:34:49,480
+cultural objects are there? 200, 500 to 1000 and not 50 health. So how many of those are going
+
+1245
+01:34:49,480 --> 01:34:58,680
+to be PSPs? Not a lot. But somewhat, somewhat. And part of my logic of why I think was super
+
+1246
+01:34:58,680 --> 01:35:11,640
+early in PSPs is you don't see national or local, like the normal example I get is France.
+
+1247
+01:35:11,640 --> 01:35:18,840
+France is a big country. It's a piece of an economy. It has something million people.
+
+1248
+01:35:20,680 --> 01:35:24,680
+It is extremely proud of its language and culture. We have a whole
+
+1249
+01:35:24,680 --> 01:35:31,240
+institute set up to protect its language. And as far as I can tell, I have yet to see
+
+1250
+01:35:32,200 --> 01:35:38,680
+a meaningful PSP collection where the names of the traits are in French.
+
+1251
+01:35:40,520 --> 01:35:43,000
+By the way, I'm not sure if you should do this as a visual idea because
+
+1252
+01:35:44,120 --> 01:35:48,200
+probably the reason it hasn't happened is on of French people now still working with NFTs.
+
+1253
+01:35:48,200 --> 01:35:55,480
+Some other will be. And it seems totally obvious that the average French person who on average speaks
+
+1254
+01:35:55,480 --> 01:36:06,440
+French will want the PFP in his or her native language. And how many PFP collections in French
+
+1255
+01:36:06,440 --> 01:36:17,080
+of 10,000 France support? Well, quite a few. Or maybe fewer collections, but larger numbers of
+
+1256
+01:36:17,080 --> 01:36:28,360
+PFP. So I don't think we even hit national level PFP. We have, I don't know, 30, 40 meaningful PFP
+
+1257
+01:36:28,360 --> 01:36:36,360
+collections, all of which are competing on a global basis, all of which are super
+
+1258
+01:36:36,360 --> 01:36:43,800
+rudimentary, like the numbers are tiny. When you think about all large communities,
+
+1259
+01:36:43,800 --> 01:36:49,560
+well, Facebook has three and a half billion people. Oh, the board apes have
+
+1260
+01:36:49,560 --> 01:36:54,840
+linked to a lot of NFTs, depending on if you count the crotos in or not in other side.
+
+1261
+01:36:55,400 --> 01:36:58,280
+The board apes either have 30,000 or 40,000.
+
+1262
+01:37:00,760 --> 01:37:08,040
+30 or 40,000 is not a large number either as a brand or as a social media company.
+
+1263
+01:37:08,040 --> 01:37:17,480
+And so we're still super, super early, super, super niche. And I think thinking through
+
+1264
+01:37:18,280 --> 01:37:22,840
+the cultural object framework, so thinking factfully that there will be outcomes of
+
+1265
+01:37:22,840 --> 01:37:29,400
+a national at a global level, the national level of community level, will actually help maybe
+
+1266
+01:37:30,360 --> 01:37:34,920
+help you find gaps in the marketplace. In fact, the gaps in the marketplace are literally
+
+1267
+01:37:34,920 --> 01:37:40,440
+everything. Everything's happening. But you have to ask yourself, do you understand this group
+
+1268
+01:37:40,440 --> 01:37:44,920
+well enough and are they online enough and are they crypto enough now that you can fill that?
+
+1269
+01:37:48,040 --> 01:37:53,000
+I do think the archetype of PFP is going to be replaced since temporary. I assume this means
+
+1270
+01:37:53,000 --> 01:38:03,320
+the 2D profile picture. But we'll definitely have 3D avatars. You might have other things.
+
+1271
+01:38:03,320 --> 01:38:08,840
+The 3D avatars are probably the end state right because they'll work 3D in the browser,
+
+1272
+01:38:08,840 --> 01:38:11,960
+they'll work in virtual reality, they'll work in augmented reality.
+
+1273
+01:38:14,520 --> 01:38:23,480
+I don't think the end state in any of those 3 is going to be 2D image, it's going to be the most
+
+1274
+01:38:23,480 --> 01:38:33,640
+natural view. So I certainly expect a lot more 3D avatars and NFT collections.
+
+1275
+01:38:36,600 --> 01:38:41,080
+How does that interact with 3D spaces? I don't know, I mentioned this earlier.
+
+1276
+01:38:41,080 --> 01:38:47,560
+Are you going to have one PFP for Twitter and a different one for running around on?
+
+1277
+01:38:47,560 --> 01:38:54,680
+Are you going to have the same one, and if you're going to have the same one, is it
+
+1278
+01:38:56,840 --> 01:39:03,560
+like in ARM, am I going to have you some brand new 3D PFP and then I'll use that on Twitter or
+
+1279
+01:39:05,000 --> 01:39:10,360
+am I going to make a 3D s5 to 9 to run around on? I don't know. I think it's
+
+1280
+01:39:11,160 --> 01:39:16,120
+I think it's true early to know this. Of course there's one of those questions where the answer is
+
+1281
+01:39:16,120 --> 01:39:19,880
+yes, all of the above, right? There can be people open different things. But
+
+1282
+01:39:22,600 --> 01:39:31,240
+we're sure as much as 3D PFP and NFTs are early, 3D ones are certainly on the market beginning of the
+
+1283
+01:39:31,240 --> 01:39:39,000
+people. I don't know what comes after that. I don't think that the 3D ones have a lot of rooms
+
+1284
+01:39:39,000 --> 01:39:48,280
+to run and there's a lot of technical issues to solve to make them work well. Facebook
+
+1285
+01:39:48,280 --> 01:39:53,640
+has spent tens of millions of dollars and they're still working on having their 3D avatars,
+
+1286
+01:39:54,440 --> 01:39:59,960
+have the legs in VR, you know, why is it hard to have legs? I can do them in an afternoon
+
+1287
+01:39:59,960 --> 01:40:06,600
+alone. Have legs in VR and not make the user nauseate. The legs have to actually work in a
+
+1288
+01:40:06,600 --> 01:40:12,360
+naturalist way that people don't get nauseated. So a lot of work that needs to be done by do
+
+1289
+01:40:12,360 --> 01:40:24,920
+think that's probably the end state. Does a PFP with no utility have a chance in the future? Yes.
+
+1290
+01:40:27,400 --> 01:40:34,840
+I think it is an open question how much and as we've ever housed,
+
+1291
+01:40:34,840 --> 01:40:41,960
+both models work, but how much the model is going to be? I want to own this NFK
+
+1292
+01:40:42,840 --> 01:40:48,840
+because there's a team of people at the company behind that are a bunch of cool stuff for me.
+
+1293
+01:40:48,840 --> 01:40:54,120
+They're organizing parties, they're making a special house for me to stay in when I'm in
+
+1294
+01:40:54,120 --> 01:41:03,560
+San Francisco, they're air dropping me a t-shirt, I mean all of this stuff is one model. And then there's
+
+1295
+01:41:03,560 --> 01:41:12,680
+one of the other PFP's that are pure culture. We've got the bunch of pure culture. The CDB is
+
+1296
+01:41:12,680 --> 01:41:20,600
+pure culture. There is no centralized security team, there is no one organizing on behalf of the
+
+1297
+01:41:20,600 --> 01:41:34,360
+project. It's just a cultural part. I think cultural ones are harder to do because you've got to
+
+1298
+01:41:34,360 --> 01:41:40,680
+figure, you've got to really get the meaning of a certain culture. They're harder to do,
+
+1299
+01:41:40,680 --> 01:41:47,160
+but if you do them, if you do them, I think that easier to be successful. If you get it right,
+
+1300
+01:41:47,160 --> 01:41:52,600
+the pathway to success is easier, you have to do fewer things. The ones that are utility-based,
+
+1301
+01:41:54,600 --> 01:42:01,640
+I think you do end up in a bit of a grind as the operator of the project, one of the project,
+
+1302
+01:42:02,920 --> 01:42:09,720
+that expectations are set that you're doing something for the holders on an ongoing basis.
+
+1303
+01:42:09,720 --> 01:42:21,000
+I'm going to say, I'm going to say what's bad, big companies operate effectively forever,
+
+1304
+01:42:21,000 --> 01:42:26,360
+like Nike isn't saying, well, gosh, I'm really exhausted thinking up of new shoes, so next
+
+1305
+01:42:26,360 --> 01:42:31,480
+year we're not going to make it. It's a normal corporate thing, but if you end up in that model,
+
+1306
+01:42:31,480 --> 01:42:39,000
+that is the model. You have to keep coming up with new things every year for the developing
+
+1307
+01:42:39,000 --> 01:42:46,120
+existing things, and managing to stay tuned with the values and interests of your group,
+
+1308
+01:42:46,120 --> 01:42:53,800
+and continue the bunch of other groups. So, the utility model, it does imply a lot of work,
+
+1309
+01:42:53,800 --> 01:43:00,360
+if it works. A culture model, all of the hard works on a fund end, if you make something that's
+
+1310
+01:43:00,360 --> 01:43:06,040
+cultural irrelevant. If you make something that's cultural irrelevant, and they're an initial pickup,
+
+1311
+01:43:06,040 --> 01:43:12,680
+it might be self-sustaining with much less work on the project. So, there's no free lunch in
+
+1312
+01:43:12,680 --> 01:43:21,800
+life. This is another no free lunch type, conclusion, that both models I think do.
+
+1313
+01:43:25,320 --> 01:43:32,680
+All right, what is your most optimistic and pessimistic outlook on PFPS three to five years from now?
+
+1314
+01:43:32,680 --> 01:43:40,120
+Also, what are your thoughts on PFPS for professional groups? Like, what knowledge of surgeons or trade
+
+1315
+01:43:40,120 --> 01:43:49,800
+unit? Well, let's start with the second question. I think they're a great professional group for
+
+1316
+01:43:49,800 --> 01:43:57,960
+definitely making them, and they're definitely used. I don't think that's tomorrow. It's maybe
+
+1317
+01:43:57,960 --> 01:44:06,040
+three to five years from now, as it's us, and certainly by the end of the day. So, my most optimistic outlook
+
+1318
+01:44:07,640 --> 01:44:17,000
+is also like the follow-up, which is, everyone is going to have many NFTs with them.
+
+1319
+01:44:19,800 --> 01:44:24,680
+Everyone, the first population, I mean, people with an internet connection, and
+
+1320
+01:44:24,680 --> 01:44:32,120
+as far as following the computer and access to at least a little bit of mud groups, two, three billion
+
+1321
+01:44:32,120 --> 01:44:39,720
+people, definitely. And, I mean, everyone probably don't mean every single grandmother in the world,
+
+1322
+01:44:39,720 --> 01:44:46,520
+right? I mean, actually, everyone, but everyone in the world is internet active, of course,
+
+1323
+01:44:46,520 --> 01:44:56,280
+can include them. But, so, and they'll have all types of NFTs. And the median NFT that we're going to have,
+
+1324
+01:44:57,640 --> 01:45:04,360
+is not going to be very expensive, because the median person doesn't have a lot of money to buy
+
+1325
+01:45:04,360 --> 01:45:10,440
+an expense letter, but the same reason the median person isn't buying the levitton person,
+
+1326
+01:45:10,440 --> 01:45:15,720
+for the same part, the median person globally is not owned, and we're saying these men's.
+
+1327
+01:45:17,800 --> 01:45:26,040
+But, the median person still has a person, and they might have a car, or a motorcycle, or a bicycle,
+
+1328
+01:45:26,040 --> 01:45:37,960
+or have some means of transportation. So, I would expect the distribution of the prices of NFTs,
+
+1329
+01:45:37,960 --> 01:45:44,440
+NFTs, to reflect the distribution of income and wealth, and wealth.
+
+1330
+01:45:46,680 --> 01:45:50,120
+If this sounds totally obvious, they haven't been in the other way.
+
+1331
+01:45:51,880 --> 01:45:57,880
+In which case, there's going to be a gigantic number of people.
+
+1332
+01:45:57,880 --> 01:46:08,200
+I don't know which I get. Most of them are called failure and economic terms. Maybe even
+
+1333
+01:46:08,200 --> 01:46:15,400
+most of them are called failure and engagement and utility terms, because you don't need to do
+
+1334
+01:46:15,400 --> 01:46:21,800
+very much to launch a PSP collection. The permissional system can be done itself. Of course,
+
+1335
+01:46:21,800 --> 01:46:27,480
+a lot of people will do a lazy effort, and very much work into it, and then be surprised
+
+1336
+01:46:27,480 --> 01:46:38,280
+not to work. But there will also be some valuable quote-unquote in the enterprise collections.
+
+1337
+01:46:38,280 --> 01:46:43,480
+There will also be collections that are much much larger than today, and so the average
+
+1338
+01:46:43,480 --> 01:46:48,520
+price of a PSP might be much lower than some of these kinds of collections, but the total value of
+
+1339
+01:46:48,520 --> 01:46:57,880
+the collection can be seen. And more importantly is, people are using, people are using them to
+
+1340
+01:46:58,680 --> 01:47:06,680
+organize social activity online, organize community activities, make their social and community
+
+1341
+01:47:06,680 --> 01:47:11,960
+equipment interoperable with other social and community groupings and applications. That's
+
+1342
+01:47:11,960 --> 01:47:18,600
+going to be a very happy outcome, and it would also be my fault out there, I think, as well. What's my
+
+1343
+01:47:18,600 --> 01:47:25,960
+personalistic outcome? It's the same personalistic outcome for everything in the end of the
+
+1344
+01:47:25,960 --> 01:47:36,360
+incompatible space. That being in the United States, in the European Union, the effectively
+
+1345
+01:47:36,360 --> 01:47:45,640
+losing freedom to have our own goals, that we can have the freedom to transact in crypto
+
+1346
+01:47:46,680 --> 01:47:55,800
+directly on the chain. That we are forced to go to centralized providers, that you cannot hold
+
+1347
+01:47:55,800 --> 01:48:07,560
+an NFT unless you're holding it in a centralized custodian like one base. You are pulled into a
+
+1348
+01:48:07,560 --> 01:48:12,040
+permission system. Once you're pulled into a permission system, an iteration is going to die,
+
+1349
+01:48:12,040 --> 01:48:17,560
+interesting ideas are going to die, there's going to be someone keeping, and it's going to get very,
+
+1350
+01:48:17,560 --> 01:48:24,840
+very boring, you know. To me, this is the number one important thing, not just for the
+
+1351
+01:48:24,840 --> 01:48:30,120
+success of the crypto space and the key space. My views are this is very important for human
+
+1352
+01:48:30,120 --> 01:48:37,160
+freedom in general, because the ability to transact conditionlessly off-chain is coming to an end.
+
+1353
+01:48:38,840 --> 01:48:46,120
+There will be a continued pressure of cash, and if we lose the ability to run applications
+
+1354
+01:48:46,920 --> 01:48:54,200
+non-custodially permissionlessly online, which a good chunk of the regulatory system would like
+
+1355
+01:48:54,200 --> 01:49:03,000
+that to happen. It means our whole economic activity as individuals, as organizations, as
+
+1356
+01:49:03,000 --> 01:49:09,880
+societies, can be switched on and off by a specific individual and a specific individual
+
+1357
+01:49:09,880 --> 01:49:16,200
+or central bank, president or administrator, and none of that is helping to decide.
+
+1358
+01:49:16,200 --> 01:49:25,080
+There is, I am not, you're going to hear this over and over, I am not naive, there are bad people,
+
+1359
+01:49:25,080 --> 01:49:30,520
+there are criminals in the world, there are people who should have law enforcement chase around,
+
+1360
+01:49:32,120 --> 01:49:38,760
+but because I'm not naive, I also think that if we centralize
+
+1361
+01:49:38,760 --> 01:49:46,520
+these hard-like hours in a handful of governmental positions, some of those criminal minds
+
+1362
+01:49:48,040 --> 01:49:53,800
+will work very hard so they get an episode, and when they get an episode, they'll be closed on stop.
+
+1363
+01:49:55,240 --> 01:50:00,360
+So a sophisticated understanding of this, a sophisticated understanding of
+
+1364
+01:50:00,360 --> 01:50:09,320
+bad people and criminality, isn't just we need to catch all the bad guys, it is also
+
+1365
+01:50:09,960 --> 01:50:19,240
+let's not create a gigantic crisis that a bad guy can grab, because someday, in the history of time,
+
+1366
+01:50:19,240 --> 01:50:22,440
+in some countries, someone's going to manage the world and it's inevitable.
+
+1367
+01:50:22,440 --> 01:50:39,080
+A sold-bound NFC's PFP wouldn't be an identity model, if I sold out PFP, someone means a PFP
+
+1368
+01:50:39,960 --> 01:50:50,360
+tied to a wall, from a topic, I don't think we can cover it in depth today. My short answer is
+
+1369
+01:50:50,360 --> 01:50:59,080
+I think tying a PFP wall is basically done. We are at the beginning of the beginning of wall
+
+1370
+01:50:59,080 --> 01:51:06,120
+technology, everyone's going to want to change wallets many times like this, and the only way
+
+1371
+01:51:07,080 --> 01:51:13,160
+to both enable that and have a sold-bound is to effectively centralize that if you have some
+
+1372
+01:51:13,160 --> 01:51:20,040
+place you can go, say, prove to them, I no longer want to use this wallet, I want to move it to
+
+1373
+01:51:20,040 --> 01:51:24,440
+another wallet, or I've lost access to this wallet, it's a point of centralization, I don't like it.
+
+1374
+01:51:25,240 --> 01:51:33,640
+What the sold-bound NFC is actually trying to solve is proof of humanity, civil resistance,
+
+1375
+01:51:33,640 --> 01:51:44,920
+the ability to say this person is the same person that this wallet and that wallet are still one
+
+1376
+01:51:44,920 --> 01:51:55,560
+person. It is one of the great unsolved problems in crypto and more generally in decentralized
+
+1377
+01:51:55,560 --> 01:52:03,640
+identity, people have been trying to solve this for a long time. It may be solvable, but 100% sure.
+
+1378
+01:52:04,120 --> 01:52:10,840
+It may not be solvable, but 100% sure. But I'm pretty sure it is not solvable by saying
+
+1379
+01:52:12,200 --> 01:52:17,880
+something as simplistic as you can't move your PFP from this wall,
+
+1380
+01:52:17,880 --> 01:52:26,600
+it doesn't solve anything, unless you actually verify the types of things you'd have to do for this
+
+1381
+01:52:26,600 --> 01:52:36,200
+to be a useful outcome. You'll have to KYC the person before him, otherwise someone could go
+
+1382
+01:52:36,200 --> 01:52:42,120
+to get a sold-bound token for six lives, and I have to follow it. The claim to be six lives
+
+1383
+01:52:42,120 --> 01:52:49,320
+in our battery system. We have to KYC, and then you need a process permanently to authorize
+
+1384
+01:52:49,320 --> 01:52:55,960
+movements to new walls. By the time you've done that, you might as well just run a database.
+
+1385
+01:52:57,640 --> 01:53:04,120
+I mean, this is not better than a database. This is actually very complicated and
+
+1386
+01:53:04,120 --> 01:53:14,040
+painful to implement a commission database. So to the degree that there's going to be a useful form
+
+1387
+01:53:14,040 --> 01:53:21,000
+of decentralized identity, a useful form of civil resistance, it's not easy to do. It's very
+
+1388
+01:53:21,000 --> 01:53:26,360
+hard to do a lot of great lines of fail to solve and solve. It might be solvable, but it's not
+
+1389
+01:53:26,360 --> 01:53:31,560
+solvable in this simplistic way. It's not solvable in this industry. It's been solvable and tokens
+
+1390
+01:53:31,560 --> 01:53:35,960
+as they're currently described to me are not fit for the purposes I'm going to describe. All they
+
+1391
+01:53:35,960 --> 01:53:39,800
+actually do is make life annoying for everyone with no actual practical purpose.
+
+1392
+01:53:44,440 --> 01:53:52,600
+Okay, let's see. Do you think a physical-backed token recently tested by, as you might be
+
+1393
+01:53:52,600 --> 01:53:57,000
+rather than used case for corporate company? I am skeptical about the confusion and
+
+1394
+01:53:57,000 --> 01:54:02,120
+the reasons to you think they have this issue. So, as you can announce something yesterday,
+
+1395
+01:54:02,120 --> 01:54:08,040
+and I don't think as you can. As you can see, they're using it in their project, a little physical
+
+1396
+01:54:08,040 --> 01:54:16,120
+device, all of the being. It can be embedded in a physical product and generate it to you.
+
+1397
+01:54:17,000 --> 01:54:23,880
+And so that when you have a hybrid, physical, digital token combo,
+
+1398
+01:54:23,880 --> 01:54:32,280
+there's actually a linkage through the physical device. The physical device is a blockchain.
+
+1399
+01:54:37,080 --> 01:54:45,480
+I'm glad people are experimenting with this. Things are very useful and fruitful area for people
+
+1400
+01:54:45,480 --> 01:55:01,160
+to experiment. I'm not only 100% convinced how useful this is. A big part of the reason that
+
+1401
+01:55:01,160 --> 01:55:07,480
+tokens are interesting is their instincts around the world,
+
+1402
+01:55:07,480 --> 01:55:13,880
+the possibility of mobility, etc. If there's a physical object,
+
+1403
+01:55:15,880 --> 01:55:18,680
+well, obviously, you can't move that physical object from them or,
+
+1404
+01:55:18,680 --> 01:55:24,360
+so, basically, they're back in the world and shifting a new PS and a challenge to be
+
+1405
+01:55:24,360 --> 01:55:28,440
+sure and to be verified because what it is, when it wasn't managed, obviously,
+
+1406
+01:55:29,160 --> 01:55:35,240
+those are not solved by a better linkage between the token and the physical object.
+
+1407
+01:55:35,240 --> 01:55:44,920
+Now, what if, now, is it possible, do I believe there will be a world that I can scan a
+
+1408
+01:55:44,920 --> 01:55:54,200
+physical object on an LA carton of eggs? And that carton of eggs will tell me that they were
+
+1409
+01:55:54,200 --> 01:56:06,840
+hatched in this farm and the tokens were of organic grain and I can interact where that grain came from.
+
+1410
+01:56:07,640 --> 01:56:17,240
+And they lived through, oh, that's a tricky little, but they were packaged on this day.
+
+1411
+01:56:17,240 --> 01:56:21,800
+They were entrusted with these many other days and now they're in like, it shouldn't
+
+1412
+01:56:21,800 --> 01:56:29,720
+be waiting to become an omelette. Now, we'll have that and doesn't make sense that that type of
+
+1413
+01:56:29,720 --> 01:56:38,040
+tracking information is put on a blockchain so that if I'm an ex-applier, a neural ex-applier,
+
+1414
+01:56:38,040 --> 01:56:43,400
+a neural action, a new supplier, and I'm a lead supplier, we all write some type of standardized format
+
+1415
+01:56:43,400 --> 01:56:49,240
+on the blockchain so people can make applications for this type of user, yeah, but also sounds
+
+1416
+01:56:49,240 --> 01:56:53,640
+different from seeing up. Even things for a very long time, no one's actually done it yet, but
+
+1417
+01:56:53,640 --> 01:57:00,360
+it's conceptually one of those things that make sense for blockchain. Blockchain makes sense
+
+1418
+01:57:00,360 --> 01:57:04,280
+when you have large groups of disparate people that are otherwise part-organized and
+
+1419
+01:57:04,280 --> 01:57:08,520
+food producers and food distributors and food consumers are good examples.
+
+1420
+01:57:13,640 --> 01:57:18,440
+All of this is a physical object with a blockchain piece that can be something that is a
+
+1421
+01:57:18,440 --> 01:57:23,240
+blockchain that can be used in some of the other ways. It's like, this thing represents this
+
+1422
+01:57:23,240 --> 01:57:30,040
+information. All of this sounds really good, and the fact that I'm not 100% sold on
+
+1423
+01:57:32,280 --> 01:57:40,600
+is that the linkage to the token doesn't. You wouldn't, if I gave you my carton of ex,
+
+1424
+01:57:41,320 --> 01:57:46,120
+allows you to transfer some token, of course this is not the usage case of people,
+
+1425
+01:57:46,120 --> 01:57:51,880
+talking to people talking about it. I give you my attack mate, and it also comes with token,
+
+1426
+01:57:51,880 --> 01:57:56,760
+and the token goes along with it, and that has information. I'm not saying there won't be some
+
+1427
+01:57:56,760 --> 01:58:05,320
+use of blockchain goods or this type of thing, but I am saying that the nature of a physical object
+
+1428
+01:58:05,320 --> 01:58:18,520
+inside you, an NFT, takes away a lot of the actual entity. It drags you into the extremely
+
+1429
+01:58:18,520 --> 01:58:26,200
+non-skillable thing, and I'll give you a practical example. I think the psychological
+
+1430
+01:58:26,200 --> 01:58:36,200
+end is in a couple thousand years, and the fund has it from one of the other ones, and among those 25
+
+1431
+01:58:37,320 --> 01:58:42,280
+100% are three or four of them, and we've gotten also a physical good, a physical installation,
+
+1432
+01:58:43,000 --> 01:58:47,880
+and they're great, they're amazing, and I have no objection to physical things. I don't so, but
+
+1433
+01:58:50,440 --> 01:58:55,240
+we have some more time going through and thinking about how we're going to store
+
+1434
+01:58:55,240 --> 01:58:59,640
+the physical piece of work, and how we're going to store them, and what's the right model,
+
+1435
+01:58:59,640 --> 01:59:03,400
+and how are we going to keep them safe, and how we're going to cost, and how we're going to ship them,
+
+1436
+01:59:04,200 --> 01:59:16,440
+and the ball of these things, that are these five NFTs, and the other 2495 combined by a factor of
+
+1437
+01:59:16,440 --> 01:59:26,200
+what, and every time I think about these hybrid physical digital, and there's my mind immediately
+
+1438
+01:59:26,200 --> 01:59:30,360
+goes to what, just to tell you that, well sure, but some things are going to just the physical world
+
+1439
+01:59:30,360 --> 01:59:35,960
+anyway, if you want to buy a fancy watch, and you're going to have it in the physical world,
+
+1440
+01:59:35,960 --> 01:59:47,480
+regardless, it's not a choice, not to have it in the physical world, and there'll be some useful
+
+1441
+01:59:47,480 --> 01:59:58,680
+things, yes, are they going to be, is the problem solved? No, I don't think so, oh my God,
+
+1442
+01:59:58,680 --> 02:00:06,440
+people are in experiments, yes I am, I really like people, okay, I think I'm going to wrap here,
+
+1443
+02:00:06,440 --> 02:00:13,960
+this has got a long time, or on exactly two hours, so I want to keep it to some reasonable length,
+
+1444
+02:00:15,480 --> 02:00:20,440
+the next session, on the other side,
+
+1445
+02:00:20,440 --> 02:00:28,840
+I'm 30 each time, you know, quite a worse thing to suppose, I think that's right,
+
+1446
+02:00:29,480 --> 02:00:35,400
+there's going to play the interview, Q&A discussion I have with,
+
+1447
+02:00:36,200 --> 02:00:44,520
+or then, then a 3PM Eastern one, our dual login, and we can ask questions, I'm not going to ask
+
+1448
+02:00:44,520 --> 02:00:51,560
+questions, do I spend an hour and a half asking questions on Monday, so you'll have a chance for that question,
+
+1449
+02:00:52,760 --> 02:01:04,120
+and then, 415690 to some physical, so we do that as well, and with that, we will then also finalize
+
+1450
+02:01:04,120 --> 02:01:10,680
+anything in the presentation, the unit team was making some progress thinking about now,
+
+1451
+02:01:10,680 --> 02:01:14,200
+then things are going to work out, displaying them, of course people are going to work,
+
+1452
+02:01:14,200 --> 02:01:18,760
+I'll let them announce them, they're ready, but it seems like progress is being made,
+
+1453
+02:01:18,760 --> 02:01:28,600
+my guess is another week or two, and we'll have the process down, down time, so thank you, everyone,
+
+1454
+02:01:28,600 --> 02:01:41,560
+once again, it was a pleasure and we'll see you in a couple of days.
+
