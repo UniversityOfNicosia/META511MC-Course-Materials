@@ -26,3 +26,9 @@ Inside this directory you may find the transcripts of the live sessions, were -w
         - .txt - https://arweave.net/MWT_qiYSVsNuUdXDmcVG6wK3sZ8vCvOtksfSz4UVp7M
         - .srt - https://arweave.net/yJbXWxJ85AP9_tEDaXEKYBtHeZaa6YhX_o5duJSh5EA
         - .vtt - https://arweave.net/jkDYjnO48XdWO2psCI70Mr6TAEYtl1NXPDTdwyk4zUs
+
+- **Week 4: Art NFTs (CryptoArt, 1 of 1s)**
+    - **Week 4.1**
+        - .txt - https://arweave.net/hw5mcEsSnsDoT2qcseFl2cr9PmqwjxS2Txucj_u07sw
+        - .srt - https://arweave.net/Bf54i-BYFaVtgiLu63gOBjRbaQ3qZoWJr5OhN44wGx0
+        - .vtt - https://arweave.net/apgfC7ONvUr4NjOfqRyX-SZlIqdJS2x4RRS-z9zSB20
