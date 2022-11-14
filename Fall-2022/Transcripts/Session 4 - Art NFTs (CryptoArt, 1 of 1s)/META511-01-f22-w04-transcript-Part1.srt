@@ -1,0 +1,2588 @@
+1
+00:00:00,000 --> 00:00:29,640
+Hello, hi everyone, welcome to the Open Metaverse, and welcome to week four of the University
+
+2
+00:00:29,640 --> 00:00:39,840
+of Nicosia's free MOOC on NFTs and the metaverse with Punk 6529 and me. I would like to,
+
+3
+00:00:39,840 --> 00:00:49,840
+the topic of today's NFT art is going to be presented as always by 6529, but
+
+4
+00:00:49,840 --> 00:00:59,440
+before he takes the stage, I would like to take a few minutes to discuss a little bit
+
+5
+00:00:59,440 --> 00:01:10,200
+about the course logistics. So, okay, here we are, just to make sure that everyone understands
+
+6
+00:01:10,200 --> 00:01:15,200
+what type of material we produce from this course and where they can find this material.
+
+7
+00:01:15,200 --> 00:01:21,280
+So, each week we will be producing two main pieces of material. The first one will be
+
+8
+00:01:21,280 --> 00:01:28,360
+a PDF file that will contain the main presentation of the week. So, we have 12 weeks, there are
+
+9
+00:01:28,360 --> 00:01:35,080
+going to be 12 PDFs in total by the end of this course. And second, one or more than
+
+10
+00:01:35,080 --> 00:01:40,360
+one video for each of the live sessions. So, there will be at least one live session
+
+11
+00:01:40,360 --> 00:01:48,800
+each week, like today, but especially going forward, there will also be more than one
+
+12
+00:01:48,800 --> 00:01:55,960
+live sessions as 6'5 to 9 and I'm going to start interviewing guests, hosting panels,
+
+13
+00:01:55,960 --> 00:02:02,080
+etc. So, we will be producing one video for each of these sessions and these videos are
+
+14
+00:02:02,080 --> 00:02:07,400
+going to be part of the course material. Now, where can you access this material? There
+
+15
+00:02:07,400 --> 00:02:14,280
+are four different places. First of all, in the course website, you can find both the
+
+16
+00:02:14,280 --> 00:02:21,840
+PDFs and videos there, our GitHub account. You can find both the PDF and the videos there.
+
+17
+00:02:21,840 --> 00:02:27,200
+The videos will also be available on YouTube, some of you are watching the video on YouTube
+
+18
+00:02:27,200 --> 00:02:34,480
+now on live streaming, but they are also available as recordings afterward. And finally, both
+
+19
+00:02:34,480 --> 00:02:44,160
+the PDFs and the videos can also be seen as NFTs in your Ethereum wallet or in OpenSea
+
+20
+00:02:44,160 --> 00:02:52,840
+or other NFT marketplaces. Now, for this last part, let me clarify that for the first week,
+
+21
+00:02:52,840 --> 00:02:58,720
+the material has already been air-dropped to everyone's wallet. All of you who have who
+
+22
+00:02:58,720 --> 00:03:05,600
+had minted the course access token should have received the week one material in your
+
+23
+00:03:05,600 --> 00:03:12,480
+wallet already. We wanted to air-drop this material to everyone because we think this
+
+24
+00:03:12,480 --> 00:03:18,920
+has a historic sentimental and maybe in the future who knows some provenance value because
+
+25
+00:03:18,920 --> 00:03:27,840
+it's the first material of the first on-chain course ever. But from week two onward, you
+
+26
+00:03:27,840 --> 00:03:33,920
+will have to proactively go and access the material. So we will not be air-dropping the
+
+27
+00:03:33,920 --> 00:03:40,280
+material as NFTs to everyone's wallets. We will be announcing this on Twitter and on Discord
+
+28
+00:03:40,280 --> 00:03:44,800
+every time something is ready for you. But we also expect you to go and visit the course
+
+29
+00:03:44,800 --> 00:03:52,520
+website, go and visit our YouTube channel and see what news is available there. We are
+
+30
+00:03:52,520 --> 00:03:59,960
+also working to develop a claim website where you will be able to go and claim all the NFTs
+
+31
+00:03:59,960 --> 00:04:08,400
+you want from the course. All the PDFs, and all the videos will be minted as NFTs. You will
+
+32
+00:04:08,400 --> 00:04:13,840
+be able to claim them for free. You just pay the gas fees. But it will be up to you because
+
+33
+00:04:13,840 --> 00:04:21,000
+we don't want to be flooding your wallet with material that you may not be interested in.
+
+34
+00:04:21,000 --> 00:04:26,280
+Finally, I wanted to let you know that we're working on the process of reducing the cycle
+
+35
+00:04:26,280 --> 00:04:33,440
+the time it takes for us to produce all this material. But it's not always easy. So there are too many
+
+36
+00:04:33,440 --> 00:04:41,960
+things happening in parallel. The transcription of the videos always takes a while. NFT minting
+
+37
+00:04:41,960 --> 00:04:49,160
+is an experimental process for us. We are minting very large video files and we have
+
+38
+00:04:49,160 --> 00:04:54,600
+had to test the limits of platforms like Arweave or OpenSea in the process of doing that.
+
+39
+00:04:54,600 --> 00:05:01,520
+So thank you for your patience with that. So that's all regarding access to the course
+
+40
+00:05:01,520 --> 00:05:09,800
+material. The second thing I'd like to say has to do with the weekly breakdown. As you
+
+41
+00:05:09,800 --> 00:05:16,760
+know, the course is 12 weeks long. Each week we cover one main topic. So last week it was
+
+42
+00:05:16,760 --> 00:05:24,600
+3FPs. This week is crypto art. But especially from now on, as more and more guests will be
+
+43
+00:05:24,600 --> 00:05:30,360
+joining us, please note that the educational coverage of each week's material would not
+
+44
+00:05:30,360 --> 00:05:37,000
+be necessarily confined to that week only. So for example, we may be covering art in
+
+45
+00:05:37,000 --> 00:05:42,600
+today's live session. But some of the discussions and the interviews with guests related to NFT
+
+46
+00:05:42,600 --> 00:05:48,560
+art will be recorded and broadcast or will be live-streamed in the coming weeks. We will
+
+47
+00:05:48,560 --> 00:05:56,320
+be using Discord, Twitter, and the course website for all the relevant announcements.
+
+48
+00:05:56,320 --> 00:06:01,440
+And in the website, in the end, you will be able to find all the material organized per
+
+49
+00:06:01,440 --> 00:06:08,600
+week, regardless of when it was live streamed or recorded. Finally, the third thing that
+
+50
+00:06:08,600 --> 00:06:15,520
+I'd like to inform you is that, as you know, we have been very busy building our Metacampus.
+
+51
+00:06:15,520 --> 00:06:21,640
+So soon we will be hosting our first live session there instead of sector zero where
+
+52
+00:06:21,640 --> 00:06:30,400
+you are today. As you are facing the main over screen where you see me now, I invite
+
+53
+00:06:30,400 --> 00:06:37,600
+you to hit jump to just hit space on the keyboard. And while you're up in the air, turn to your
+
+54
+00:06:37,600 --> 00:06:45,000
+right. You will see there is a vast open space with one open amphitheater in the middle.
+
+55
+00:06:45,000 --> 00:06:52,240
+This is where the Metacampus is currently being built. I cannot say much today, but stay tuned
+
+56
+00:06:52,240 --> 00:06:58,240
+for announcements in the coming days. If you want, after the end of today's session, you
+
+57
+00:06:58,240 --> 00:07:04,280
+can walk towards the portal to the Metacampus. This is the door that you see on the right
+
+58
+00:07:04,280 --> 00:07:09,960
+of the park. You can hit E on your keyboard when you reach it and you will enter the space.
+
+59
+00:07:09,960 --> 00:07:16,440
+There's not much to see there apart from the open amphitheater, but we're going to be releasing
+
+60
+00:07:16,440 --> 00:07:24,400
+new buildings and new functionalities in that space in the coming weeks. But do that after
+
+61
+00:07:24,400 --> 00:07:30,040
+live session, because for now, we want you to stay here because we have none other than
+
+62
+00:07:30,040 --> 00:07:39,040
+6529 to walk us through the exciting space of NFT art. So, 6529, the floor is yours.
+
+63
+00:07:39,040 --> 00:07:48,840
+Thank you, as always, George and great to be here as always. Let me get the presentation
+
+64
+00:07:48,840 --> 00:07:51,640
+up.
+
+65
+00:07:51,640 --> 00:08:00,760
+Okay, today's session is going to be a little bit different and a little bit shorter than
+
+66
+00:08:00,760 --> 00:08:12,240
+some of the prior ones. And the reason is, crypto art and one-of-one art is a vast topic
+
+67
+00:08:12,240 --> 00:08:21,280
+area. One-of-one art is really just another way of saying art that happens to be an NFT.
+
+68
+00:08:21,280 --> 00:08:32,400
+And the art of any type. So, it's not an easy area to box in, get a hold of, put in a handful
+
+69
+00:08:32,400 --> 00:08:39,320
+of bullet points. And partially because of that, we have a lot of guests coming for this
+
+70
+00:08:39,320 --> 00:08:48,880
+topic area. And so, similarly to what happened last week with PFPs, but I think specifically
+
+71
+00:08:48,880 --> 00:08:55,520
+for this week's session more so, probably the most of any of the week sessions we're
+
+72
+00:08:55,520 --> 00:09:04,400
+going to have. I think this is, by far, the broadest, least-defined session. What I'd
+
+73
+00:09:04,400 --> 00:09:11,520
+like to do today, which I think will be particularly useful for those who are less experienced
+
+74
+00:09:11,520 --> 00:09:21,440
+in this space, it provide some basic background, some basic frameworks, some context terminology
+
+75
+00:09:21,440 --> 00:09:27,920
+that will help you in the sessions that we have with the artists, the collectors, and
+
+76
+00:09:27,920 --> 00:09:36,040
+some of the other curators in this space. And then, as we do these sessions, I want to
+
+77
+00:09:36,040 --> 00:09:42,200
+see what we absorb from these sessions and work it back into the presentation. So, I
+
+78
+00:09:42,200 --> 00:09:50,280
+want to say this for now. This specific PDF for this specific week is going to come out
+
+79
+00:09:50,280 --> 00:09:54,440
+later. It's not going to come out in a couple of days. I'd like to do the sessions. And
+
+80
+00:09:54,440 --> 00:10:00,880
+I'd like, I'd like to do the sessions because we have just incredible people coming for
+
+81
+00:10:00,880 --> 00:10:09,920
+the sessions. On the 28th, we have people. People are arguably the most famous NFT artist
+
+82
+00:10:09,920 --> 00:10:15,480
+in the world. I think I'm going to learn a lot from the session. I think there will
+
+83
+00:10:15,480 --> 00:10:19,920
+be interesting conclusions from that session. And I want to take those conclusions and
+
+84
+00:10:19,920 --> 00:10:26,080
+feed them back into the document. So, it felt strange to me to write up all the document
+
+85
+00:10:26,080 --> 00:10:31,560
+and finalize the document before we speak to some of the top people in the world on this
+
+86
+00:10:31,560 --> 00:10:40,600
+exact topic. So, there will be a delay on this PDF. We'll do it after we've completed
+
+87
+00:10:40,600 --> 00:10:45,400
+the sessions. And I think that's fine. So, what we're going to do today, a little bit
+
+88
+00:10:45,400 --> 00:10:49,320
+of background, a little bit of background was coming. I think it's going to be one of
+
+89
+00:10:49,320 --> 00:10:57,280
+our shorter sessions, which is okay. The last few sessions have run very low. And even
+
+90
+00:10:57,280 --> 00:11:02,400
+though the quote unquote live session, the official session of the week is going to be
+
+91
+00:11:02,400 --> 00:11:08,160
+short, the total number of sessions and the total hours for this topic is going to be
+
+92
+00:11:08,160 --> 00:11:17,600
+very high. I think as we get into this week, next week, the week afterward, we also have
+
+93
+00:11:17,600 --> 00:11:23,240
+a lot of guests for next week. We also have a lot of guests for the week afterwards. What
+
+94
+00:11:23,240 --> 00:11:32,000
+I would like to suggest is the following. Of course, try and attend as many of the sessions
+
+95
+00:11:32,000 --> 00:11:40,840
+as you can, both live or on-demand afterwards. But if you miss one, it's okay. There's going
+
+96
+00:11:40,840 --> 00:11:45,280
+to be a lot of material. There are going to be a lot of sessions. You might not get
+
+97
+00:11:45,280 --> 00:11:52,320
+the total number of hours of sessions of guest lectures. It's going to be significantly
+
+98
+00:11:52,320 --> 00:11:59,120
+higher than a typical course. So, it's okay if you don't get told them. Of course, we'd
+
+99
+00:11:59,120 --> 00:12:04,640
+love to have all of you see all of them. That's why we're doing them. But I think it's also
+
+100
+00:12:04,640 --> 00:12:11,520
+okay if you don't see every single one. The other thing that's going to happen, and this
+
+101
+00:12:11,520 --> 00:12:21,960
+is just a matter of logistics. Not all the sessions for week four, session four, will
+
+102
+00:12:21,960 --> 00:12:28,400
+happen in the next five calendar days. That's simply because we have a lot of people in
+
+103
+00:12:28,400 --> 00:12:36,440
+the next few weeks. So, we're going to stretch them out a bit over the course of the next
+
+104
+00:12:36,440 --> 00:12:44,520
+few weeks, just so that the whole team can actually be there in time. And it's partially
+
+105
+00:12:44,520 --> 00:12:51,200
+my availability, but also partially the availability of everyone that is helping with the course.
+
+106
+00:12:51,200 --> 00:12:56,560
+So, we have a lot of things to cover. We're going to spread them out of it. I don't think
+
+107
+00:12:56,560 --> 00:13:06,040
+it makes a big difference. We are talking about a maximum a couple of weeks up or down
+
+108
+00:13:06,040 --> 00:13:17,720
+before we complete the sessions. And then we'll circle back. We'll circle back with
+
+109
+00:13:17,720 --> 00:13:26,280
+the final presentation. That includes everything that we've learned and that I have also learned.
+
+110
+00:13:26,280 --> 00:13:33,000
+So, as I said, a little bit different, but I think okay. Okay, this week, we said it's
+
+111
+00:13:33,000 --> 00:13:38,880
+week four, it's art NFTs. We said we were going to discuss frameworks. So, we'll come back
+
+112
+00:13:38,880 --> 00:13:45,320
+with the conclusions. This is the general disclaimer. These are the guests we have and
+
+113
+00:13:45,320 --> 00:13:52,040
+I'll talk about the artists a little bit more at the end. But we have a great set of artists
+
+114
+00:13:52,040 --> 00:14:01,640
+and also a great set of collectors who will discuss crypto art and NFT art both from the
+
+115
+00:14:01,640 --> 00:14:08,000
+perspective of the artists and from the perspective of the folks who are collecting these artists.
+
+116
+00:14:08,000 --> 00:14:18,080
+So, let's start with the general framework. And to me, this is a very useful slide. Again,
+
+117
+00:14:18,080 --> 00:14:24,920
+for some of you, this is going to be a completely obvious slide. But for those who are newer
+
+118
+00:14:24,920 --> 00:14:34,680
+to the space, I think this is a helpful way to think about NFTs that have an art association
+
+119
+00:14:34,680 --> 00:14:41,480
+with them. And why do I say NFTs that have an art association with them? Metaverse land
+
+120
+00:14:41,480 --> 00:14:46,840
+is also sometimes shown as a representative, represented as an NFT. Gaming objects are
+
+121
+00:14:46,840 --> 00:14:52,160
+also sometimes represented as an NFT. Maybe someday our houses will also be represented
+
+122
+00:14:52,160 --> 00:15:01,040
+as an NFT. But I think everyone agrees that none of these are art. So, the part of the
+
+123
+00:15:01,040 --> 00:15:11,200
+NFT landscape that people look through the lens of art tends to be these three areas
+
+124
+00:15:11,200 --> 00:15:18,000
+and let's go through them. The first is PFPs, which recovered last week and on the whole
+
+125
+00:15:18,000 --> 00:15:27,720
+most people do not consider them art. But not 100%, right? So, like, you know, we discussed
+
+126
+00:15:27,720 --> 00:15:36,000
+this when we were discussing the crypto punks last week. Are the crypto punks collectibles
+
+127
+00:15:36,000 --> 00:15:48,120
+like baseball cards? Or are they a form of digital art? Are they both? Does it matter?
+
+128
+00:15:48,120 --> 00:15:56,720
+I think most people consider the crypto punks to include both aspects. They are both, yes,
+
+129
+00:15:56,720 --> 00:16:02,960
+a collectible, but they're also something like Andy Warhol's soup cans that they're
+
+130
+00:16:02,960 --> 00:16:07,840
+a form of conceptual art. And, you know, the same questions existed back then about some
+
+131
+00:16:07,840 --> 00:16:14,360
+of Andy Warhol's work. Do you really art? Or is it just some type of marketing thing?
+
+132
+00:16:14,360 --> 00:16:21,120
+Well, what about the other PFP collections? Well, I think the reality is it depends.
+
+133
+00:16:21,120 --> 00:16:30,440
+You know, the stereotypical case of someone went and found someone on Fiverr to make some
+
+134
+00:16:30,440 --> 00:16:36,680
+cartoons and minted as a PFP collection. I think most people would think of that as
+
+135
+00:16:36,680 --> 00:16:43,840
+collectible. But there are people who have made PFP collections and they are individually
+
+136
+00:16:43,840 --> 00:16:53,720
+hand-drawn PFPs by an artist who drew them in their own style. Well, it's not obvious
+
+137
+00:16:53,720 --> 00:17:03,120
+to me that those are not art. So I think where most people come out is that PFPs are primarily
+
+138
+00:17:03,120 --> 00:17:09,840
+collectibles, sometimes art, and that might mean that some collections are 100% collectibles
+
+139
+00:17:09,840 --> 00:17:15,160
+in summer art, or it might mean that some collections have aspects of both. I think that's
+
+140
+00:17:15,160 --> 00:17:22,960
+where we are with PFPs. Then next week, we'll discuss generative art, which is a form of
+
+141
+00:17:22,960 --> 00:17:33,160
+digital art. It's a form of procedural art. But because it has been so successful in the
+
+142
+00:17:33,160 --> 00:17:43,960
+NFT space, it is generally thought of separately as its own thing. And in particular, the type
+
+143
+00:17:43,960 --> 00:17:50,520
+of generative art that is thought of as its own thing are long-form generative collections.
+
+144
+00:17:50,520 --> 00:17:54,800
+And we'll talk about this more next week, what these are, but where they are one of
+
+145
+00:17:54,800 --> 00:18:03,320
+ones of X. So there are a thousand Fidenzas. That's the X. But each Findenza is unique.
+
+146
+00:18:03,320 --> 00:18:11,720
+That's the one of one. So this is viewed as a distinct category. The boundaries of this
+
+147
+00:18:11,720 --> 00:18:19,000
+category of generative art are actually quite clear. Long form generative art in particular,
+
+148
+00:18:19,000 --> 00:18:24,160
+is very clear if it's that and if it's not something else. So this tends to be thought
+
+149
+00:18:24,160 --> 00:18:36,480
+of as its own category. And then people discuss the category of one of one art, which it's
+
+150
+00:18:36,480 --> 00:18:46,320
+funny because it's not exactly a thing. It's not exactly one of one art is not a category.
+
+151
+00:18:46,320 --> 00:18:57,520
+It's like a generic container. It's what in the non NFT world people would just call art.
+
+152
+00:18:57,520 --> 00:19:06,320
+If you think about let's say the leading site for high end curated one of one art, which
+
+153
+00:19:06,320 --> 00:19:15,560
+is super rare, I think today's fair to say that's still the case. Today in 2022, there's
+
+154
+00:19:15,560 --> 00:19:31,520
+no obvious style that exists for this art. Some of it is glitchy animated dark art. Some
+
+155
+00:19:31,520 --> 00:19:42,200
+of it is traditional oil like painting. Some of it is photography of various types. There's
+
+156
+00:19:42,200 --> 00:19:51,760
+no specific definition. It's not a category of art. It's not like impressionism. It just
+
+157
+00:19:51,760 --> 00:20:00,520
+means it's almost a way to think about it. It's not one of the other two categories.
+
+158
+00:20:00,520 --> 00:20:04,320
+It's not a PFP collection. Those are obvious. You'll know a PFP of collection when you see
+
+159
+00:20:04,320 --> 00:20:10,920
+it. It's not a long form generative art collection. That's also fairly obvious. You know them
+
+160
+00:20:10,920 --> 00:20:16,400
+when you see them. It could include short form generative art, like people who have made
+
+161
+00:20:16,400 --> 00:20:21,320
+a generative art piece they created procedurally and they published the individual piece. It
+
+162
+00:20:21,320 --> 00:20:27,200
+could include photography. It could include animation. It could include video. It could
+
+163
+00:20:27,200 --> 00:20:38,120
+include literally anything. It's just art. And even I think the one of one is a misnomer.
+
+164
+00:20:38,120 --> 00:20:52,080
+You know the one of one in this context came in as a distinction between the PFPs because
+
+165
+00:20:52,080 --> 00:21:00,160
+the PFPs are also a one of one of X type format. Your crypto punk is a one of one of
+
+166
+00:21:00,160 --> 00:21:08,680
+10,000. So what people meant casually here was that it's not that. It's not part of
+
+167
+00:21:08,680 --> 00:21:15,120
+a broader collection. It's an individual piece. Now it doesn't mean necessarily that the addition
+
+168
+00:21:15,120 --> 00:21:25,040
+size needs to be one. You could have a photograph and instead of minting it as a literal one
+
+169
+00:21:25,040 --> 00:21:33,240
+of one, you could mint it as a addition of 10. And I still think it falls into this category
+
+170
+00:21:33,240 --> 00:21:38,560
+what people call one or one art even though it's actually an addition. I wouldn't break
+
+171
+00:21:38,560 --> 00:21:47,560
+out additions as their own category. So and then I think an area that people get somehow
+
+172
+00:21:47,560 --> 00:21:57,720
+confused or mixed thing about is what people call crypto art. Crypto art is not a horizontal
+
+173
+00:21:57,720 --> 00:22:05,720
+definition like one of one art. It's a vertical definition. It is a definition of something
+
+174
+00:22:05,720 --> 00:22:15,480
+like an art movement. It's a definition of a distinctive style. It overlaps with the early
+
+175
+00:22:15,480 --> 00:22:25,040
+days of one of one art. In the early days of NFT based one of one art, most of that was
+
+176
+00:22:25,040 --> 00:22:32,160
+crypto art. Today, that's not the case. Today, you can find art of different types that
+
+177
+00:22:32,160 --> 00:22:41,320
+is linked to those are one of one NFT. And so I think the right way to think about it is
+
+178
+00:22:41,320 --> 00:22:50,360
+crypto art tends to be one of one art, but not all one of one art is by definition crypto
+
+179
+00:22:50,360 --> 00:22:58,440
+art. We'll talk a little bit more about this in the next section. But you can play around
+
+180
+00:22:58,440 --> 00:23:05,200
+the margins of these four circles, but I think they're broadly helpful. They're broadly
+
+181
+00:23:05,200 --> 00:23:13,480
+correct. It's broadly a useful way to think about art oriented NFTs. And again, I separate
+
+182
+00:23:13,480 --> 00:23:19,960
+those from gaming oriented, metaverse oriented, utility oriented NFTs. Those are different
+
+183
+00:23:19,960 --> 00:23:27,680
+things. So in these three buckets or four buckets, it's a useful framework for thinking
+
+184
+00:23:27,680 --> 00:23:32,920
+about NFTs. It's interesting. I'm going to bring a topical point into this discussion.
+
+185
+00:23:32,920 --> 00:23:40,760
+It's not in the slides, but I was treating about it this morning. A lot of people are
+
+186
+00:23:40,760 --> 00:23:51,280
+saying that it's very good what happened with Reddit recently. Reddit, or the Reddit community
+
+187
+00:23:51,280 --> 00:24:01,960
+historically was I think quite anti NFT. And then Reddit launched polygon based NFTs.
+
+188
+00:24:01,960 --> 00:24:09,720
+But labeled them digital collectibles. They actually are NFTs. But they didn't use the
+
+189
+00:24:09,720 --> 00:24:21,400
+term NFT. They use something friendlier. And it's been a success. And so it's very interesting
+
+190
+00:24:21,400 --> 00:24:30,800
+to me to think about what that might mean. Because again, you have a similar overlap,
+
+191
+00:24:30,800 --> 00:24:38,560
+you have overlapping circles, not every digital collectibles in NFT. Not every NFT is a digital
+
+192
+00:24:38,560 --> 00:24:46,320
+collectible. Nobody is going to think that a refric and a doll will look at one of it
+
+193
+00:24:46,320 --> 00:24:53,960
+as a digital collectible. It's a possible work. Not everyone is going to think that a
+
+194
+00:24:53,960 --> 00:25:01,920
+unique access token is digital collectible. It's a utility NFT token. And so I have mixed
+
+195
+00:25:01,920 --> 00:25:07,600
+feelings, not exactly my word, interesting feelings about this. I'm glad that now millions
+
+196
+00:25:07,600 --> 00:25:16,080
+of people on Reddit are now using NFTs. And if what needed to be done is to call them
+
+197
+00:25:16,080 --> 00:25:25,200
+digital collectibles. That's fine. It's a form of consumerization. But I also would say
+
+198
+00:25:25,200 --> 00:25:35,640
+that it is everything about the token ultimately being hidden in the marketing and branding
+
+199
+00:25:35,640 --> 00:25:40,640
+may or may not be right. Because a digital collectible could also be stored in database.
+
+200
+00:25:40,640 --> 00:25:47,560
+It's fine. It doesn't require being on a blockchain. And I think we're not going to
+
+201
+00:25:47,560 --> 00:25:57,840
+end up with one non NFT definition of NFTs. Because it's very common, this idea, we'll
+
+202
+00:25:57,840 --> 00:26:04,040
+just call them digital collectibles. Well, sure, some NFTs are digital collectibles.
+
+203
+00:26:04,040 --> 00:26:09,920
+Mostly a subset of one of these circles. But a lot of NFTs are not digital collectibles
+
+204
+00:26:09,920 --> 00:26:15,920
+and they would, you know, certainly a lot of the artists in the second two buckets,
+
+205
+00:26:15,920 --> 00:26:20,160
+I think would be quite unhappy or insulted if you said, oh, oh, look at this digital
+
+206
+00:26:20,160 --> 00:26:27,680
+collectible you've made, right? But it has been helpful in these last few weeks of Reddit
+
+207
+00:26:27,680 --> 00:26:33,960
+of getting an option. So we'll see how it plays out. So these definitions matter and
+
+208
+00:26:33,960 --> 00:26:40,040
+don't matter. They're helpful. They're not complete. I think they help, but they're
+
+209
+00:26:40,040 --> 00:26:48,440
+never perfect. And yet they are used and there's a bit of social construction happening on
+
+210
+00:26:48,440 --> 00:27:01,440
+what they mean and where you use them. Now, most one of what FFTs didn't come from, you
+
+211
+00:27:01,440 --> 00:27:07,960
+know, didn't come from the heavens brand new. There's a tradition of, there is an art tradition
+
+212
+00:27:07,960 --> 00:27:17,120
+that from which they spray, that's the joy. Most one of one NFTs are not, in fact, they
+
+213
+00:27:17,120 --> 00:27:29,280
+have a physical sculpture carved in marble visible in your courtyard. That's not likely
+
+214
+00:27:29,280 --> 00:27:33,960
+to be a good one of one NFT, right? I mean, you can't represent it natively. It doesn't
+
+215
+00:27:33,960 --> 00:27:41,720
+really have anything to do with a blockchain doesn't have any use computers. A useful way
+
+216
+00:27:41,720 --> 00:27:49,240
+to think about, you know, where they came from in the history of art is the joy. We have
+
+217
+00:27:49,240 --> 00:27:57,120
+had digital art before. We had cryptocurrencies and public blockchains. In fact, we have had
+
+218
+00:27:57,120 --> 00:28:06,800
+digital art even before we had widespread use of personal computing. And Warhol famously
+
+219
+00:28:06,800 --> 00:28:16,360
+made some digital art in the early 1980s when most people did not have a PC. And like with
+
+220
+00:28:16,360 --> 00:28:28,240
+other categories, there is a fuzzy and emergent and evolving definition of digital art is.
+
+221
+00:28:28,240 --> 00:28:33,760
+If you see what computer is going to say, that it says something like the first bullet
+
+222
+00:28:33,760 --> 00:28:40,920
+point, but it incorporates digital technology in the creative process or in the presentation.
+
+223
+00:28:40,920 --> 00:28:55,440
+Okay. I think in 1960, that would be a pretty hard boundary. And it would be useful for
+
+224
+00:28:55,440 --> 00:29:04,360
+defining the piece of art because digital tools were not very widespread. And so you
+
+225
+00:29:04,360 --> 00:29:13,760
+could say, again, if it involved digital art, a digital tool of some type, that's digital
+
+226
+00:29:13,760 --> 00:29:26,640
+art. Well, today, there's digital tools everywhere. And even works of art that I don't think you
+
+227
+00:29:26,640 --> 00:29:33,440
+would think of as digital art might have passed through digital tool. This is an example that
+
+228
+00:29:33,440 --> 00:29:38,160
+I mentioned here. You could take a photograph, take it on film, because you want that certain
+
+229
+00:29:38,160 --> 00:29:45,680
+grain or aesthetic or what have you, you could scan it, make some changes in photoshopping,
+
+230
+00:29:45,680 --> 00:29:53,000
+print a piece of paper or piece of aluminum, what have you, you have a physical installation,
+
+231
+00:29:53,000 --> 00:29:58,000
+here's the photo. It would not be obviously the case that someone say, Oh, this is digital
+
+232
+00:29:58,000 --> 00:30:06,760
+art, but it did involve a digital tool along the way. It's hard to get away from digital tools
+
+233
+00:30:06,760 --> 00:30:15,840
+in 2022, right? Like where we spend a lot of time using computers. And so the more advanced
+
+234
+00:30:15,840 --> 00:30:24,960
+thinking, advanced, in quotes, more contemporary thinking, let's say on what digital art is
+
+235
+00:30:24,960 --> 00:30:32,920
+that the digital art, the piece of art interrogates the digital medium in some way, right? There's
+
+236
+00:30:32,920 --> 00:30:40,040
+some real meaningful interaction with the medium, not just somewhere you use the digital tool
+
+237
+00:30:40,040 --> 00:30:51,880
+in the creation. But like everything else, everything else of this type, it's a fuzzy boundary.
+
+238
+00:30:51,880 --> 00:31:02,920
+I think you cannot definitively classify every piece of art in the world into digital art and
+
+239
+00:31:02,920 --> 00:31:12,520
+not digital art. Also, another thing to think about is this comes up a lot in one of these.
+
+240
+00:31:12,520 --> 00:31:22,760
+Digital art, pre the internet, pre widespread PC usage, usually came with a physical installation,
+
+241
+00:31:22,760 --> 00:31:33,440
+right? Because how do you actually, how do you actually display it? And so yes, there was the
+
+242
+00:31:33,440 --> 00:31:39,400
+part that was digital that might be a piece of computer code or graphics. But then there would
+
+243
+00:31:39,400 --> 00:31:46,120
+be a machine or a broader installation that embedded it. And of course, that still happens
+
+244
+00:31:46,120 --> 00:31:51,760
+today. There are all types of interesting digital art installations that have a physical
+
+245
+00:31:51,760 --> 00:32:03,560
+representation. And that's normal. And some of those will end up on NFT as we'll talk about one
+
+246
+00:32:03,560 --> 00:32:14,840
+in the next slide. But where NFTs have found a very strong fit with digital art is an art
+
+247
+00:32:14,840 --> 00:32:22,840
+that's 100% digital. That is not a digital, some digital code, plus a physical installation.
+
+248
+00:32:22,840 --> 00:32:35,200
+But things that are 100% digital, where they can move around the internet at internet speed,
+
+249
+00:32:35,200 --> 00:32:47,640
+without not at UPS or DHL or FedEx speed. And the NFT solves the problem of ownership and
+
+250
+00:32:47,640 --> 00:32:57,200
+provenance and duplication. And that has been a very powerful combination, right? Because when
+
+251
+00:32:57,200 --> 00:33:07,640
+you had a 100% digital pre NFT piece of art, it's very hard to handle provenance and ownership
+
+252
+00:33:07,640 --> 00:33:13,240
+and deduplication. If there's a physical installation, you can, right? If someone says, I've made
+
+253
+00:33:13,240 --> 00:33:18,600
+them digital art. And now this art plays on this specific screen and this specific sculpture.
+
+254
+00:33:18,600 --> 00:33:24,880
+And now you have the sculpture in your house. It's very clear that the sculpture is in your house.
+
+255
+00:33:24,880 --> 00:33:33,280
+It's not in someone else's house. It can't just be copied. But if you were making as X copy was
+
+256
+00:33:33,280 --> 00:33:45,840
+interesting illustrations on Tumblr, and they're 100% digital, well, there's no particularly
+
+257
+00:33:45,840 --> 00:33:53,760
+obvious way to protect them. There's not particularly an obvious way to say these belong to 6529 or
+
+258
+00:33:53,760 --> 00:34:05,280
+these belong to George. And so NFTs by solving this issue for digital art, 100% digital art,
+
+259
+00:34:05,280 --> 00:34:14,960
+are going to, are going to, I think, be extremely supportive of digital art. I think they're going
+
+260
+00:34:14,960 --> 00:34:24,240
+to lead to an explosion of digital art. And this, to me, is super interesting, right? I think this
+
+261
+00:34:24,240 --> 00:34:38,800
+is what's happening anyway. And I just don't see how that stops because it allows all the benefits
+
+262
+00:34:38,800 --> 00:34:48,080
+of being digitally native without the pre NFT downsides of it. Now, having said that, and for
+
+263
+00:34:48,080 --> 00:34:56,360
+everything I just said, there's always a counter example slightly to show it. This is a piece of
+
+264
+00:34:56,360 --> 00:35:05,840
+art by Raffa Ganadol, who's an incredible artist. We bought this in one of the NFT 659 funds. And this
+
+265
+00:35:05,840 --> 00:35:12,320
+is a very complex hybrid piece. And I'm going to describe this not because it's a wonderful piece,
+
+266
+00:35:12,320 --> 00:35:19,680
+it is a wonderful piece. But I'm describing it in order to think about the types of things that can
+
+267
+00:35:19,680 --> 00:35:29,200
+be done. So this is the Gaudy House. Raffa made an incredible light show on the Gaudy House,
+
+268
+00:35:29,200 --> 00:35:37,600
+where the light show itself holds information from environmental sensors in the Gaudy House in
+
+269
+00:35:37,600 --> 00:35:45,280
+Barcelona to UNESCO site. And then in a physical installation, that's a Rockefeller Center,
+
+270
+00:35:46,080 --> 00:35:52,720
+or as the screen and that screen shows what is happening from the environmental sensors and
+
+271
+00:35:52,720 --> 00:36:03,680
+the light show. And further, the code and the models are linked to an NFT and this was all sold
+
+272
+00:36:03,680 --> 00:36:14,720
+as an NFT. And so this is hybrid, this is obviously digital art, but in its digital art that was
+
+273
+00:36:14,720 --> 00:36:25,520
+minted and collected as an NFT, but with a huge amount of hybridization and touchpoints to the
+
+274
+00:36:25,520 --> 00:36:35,920
+digital world. As we get further into the evolution of NFTs, we'll see more of this. I still think
+
+275
+00:36:35,920 --> 00:36:41,920
+most NFTs will be 100% digital for the reasons that you're older, but I think you will also see
+
+276
+00:36:41,920 --> 00:36:49,760
+innovators like Raffic do innovative things like this piece. And I can't tell you what it's going
+
+277
+00:36:49,760 --> 00:36:55,280
+to be. That's why we need people like Raffic now. I would have never thought of this before I saw
+
+278
+00:36:55,280 --> 00:37:06,960
+it once I saw it as it was incredible. And so even when we're in the NFT world in the area of one
+
+279
+00:37:06,960 --> 00:37:16,320
+of one art, you still might have a hybrid aspect, both in the creation here, in the creation of
+
+280
+00:37:16,320 --> 00:37:22,560
+the environmental sensors are hybrid. And in the presentation where it can be presented,
+
+281
+00:37:23,520 --> 00:37:31,840
+yes 100% digitally, but also into the physical world. Again, this is for background knowledge,
+
+282
+00:37:31,840 --> 00:37:43,200
+most of you know this. Unlike PFPs, and most generative art collections that tend to
+
+283
+00:37:44,480 --> 00:37:51,200
+primarily be bought and sold on generalized platforms, like open-sear literature,
+
+284
+00:37:51,200 --> 00:38:02,480
+one of one art has historically invented and collected on specialized platforms for one of
+
+285
+00:38:02,480 --> 00:38:09,840
+one art at the very high end super rare is the most famous today. But the auction houses,
+
+286
+00:38:09,840 --> 00:38:14,320
+the traditional auction houses are making their own platforms. Foundation is quite popular,
+
+287
+00:38:14,320 --> 00:38:20,880
+the one in the right. And there's been a variety of them, but there is a somehow specialized
+
+288
+00:38:20,880 --> 00:38:28,720
+ecosystem that supports this. So this was used, I think hopefully useful, background for this.
+
+289
+00:38:28,720 --> 00:38:35,680
+Let's talk a little bit about crypto art, which is that is a subset of one of one art. And
+
+290
+00:38:37,680 --> 00:38:49,040
+here I am going to absolutely liberally borrow from Artnome, who I think has been the best
+
+291
+00:38:49,040 --> 00:38:57,440
+writer on this topic. And later in the semester, even though Artnome is not an official guest of
+
+292
+00:38:57,440 --> 00:39:04,480
+week four, I think is week six, perhaps officially, we're going to talk to Artnom and really dig into
+
+293
+00:39:04,480 --> 00:39:14,320
+this topic because Artnome has just been early and excellent to this topic. And his view is that
+
+294
+00:39:14,320 --> 00:39:21,840
+the first crypto art started with the Rare Pepes. Like the punks, the Rare Pepes
+
+295
+00:39:23,840 --> 00:39:33,200
+probably sit on a bridge between collectibles and art. But I like the crypto punks that was a
+
+296
+00:39:33,200 --> 00:39:40,480
+unified project. The rare peppers were more like a platform. So there were many, many artists
+
+297
+00:39:40,480 --> 00:39:50,400
+who made Rare Pepes and all in different styles, but with the Pepe being the unifying team.
+
+298
+00:39:52,240 --> 00:40:04,240
+And I think he says, he says, but he thinks it's the beginning of crypto art. We'll discuss this
+
+299
+00:40:04,240 --> 00:40:11,680
+with him. And is it okay with crypto art? What's some type of framework to think about? This is
+
+300
+00:40:11,680 --> 00:40:17,600
+Artnom's definition. I think we're going to hear other definitions as well. But I think it's a good
+
+301
+00:40:17,600 --> 00:40:27,600
+starting point. And he has eight parameters. I think some of them are definitely true. I think
+
+302
+00:40:27,600 --> 00:40:35,280
+some of them are a little bit aspirational. But let's go through them. So these first five,
+
+303
+00:40:36,000 --> 00:40:42,960
+I would say, are more about the medium itself, but it's digitally native. It is a geographic
+
+304
+00:40:42,960 --> 00:40:51,120
+agnostic that is democratic and permissionless. And I think this is quite a big difference from
+
+305
+00:40:51,120 --> 00:40:57,680
+the traditional fine art scene. The traditional fine art scene is highly permissioned. You do
+
+306
+00:40:57,680 --> 00:41:08,240
+have to pass through, for better or for worse, quite strict tradition. And I think the people
+
+307
+00:41:08,240 --> 00:41:12,720
+who are the creators as in all pre-internet businesses think they're playing a very important
+
+308
+00:41:12,720 --> 00:41:21,440
+role in curation, it's how they preserve quality, supply, and things like that. But the
+
+309
+00:41:27,040 --> 00:41:34,560
+NFTs aren't like that, right? Anyone can mint. And then some combination of the audience,
+
+310
+00:41:34,560 --> 00:41:40,160
+the market, the artist will retrospectively decide if they value it or not.
+
+311
+00:41:40,160 --> 00:41:49,040
+Decentralization, we've discussed this at length. I do think blockchains are a more decentralized
+
+312
+00:41:49,040 --> 00:42:00,000
+way to create transport art in the off-chain system. And anonymity, pseudo-nimity, which of course
+
+313
+00:42:00,000 --> 00:42:06,560
+has existed in the traditional art world as well. Nobody really knows who Banksy is to take a recent
+
+314
+00:42:06,560 --> 00:42:12,880
+example, but it is more common in this space as we discussed. And so these are, let's say,
+
+315
+00:42:14,080 --> 00:42:23,920
+platform-y type concepts. And then when we get into the substance of the world, the substance of the
+
+316
+00:42:23,920 --> 00:42:35,440
+world, it does tend to be highly memetic. And I think this comes from its roots on the internet.
+
+317
+00:42:36,720 --> 00:42:45,600
+And it's funny, it's like evolution. It's not exactly that you have to make memetic work to
+
+318
+00:42:45,600 --> 00:42:56,240
+make a crypto art. It's that if something is memetic, it spreads more, it becomes more well-known,
+
+319
+00:42:56,240 --> 00:43:01,280
+it gains more attention, it gains more social construction and say, oh, this is crypto art.
+
+320
+00:43:02,720 --> 00:43:07,360
+And there is, it's like evolution. It's not like the way evolution works isn't that
+
+321
+00:43:08,560 --> 00:43:13,840
+animals and plants wake up one day and say, oh, I need to evolve into a better version of myself.
+
+322
+00:43:13,840 --> 00:43:21,040
+The way evolution works is that there's a variety of different things being tested
+
+323
+00:43:21,040 --> 00:43:27,120
+in the environment. And some evolutionary changes are more fit for the environment and they spread
+
+324
+00:43:27,120 --> 00:43:35,600
+further. I think this is what happens with the memetic nature of
+
+325
+00:43:35,600 --> 00:43:49,520
+crypto art, because it is internet native. And one way to, probably the main way to get attention
+
+326
+00:43:50,080 --> 00:43:55,840
+in an audience is this, which is somehow different than the main way to get attention.
+
+327
+00:43:55,840 --> 00:44:01,760
+So the audience is, I don't know, the Gaussian picture, a great artist, and holds a cocktail party.
+
+328
+00:44:01,760 --> 00:44:07,360
+And then through a variety of steps, someday you're in a museum and the art history books.
+
+329
+00:44:07,360 --> 00:44:10,400
+And that's, of course, another way. And there's nothing wrong with that way.
+
+330
+00:44:12,400 --> 00:44:17,840
+But it's not an internet native approach. So I think that does tend to be a memetic aspect,
+
+331
+00:44:17,840 --> 00:44:24,880
+please. Self-referential, here he means within the crypto industry, which makes sense. I mean,
+
+332
+00:44:24,880 --> 00:44:35,600
+these are the early works of a community that lives on blockchains, that thinks blockchains
+
+333
+00:44:35,600 --> 00:44:40,400
+are important, that things, crypto assets are important. So it's logical that a lot of the
+
+334
+00:44:40,400 --> 00:44:47,920
+early works touch upon that and don't touch upon, I don't know, the episode in reinforced.
+
+335
+00:44:47,920 --> 00:44:57,200
+I say that for a reason, I'll come back to it. It's often collected by the crypto patrons,
+
+336
+00:44:57,200 --> 00:45:03,360
+which again, makes sense to people who are most likely in the beginning to buy a token to find
+
+337
+00:45:03,360 --> 00:45:09,040
+an NFT potentially valuable or people who previously found a Bitcoin or Ether valuable.
+
+338
+00:45:09,040 --> 00:45:20,080
+Prioritist is more a general platform point that the intermediaries do tend to take lower
+
+339
+00:45:20,080 --> 00:45:26,640
+take rates than in traditional art, for better or for worse. And then dankness, which is a hard
+
+340
+00:45:26,640 --> 00:45:37,760
+concept. I'll go with Artnome's definition as a potency of expression and creativity
+
+341
+00:45:37,760 --> 00:45:46,160
+is a good way to say it. I was thinking when I was looking at the slide, if I could think of
+
+342
+00:45:46,160 --> 00:45:52,240
+a better way to say it, then I don't think I can't think of a better way to say it. So is this a
+
+343
+00:45:52,240 --> 00:46:00,080
+reasonable starting point? I think Art Nome wrote this in 2018, so we're going to come back and
+
+344
+00:46:00,080 --> 00:46:06,320
+speak to him in 2022. And a lot of these things have now changed in the broader one-to-one space.
+
+345
+00:46:06,320 --> 00:46:17,360
+The Solgado, a fantastic photographer, minted a collection of several thousand photographs
+
+346
+00:46:17,360 --> 00:46:24,240
+of the Amazon rainforest. That has nothing to do with this. It's not self-referential to crypto,
+
+347
+00:46:25,360 --> 00:46:33,200
+it's not particularly pneumatic, but it's an amazing collection of work. And it's now an NFT,
+
+348
+00:46:33,200 --> 00:46:41,600
+so that's a one-of-one with not crypto art. And it will be interesting to me to see how much
+
+349
+00:46:41,600 --> 00:46:52,240
+crypto art can continue to hold coherency as a lot of digital art rolls in to
+
+350
+00:46:52,240 --> 00:47:06,160
+NFTs. Because I'm of two minds of this, right? Like one version just might be as
+
+351
+00:47:07,840 --> 00:47:14,400
+individual artists and all different artistic genres, minted NFTs. The initial
+
+352
+00:47:16,720 --> 00:47:21,520
+approach of crypto art will get better. I mean, it's not a matter of certain to happen in
+
+353
+00:47:21,520 --> 00:47:29,280
+any case. But the alternative point of view is that there will remain a tradition of crypto art
+
+354
+00:47:29,280 --> 00:47:34,720
+within the broader context of one-of-one art. And we will continue to see it and it will speak to a
+
+355
+00:47:36,240 --> 00:47:41,760
+community of collectors who are more crypto-native, which might be different than a community of
+
+356
+00:47:41,760 --> 00:47:48,400
+collectors who are just not necessarily, their values don't necessarily align with crypto assets
+
+357
+00:47:48,400 --> 00:47:53,600
+and that principles per se. But they do see a nice piece of digital art and they'd like to
+
+358
+00:47:53,600 --> 00:47:57,280
+buy and it happens to be an NFT. And that's fine, but it's almost
+
+359
+00:47:58,880 --> 00:48:07,200
+parenthetical to the underlying piece of art. So we just have to see how this evolves and we'll
+
+360
+00:48:07,200 --> 00:48:13,760
+have to see how art did feels about this in 2022, because things have definitely changed since 2018.
+
+361
+00:48:13,760 --> 00:48:23,360
+Yeah, so these are examples, right? Like everyone would definitely say that
+
+362
+00:48:25,040 --> 00:48:31,840
+X-copy is crypto art oriented and Matt Caine will talk about this. We'll talk about X-copy in a bit.
+
+363
+00:48:31,840 --> 00:48:37,200
+Hold the iPhone so too. For most, this is an amazing artist. It makes amazing NFTs
+
+364
+00:48:37,200 --> 00:48:52,960
+about more their personal emotional journey. And are they incredible and important one-of-ones
+
+365
+00:48:52,960 --> 00:49:02,000
+in the NFT space? Yes. Are they particularly obviously crypto art that they have to do with
+
+366
+00:49:02,000 --> 00:49:16,000
+self-referential mimetics to crypto assets? Not really, right? So it's going to be a fuzzy border,
+
+367
+00:49:16,000 --> 00:49:22,320
+I think in many ways. I want to take a moment to mention the Last
+
+368
+00:49:22,320 --> 00:49:35,040
+Robbies. It's an interesting piece of NFT lore. And for those, I was very confused about these at first,
+
+369
+00:49:35,040 --> 00:49:41,120
+when I first claimed this place. And so I'm going to use this to share some insider knowledge for
+
+370
+00:49:41,120 --> 00:49:54,320
+people who weren't that deep in that space. And Robbie Barrat was asked, I think I have a type of
+
+371
+00:49:54,320 --> 00:50:03,840
+there, it's an H, was asked in 2018 to, he had made a portrait that had AI generated,
+
+372
+00:50:03,840 --> 00:50:12,160
+in part 7, it was divided into 300 frames. And it was at a Christie's summit and the participants
+
+373
+00:50:13,360 --> 00:50:21,040
+thought like a scratch card, but if they scratched the card, they'd get the key that would allow you
+
+374
+00:50:21,040 --> 00:50:33,680
+to claim the artwork. And the reason these became incredibly famous is most people threw them away.
+
+375
+00:50:33,840 --> 00:50:40,720
+Most people came to this art plus tech conference, it's 2018, and NFTs hadn't done very much by that point,
+
+376
+00:50:41,360 --> 00:50:46,960
+they're okay, I can't be bothered. They throw them through them away, that's why they're the
+
+377
+00:50:46,960 --> 00:50:57,520
+lost Robies. And initially, 12 were claimed, I think now we're close to 40, we're in the mid-30s,
+
+378
+00:50:58,560 --> 00:51:03,760
+and it's believed there might be another five or 10 floating out there where the participants
+
+379
+00:51:03,760 --> 00:51:07,440
+still, know where they are, they might have not scratched them and claimed them yet they
+
+380
+00:51:07,440 --> 00:51:19,520
+have them. But most of them are lost. And it's a story that has taken on symbolic meaning,
+
+381
+00:51:20,960 --> 00:51:26,320
+symbolic meaning from the perspective that the traditional artwork didn't initially
+
+382
+00:51:28,240 --> 00:51:34,960
+recognize NFTs, recognize this type of work, and literally threw them away. And the funny part is
+
+383
+00:51:34,960 --> 00:51:45,520
+these now trade for 1 to 200, 250 ETH, so anyone who did throw them away is probably kicking themselves
+
+384
+00:51:46,080 --> 00:51:55,200
+because it's 200,000, 300,000, 200,000, 250,000, they trade for these types of prices. Now of
+
+385
+00:51:55,200 --> 00:52:02,160
+course if everyone had claimed all 300, well the supply would be much larger plus the story
+
+386
+00:52:02,160 --> 00:52:06,880
+wouldn't have this type of resonance, and so they wouldn't be worth that amount of money,
+
+387
+00:52:06,880 --> 00:52:13,120
+so it's one of those. The ideal scenario is as a participant of the conference and everyone else
+
+388
+00:52:13,120 --> 00:52:20,720
+throws their ways, and you keep yours. And I note this because this is an interesting and
+
+389
+00:52:20,720 --> 00:52:26,880
+seminal event in the lore of NFTs, of one of one NFTs in particular. Now Robie actually stopped
+
+390
+00:52:26,880 --> 00:52:33,440
+minting NFT shortly afterwards for a variety of reasons, but the story has taken on a
+
+391
+00:52:35,840 --> 00:52:46,160
+power of its own, let's say. People, now most people who don't know much about NFTs
+
+392
+00:52:46,160 --> 00:52:55,200
+have still heard of people, and I'm very excited and honored that people will join the course later
+
+393
+00:52:55,200 --> 00:53:07,760
+in the week. People very famously has had the largest NFT sale by a wide margin, and it's interesting
+
+394
+00:53:07,760 --> 00:53:17,280
+because it was that NFT sale was largely because there became a competition in that option between
+
+395
+00:53:17,280 --> 00:53:29,440
+two very rich crypto folks, which drove the price up to $69 million, but also it's important to
+
+396
+00:53:29,440 --> 00:53:40,400
+know that like that work called Every Days was that one piece of art people every day has been
+
+397
+00:53:40,400 --> 00:53:49,280
+making a new piece of art since 2007, which is rather incredible accomplishment. A lot of people
+
+398
+00:53:49,280 --> 00:53:54,160
+say, oh, I don't like his art or I do like his art regardless, I use some glittery colors you like
+
+399
+00:53:54,160 --> 00:54:01,840
+over that level of commitment every single day to come up with a new piece. And I would say
+
+400
+00:54:02,640 --> 00:54:08,960
+these pieces do have some level of, you know, for sure they have social commentary, some of the
+
+401
+00:54:08,960 --> 00:54:14,320
+later ones do have crypto commentary, and they obviously started before Bitcoin existed, so they're
+
+402
+00:54:14,320 --> 00:54:21,280
+not all crypto commentary. And they were all brought together into one piece called Every Days,
+
+403
+00:54:22,240 --> 00:54:29,680
+which is 5,000 pieces of art. So, yes, 69 million a lot of money, and it is the highest NFT sale
+
+404
+00:54:31,920 --> 00:54:36,080
+by a wide margin. I actually think the second highest is also people's as in the 20-something
+
+405
+00:54:36,080 --> 00:54:43,840
+million range, which was an individual piece, not like Every Days was. But it is also 5,000
+
+406
+00:54:44,480 --> 00:54:50,800
+individual pieces of work. So, I'm going to plot my pocket calculator here.
+
+407
+00:54:50,800 --> 00:55:05,680
+If you divide 69 million by 5,000, you get to 13,800, which is arguably not an unreasonable
+
+408
+00:55:06,880 --> 00:55:13,760
+amount for a successful artist to have one of their pieces so far. It's just that people
+
+409
+00:55:13,760 --> 00:55:21,440
+turned out to be a very successful artist and really worked very hard over a long period of time
+
+410
+00:55:21,440 --> 00:55:28,480
+to create this. So, we've talked to people about this and many other things in the coming days.
+
+411
+00:55:32,560 --> 00:55:40,320
+This caused a lot of consternation in the non-crypto world that both, oh, is this really art? Is the
+
+412
+00:55:40,320 --> 00:55:47,360
+art good? Is this money laundering? Is this, wow, did anyone do this? But I don't know. Someone
+
+413
+00:55:47,360 --> 00:55:52,960
+works for a decade, create over a decade, creates 5,000 pieces of art and just happens to solve
+
+414
+00:55:52,960 --> 00:56:01,120
+them all at once. It's not quite as wild as people might think. Now, ex-copy, I think most people would
+
+415
+00:56:01,120 --> 00:56:15,120
+agree, ex-copy is a crypto art artist. I would think, I think this is probably fair, most people,
+
+416
+00:56:15,120 --> 00:56:22,320
+if they wanted to give you a definition, an easy definition of a crypto art, artists would
+
+417
+00:56:22,320 --> 00:56:33,520
+point to ex-copy. It's uncontroversial that his work is in the crypto art genre. It tends to be
+
+418
+00:56:34,320 --> 00:56:44,800
+very, it tends to be a little bit dark animated glitchy and often refers to
+
+419
+00:56:44,800 --> 00:56:54,160
+themes that have to do with crypto art, crypto assets and so on. So on the bottom left is right
+
+420
+00:56:54,160 --> 00:57:05,760
+click save as guy, which is a piece of art that reflects the common criticism of these that you
+
+421
+00:57:05,760 --> 00:57:15,760
+can write click save. And so this, there's a lot of people who are not exactly sure if they're crypto
+
+422
+00:57:15,760 --> 00:57:23,280
+art artists. Xcopy, I am pretty sure, is. And it's just amazing to see the evolution, right,
+
+423
+00:57:23,280 --> 00:57:37,680
+like he, he worked on Tumblr is at some point he discovered cryptocurrency and NFTs and his early
+
+424
+00:57:37,680 --> 00:57:46,320
+work would sell for $100, something like that. And recently this year, he made an open edition
+
+425
+00:57:46,320 --> 00:57:53,040
+or anyone could mint as many as they wanted and it minted out at 23 million in 10 minutes for an
+
+426
+00:57:53,040 --> 00:57:58,960
+open edition and his largest pieces have, or his most expensive pieces have sold in the
+
+427
+00:58:00,000 --> 00:58:07,920
+one to eight million range. But this is also, I think, a reflection of how early we are in this
+
+428
+00:58:07,920 --> 00:58:18,880
+movement as well, right? Like, I mean, Xcopy, who I think most people would say is a prototypical
+
+429
+00:58:18,880 --> 00:58:28,320
+crypto art artist. A few years ago, four years ago, not 10 years ago, was an artist whose piece
+
+430
+00:58:28,320 --> 00:58:40,800
+has sold for $100. And this has been, you know, we're in the period where this genre has taken
+
+431
+00:58:40,800 --> 00:58:48,400
+form and taken shape and has grown from being something that a very tiny handful of people
+
+432
+00:58:48,960 --> 00:58:54,240
+paid any attention to, too. A slightly less tiny handful of people, right? We're still,
+
+433
+00:58:54,240 --> 00:59:03,040
+I think, in a world where if you surveyed 10,000 people in the world at large, without any
+
+434
+00:59:03,040 --> 00:59:09,280
+particular orientation to them being crypto people, I don't know how many would know
+
+435
+00:59:09,280 --> 00:59:15,280
+of ex-copy, but it won't be that many. And so we will see, you know, how this evolves,
+
+436
+00:59:15,280 --> 00:59:26,800
+if it becomes, if it becomes a broader movement, and if it becomes a broader movement with the
+
+437
+00:59:26,800 --> 00:59:32,000
+folks who were there in the early days. And so these are all things that we're going to learn
+
+438
+00:59:32,000 --> 00:59:46,800
+along the way. This is just some data to give some context of volume of, yeah, this is volume
+
+439
+00:59:46,800 --> 00:59:53,680
+on the major one-of-one oriented marketplaces. And so as you can see before,
+
+440
+00:59:53,680 --> 01:00:04,640
+say, March of 2021, volume was, hey, it looks like there's nothing on the chart, but there
+
+441
+01:00:04,640 --> 01:00:12,000
+are data points on the chart, they're just invisible. It was effectively no volume before
+
+442
+01:00:12,000 --> 01:00:19,280
+March of 2021. It's when the first pickup happened with the first very large sales of alien crypto
+
+443
+01:00:19,280 --> 01:00:33,440
+punks. There was a lot of activity last summer when crypto at large was very gloomy. And it's been
+
+444
+01:00:33,440 --> 01:00:41,840
+much quieter recently. And as you're trying, I'm trying to look at super air through that data.
+
+445
+01:00:41,840 --> 01:00:48,000
+We're kind of back, and this is how everything is in the NFT space at large, we're kind of back
+
+446
+01:00:48,000 --> 01:00:55,040
+to the first half of 2021 for kind of super air, maybe a little bit foundation, say the first
+
+447
+01:00:55,040 --> 01:01:03,360
+quarter of 2021, maybe a little bit higher for super air. And, you know, this is, again, it's
+
+448
+01:01:03,360 --> 01:01:08,400
+going to be one of those very interesting topics, because people outside the space,
+
+449
+01:01:08,400 --> 01:01:20,880
+like all you see, NFTs are just a bubble. NFTs are over. And while not making any forward-looking
+
+450
+01:01:20,880 --> 01:01:25,440
+projections, I have no idea exactly what's going to happen. This has been the history of
+
+451
+01:01:25,440 --> 01:01:33,120
+cryptocurrency, right? It spikes, it booms, it collapses. And when it collapses, it tends to
+
+452
+01:01:33,120 --> 01:01:40,000
+collapse in price and volume at the same time, where people lose interest. But then it tends to
+
+453
+01:01:40,000 --> 01:01:48,720
+come back in waves. And so this is, this is going to be more of a builder type period,
+
+454
+01:01:50,320 --> 01:01:55,600
+where there's not automatic free money floating around. And we'll see which artists,
+
+455
+01:01:55,600 --> 01:02:04,560
+which other application builders stick around and do interesting things in the space.
+
+456
+01:02:08,800 --> 01:02:11,440
+Yeah, so this is interesting. If you look on the left-hand side,
+
+457
+01:02:13,920 --> 01:02:18,800
+there has been more of a change in secondary volume, collector to collector,
+
+458
+01:02:19,360 --> 01:02:22,560
+than there has been in primary volume. Of course, primary volume is down quite a bit,
+
+459
+01:02:22,560 --> 01:02:30,480
+the primary volume artist to collector has not fallen to the same amount. And the number of active
+
+460
+01:02:30,480 --> 01:02:38,800
+collectors have not fallen to the same amount. What has happened is a drop in prices. And a drop
+
+461
+01:02:38,800 --> 01:02:45,200
+in price is both because the price of ETH has fallen, and also because the price of a lot of
+
+462
+01:02:45,200 --> 01:02:54,400
+this artwork in ETH has also fallen. So the interesting, the underlying usage data on the right
+
+463
+01:02:56,400 --> 01:03:06,480
+has less of a drop than the US dollar data. But anyway, you look at it, these are very small
+
+464
+01:03:06,480 --> 01:03:16,880
+absolute numbers. These are tens of millions of dollars, hundreds of collectors. And this can mean
+
+465
+01:03:16,880 --> 01:03:24,560
+one of many things. It could mean A, maybe this doesn't happen. I doubt that's the case, but it
+
+466
+01:03:24,560 --> 01:03:31,920
+could mean O, or quote-unquote early, and this will pick up in a different cycle. But that might
+
+467
+01:03:31,920 --> 01:03:37,280
+not mean that super rare or a certain notice pick up in a different cycle, maybe in a different
+
+468
+01:03:37,280 --> 01:03:44,560
+cycle, something new picks up. And so maybe the thing that gets mass adoption hasn't been invented
+
+469
+01:03:44,560 --> 01:03:52,800
+yet. We just don't know yet. So it's interesting to see, and I think it's interesting to see this
+
+470
+01:03:52,800 --> 01:04:03,840
+in the context of, in some ways, I think NFTs have taken on a much bigger mind share and reaction
+
+471
+01:04:03,840 --> 01:04:14,640
+in the world at large than their actual mathematical point. I've said this before, I said this
+
+472
+01:04:14,640 --> 01:04:22,480
+was almost all my presentations. NFTs are about 1% of the crypto market space in terms of market
+
+473
+01:04:22,480 --> 01:04:29,440
+capital. They certainly get more than 1% of the attention. And I suspect one of the reasons they
+
+474
+01:04:29,440 --> 01:04:41,520
+get that type of attention is unit bias. So when Ethereum trades from 800 to 5000 or
+
+475
+01:04:41,520 --> 01:04:47,760
+Solana from three to 100, these all sound like small numbers, and you don't think about what
+
+476
+01:04:49,040 --> 01:04:54,480
+Dogecoin trades underneath a dollar. And so they're like, okay, well, plus the dollar,
+
+477
+01:04:54,480 --> 01:05:00,080
+I mean, maybe that's sensible, or it's 50 bucks, maybe that's sensible. That sounds like the price
+
+478
+01:05:00,080 --> 01:05:06,800
+of a stock. And people don't think that the market cap for those in the tens of billions of dollars
+
+479
+01:05:06,800 --> 01:05:13,840
+through most of, through most of 2021, Doge had a larger market captain, the whole NFT space.
+
+480
+01:05:15,280 --> 01:05:22,720
+But because NFTs have attention getting sales, this one NFT sold for 8 million,
+
+481
+01:05:22,720 --> 01:05:29,360
+69 million, 1 million, half a million. It catches people's attention for good and for bad,
+
+482
+01:05:29,360 --> 01:05:33,360
+that's why I'd like to learn more of this, or it catches people attention and say, oh, well,
+
+483
+01:05:33,360 --> 01:05:39,360
+this must be fake. It must be a scam. It must not be real. How can someone pay that amount of money?
+
+484
+01:05:40,080 --> 01:05:44,160
+But it's not really the right way to look at it. The right way to look at it is on a
+
+485
+01:05:45,040 --> 01:05:48,400
+total market perspective. And the right way to look at it is
+
+486
+01:05:52,560 --> 01:05:59,520
+how much intangible cultural value are we representing with NFTs in general, with one of
+
+487
+01:05:59,520 --> 01:06:03,520
+ones in general, and this is a large number or a small number. And then it absolutely turns,
+
+488
+01:06:03,520 --> 01:06:08,400
+it's so very small number. And so what that means is that we're arranged to be seen,
+
+489
+01:06:08,400 --> 01:06:11,600
+but it's clearly a small number and total absolute value.
+
+490
+01:06:18,320 --> 01:06:24,800
+Yeah, this is also interesting, right? Again, for an, this goes nicely with my PowerPoint,
+
+491
+01:06:24,800 --> 01:06:33,840
+per all of the, oh my gosh, NFTs are very, very expensive in popular press type logic.
+
+492
+01:06:35,280 --> 01:06:42,960
+The average NFT sold on super, super air being the quote unquote elite site behind
+
+493
+01:06:42,960 --> 01:06:49,840
+what's highly curated, the most expensive artist looks to have spent most of the last year and a half
+
+494
+01:06:49,840 --> 01:06:58,640
+below 5 ETH. And at some point 5 ETH might have been $15,000. Today 5 ETH is, you know,
+
+495
+01:06:58,640 --> 01:07:04,480
+six or seven thousand dollars. Okay, I mean, these are not unusual numbers
+
+496
+01:07:05,680 --> 01:07:11,680
+for work coming from, you know, serious artists. If you go and say, oh, I bought a piece of
+
+497
+01:07:12,560 --> 01:07:18,880
+art from a serious artist and I paid $6,000 for it, when people are obviously going to be
+
+498
+01:07:18,880 --> 01:07:26,800
+shocked with us, but because you do have these power law outlier sales, I think they do create
+
+499
+01:07:28,400 --> 01:07:32,480
+perhaps a misunderstanding of how the space in general is structured.
+
+500
+01:07:33,920 --> 01:07:38,400
+Now, as I've been done in a body mirror, which I am, I'm going to go very quickly,
+
+501
+01:07:38,400 --> 01:07:47,680
+just to give you a little bit of background on the guests coming in this week. People,
+
+502
+01:07:47,680 --> 01:07:51,840
+I did not repeat in the slides. Oh, as I do have a slide here, but we discussed, we don't need
+
+503
+01:07:51,840 --> 01:07:59,520
+to discuss again. Claire Silver is an amazing artist who focuses on AI art. So in addition to
+
+504
+01:07:59,520 --> 01:08:05,360
+all the general one-on-one art things we already discussed, we'll also discuss the AI controversy,
+
+505
+01:08:05,360 --> 01:08:12,560
+you know, of the general type is AI art art. As we said, it happens with every single new movement
+
+506
+01:08:12,560 --> 01:08:24,400
+so it will happen with this one. Sam Spratt is a classic one-of-one artist, makes these very
+
+507
+01:08:24,400 --> 01:08:30,560
+tight, very evocative series. We'll talk about him. He's a pre-NFT artist as well, so I think
+
+508
+01:08:30,560 --> 01:08:39,520
+we can talk about that and transition pre-post NFTs. Sasha does some very interesting things
+
+509
+01:08:39,520 --> 01:08:43,680
+with poetry. I love this quote on the left, I'm going to just read it out loud.
+
+510
+01:08:44,400 --> 01:08:49,280
+Oral language and written text were invented as time machines, data storage systems.
+
+511
+01:08:49,280 --> 01:08:55,120
+Poetry is the original blockchain, a way to save ideas using devices, meter, rhyme,
+
+512
+01:08:55,120 --> 01:08:59,520
+accidents, et cetera, that make them easier to remember and almost impossible to forget.
+
+513
+01:08:59,520 --> 01:09:02,640
+I think it was my favorite quote in this whole presentation, but that was amazing.
+
+514
+01:09:02,640 --> 01:09:09,280
+I believe that the whole is an incredible photographer. It does,
+
+515
+01:09:11,680 --> 01:09:16,240
+you know, his most iconic work, I think, in the NFT space are the Aeroglyphs, where he has drones
+
+516
+01:09:17,200 --> 01:09:23,120
+create light art over national landscapes, but he's done amazing things he did the National
+
+517
+01:09:23,120 --> 01:09:34,880
+Geographic cover recently for Stonehenge. We can talk with him about NFT photography. Isaac Wright
+
+518
+01:09:34,880 --> 01:09:45,600
+Drift has another incredible story. Drift has climbed a lot of very high buildings and taken
+
+519
+01:09:45,600 --> 01:09:50,480
+incredible photographs of those buildings and was put in jail for this and then was released.
+
+520
+01:09:50,480 --> 01:09:58,320
+And so I think it was going to be a lot of things to discuss, not just about NFTs itself,
+
+521
+01:09:58,320 --> 01:10:06,160
+but about non-conventionality and society, and we'll see how those things all come together.
+
+522
+01:10:07,440 --> 01:10:10,320
+Blessing, that was very interesting.
+
+523
+01:10:10,320 --> 01:10:26,240
+And so it's a different constraint. Constraint to a phone for the photography and then it's also
+
+524
+01:10:26,240 --> 01:10:35,040
+been today's NFTs. Priyanka is going to tell us about the borough. The borough is a Southeast Asian
+
+525
+01:10:35,040 --> 01:10:41,440
+collective who are in the NFT space. And so, I think it's a really interesting topic,
+
+526
+01:10:41,440 --> 01:10:48,080
+both with Blessing and with Priyanka. What do NFTs mean for internationalization, right? I mean,
+
+527
+01:10:48,800 --> 01:10:57,840
+would the artists, let's say, in the borough or in South Asia? Would they have had access to
+
+528
+01:10:57,840 --> 01:11:08,080
+a collector like me? I don't live in India, travel to India, but I don't live in India.
+
+529
+01:11:08,080 --> 01:11:11,680
+If they were in a gallery in India, I'd almost certainly not know about them.
+
+530
+01:11:13,120 --> 01:11:17,680
+But online in the NFT space, I've collected from some
+
+531
+01:11:17,680 --> 01:11:27,920
+members of the borough and this global environment and seeing people from around the world,
+
+532
+01:11:27,920 --> 01:11:33,040
+different cultures, different approaches. I think it's one of my favorite things about the NFT
+
+533
+01:11:33,040 --> 01:11:41,120
+space and just I also feel very new. I think at the very, very, very elite level of collectors
+
+534
+01:11:41,120 --> 01:11:47,200
+and artists, the people who can hop on a plane and go to a show in Hong Kong and Singapore and
+
+535
+01:11:47,200 --> 01:11:53,920
+New Delhi and New York and the artists who have enough of a following that people will get them
+
+536
+01:11:53,920 --> 01:11:58,640
+into those shows. Yeah, sure, you could collect internationally before, but that's a very elite
+
+537
+01:11:59,360 --> 01:12:07,680
+environment, a more normal environment. For even people who, you know, take this type of stuff
+
+538
+01:12:07,680 --> 01:12:13,360
+seriously, it's much more plausible to collect from around the world, to see different perspectives
+
+539
+01:12:13,360 --> 01:12:21,920
+from around the world in the NFT space than it is in the traditional art system. And Ena,
+
+540
+01:12:23,040 --> 01:12:24,880
+you know, we're going to talk about a couple of things.
+
+541
+01:12:28,000 --> 01:12:36,320
+Yes, her art has some really interesting ideas on how NFT art and one-on-one art can also be used
+
+542
+01:12:36,320 --> 01:12:40,960
+for social change and so we'll see how those things play out. So, I mean, it's going to be
+
+543
+01:12:40,960 --> 01:12:46,720
+an incredible set of folks. We also have Art None, who I think is very relevant to the topic.
+
+544
+01:12:47,280 --> 01:12:55,120
+So, hopefully, what we managed to accomplish today is you and me will go into these other
+
+545
+01:12:56,720 --> 01:13:01,360
+interviews or panels or see how it serves them with a common initial framework.
+
+546
+01:13:02,480 --> 01:13:05,680
+And then, hopefully, through the course of the next two or three, because we will enhance our
+
+547
+01:13:05,680 --> 01:13:09,280
+framework. We will learn some things. We'll come back and see how we can enrich it.
+
+548
+01:13:09,280 --> 01:13:18,000
+And then kind of pull this together. So, I think, yeah, that's it for me in this session.
+
+549
+01:13:21,280 --> 01:13:26,080
+I guess I could take some questions. I have a little bit of time. I can take some questions.
+
+550
+01:13:26,080 --> 01:13:41,120
+Let me just check if the team wants to feed me any questions that have come up. Give me one second.
+
+551
+01:13:41,120 --> 01:13:58,160
+Some questions. If there are, we'll go for there.
+
+552
+01:14:11,120 --> 01:14:26,560
+Okay, I'm seeing a few questions. One question was,
+
+553
+01:14:28,960 --> 01:14:34,720
+to get my view on digital collectibles versus NFTs as a term, I ended up discussing that.
+
+554
+01:14:34,720 --> 01:14:44,320
+Anyway, same thing, Reddit, and why they feared the word NFT. Oh, they feared the word NFT because
+
+555
+01:14:45,280 --> 01:14:51,200
+NFTs got a lot of very aggressive, bad publicity in the mainstream press.
+
+556
+01:14:51,200 --> 01:15:06,800
+To me, shockingly so. The general approach was end-to-end negative on every dimension.
+
+557
+01:15:08,960 --> 01:15:20,080
+And for no particularly obvious reason. It's just the type of reason that people don't like
+
+558
+01:15:20,080 --> 01:15:27,200
+new things. They were possibly some legitimate questions about environmentalism, which again,
+
+559
+01:15:27,200 --> 01:15:31,360
+I don't want to get into this. It's a complicated topic. I'm not convinced the proof of work isn't
+
+560
+01:15:31,360 --> 01:15:40,960
+that is positive also. But in any case, you had non proof of work, blockchain is the whole time.
+
+561
+01:15:40,960 --> 01:15:47,120
+And either on an absolutely well-communicated pathway to proof of stake. So anyone who was saying,
+
+562
+01:15:47,120 --> 01:15:57,280
+oh, well, NFTs are going to destroy the environment at best not well-educated in the topic,
+
+563
+01:15:57,280 --> 01:16:05,440
+and at worst, you know, misleading. Now that either is proof of stake,
+
+564
+01:16:05,440 --> 01:16:10,320
+if it was on a proof of stake system, obviously traditional art is worse from the environment than
+
+565
+01:16:10,320 --> 01:16:18,560
+NFTs by a gigantic marsh. Making something physically, taking it to an art convention,
+
+566
+01:16:18,560 --> 01:16:24,960
+flying people there to see it, running a gigantic concrete building, a museum with
+
+567
+01:16:25,600 --> 01:16:32,240
+HVAC and security and people in order to see it, flying to New York to go to the moment.
+
+568
+01:16:32,240 --> 01:16:37,280
+All of these things are like orders of magnitude, more carbon intensive than NFTs.
+
+569
+01:16:37,280 --> 01:16:46,640
+And so people who, in theory, a month ago, were super, super upset about the environmental
+
+570
+01:16:46,640 --> 01:16:54,240
+impact of NFTs. If they really, really, that was the real issue, one would assume today they'd
+
+571
+01:16:54,240 --> 01:16:59,760
+be promoting all artists to use NFTs and be trying to shut down or limit physical art.
+
+572
+01:16:59,760 --> 01:17:08,800
+I haven't seen a single person say this. And so it makes me wonder if the real reason was
+
+573
+01:17:09,840 --> 01:17:16,560
+environmentalism in this case, or something else. You know, the rest of the rest of
+
+574
+01:17:16,560 --> 01:17:23,600
+the criticism was, I don't know, just wild. Mostly it was over the bucket of, oh, I don't know,
+
+575
+01:17:23,600 --> 01:17:29,280
+there's a, there's the normal crypto bucket. It must be money laundering. I mean, this,
+
+576
+01:17:30,480 --> 01:17:35,440
+it's the answer to everything planned. People don't know why something's happening. And
+
+577
+01:17:36,320 --> 01:17:43,360
+in other words, effectively it's, they're too expensive. But if they're too expensive,
+
+578
+01:17:44,480 --> 01:17:48,480
+it just means collectors are overpaying artists.
+
+579
+01:17:48,480 --> 01:17:56,800
+But it struck me as a very strange thing for the mainstream press and the art press to be
+
+580
+01:17:56,800 --> 01:18:03,200
+really upset that artists are now getting paid more money. I mean, it was not obviously the case
+
+581
+01:18:03,200 --> 01:18:08,560
+to me two or three years ago that the world of large was concerned that artists were making
+
+582
+01:18:08,560 --> 01:18:13,120
+too much money and we had to cut down on their money. The world of large has always been concerned
+
+583
+01:18:13,120 --> 01:18:19,200
+that art and culture tends to be underfunded and artists tend to be underfunded. And suddenly
+
+584
+01:18:19,200 --> 01:18:23,920
+there's a mechanism where they're being very well funded. And somehow this is also a problem.
+
+585
+01:18:25,920 --> 01:18:31,600
+Even though, unlike traditional art, right, the, the funding is creating at a minimum,
+
+586
+01:18:31,600 --> 01:18:36,880
+a visual public good, you can see the art everywhere. And in the case of CC zero, an actual public good.
+
+587
+01:18:36,880 --> 01:18:56,320
+And so this, this, I think is the general question of coping mechanism when something new happens
+
+588
+01:18:56,320 --> 01:19:03,520
+and you don't understand it, you'll complain that you're, I think all the things is like,
+
+589
+01:19:03,520 --> 01:19:08,880
+I don't like this. I'm starting there emotionally. I don't like this. And now I'm going to think
+
+590
+01:19:08,880 --> 01:19:16,480
+about the reasons that I don't like it. The one that I should probably find this article before
+
+591
+01:19:16,480 --> 01:19:24,560
+it vanishes, right around the people's sale, there was a newspaper article being New York
+
+592
+01:19:24,560 --> 01:19:29,920
+Times art editor, which went on and on and on of like crypto art isn't any good and maybe it's not
+
+593
+01:19:29,920 --> 01:19:34,080
+real art. It's like you've kind of been kidding me. How come when you're having this discussion
+
+594
+01:19:34,080 --> 01:19:40,320
+in 2021? The whole art movement you're going to decide is not actually art because,
+
+595
+01:19:41,120 --> 01:19:47,680
+I don't know, it's too key. It's too man of the people. It's something, something like that was
+
+596
+01:19:47,680 --> 01:20:01,680
+the argument, which is obviously absurd, right? Sothe net effect of all this
+
+597
+01:20:02,560 --> 01:20:06,640
+was that for a lot of civilians and if he's got a bad name?
+
+598
+01:20:09,200 --> 01:20:14,640
+And the reason I got a bad name, I think is not hugely necessarily something that if
+
+599
+01:20:14,640 --> 01:20:21,520
+T space the wrong thing, there are people who did wrong things in the space, but the press on NFTs
+
+600
+01:20:21,520 --> 01:20:29,520
+was unrelentingly bad, a relentless leader. And so I didn't understand it. I didn't.
+
+601
+01:20:30,560 --> 01:20:37,200
+I couldn't imagine someone feeling this way about Bitcoin, where the, because Bitcoin had a bunch
+
+602
+01:20:37,200 --> 01:20:43,920
+of assumptions that you should have a deflationary currency or a fixed currency or a gold standard
+
+603
+01:20:43,920 --> 01:20:49,520
+based currency. And I can imagine someone in from a traditional macroeconomic perspective saying,
+
+604
+01:20:49,520 --> 01:20:54,160
+no, this will be very bad for society, because we need to be able to use national sovereign
+
+605
+01:20:54,160 --> 01:20:58,880
+currencies to manage the business cycle and we could for employment have the very sophisticated
+
+606
+01:20:58,880 --> 01:21:02,560
+counterargument that most people don't make, but at least some sophisticated people made it.
+
+607
+01:21:04,240 --> 01:21:12,480
+Why there was a very negative reaction to a bunch of people want to give a bunch of artists a lot of
+
+608
+01:21:12,480 --> 01:21:21,120
+ether. This seems like an unambiguous societal good, and it should have been celebrate. But
+
+609
+01:21:21,920 --> 01:21:28,960
+this is where we are. I think we're going to go through a phase where a lot of companies want to
+
+610
+01:21:28,960 --> 01:21:36,720
+say it's digital collectibles, it's digital assets, it's all of these things. I think it's fine. I
+
+611
+01:21:36,720 --> 01:21:41,200
+think it's natural. It's how they get their feet wet. I'll make a prediction. I'll make your
+
+612
+01:21:41,200 --> 01:21:46,720
+prediction in front of hundreds of thousands of people. In the end, we will use the term NFTs.
+
+613
+01:21:48,000 --> 01:21:57,840
+I remember this phase with cryptocurrencies at large when was out of 2014 to 2018
+
+614
+01:21:59,200 --> 01:22:06,160
+where everyone said, okay, well, we like this idea. It's good. But we need to talk about blockchains,
+
+615
+01:22:06,160 --> 01:22:12,400
+not crypto assets. Crypto assets are scary. I talk about blockchains. Blockchains are not scary.
+
+616
+01:22:13,120 --> 01:22:18,560
+And if it's an enterprise blockchain from IBM, even better, that sounds very not scary at all.
+
+617
+01:22:19,680 --> 01:22:27,520
+And this happened in the 1990s when there was the internet, and it was uncontrolled and
+
+618
+01:22:27,520 --> 01:22:32,240
+uncontrollable and scary. Was it okay? We like these ideas about the internet. We like them. They're
+
+619
+01:22:32,240 --> 01:22:39,840
+nice. But we're going to make us the big telcos, the information superhighway, which will be this
+
+620
+01:22:39,840 --> 01:22:47,200
+controlled network, and that's going to be better. And this can go on for several years, and I think
+
+621
+01:22:47,200 --> 01:22:59,440
+it will go for several years, where people will want to use more comforting terms, less perceived
+
+622
+01:22:59,440 --> 01:23:13,040
+scary terms, so that people can feel more comfortable with them. I think in the end,
+
+623
+01:23:14,080 --> 01:23:21,760
+none of the terms that I have seen actually accurately describe NFTs. What they describe is
+
+624
+01:23:22,400 --> 01:23:29,200
+a specific application of NFTs that could also be implemented in many cases, not as an NFT.
+
+625
+01:23:29,200 --> 01:23:38,320
+And so it's fine. I don't mind people using them. I think it might be a necessary phase
+
+626
+01:23:38,320 --> 01:23:47,440
+in the development and adoption cycle. But I don't think that's where we end up in the long run,
+
+627
+01:23:47,440 --> 01:23:54,400
+because every one of them is incorrect. And the correct term for the technology,
+
+628
+01:23:54,400 --> 01:23:59,680
+that is a non-fungible token traded on a decentralized blockchain, is NFT. It's not
+
+629
+01:23:59,680 --> 01:24:05,760
+digital collectibles, it's not digital assets. It's not digital art, it's not any of these things.
+
+630
+01:24:05,760 --> 01:24:11,920
+It's NFT. So we'll see. I mean, I don't mind either way, however, it ends up in the long run,
+
+631
+01:24:11,920 --> 01:24:18,320
+is okay. But it's my prediction. But this prediction will be true in, I don't know,
+
+632
+01:24:18,320 --> 01:24:22,880
+three to five years, not in three to five months. We're going to go through a long phase for a
+
+633
+01:24:22,880 --> 01:24:28,400
+bunch of big companies and governments are going to want to take some of the ideas and theories about
+
+634
+01:24:28,400 --> 01:24:34,560
+NFTs, sometimes implement them in something with not an NFT at all, sometimes actually do an NFT,
+
+635
+01:24:34,560 --> 01:24:43,840
+but hide the NFT part, because they're going to feel it's less scary. And that's fine. But I do
+
+636
+01:24:43,840 --> 01:24:49,120
+think it then will end up with NFTs. It is certainly the case that I'm going to keep talking about
+
+637
+01:24:49,120 --> 01:24:54,960
+NFTs. You will not see me switch to digital collectibles. I don't think it's scary. I think
+
+638
+01:24:54,960 --> 01:25:01,920
+people are grown adults. I think people can learn new things. And I do think the press does have kind
+
+639
+01:25:01,920 --> 01:25:11,280
+of a reflexive negative reaction to technology. And they tend to delay a little bit the developer
+
+640
+01:25:11,280 --> 01:25:18,160
+to go into this way, but eventually inevitable things are inevitable. So I think that's what's
+
+641
+01:25:18,160 --> 01:25:24,240
+going to happen here as well. Okay, I need to wrap up here. I think we got to the questions.
+
+642
+01:25:25,600 --> 01:25:34,640
+Thank you everyone again for joining. Keep an eye on the UNIC metaverse Twitter account
+
+643
+01:25:35,440 --> 01:25:42,800
+for when the new sessions are when they're able to release course materials. And they are working
+
+644
+01:25:42,800 --> 01:25:47,760
+on ultimately a website where all this stuff will be found in one place. And so hopefully
+
+645
+01:25:47,760 --> 01:25:51,760
+two or three weeks from now, this is going to get even easier. And you can just go to a web page
+
+646
+01:25:51,760 --> 01:25:57,600
+and see all these things. But for the time being, I think Twitter and Discord are the places to go.
+
+647
+01:25:57,600 --> 01:26:27,440
+So as always, thank you and I'll see you back in the metaverse.
+

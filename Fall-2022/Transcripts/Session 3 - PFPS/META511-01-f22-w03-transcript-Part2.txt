@@ -1,0 +1,739 @@
+Okay, welcome everyone and welcome Greg Salano Gargad. It is our first actual guest lecture.
+We had Ellie in the class session, but we have a first guest visiting the course today.
+And super excited about this. He is one of the co-founders of Yuga Labs. Yuga Labs today has a fairly
+dominant position in the EFP area. And so I think there's going to be a lot of really interesting
+things we can discuss starting with some basics and then getting more complicated. But first,
+let me welcome Greg to the course. Thank you so much for having me 6529 and thanks to the
+University of Nicosia for hosting this course. I think it's super cool. It's a really
+exciting way for people to get exposure to a lot of different metaverse thought leaders. I'm
+personally excited about a lot of people you have slated to speak later in the semester as it were.
+Greg, well let's jump right in and I think for our audience is mixed. I think we have people in
+the audience who are absolute NFT gurus and people who are NFT novices. So I'll try and cover
+things that will be helpful to both. Let's start at the beginning. How did UGLABS, how did the
+boarded yard club, how did it come about? Sure. I think to tell that story, it probably helps to tell
+how I was first exposed to crypto. Like a lot of people the first time I heard about Bitcoin in
+perhaps 2010, 2011. I wasn't, I was somewhat dismissive at first. I saw it as just this, yeah,
+magic internet money was how it was talked about in those early days, right? And it didn't really
+capture my attention. But in 2017, I first bought into Ethereum and I immediately called a friend of mine
+while I was here now, aka Gordon Connor and had him get in on, it's a crypto with me. And we fell
+into this whole world very quickly. We spent a lot of time on crypto Twitter following all these
+different personalities that were around. A lot of them, you know, still very active to this day,
+Kobe, Lundar, you know, a lot of different folks that that have been kind of mainstays in this
+space. And it was so exciting, you know, it really felt like crypto engaged our attention like almost
+nothing else. Why me and I in particular would spend a lot of our time hanging out in digital spaces,
+playing World of Warcraft or other different MMORPGs, massive multiplayer online role playing games
+together and weirdly our session with crypto ran very much in parallel with it. It was a parallel
+passion. And in those days, I was exposed to crypto kitties. And it was fascinating. I didn't
+actually buy a cryptocurrency at the time in 2017-2018 that area while we did. But I fell into NFTs
+later more deeply in 2021. There were a slew of different projects that all of a sudden felt like
+they were using the blockchain to as more of a medium than anything else. It wasn't, you know,
+crypto kitties was at its core of a game and an experience. But then when you had hash mass,
+which was kind of this arc project that was using Ethereum as a medium and you had people
+selling an NFT for an extraordinary camera price at Christie's, you really started to feel like
+this is something where this is a new medium opening up in the same way that anything, you know,
+podcasts opened up to the world 10 years before. And if you could be early to that and if you could
+be one of the first people to join in and tell stories on a platform and understand how communities
+would form around it and engage with things and what would succeed, what would be viral, it would be fun.
+There's a lot of power to that because my background was in creative writing. I was a book editor
+for 10 years. I was a poet. And so why didn't I really just were off to the races trying to
+understand what kind of NFT project we could create? We've looped in our other two founders
+tomato and sass aka primanzishan for the engineering part of things. And we spent some months
+playing around with all kinds of ideas. But in the end, what we settled on was we wanted to make a
+an NFT collection, a similar in spirit to CryptoPunks, Matt and John's CryptoPunks that obviously
+have 10,000 NFTs, unique PFCs. But we wanted there to be some inherent utility to the token.
+We wanted it to be something that you could, you know, the prime thing that we were interested in
+from the beginning was NFTs as something that, you know, having a great use space for two things.
+Authenticity and scarcity. And earlier on with CryptoKitties, those two things kind of got a little
+out of whack with the breeding mechanics. There was too much supply, felt dilutive. But with the wave
+of projects coming prominence and the kind of rediscovery or celebration of CryptoPunks that
+was happening in 2021, it was really about the idea of knowing that you had this immutable NFT
+on the blockchain, and there was only X number of them, the prominence of that. And so we came up with
+the idea of Bored Ape Yacht Club. And the inherent utility of the token was going to be that if you
+owned a Bordeic, that you were going to be part of a club. And what that club met at the beginning
+was just that you were among like-minded people, hopefully, but also that you got access to a
+digital pixel board, a little space on our website, cryptographically verified that you could use
+your token to get access to the, quote, bathroom and, you know, graffiti on the wall. And if you
+own a Bored Yacht Club, you could put a pixel down every 15 minutes. And so the bathroom would be kind of
+this palmsest of people writing to this wall in collaboration with one another. And that was
+the initial thing. And as far as the spirit of what Bordeic meant to us early on, we really saw
+a lot of the early influencers and people in the space that we followed for years as Bordeics.
+You know, an ape is an affectionate term in crypto and in trading circles for people who dive
+first into an asset or kind of throw caution to the wind. There's a reason why some of the most
+valuable apes in the crypto punk, some, why some of the most valuable NFTs in the crypto punk
+collection are apes. And so we thought it'd be really cool to make an entire collection, an
+entire NFT project that was just about the apes. But also that it didn't necessarily take itself
+too seriously. There are people on crypto Twitter that you can cryptographically verify or
+worth incredible sums of money. Yet they are spending their days shit-posting, you know, making jokes,
+looking for people to play League of Legends with. They were in every way to us like Bordeics. And
+so we started to imagine like what a this kind of fanciful, irreverent, strange world of the Bordeic
+yacht club might look like. And we said it in our hometown of Miami. We said it in the Everglades.
+And yeah, the rest is history. So let's talk about that. I remember the early days when you
+launched. The the start didn't look shockingly promising. Like the mint didn't mint out right
+away. It took several days. And so it's now have generated maximum coping from every one of us who
+didn't go and mint a lot of Bordeics during that period. I think I bought one the week afterwards
+or something. And okay, it was another PFP project that didn't mint out for several days.
+And there was the Boughton board as you say. And when saying, oh, I wonder who's going to draw
+genitals on the Boughton board, right? But from there to where we are today is kind of a shocking
+difference, right? So let me put it differently. If you saw the project on day 10,
+you could imagine a lot of projects like that on day 10, most of which have not had the success
+or even a fractional success that the project is at. What do you attribute to the fact that
+it started, you know, normally fun, silly, but didn't seem too serious. And suddenly it just
+built up this life of its own and turned into what it turned into. What in your mind was that
+magic, the secret sauce, the magic formula? What did it? Yeah, I attributed to a few things.
+Number one, we tried to set up the incentive structure in a little bit different way
+than a lot of things that had come out at the same time or just before the UIC.
+So you had a series of different projects that were following the formula where each mint
+would cost, you know, first X amount of been saved, thousand, cost a certain price.
+And then the next thousand more and then the next thousand more until in the end the collection
+is sold out. But that leaves you with holders that all have different entry prices into this.
+And then it kind of felt inherently disuniting. It wasn't exactly welcoming when you would
+join a discord and know that the guy next to you paid on the same website from the same
+mentor for the primary sale, the different costs. It felt like something that would help sell
+out a project, but not necessarily be healthy to the sustainability of the project.
+Obviously, crypto punks were a free claim and, you know, completely different.
+But at the time when we were minting in 2021, most projects in the space were following
+this other model. So that was one of the things we did. We said every eight should cost 0.08,
+218 bucks or something like that is what it was at the time. And we tried very hard to
+push a sense of welcoming into our discord. Anytime somebody would join,
+we wanted there to be a stream of all caps welcome there. We wanted
+the founders to be available for any issues people are having. If people meet it to DM us and
+ask us questions, we were around. And I think there was a bit of magic in that
+NBA top shot had just exposed a lot of new people to entities. And we found around the time
+of the BOYC mint. A lot of those people, we were their first kind of Ethereum entity.
+And there was a lot of excitement to that. There was a lot of people, you know, we had built
+this project seemingly hoping for a lot of crypto native people to be exposed. When in fact,
+what ended up happening was a lot of people who'd kind of put a toe into this base. Yes,
+they bought something off coin base before or they had experimented with NBA top shots or
+otherwise. But we were the first thing to kind of bring them into setting up a Metamask wallet
+and getting involved in a community. And capturing that kind of organic energy from the start
+and having those people so excited and finding each other. And as a reminder too, we were in
+COVID. So just finding friends and engagement and having a good time on Discord is a really
+powerful thing just from the start. That helped a lot. And I think also we, frankly as the founders,
+we sold out the collection and then we worked 14 hours a day ever since to not take that moment
+for granted and try and create new experiences in any way that we could. And I think
+you know, when we were doing token gated merch, say a month later and boxing up T-shirts and hats
+that we sold and we were boxing up in my mom's backyard. Yes, there had been token gated
+merch before. Obviously the most famous of which would be unisocks of, you know, if you own
+the token, you could redeem it for actual socks. But it wasn't necessarily a community or felt
+like something that could be its own lifestyle brand. And the other aspect I think that was really
+powerful the whole way through is we gave all of our holders commercial rights to their aid. And
+that sense of having a stake in the project being part of the community and having it tied to your
+online identity that was really powerful and led to a lot of projects and ingenuity and creativity
+in a bottoms up way throughout the space where we had Jenkins de Valet very early on getting signed
+to CAA and developing an entire, his own entire project, you know, really starting with his
+eighth and the story that he was telling and telling other, you know, community member stories.
+And we've now seen everything from animated TV shows that are in development to people
+watching clothing brands, sometimes very simple streetwear, other times as incredible as like,
+you know, $500, like cashmere, exquisite cashmere cardigans being sold at like Fred Segal.
+And that's been really special. Yeah, that was a bit long-winded, but I think that covers
+broadly speaking a lot of what I think I attribute our success to.
+No, it sounds reasonable and I will say I think, you know, there was also a feeling,
+maybe I'm reading this from the outside, but like there were people who
+viewed themselves as the upstart rebels relative to the punks in some capacity, right? Like it was
+the New York cohort, more fun, more irreverent, something in that direction. But I want to build on
+this commercial rights issue because that had had a lot of follow-on effects in the space.
+I think massive follow-on effects. I mean, if I think of the thing that probably changed the
+space the most, it's this. And let's dig into it a little bit. How is that going now, right?
+And then what I mean by this is the following. In the early days, you absolutely saw the initial
+activity, right? Someone would do a DJ set and use their or dates or a coffee brand or a microgroup.
+And certain people signed, as you said, to agencies. There was the group that was the music group
+that was signed. First question, how is that going today a year and a half later? Are these
+things that still developing? Do you have any metrics to track them? Is there, are people sticking to
+it? Because some of the kind of the blow in the bear case on community commercial rights is
+the blue case is obvious. You'll get 10,000 people working to promote the rent. The bear case is
+probably most of those people don't actually have the capacity or capability to build
+a viable business because building businesses is hard. In any case, not just in this case.
+How do you think about it? How do you manage it? How do you track it? What does success look like?
+How do you think about the softwares? Yeah, I think to start with the idea behind it,
+why it made sense to us was if this token of this Bored Ape Yacht Club cryptographically verified on the blockchain
+by owning one, we wanted it to be your digital identity in any way you solve it,
+that it would make sense to us to make sure that you had unlimited commercial rights to that thing
+so that if you wanted to appear as your Bored Ape Yacht Club in sandbox or in decentralized or in other side
+or in any other kind of metaverse space, you could do that. You wouldn't have to ask permission.
+The optionality of that whole experience is the most important part of it to me.
+Yes, there are people who, there have been people that have expanded a tremendous amount of
+effort or are extremely talented and are building incredible things with their Bordeics.
+There's the Borden Hungry fast food restaurant, there's Dr. von Bees,
+Snoop Dogg's alter ego BAYC that appears with them seemingly on stage all the time these days.
+There's casual sweaters being sold at some of the most revered shops in the world,
+you know, shops in the world like Fred Siegel and there's different animated shows,
+some that are still in development and some more web-3 native versions that are going to be coming
+out that we're aware of. How do we measure it? How do we track it? I don't know the best answer
+to that. The whole idea is that it's a permissionless system and that we don't necessarily need to.
+If these things are able to spread up and do spread up without us, then it's doing its job.
+And as long as people don't feel like there are blockers towards their
+creativity and that's what's most important from our perspective. I don't know if that answers
+your question. No, I think that's clear. I'll say it back in my words, if someone's going to make
+their identity, this PFP their identity, well, they should be able to do whatever they want with it,
+right? They don't have to go ask someone permission and then there's a normal 80, 20, or 90, 10,
+or 95, 5 outcome was a few people will do it off a lot of things and most people won't do very much
+but even if they don't do very much, it's valuable. The idea is valuable even if you don't actually
+start a merchandise shop or a fast food restaurant a day by your board. Is that a fair assessment?
+That's a great summary. Yeah. Okay. In that world, let's build on that. What do you see
+the role of the company and the role of the network in what comes over one year, three years, ten years?
+What do you do now? Because you know, you're now getting into much more verified territory.
+Going from one million to ten million, one thing and ten million to a hundred million is another
+thing. Now whether you look at the market cap of all your tokens or the equity value of the firm,
+generally, we're talking billions. So now this is now moving forward at that level.
+There's a different game than a third level. Who does what? How do they do it? How do you think about it?
+What are the goals? How do I think about this stuff? Yeah. So I think there's a couple different
+questions that I hear there. Number one, yes, you guys experienced exponential growth over the past
+year and a half. In January of this year, we were 11 people today. We're 85 and we'll almost certainly
+be over a hundred before the end of the year. And part of that is having several different teams,
+but the ones that are most built out on the Bored Ape Yacht Club team and the other side team, that are constantly
+working on projects of vastly different scale. Some things might be as small as a merch shop
+for BAYC. And then there might be projects that have literally, you know, a year plus long
+time span until lunch. And as we approach what we want to do, though, as we think of BOYC I say,
+what is a Web 3 lifestyle brand? Look like a Web 3 club. Look like there's things we've talked
+about like having a in real life clubhouse here in Miami where people can get together in the
+vein, perhaps, of something like so house or ZZ's or some of these amazing membership clubs that
+exist. That's one thing. And there's a lot of different aspects of what we're building with B A Y
+C. But I'd say the most consistent question in this time and your question about commercial rights
+and what users do is how do we do things in a way that's a value add and doesn't say in
+pin John or step on anyone's toes. Right now, there's several different animated series that I
+know of where people are either we're using at least one word as a character in a show or something
+like that. That's awesome. If we were to come out and do, you know, our own B O I C show and
+not incorporate the community then that hurts those people who are going out and doing, you know,
+trying to tell their stories. So how can we structure our business, what we're doing as a company
+in a way where we're creating sandboxes for other people to build together and enjoy the
+commercial rights and connect with one another and all those sorts of things rather than doing things
+that are redundant or duplicative or taking over things that really should be more on the community
+level than otherwise. Okay, that makes sense. You mentioned twice lifestyle company, right?
+What does that mean to you? Early on, we thought of this idea of like what would a Web 3
+Supreme look like. There's what's it's been very interesting over the past year and a half
+as NFTs have gone more and more into the mainstream how different legacy companies or
+industries have have taken or not to Web 3. There's a lot of game companies that are very actively
+tripling in companies that are very actively building, exploring, enjoying, you know, the fruits
+of a Web 3 division. However, there's a lot of gamers who are more reticent towards games,
+towards blockchain gaming. There's a number of different reasons and thoughts on that we can get
+into that later. On the other hand, you have companies like LVMH and the caring group behind
+Gucci and Balenciaga and so many different major brands who seem to very much be leaning into
+Web 3. They're thinking about, hey, here's this protocol layer tool, this tech that we can use
+that is all about digital scarcity and authenticity. And they have these companies that that's
+the red and butter is creating a brand and maintaining a strict level of scarcity and authenticity.
+And I think for that reason, we're going to see an explosion of more and more interest from that
+that whole sector. And that was something that we thought about very early on with Bored Yacht Club,
+where I'm like crypto punks where the punks themselves are kind of the low. There was no crypto
+punks logo per se. There is that kind of beautiful hot pink that they picked for the website,
+but it wasn't really like a Nike swoosh or something like that. Whereas for Bored Yacht Club,
+we were very cognizant of, hey, we want there to be a logo here, we want there to be a story,
+we want there to be more for people to launch off of and generate stories from and content from
+in a way where constraints and storytelling can be generative and not that we're like saying
+strict canon and that's all there is to the story. So navigating that those lines was always
+really important to us. And so, yeah, we wanted the Bored Ape Yacht Club school to be our Nike swoosh and what
+does that mean in a Web 3 space? I think there's a lot of potential there. I mean, just seeing that
+Azuki is releasing there a new physical token standard. That's just awesome. I think we're going to see
+a lot more experiments in this space. I think it's very natural for NFT company to be
+diving and thinking of itself as a lifestyle brand. So, here's a question that I go back and
+I think I thought about it a reasonable note. You have 30,000 PFP token holders, right? Let's leave
+the punks out for a second. All right. So, the board apes and the mutant apes. And there's the code
+is that I think are part of the game and are not exactly PFPs. We'll discover that, but that
+even if we put those in, it's another 10,000. So, 40,000. Rolex, which is thought of as a fairly
+exclusive brand, sells a million Rolexes a year. Nike, much of the scoosh, sells 800 million shoes,
+pairs of shoes a year. So, Nike is of course a global brand and hundreds of millions of people
+are part of that brand. Even Rolex, it's almost a code word for, I mean, not
+update luxury, but luxury exclusive. Millions, tens of millions of people own a Rolex or part of the
+Rolex community. Your community is 40,000 people, right? And that's closer to a superhyper elite
+sub-brand of old VH or something like a Soho House, you know, 30 to 40,000 people is a very, very
+elite brand. But I would say the aesthetic of, or it is more fun, less, this is a Swiss watch
+that you're going to hand out, hand down to 11 generations and build a whole wing of your house
+to put it in, right? I give it, neither one's right wrong. It's just the aesthetic that comes out.
+And so, if these are somehow comparable, I don't know the numbers off hand for supreme, but I
+think supreme sells a reasonable amount of goods or a reasonable amount of people on an ongoing
+basis. How does this play out? Does the community need to grow? Do you become hyper elite? Is it
+going to be, you know, Soho House is a lifestyle brand and Nike is a lifestyle brand, but Soho House
+is a lifestyle brand that you need thousands of dollars to get into. And Nike is a lifestyle brand,
+you need like, I don't know, 40 bucks to get into. How does this play out? Yeah, obviously it's a
+question that a lot of people have been asking ever since this new wave of NFT collections have
+come out and attained valuations that are massive. And on par with some of these companies that
+are, we're far exceeding some of these companies that seem to have way more users. I will say,
+I think there's a difference between Onigaborda for me being part of a club, let's say. And other
+ways to experience things and have exposure to Bordea as a brand. And I think as we onboard,
+more and more people into Web 3, there is going to be much more opportunities for things like
+that to happen in a way that are not dilutive necessarily to the Bored Ape Yacht club members, you know,
+the people who own the 10,000 Bordea, 20,000 mutants, but still provide, say, a tiering of access
+to people to buy a BAYC t-shirt. One of our most successful merch shops all time was when we
+did a drop with a collab with the hundreds. And there was a public sale colorway where anyone can
+buy this logo mashup of the BUSE and 100s logo on the hundreds website. And I think we'll see
+a lot more of that. We'll see a lot more of co-labs and ways for people to participate in the space,
+while still maintaining the exclusivity of the club as it stands today. That feels that's very
+important to us. I think it's an unfortunate aspect of some early NFT projects where breeding
+mechanics got totally out of hand and felt more akin to a free-to-play model where
+you're constantly having to devalue the original thing in order to gain a customer acquisition.
+I think there is a much more thoughtful and sustainable model attainable where you treat it,
+like I said, more like a brand and you're not constantly expanding the club or anything like that.
+Well, it's interesting you mentioned free-to-play because this has now gotten
+hot again with Gabriel Layden's Digi Di-Gruz, and it's getting a lot of attention.
+It's not 100% clear to me how that's different than other things that happen in that
+NFT space because I mean, the air drop might be free, but I went and bought a Digi Di-Gruz
+by everything. Oh, my one of everything just to see how I feel when I heard it.
+And it certainly wasn't free when I bought it. I think I paid 50 needs, so I mean, it wasn't,
+I doubt I'll be playing whatever game's going to be there, but it certainly wasn't free for me to
+play it. I had to buy it on the secondary market in OpenSea. What does free-to-play even mean in
+the context of NFTs? I mean, there's a robust secondary market in these characters and it's not
+at all free and how do we think about that? Yeah, I think about free-to-play more in a sense of,
+you know, there's been a lot of innovations in gaming over the past 20 years that the industry
+has changed all the time. I've never worked in gaming, but I've written books on video games
+and you know, been an avid gamer my whole life. And what I think about is the different ways
+where game companies have tried to structure incentives or subscription models to
+acquire new users. And so you have something I think a lot about, for example, as it pertains to, and a
+tease, and the future of watching gaming is Dota AllStars. Dota All-Stars was a MOBA, so a genre of
+video game that now, you know, we look at League of Legends and it's one of the most popular engaging
+video games in the world. And I think I'll cryptate Twitter like the most popular video game in the world,
+probably. But it really started out as this Warcraft 3 mod, this custom game mode,
+called Dota AllStars, where a user with a pseudonym, IceRog, I believe it was, and I think there
+were some other people involved too, created a game using a open-source map maker of sorts,
+where Warcraft 3 said, hey, if you can use our graphics, our characters, the rigs, and the map
+mode, and make a game and enjoy yourselves. Have fun. Yet Warcraft 3 had no subscription model.
+They weren't making money, they were making 10 bucks a month like they do on Warcraft or something
+like that, or 15. And IceRog had seemingly no in-platform way to monetize this either. And so you
+had this setup where you had arguably one of the most popular games in the world, and nobody was
+really making money directly off of it, until somebody took the learnings of this genre,
+adapt it, and classed them up, professionalized them, and released League of Legends, which,
+you know, and the rest of their history. And now you have a game that makes a couple billion
+dollars a year, I think, selling skin, selling cosmetics that would have on a database.
+So one, and that's the free-to-play model. You know, League of Legends now, they make incredible
+amounts of money on skins, so does Fortnite, Fortnite makes double triple the amount that they do,
+I think. And obviously, these are just cosmetic characters, they're fun, they're your digital avatar
+in the game. You can send the friends, I think, sometimes, but oftentimes not. But you don't
+know, maybe truly own these things. And then you also have a whole lot of, quote, free-to-play
+or games that exist on the app store. People spend over a hundred billion dollars a year on the
+app store, buying digital assets for games. And the way that those games work is you have to keep
+buying a certain item. You'll finally show up to buy it. But seemingly, the next season,
+there's something that's even better, and then you're showing up again and again. And with the
+statistics show us about those games, it's about 8% of the people playing them are accounting for
+like 90 something percent of the revenue of these games. It's a very like whale-driven market.
+And so, when I think about the opportunity for what Gabriel's calling
+played at own or just in general watching gaming, it's the idea of how do we create
+an incentive structure where the next time somebody is creating a game on top of a platform
+the way Dota AllStars is made on top of Warcraft III, that the content creator doesn't need to go
+off and where the person doing this doesn't have to go off and I create a YouTube channel
+or a Patreon or something else in order to monetize the development. That the idea that these
+things are entities at their core means that the ownership and the treatability and the access
+and a lot more crypto-native things here will make the value grow much smoother and so that you don't
+have another company popping up and sucking out all of that. And I agree, I don't know that like
+that the whole play to own thing is a free to own thing is a bit of a meme here and that there's
+been a lot of things that have functioned in this way but what I'm just excited about is the idea
+of games where there's the inherent openness and interoperability of NFTs and what that opens up
+for gaming across different platforms where no longer if there's that authenticity and scarcity
+inherent NFTs and it's in a game then it feels like the traditional free to play some cost systems
+where you're constantly developing the previous thing maybe don't need to happen if there is
+a value of rule that can happen as opposed on like you say a platform royalty level or something
+like that. Okay well you mentioned royalties it was on my to-do list so let's jump into it.
+There has now I'm going to do a little background for the audience. I think through the first
+couple of years of NFTs one of the things that was been promoted as a positive feature particularly
+for artists is that they would earn secondary royalties and by what this means is royalties
+on someone selling their NFTs to someone else. So a primary sale is when it sold by the
+artist or the project creator to the user and the secondary sale is when that user sells it further
+out and this was promoted both as a boon to artists who might in the beginning be less well-known
+and might sell their work inexpensively but then they become successful and somehow they share
+in the success and it has been very effective for the large and successful projects. I mean the
+initial airdrop did not fund you go labs very much money but because the collection became
+very popular and traded a lot it generated a very large income stream of royalties and this
+was let's say state of the world until three to six months ago three to six months ago a lot of
+folks from in my view the fungible claim world looked at royalties and said oh my this is transaction
+tax in a really high one it's two and a half percent or five percent or ten percent
+and this is not so we couldn't imagine like Solana or sushi or B&B taking five or ten percent
+of your B&B every time you sell it. This is crazy and we're in a permissionless blockchain of course
+the blockchain is going to route around these taxes because there's always a way technically to
+run it around them and it started a process of one exchange uh said well I'm not going to
+auto royalties or make them optional and you know I remember saying at the time I mean that's
+clearly not a sustainable business model for them because if it works all the changes you're
+going to do it um and now there's this very active debate where let's say one team
+believes that the NFT project creators and artists are being hopelessly naive in expecting that
+this type of royalty amounts could remain attached to the surface and the other side
+says well this is not the deal we signed up for I'm a photographer I sold you this NFT with these
+terms and you're just violating them and I mean some of the more extreme reactions and I'm okay
+you can sell it for no royalties but then change the metadata on a contract where the metadata
+is not frozen and then you would have that if they were this was we had a deal this was a contract
+we had a deal and and then kind of the third point of view which at least I think more intellectually
+honest than the first point of view as well other artists will come out compete to artists who
+want royalties by offering their work without royalties to me I think that's more intellectually
+honest than people who want to change the rules of the game and then you know there's other
+people sometimes like well we should keep it for artists but you know big projects like you
+know they've made a lot of money they don't need them they'll sell t-shirts or access to the club
+or other drops and on the fifth hand then I'm going to stop or if you'll say well you're just
+going to incent project creators to dilute your initial NFTs because if they're not can't make any
+money off the secondary market they'll just do more drops which might be fine for them but might
+not be so great for you so be careful what you wish for and we're in this I think calm before
+the storm to be honest state right what's your view on this A how do you see it playing out B
+does it is it different for a pfp community for an artist and I guess where do you think we'll
+settle out in one two five years on the stop so I'll start with the caveat that I'm not so much
+of a futurist as has yourself in in thinking about the long term arc of you know playing out how
+some of these things might resolve over the course of say five years I will say from the very
+beginning it's been interesting how of all the different people coming into this space from
+different industries let's say some of the most engaged very early on people who came from
+the music industry which is an industry where people feel where creators have gotten often feel
+like the creators have gotten to rock you my partner Gio series partner here at Yuga that's
+certainly what interested him about the NFT space is here it is a world where creators can have
+a smart contract on day one on their terms and not wait until you know whereas a lot of musicians
+they don't they don't have a great contract day one they work their way up to it with help
+the managers and agents and all this stuff over time and so that there's that power to the idea
+of creator royalties and how easy they were for a while there to set up across the space was
+really powerful so that said we've always known that creator royalties were something that you could
+get around you know the way it functions or those who don't know obviously is it's essentially a
+fee that's getting paid to you by the platform not inherent to the smart contract itself so like
+as if eBay or stock X decided to send a little bit of money to Nike every time somebody bought
+a pair of air Jordans on on their platform and for a long time it's been extremely useful I think
+in directing liquidity and value and creators promoting marketplaces as opposed to others
+I think the way that this is playing out currently is very interesting I think in part it is a
+reaction to marketplace fees being too high I think in part you know a lot of the trading that's
+happened in the past years happened by people that knew perfectly well they could have gotten
+around the royalties should they have chosen to it's things like NFT trader have been around since
+basically since since foray minted as far as I know and yet we've seen a lot of people
+decide that they want to pay the royalty either the buyers want to make sure that that's
+incorporated or to sell it to you and I think there's a lot of power to that number one I think the
+idea where creators or artists may get out competed by others who don't seek a royalty is
+interesting I don't quite see it that way I think the idea of creator royalties has pushed a lot of
+creativity and ingenuity and like just frankly it's made the creative investment into the space
+that much more rewarding and so brought a lot of people into it if the royalties hadn't existed
+I don't think there's any way we would have seen the explosion that we've seen over the past year
+and a half with different people entering this space that said having a you know censorship
+censorship resistance immutable tokens that's important an extremely important aspect to entities
+and it's been kind of funny to see this playing out on both sides
+certain marketplaces coming out against royalties we're saying that they're not going to honor them
+but then also seemingly reacting quite aggressive when a digital artist releases a new smart
+contract a new NFT and smart contract explicitly prohibits set marketplace so I think there's
+going to be quite a bit of gamesmanship a bit of a chess game going on here for the next couple
+months we certainly have a lot of different ideas internally that we are kicking around about
+this issue and how best to preserve the creative energy that's been and champion artist rights
+and also do it in a way where you maintain the what an NFT really needs to be in the openness
+and interoperability and censorship resistance that is integral to what we're talking about here
+it would seem to me that in the boarding universe you do have leveraged I'm not saying
+to get any music but you have leveraged because you do so many off-chain events and utility and
+what have you and you wouldn't you could I had written a thread on royalties and actually in my
+mind how the board apes and the punks could address royalties is different right because let's say
+there were royalties on the punks I think most bunk holders wouldn't particularly
+feel they'd lose anything if they went around right but on a board apel there you could say
+look if you trade it on this zero royalty exchange maybe next year you can't come to ape fest or
+you can't get into the clubhouse for six months or you have to pay your royalty to get back into
+the clubhouse now no this might be annoying and not to branding and I'm not saying it's a good
+business idea but it is a form of leverage that a project that has off-chain activities has
+that a project that does not really have off-chain activities doesn't have has this ever been considered
+discussed thought about at the same time I think there's a because of so many things that you get
+does I think a lot of people have been happy to pay the royalty and I would much rather run my
+business with a carrot than a stick and so I don't love the idea you know of course we we talk
+about all kinds of things but I always want to think about how can I make this the most engaging
+fun strange cool club in the world and have people be so excited to be a part of it then
+if you're coming at it from a defensive position I feel like that's an inherently weak one
+when it comes to a permissionless space and that's where you can frankly I think get out-computed
+so it's just about trying to find the right how can you create an optimistic incentive structure
+rather than a same negative one or a defensive one okay so you're landing basically in the
+people ex copy category of saying you know we're not going to harass our collectors obviously
+it's a social contract and you kind of want to build a collector base that wants to pay the
+royalties that it's a social thing not a technical thing right in the end and it's a positive
+they're getting enough value out of this that they're not going to try and work around it
+because they see value in the community something like that something like that I mean I
+honestly don't speak for you know all of you go and we have a lot of different ideas that you
+know everyone's kicking around and enjoying and and and I think the other important thing here is
+this is a very new space there's a lot of discussions around this whole thing going on
+on crypto Twitter right now and it'll be interesting to see how it plays out but but that's
+absolutely correct I would put myself more in the the people ex-copy camp of how do we just you
+know worry about your community and how you can best service them and your collectors and a lot
+of this other part will fall away without you needing to be draconian in in anyway
+okay let's talk about cc zero for a second in a few days I'm going to talk to four one five six
+founded the nouns pfp project where that project is in the public delayed it's cc creative
+common zero it has no royalties the money goes to some somewhat fuzzy in my mind form of treasury
+when it goes to treasury and in a way it's a very extreme version of what you had said previously
+so previously to put some words in rather than 30,000 holders of 40,000 and they have
+they're the core community but someone else who might not own a
+or a PFP might buy a board a t-shirt right there's a broader ecosystem around it and
+I would say the nouns are this very explicitly and more extreme right there's only one a day
+you know even though I don't know 30,000 PFPs are not a lot I don't think they're a lot because
+I want to onboard a hundred million people so not a lot the nouns are even more extreme it's
+going to take 82 years for there to be 30,000 nouns but then what the nouns say is not only
+a nouns holder can do whatever they want with their pfp identity so can anyone else and effectively
+what they're saying and I think what 4156 will say later in the week is we're going to start off
+slow because it's a slow model but eventually we're going to just pick up pure network effects
+that someone in you know you'll go might be doing 50 things or 30 things but they'll have to do
+them whereas when we've gone completely permissionless there'll be someone in Japan doing
+something we'll even know about it then someone in Italy doing something and if the flywheel
+picks up and the nouns glasses become the equivalent of the 40 logo that the now the an open
+source brand is to be very successful and I think I mean putting words in his mouth so we'll
+find out later in the week is what he says but it's how to understand from a stutter feed
+what are your views on this how do these two models compete coexist is one better than
+the other does we not know yet um I think they certainly coexist I think um both of these things
+are are very new um and I think it's just it's a different model whereas we're of the opinion
+or have structured our club in this way where set another way only a board eight the the
+rights to use a board eight and and put it on a t-shirt is not in itself inherently extremely
+valuable but what is valuable is if the club becomes a space more and more as it frankly has been
+for a while where a lot of people are spending an enormous amount of effort in order to develop
+the IP of their avatar of their creator and where CC0 and and this commercial rights debate I think
+shakes out is the idea of we're wondering who is more incentivized to build and build in a like
+long term thought the long term thoughtful way um somebody who owns something and um has that
+true ownership to the IP and so perhaps feels more comfortable or engaged to build on top of it
+or this very open source model that nouns is pursuing um and I don't know that there that you
+know there needs to be a winner and a loser I think they're inherently very different I think
+number one the amount of storytelling and engagement and things that we're doing on the
+Hugo level for our brands particularly BAYC and other side is very different than what 4156 would
+do or frankly want to do with nouns like they're they're trying to create something very different
+um at the same time the kinds of value accrual to people who create on top of either platform I
+think are going to be very different and how that shakes out is kind of remains to be seen
+uh a bit as as the model that they've taken like like he like I think he would agree just
+it's going to take longer to see whether or not it's truly um working as intended or not
+and I think but he's a very thoughtful person and is excited I think about the experimentation
+and the testing uh I think I was saying that they're planning on deleting their discord
+I saw that yeah that's um I don't I don't think we we'd ever be able to do that
+yeah is it is it fair to say you can go on record saying you're not planning to delete
+the board apes discord that's correct you know not until we've got a better replacement
+okay I think that's one more question about board apes and if you have time to extend I want to
+talk about punks another side a little bit too do you have a little bit of time to extend
+share yeah okay so I think largely due to board apes prominence in this space you also attract a lot
+of backlash in different time now mention two things that one that really surprised me one that
+doesn't surprise me as much a few weeks ago I was having an extensive back and forth with
+mirage of coin center and I was like you know about how they could promote NFTs you know
+you just want you just wanted to promote ENS I mean I'm putting words in his mouth but kind of
+and it's not that the ENS is very nice and very useful you should promote it but I mean
+PFPs are like the absolute most obvious product market fit for the metaverse where the metaverse
+is going to be I mean you're going to need a profile picture you'll need an avatar and there was a
+very negative reaction from him he's like no no no no no board apes done a bunch of
+a lot of damage to our lobbying because I'm trying to get people to take crypto seriously
+and all I'm getting is static about overpriced monkey jpegs right like him
+yeah in the space the sounds weird outside of the space I mean mirage is not outside of the space
+right he's a deep crypto person he's and he was like oh gosh this hurts my lobbying yeah
+for this one I said well it doesn't seem like it'd be that hard to explain that PFPs are
+thing and they'll be expensive ones and inexpensive ones and factors hundreds of thousands
+of inexpensive ones so like why is this a big deal but it does seem to bother people and I've
+noticed them the last couple of years that I've been active one of the things although I can't
+believe people paid this much for a cartoon this is a joke to scam it's a bubble there's that
+so there's that kind of bucket and then there's I think a much narrower bucket that
+there are folks who say you know does the collection reinforce stereotypes about different
+ethnicities and is that a problem what's your view on these two topics so in regards to your
+second question there I think I was clear earlier on when I said
+we really see board ape as an homage to a lot of the personalities that we engage with on
+crypto Twitter or follow it on crypto Twitter years ago and it is such an affectionate term
+that people have used for themselves as traders you know across crypto but also just across like
+you know Web2 stock trading where you have AMC now coming out with a stock dividend ticker
+and all that and so really that that's what this is about and we have always sought to create a club
+that is extremely inclusive we were early on thought of almost more like we were getting deemed
+on for being the care bears with the space with how like friendly our discord was as opposed to
+say the punks discord early on and that's really important to us there are there's a playfulness
+and an irreverence and some old school punk and hip-hop traits and other things like that but it
+is all in the spirit of just fun and inclusivity and we stand against hate in every way
+as part of your other question yeah it's been interesting to see how certain
+crypto people have not taken teneties whereas it feels like you said to be the ultimate product
+market fit for the open metaverse and part of it I think I think Neurosh has also been a
+worker too where he thinks the whole idea of like the metaverse is almost scamming itself
+which is a bit nuts considering how much time we all spend in front of screens I think that's what
+like you know I think biology put out a tweet yesterday about this that I thought was very apt
+where you know what is Twitter if not a version of the metaverse people have digital
+avatars and they're expressing themselves in the somewhat open system and that we are all spending
+so much time in COVID-19 accelerated this in front of screens and so the idea of the metaverse
+is just that we should be spending those that time in inherently open air-operable spaces the idea
+is that a lot of the web-to- virtual experiences that we've had are maybe more akin to
+the early internet than the current internet let's say there may be more akin to AOL where
+everything exists inside of a box and it's trying to keep something that wants to be open closed
+rather than something that's more open and if we can properly incentivize
+monetization structures so that their community creators are being able to
+derive value from what they're creating on a platform on a you know a blockchain platform
+that's really special and that's going to change a lot of things people are already spending
+billions of billions dollars a year on all kinds of different skins they're they're just not
+NFTs League of Legends one of the most successful game companies world they spend you know people buy
+like two billion dollars of you know jungle rat skins it's team of skins that like sell more than
+anything else on that platform and so if you think of a BOYC as just the nascent expression
+of authenticity and scarcity and interoperability on the blockchain then I think you become a lot
+closer to understanding how this can restructure certain industries so yeah it is a little heartbreaking
+to hear from certain people who don't get it and whose job is to educate others and are so
+incredibly flippant about the idea of getting an education or engaging more directly with creators
+in crypto. Look I miss both of those making a lot of sense and on this point I couldn't agree
+to do more I mean it was always my mind with a bunch of people who all day looking at a screen
+with a bunch of avatars it just happens to me called Twitter and a lot of other people in centralized
+games with characters and those same people are like oh I'm a PFP is on better versus practically
+a scam you know like wait this is the better version of what you're doing right this is the actually
+crypto native version of what you're doing this is literally the actual most likely use of
+non custodial crypto for most people on the planet you should lean into it but we're not there
+I believe my experience has been understanding bitcoin is kind of a zero to one experience
+a theory of maybe like zero to one or half to one I think people a lot of people in bitcoin could
+not get there with a theory but a lot of people did I do think NFT is our closer to a
+not being in crypto and understanding bitcoin type experience than almost anything else
+post bitcoin I think most people who understood bitcoin could get their heads around Ethereum even
+if they didn't like it or Solano or Uniswap or what have you but NFTs some of my
+oldest crypto friends and colleagues who are in absolute OGs and crypto own 50 different tokens
+understand everything I spent six to twelve months harassing about NFTs before I could get
+them to sort of mentally accept the model like what this is exact same thing as bitcoin it's
+exactly the same concept it's just the same concept for non-frontal options so I'm with you it's
+it's strange okay we mentioned games and you mentioned games at the beginning and you know
+multiplayer universes let's talk about other side why don't you tell us what other side is I
+think a lot of the audience will know but maybe put a couple senses that are getting for those
+who don't and where are we where are we going what are we doing what are the goals on other side
+absolutely so other side is a metaverse platform in development
+Yuga is obviously involved but so is improbable an incredible tech company based out of the UK
+we had an initial customer experience about a two months ago where we had 4500 concurrent users
+in one space in one virtual space it was incredible we called it first trip
+and the thesis here is really around the idea that the metaverse should be something that exists
+on the blockchain that it should be open and interoperable and allow people to come
+as they are as they want to be the most special video game trailer
+I ever saw as a kid was the super smash brothers trailer where you had like
+link Zelda but also Super Mario and Bowser and Kirby and so many other people all mashed together
+in this world and that's close to our vision of what the metaverse can be except not just
+enabled by the fact of Yuga owning certain IP in the same way Nintendo does but in the fact that
+in a world where people are creating projects that are entirely public domain or CCO or following
+commercial rights models like the ones that we've extended to all of our projects at Yuga
+then any game can be kind of like super smash brothers and it was really important to us too though
+where we don't want this to be like any other web2 game it's just on a blockchain
+hey it's just a NMO but the NFT you know every asset is NFT it needs to embrace certain aspects
+of the metaverse that haven't been done before really and that's where having that extreme
+density of users that's like what we showed on the first trip is is very integral to how we want
+people and experience the metaverse we want there to be more interaction there's a lot of big
+companies out there that have visions for the metaverse obviously Facebook rebranded to meta
+I don't want to speak for anyone else but I think the vision there is very
+hardware driven you know if there's a lot about VR and perhaps in the future AR that people
+are thinking about in the metaverse whereas our vision of the metaverse is a space where
+just the social engagement and where we want to spend our time in digital spaces is what's
+the most important and as somebody who grew up playing MMORPGs like every quest or Star Wars
+Galaxy's or World of Warcraft there are games with absolutely atrocious graphics and frankly not
+much better UI or UX and you know we were running on 56k modems where I have I had some of the most
+important relationships in my life form on those platforms I have friends that met their significant
+others and spouses playing MMORPGs and I think when we have metaverse spaces where
+that embrace a lot of the openness that we actually had more and more back then than we do nowadays
+with you know how much more closed source certain games are that a lot of that potentiality
+and that experience will open up and that that it's inherently better to build a metaverse
+on the blockchain than it is not to and that's where feels like you can compete with absolute
+giants where we are using a high-mind of of UDC creators to build on top of a platform
+in a way where they will be able to retain the most value and so we will attract the best users
+and other side is our bet on that where and in the same way where Warcraft 3 was a great game
+super fun game what also had known all stars which spawned a whole industry on its own that was
+like just creator made other side needs to be a fun game in its own right but also a platform for
+creators to build on top of the idea of being in the same way that Warcraft 3 was you have to show
+people the potential introduce them to a story engage them give them you know some emotional
+an emotional stake in what's being built but also give them an incredible tool set to express
+themselves on top of the platform and so with other side we fully intend on doing both of those
+things and unlike a lot of different games where you get a trailer and then four years later
+you get the game it's something that needs to be done in an iterative way where people can join
+experience things along the way and give feedback and properly influence the creation of
+the platform itself through different SDKs and toolkits and that sort of thing and so that's
+that's the vision for other side so when do we get to go in I think I did that first
+event convention but when when will we get you you've walked yourself into that question it's not
+four years away when is it the persistent world will be coming in 2023 there will be multiple
+experiences many multiple experiences along the way but the the initial kind of persistent world
+where people will have you know full access to the initial customer experience will be in 2023
+so the kind of true date failure point of most things that start off with the
+logic that they're meta versus rather than games is user persistence right you see it on
+the central end of the year there's a silly argument you want do they have 30 users they are
+4,000 users they but whatever number it is it's very low at 4,000 it's not a big number right so
+even if the central ends right about their numbers they're low and then there was the Wall Street
+Journal article a couple days ago about meta where the biggest social media company in the world
+and there you know people came they checked it out they didn't go back right and the concurrency
+of them problems very impressive but the general failure mode of these types of things as you
+come you look at it's oh wow it's really beautiful I see this with a 65 tonight museum district
+people come and say oh wow look there's a massive museum and he did a great job displaying
+generative NFTs and then okay I mean I don't know people are busy with all their lives and
+we're not gonna come back and looking at every day for the same reason you don't go to the
+mob every day right people have a life to live conceptually I understand that he is people
+have their land and so and the tool kits without developed things and you're hoping the community
+develops interesting things and I'll throw one more out there Tim Cook I think again today was
+saying look it's not going to be this type of stuff it's going to be augmented reality of the
+type of like you know you're gonna be living in your day-to-day life you'll have this cool apple
+glasses I guess next year and I think I'm reading into it you know you'll have app-like
+functionality you know directions or recipes or I know dinosaurs running around your house or
+something something along those lines what is going to bring people back into these because
+I notice like always checking my own usage right and I definitely spend more time on Twitter
+and in discord than it all means it's not even closer now and until that changes it means
+the model's not right because for all of this we're going to build decentralized open
+metaphors well I'm on two centralized platforms most of the day and most of the time that I'm not
+on those centralized platforms I'm an outlooking Gmail and Microsoft offers and Windows which are
+also centralized platforms so how do we move real screen time off the centralized platforms into
+these blockchain-based platforms yeah no it's a great point and obviously one that we think
+about all the time as well number one I think it needs to be easy to jump in and jump out you need
+to be able to click a button somebody links to you on Twitter and whether you're on your computer
+or your own phone you should be able to get inside and in one click that's something that is
+being built into how we that's how other side will function at the same time it's important
+also think about like the way that how do successful games even the ones like you know you or I
+would have grown up playing like really dense virtual worlds with stories and fun what drove us
+to spend tons of time there for me it was a few things number one there was a story there was
+a game a core game loop that was engaging and it forced collaboration if you think about I played
+a ton of legal legends in my life I have never made a friend play that game I blocked tons of
+people that say talk to things and are trolls on thing but I've never made a friend on the
+web I have played legal legends friends but their friends I made playing a request or will work
+after something else because in those traditional and the most there is a reward very tangible reward
+frankly for interacting with other people the only reason you make a friend in the metaverse is
+because you're getting your aspect like if you need to slay the dragon and you can do it on your
+own and it's like step off dude this is my loop but if you have that kind of force collaboration
+that incentivizing it then that opens up the space for some of those relationships to form
+but do you actually spend all your time in a metaverse actually going off and slaying dragons and
+and playing these game loops if it's anything like the games that you know I'm talking about
+no you actually spend a lot of time in guild chat or in the marketplace or the bizarre looking for
+items or setting up shop or doing kind of more relaxed things and so I think it's a lot about
+you know these are things that we're constantly thinking about is you need to
+reward people for collaborating make it so they have to talk to people and engage with people
+and have fun doing that and then you also need to create the spaces where it's can be
+the living room couch or the internet where you can just hang out with people in the same way
+that a lot of people are using Twitter and discord to this day and so if you're not building with
+those two things at the forefront then yeah I think it's your destined to fail because even those
+two things are very difficult to pull off yeah I think it's going to be an incredible decade of
+experimentation I don't think anyone's nailed it yet I mean there's very successful games that
+have effectively become metaverses I don't think anyone has started with the word metaverse
+and gotten an experience really right because if you did it would be a twitter sized
+company a Facebook size company right like you would spend all our time all right let's wrap
+up with the punks in first quarter last year you debut the IP of the punks and the Meebits but
+I think people care more about the punks and the larval abs punks and Mibits and beyond this being
+like utterly shocking 21 who was there a year less than a year after the mid right I mean if you
+could have taken odds nine months earlier one of the odds that not only the board aches the
+punks but then by the punks and I think people would have given you a million to what odds right
+like it's the most improbable thing that happened in the last 24 months and it was very interesting
+because the even though the punks had this image of decentralization there actual license terms
+as far as anyone could tell or fairly centralized and I say as far as anyone could tell because the
+larval abs founders are absolute geniuses but didn't communicate very much so a lot of people
+just guessing what they were thinking and this is what I think got 4156 subset with them at the end
+that and he sold his his ape and so you move the punks to the commercial rights model which
+objectively is a more decentralized model than that before there's no question about that it's
+objectively more decentralized and I thought that was very good but also a lot of OG punks holders
+didn't feel nice they felt disillusioned they and if you dug out it what was the thing that was
+bothering them it felt like a corporate thing that happened you say well but you know it's just
+as corporate before as it is now it was owned by one company outside by a different company and
+this company is more open and I think I'm putting words in their mouth but I think this is actually
+how it is there was a state of suspended disbelief before but like because the founders were very
+much absent and I think in a way mostly people could just project onto the punks you know it's
+an OG and it's an OG message and it's a message of crypto and decentralization and then the
+crystallization of well that he was owned by a company now it's a bit of a company I think to
+some some of the OG punks I don't think they loved it I mean if you know those like a mixed
+reaction I was on the more positive of the group but I think some of the more OGs were less
+but there's a lot of people in weight and c-mode I think like seeing like okay what will what will
+happen now with all that how do you view the punks how do you view the punks in your broader
+extended universe how is there your stewardship how's their pathway might be different than
+the board apes what does this all mean how should how should the punks community think about
+the topic from your perspective yeah absolutely it's different it's completely different then
+crypto punks is very different from board API club and so are the communities and
+and the projects should be treated extremely differently because of that our
+vision of crypto punks has always been that they are like the Mona Lisa of NFTs the early cave
+paintings of NFTs they are these originals that should they be treated with respect and
+good stewardship will always flourish and that our job is to do just that that what's good for
+punks is good for apes and what's good for apes is good for punks that's why frankly we wanted to
+own them rather than someone else who might because we felt like we understood that you know if
+it something bad were to happen a punks it wouldn't be good for apes and the only reason
+we felt like we could acquire them that there was a path forward here was if we were going to as
+you say decentralize the IP with a full commercial license in the vein of what we did for BUIC
+that felt to us just to be objectively better for punk holders and something that we felt like
+was being asked for for a while we're at least clarity around it and so we have taken a slow
+approach here and hope to continue to do so in a way that is in active communication with
+punk holders I know Noah meets with punks all the time and we want to act in a way that aligns
+with the majority vision where we can do things like restore the crypto punks app marketplace where
+there are things that aren't quite working as intended or as they should and they can be spruced
+up and fixed a bit of retouching to the monolith as it were but you know at most a new frame and not
+a drastic change of that so that's kind of the broad vision for how we how we view punks
+like that makes sense it makes sense to me I think on the whole the punks don't need very much their
+social construction will happen naturally and like most I spoke to Noah and I was trying to think
+of ideas and like I think a lot of ideas and I'm like yeah most of ideas are actually bad like I'm
+not going to say anything like like most ideas probably are negative but the median idea one
+could think of to do with the punks probably is not helpful to the punks right and so it takes a
+very I think delicate touch to see how that can be distorted without breaking because the punks I
+think are I think what it is because there's so low res people can project whatever they want on
+them and to the degree they become more physically insatiated they think they take more physical form
+it might break the take my image of what six five to nine means right whereas I have a board
+I have multiple board eights of mutants and I have those they're much more detailed so my
+image and your image of what my board eight look like are probably pretty close because they're
+much more detailed whereas like what I envision when I look at six five to nine and when you're
+envision when I look at those and what no envision is it might be totally different and most of the
+people have made for me all these like 3d versions of my punks and I've almost without
+exception came over what I hate them I hate them look at them I'm like ah that's not how and I
+can't tell you what I envision it but it's not bad what action vision is this low res
+you know that it's more of a blank slate okay well I have gone way over time and you have
+very generous with your time I'm going to give you the floor for one more topic what question should
+I have asked I didn't what should we have covered that we didn't what's the closing words
+you'd like to leave for the group question that you should have asked but you didn't I don't know
+I wish we got to talk more about you know memes and shitposts or something like that
+some of these like that Twitter briarality that that's actually so core to crypto but you know
+for another day what we'll see is the memes production another day but you do that in the
+spring semester sounds great okay well thank you so thank you so much this was great and I think
+the students will get a ton out of this thank you so much for having me thanks for hosting
+thank you
