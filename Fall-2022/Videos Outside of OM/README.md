@@ -16,6 +16,11 @@ The following list contains the endpoints (links) to the live sessions recording
 - **Week 4: Art NFTs (CryptoArt, NFTs)**
     - **Week 4.1** - https://arweave.net/gjLh77YwO72JfYE8s3g-cEcuiID8XDW1idZkAkudRWw
 
+- **Week 6: Art NFTs (CryptoArt, NFTs)**
+    - **Week 6.1** - https://arweave.net/6VgQV-AsRq8eM9YuvuHngoRn9ndM5xJFYtU1-XV9xz8
+
+    - **Week 6.2** - https://arweave.net/YRW52746OegQ06vTeIhsqHz0vPeNRYXKORM-awjw6mM
+
 **TIP:** Have patience for the loading :D
 
 **NOTE:** the video files are stored in a peer-to-peer visual content database. For more : https://ardrive.io/ 
