@@ -16,6 +16,7 @@ The following list contains the endpoints (links) to the live sessions recording
 - **Week 4: Art NFTs (CryptoArt, 1 of 1s)**
     - **Week 4.1** - https://arweave.net/gjLh77YwO72JfYE8s3g-cEcuiID8XDW1idZkAkudRWw
 
+    - **Week 4.2** - https://arweave.net/vh8GsqSMIw3tXxhER5HPrrBWMnREbv80SCKQlv6377E
 
 - **Week 5: Art NFTs (Generative Art)**
     - **Week 5.1** - https://arweave.net/Byn5RavtDg2uEA8bYR5HPq-pi5lg3OCvI1RN9R3EFs4
@@ -26,7 +27,7 @@ The following list contains the endpoints (links) to the live sessions recording
     - **Week 6.1** - https://arweave.net/6VgQV-AsRq8eM9YuvuHngoRn9ndM5xJFYtU1-XV9xz8
 
     - **Week 6.2** - https://arweave.net/YRW52746OegQ06vTeIhsqHz0vPeNRYXKORM-awjw6mM
-    - **Week 4.2** - https://arweave.net/vh8GsqSMIw3tXxhER5HPrrBWMnREbv80SCKQlv6377E
+    
     
 
 **TIP:** Have patience for the loading :D
