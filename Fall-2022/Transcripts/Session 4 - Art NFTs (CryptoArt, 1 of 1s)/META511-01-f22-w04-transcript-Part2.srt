@@ -1,0 +1,3456 @@
+1
+00:00:00,000 --> 00:00:22,320
+Okay everyone, welcome once again.
+
+2
+00:00:22,320 --> 00:00:25,920
+Today we have a very special guest, as they say.
+
+3
+00:00:25,920 --> 00:00:33,000
+I'm very excited that we have Beeple here with us, possibly the most famous NFT artist.
+
+4
+00:00:33,000 --> 00:00:38,640
+And so it's an honor and a pleasure that he's joining us today on the course.
+
+5
+00:00:38,640 --> 00:00:42,040
+We will cover several topics today.
+
+6
+00:00:42,040 --> 00:00:48,560
+We will start with a little bit about his background, his own journey into the NFT space.
+
+7
+00:00:48,560 --> 00:00:55,560
+And then from there, we'll talk a little bit about the present and the future of NFT art,
+
+8
+00:00:55,560 --> 00:00:59,560
+of crypto art, of art in general.
+
+9
+00:00:59,560 --> 00:01:04,080
+And think a little bit about how all these topics tie together.
+
+10
+00:01:04,080 --> 00:01:11,720
+So please help me welcome Beeple here and we'll get started with the session.
+
+11
+00:01:11,720 --> 00:01:15,640
+We will start with the very basics.
+
+12
+00:01:15,640 --> 00:01:22,520
+If you can just walk us through, obviously you were producing art and sharing art online
+
+13
+00:01:22,520 --> 00:01:27,760
+before NFTs and before NFTs became popular.
+
+14
+00:01:27,760 --> 00:01:28,760
+How did it start?
+
+15
+00:01:28,760 --> 00:01:30,280
+Why were you doing it?
+
+16
+00:01:30,280 --> 00:01:35,320
+What was the background and then how did this lead you into the NFT space?
+
+17
+00:01:35,320 --> 00:01:37,720
+Sure, so long story short.
+
+18
+00:01:37,720 --> 00:01:38,720
+And thank you for having me.
+
+19
+00:01:38,720 --> 00:01:45,080
+This is definitely super cool to be part of this very new sort of like way of kind of
+
+20
+00:01:45,080 --> 00:01:48,320
+educating people.
+
+21
+00:01:48,320 --> 00:01:51,320
+But yeah, I started 20 years ago.
+
+22
+00:01:51,320 --> 00:01:56,800
+I went to school for computer science and sort of halfway through kind of realized I
+
+23
+00:01:56,800 --> 00:02:01,120
+was spending all my time making weird digital art.
+
+24
+00:02:01,120 --> 00:02:06,480
+This is 1999, so very kind of like early internet.
+
+25
+00:02:06,480 --> 00:02:12,160
+And so I just kind of slog through the rest of the degree and kind of got a job doing
+
+26
+00:02:12,160 --> 00:02:17,760
+web design and really put all my time into making my own art, making sort of like art
+
+27
+00:02:17,760 --> 00:02:21,400
+under the name people and sort of like growing a following.
+
+28
+00:02:21,400 --> 00:02:28,800
+And then in 2007 I started the every days and kind of that really sort of kick started
+
+29
+00:02:28,800 --> 00:02:32,160
+sort of growing a following on social media.
+
+30
+00:02:32,160 --> 00:02:39,160
+And from the very beginning, I kind of realized that social media was a way of kind of getting
+
+31
+00:02:39,160 --> 00:02:41,200
+around the whole system.
+
+32
+00:02:41,200 --> 00:02:45,600
+It was kind of a way of getting around the muse having to go through museums, having
+
+33
+00:02:45,600 --> 00:02:47,560
+to go through blah, blah, blah.
+
+34
+00:02:47,560 --> 00:02:52,960
+And that kind of started with submitting my work to film festivals.
+
+35
+00:02:52,960 --> 00:02:57,200
+And I would submit my work and I would pay them money.
+
+36
+00:02:57,200 --> 00:03:02,680
+And then I would pay them to like judge my work and sort of the other things that they
+
+37
+00:03:02,680 --> 00:03:07,280
+were putting in the film festival I thought were total crap and told like why do we even
+
+38
+00:03:07,280 --> 00:03:11,720
+care what their like opinion is because I don't everything they're out or choosing
+
+39
+00:03:11,720 --> 00:03:15,800
+I think is total garbage.
+
+40
+00:03:15,800 --> 00:03:22,280
+And so I realized the internet and sort of social media presented another way around that
+
+41
+00:03:22,280 --> 00:03:28,520
+where I could sort of just go directly to people and like there it is.
+
+42
+00:03:28,520 --> 00:03:31,600
+There's no other sort of like intermediary there.
+
+43
+00:03:31,600 --> 00:03:34,880
+And so for a long time, you know, that's what I did.
+
+44
+00:03:34,880 --> 00:03:39,920
+And sort of over that time, I'm asked more and more followers and through more short films
+
+45
+00:03:39,920 --> 00:03:46,720
+and sort of the VJ clips which are these short sort of like concert visual abstract clips
+
+46
+00:03:46,720 --> 00:03:50,720
+that I gave under Creative Commons starting in 2010.
+
+47
+00:03:50,720 --> 00:03:57,000
+Those became very popular until finally sort of, you know, two years ago, the NFT thing
+
+48
+00:03:57,000 --> 00:04:01,760
+sort of finally finally got to me.
+
+49
+00:04:01,760 --> 00:04:07,720
+Oh, my fans sort of like coming out to me and being like you need to check this out.
+
+50
+00:04:07,720 --> 00:04:13,080
+They finally got through to me and yeah, here we are.
+
+51
+00:04:13,080 --> 00:04:16,960
+So for this, we don't know what were the other days.
+
+52
+00:04:16,960 --> 00:04:22,520
+Sure, so that every days are a picture that I did that I've done every day from start
+
+53
+00:04:22,520 --> 00:04:33,960
+to finish since 2007, May 1st, 2007.
+
+54
+00:04:33,960 --> 00:04:39,320
+There was a picture sold last year which was sort of a compilation of the first 5,000 of
+
+55
+00:04:39,320 --> 00:04:44,600
+those was sold at Christie's for a couple bucks.
+
+56
+00:04:44,600 --> 00:04:54,720
+And that kind of kick started a lot of this sort of craziness that we have now.
+
+57
+00:04:54,720 --> 00:05:03,200
+And those pictures are done every day from start to finish using mostly a 3D program
+
+58
+00:05:03,200 --> 00:05:09,960
+called Cinema 4D which I can sort of arrange objects and sort of, I mean, basically do
+
+59
+00:05:09,960 --> 00:05:14,920
+anything in terms of setting up a scene and then sort of taking a sort of like still image
+
+60
+00:05:14,920 --> 00:05:23,280
+of that scene and then sort of doing some kind of like paint over and stuff like that.
+
+61
+00:05:23,280 --> 00:05:28,600
+But this whole sort of like process is done start to finish each day.
+
+62
+00:05:28,600 --> 00:05:33,000
+And so yeah, no, here we are 15 years later.
+
+63
+00:05:33,000 --> 00:05:38,560
+Let me ask about that before we get to the NFT part and the option.
+
+64
+00:05:38,560 --> 00:05:44,240
+That seems extremely challenging to come up with a new piece every single day.
+
+65
+00:05:44,240 --> 00:05:47,480
+I mean, you tell us more about how that works?
+
+66
+00:05:47,480 --> 00:05:51,920
+Yeah, so it is, it is definitely a challenge.
+
+67
+00:05:51,920 --> 00:05:57,840
+But I think it's one of those things where I realize very early on that when you have
+
+68
+00:05:57,840 --> 00:06:06,720
+a deadline each day, it forces ideas out and it basically forces you to work more than
+
+69
+00:06:06,720 --> 00:06:07,720
+you would.
+
+70
+00:06:07,720 --> 00:06:13,120
+It's really the basic kind of like secret of the everyday is it just makes you work
+
+71
+00:06:13,120 --> 00:06:14,120
+more than you would.
+
+72
+00:06:14,120 --> 00:06:20,120
+When you've already put in 12 hours, 14 hours, whatever and it's like, I don't really want
+
+73
+00:06:20,120 --> 00:06:21,280
+to be on the computer again.
+
+74
+00:06:21,280 --> 00:06:29,720
+It's like, now I got to sit here for one or two more hours and fucking bang something
+
+75
+00:06:29,720 --> 00:06:30,720
+out.
+
+76
+00:06:30,720 --> 00:06:33,120
+And I know everybody's going to see this.
+
+77
+00:06:33,120 --> 00:06:42,680
+I have to post this online in public that also makes you sort of try much harder.
+
+78
+00:06:42,680 --> 00:06:47,760
+And so that's sort of the trick of the everyday is that and through these everyday is like,
+
+79
+00:06:47,760 --> 00:06:52,640
+you know, well before NFTs in the digital art community, every day is became very, very
+
+80
+00:06:52,640 --> 00:06:57,720
+popular and sort of to the point where there was a pushback of like people like, oh, you
+
+81
+00:06:57,720 --> 00:07:04,240
+doing every day, everybody's doing that like it became like, Matt, cool to do every day.
+
+82
+00:07:04,240 --> 00:07:09,840
+And so this is something that I think if you're somebody who wants to get better at sort of
+
+83
+00:07:09,840 --> 00:07:16,400
+art, I think it's a way to sort of attack the fear of the like blank page and it's something
+
+84
+00:07:16,400 --> 00:07:22,320
+you know, prior to the every day is in that I gave talks at sort of digital and art and
+
+85
+00:07:22,320 --> 00:07:27,600
+design conferences all over the world and kind of recommended to like younger artists
+
+86
+00:07:27,600 --> 00:07:34,040
+that this is a way to sort of just kind of level up faster in my opinion.
+
+87
+00:07:34,040 --> 00:07:38,680
+And I think, you know, if you're somebody who's wanting to put out more work or sort
+
+88
+00:07:38,680 --> 00:07:42,480
+of like grow a skill set, it's definitely something that I would, you know, kind of
+
+89
+00:07:42,480 --> 00:07:43,480
+put on my radar.
+
+90
+00:07:43,480 --> 00:07:50,320
+It's again, not no path is for everybody, but I think this is to me it's it's worked
+
+91
+00:07:50,320 --> 00:07:53,320
+pretty good.
+
+92
+00:07:53,320 --> 00:07:55,320
+It's worked.
+
+93
+00:07:55,320 --> 00:07:58,800
+I think that's fair.
+
+94
+00:07:58,800 --> 00:08:04,120
+Let's talk about the subject matter of the every day is because it is I think in some
+
+95
+00:08:04,120 --> 00:08:12,720
+circles controversial, it is I guess from my perspective, commentary on current events
+
+96
+00:08:12,720 --> 00:08:17,280
+and all the large or on the or on the internet or in the crypto space.
+
+97
+00:08:17,280 --> 00:08:26,960
+I think there's for sure an aspect there, but it is sometimes very epic, sometimes very
+
+98
+00:08:26,960 --> 00:08:31,160
+graphic, sometimes even sexually graphic.
+
+99
+00:08:31,160 --> 00:08:40,160
+Some people have I remember when every day sold there was some, I mean, to my opinion,
+
+100
+00:08:40,160 --> 00:08:45,560
+very funny New York Times article of like, well, this really is an art as if this doesn't
+
+101
+00:08:45,560 --> 00:08:50,280
+happen every single time there's a new art movement, but you think like after this happening,
+
+102
+00:08:50,280 --> 00:08:56,120
+the last 20 art movements that this I can't believe this was written in the New York Times
+
+103
+00:08:56,120 --> 00:08:59,920
+from their art critic or what have you.
+
+104
+00:08:59,920 --> 00:09:00,920
+Yeah.
+
+105
+00:09:00,920 --> 00:09:02,520
+What's your view on all this?
+
+106
+00:09:02,520 --> 00:09:09,240
+Well, I think it's what's what was tough for the sort of traditional art community was
+
+107
+00:09:09,240 --> 00:09:12,160
+they did not know about me.
+
+108
+00:09:12,160 --> 00:09:15,640
+That's the first thing that I think some that they had never heard of me.
+
+109
+00:09:15,640 --> 00:09:20,120
+I think the second thing that song is you could see that I already had millions of followers
+
+110
+00:09:20,120 --> 00:09:24,440
+and so millions of people did know about me, but they did not know about me.
+
+111
+00:09:24,440 --> 00:09:26,360
+I think that's done too.
+
+112
+00:09:26,360 --> 00:09:32,280
+And I think the third thing that makes it a bit harder with my work is aesthetically,
+
+113
+00:09:32,280 --> 00:09:40,400
+I'm trying to push the boundaries and what people have seen and show them images they've
+
+114
+00:09:40,400 --> 00:09:42,320
+never seen before.
+
+115
+00:09:42,320 --> 00:09:47,160
+And then it's funny because sometimes when I think I kind of hit on it, you see a lot
+
+116
+00:09:47,160 --> 00:09:51,200
+of people commenting, I can't unsee this.
+
+117
+00:09:51,200 --> 00:09:57,840
+And I think it's something that's almost like people are sort of kind of realizing it on
+
+118
+00:09:57,840 --> 00:10:02,960
+some level that this is something that is so like radical that they've never seen before
+
+119
+00:10:02,960 --> 00:10:09,160
+that it's like either you've seen it or you've not seen it type thing.
+
+120
+00:10:09,160 --> 00:10:13,800
+And I think that's what I'm really trying to like go towards with these images is truly
+
+121
+00:10:13,800 --> 00:10:19,160
+producing something that in my opinion is like the aesthetic of the internet itself.
+
+122
+00:10:19,160 --> 00:10:26,520
+The internet itself is very weird and it's very hard to like outweird the internet.
+
+123
+00:10:26,520 --> 00:10:32,920
+And that's why I find that to be like a challenge, but I think that to me speaks to the like
+
+124
+00:10:32,920 --> 00:10:39,400
+sort of like current times and sort of how things aesthetically are kind of like evolving
+
+125
+00:10:39,400 --> 00:10:47,680
+and sort of like meme culture and kind of how these things sort of like spread and sort
+
+126
+00:10:47,680 --> 00:10:53,680
+of like how these aesthetics kind of like form through these communities, which oftentimes
+
+127
+00:10:53,680 --> 00:11:00,760
+are very sort of like, again, last night I did this like really fun thing.
+
+128
+00:11:00,760 --> 00:11:07,280
+Like again, I did not come up with crypto dick but like that was like something a community
+
+129
+00:11:07,280 --> 00:11:08,600
+came up with.
+
+130
+00:11:08,600 --> 00:11:15,160
+But to me, I find that sort of like inspirational and sort of also kind of like each day, because
+
+131
+00:11:15,160 --> 00:11:20,760
+again, I'm doing the picture that day I can react to news that just came out, you know,
+
+132
+00:11:20,760 --> 00:11:22,440
+hours before that.
+
+133
+00:11:22,440 --> 00:11:27,680
+And I can react to it with these tools that are very, very powerful tools that only existed
+
+134
+00:11:27,680 --> 00:11:31,800
+in the last really kind of like 10 years, the way that I work, you could not have really
+
+135
+00:11:31,800 --> 00:11:34,960
+done this before 10 years ago.
+
+136
+00:11:34,960 --> 00:11:38,720
+And so that's really a new sort of like workflow and a new sort of thing that we've just not
+
+137
+00:11:38,720 --> 00:11:39,720
+seen.
+
+138
+00:11:39,720 --> 00:11:44,160
+These prior work, these are paintings that would have taken, you know, much, much longer
+
+139
+00:11:44,160 --> 00:11:48,760
+to do, especially at the sort of like detail level that you're able to kind of like achieve
+
+140
+00:11:48,760 --> 00:11:50,760
+now.
+
+141
+00:11:50,760 --> 00:11:55,360
+So I think in some ways it's almost like a political cartoonist that, you know, I'm
+
+142
+00:11:55,360 --> 00:12:00,240
+able to comment on the news of the day, except instead of just being kind of a very simple
+
+143
+00:12:00,240 --> 00:12:06,200
+sketch, it's these fully 3D rendered, you know, sort of like scenes.
+
+144
+00:12:06,200 --> 00:12:12,120
+But yeah, I think to me there's a lot of sort of like inspiration from sort of the outside
+
+145
+00:12:12,120 --> 00:12:13,880
+world and kind of news.
+
+146
+00:12:13,880 --> 00:12:21,880
+I have a lot of sort of like news feeds going here and that to me is an inspiration and
+
+147
+00:12:21,880 --> 00:12:27,560
+kind of the sort of culture of the internet as well.
+
+148
+00:12:27,560 --> 00:12:32,720
+So you know, contemporary art for at least 100 years, right, whether it was DeSomper
+
+149
+00:12:32,720 --> 00:12:36,280
+and Serrano or whatever, has done shocking things, right?
+
+150
+00:12:36,280 --> 00:12:41,040
+So the fact that they're shocked that the art community shock that you're doing shocking
+
+151
+00:12:41,040 --> 00:12:47,280
+things, is it, are we, because the first thing is that they had a note about you, that they
+
+152
+00:12:47,280 --> 00:12:56,560
+didn't, isn't that there's a gatekeeping aspect and the, you did not, and I think to some degree
+
+153
+00:12:56,560 --> 00:13:01,320
+that FT community in general, is not going through the traditional gatekeepers.
+
+154
+00:13:01,320 --> 00:13:07,240
+And that is what is causing some discontinuation among the, what that FT people call the TRAD
+
+155
+00:13:07,240 --> 00:13:08,240
+art community.
+
+156
+00:13:08,240 --> 00:13:12,080
+Yeah, I think there's definitely an apprehension there.
+
+157
+00:13:12,080 --> 00:13:19,200
+I think they're coming around quicker than I thought, to be honest.
+
+158
+00:13:19,200 --> 00:13:24,680
+But I think there is still some sort of like, I think it's going to take a second before
+
+159
+00:13:24,680 --> 00:13:31,040
+it's kind of like fully accepted and people sort of like fully kind of understand this
+
+160
+00:13:31,040 --> 00:13:32,120
+sort of movement.
+
+161
+00:13:32,120 --> 00:13:39,440
+And I think it is a movement that sort of is writing its own rules.
+
+162
+00:13:39,440 --> 00:13:42,920
+And I think you'll see traditional art kind of like come around.
+
+163
+00:13:42,920 --> 00:13:46,920
+And that's been something that I've been trying to do is sort of like, instead of just being
+
+164
+00:13:46,920 --> 00:13:50,120
+like kind of like, fuck you to these people, it's like, well, why don't we try to like
+
+165
+00:13:50,120 --> 00:13:51,280
+educate them?
+
+166
+00:13:51,280 --> 00:13:58,080
+Because there are a lot of very smart people who care deeply about art, truly in the traditional
+
+167
+00:13:58,080 --> 00:13:59,080
+art community.
+
+168
+00:13:59,080 --> 00:14:02,400
+This just, they just don't know, understand this stuff.
+
+169
+00:14:02,400 --> 00:14:05,800
+But like, there are a lot of people who are very receptive to it.
+
+170
+00:14:05,800 --> 00:14:11,040
+And I think it's one of those things where for it to become truly a part of like art
+
+171
+00:14:11,040 --> 00:14:18,720
+canon history, you know, it's sort of, I think educating people on this stuff will only kind
+
+172
+00:14:18,720 --> 00:14:25,080
+of, you know, sort of quicken it's sort of like cementing its place in art history.
+
+173
+00:14:25,080 --> 00:14:28,320
+And I think that's something that will add a lot of value.
+
+174
+00:14:28,320 --> 00:14:38,880
+And I think this is a truly special, a truly special community and sort of movement.
+
+175
+00:14:38,880 --> 00:14:44,240
+And so I think, you know, helping expose that and explain it to other sort of, you know,
+
+176
+00:14:44,240 --> 00:14:51,160
+people to me has a lot of value, obviously, you know, as this course is doing as well.
+
+177
+00:14:51,160 --> 00:14:59,120
+So here's a question, there are many art movements that were first controversial and
+
+178
+00:14:59,120 --> 00:15:03,640
+then made them way into the canon, whether it's pop artistry art or whatever.
+
+179
+00:15:03,640 --> 00:15:12,080
+But they did not fundamentally change the structure of, I would call the social construction
+
+180
+00:15:12,080 --> 00:15:17,080
+of art, right, which is this pathway, there's articles and there's dealers and there's museums
+
+181
+00:15:17,080 --> 00:15:23,480
+and galleries and there's a whole mechanism by which something becomes a stat, you know,
+
+182
+00:15:23,480 --> 00:15:29,280
+you start as an emerging radical non-conventional artist and 50 years later you're in the art
+
+183
+00:15:29,280 --> 00:15:33,120
+history book is like an obvious, oh well, it's very obvious that Andy Warhol was a good
+
+184
+00:15:33,120 --> 00:15:37,160
+artist, but it was not very obvious when he started that he was a good artist, right?
+
+185
+00:15:37,160 --> 00:15:43,200
+Like, is this just that that okay now, NFT art or crypto art gets put in the art history
+
+186
+00:15:43,200 --> 00:15:53,840
+book as, you know, movement number X or is this a structural change in how art is socially
+
+187
+00:15:53,840 --> 00:16:03,560
+constructed and the reason I ask this is there hasn't been an example in my mind of an industry
+
+188
+00:16:03,560 --> 00:16:10,560
+meeting the internet and the long term outcome is that the internet version of that industry
+
+189
+00:16:10,560 --> 00:16:15,360
+becomes subordinate to the offline version of that industry, right?
+
+190
+00:16:15,360 --> 00:16:24,280
+Like, it's not like text online, the goal of Facebook and Twitter and WordPress is somehow
+
+191
+00:16:24,280 --> 00:16:28,640
+to be subsumed under the New York Times and for the New York Times to say, oh, this is
+
+192
+00:16:28,640 --> 00:16:30,640
+very good, I approve of Facebook, right?
+
+193
+00:16:30,640 --> 00:16:32,920
+But surely not how it works.
+
+194
+00:16:32,920 --> 00:16:40,160
+It's not like the goal of YouTube, the end state of YouTube is that CBS circa 1995 will
+
+195
+00:16:40,160 --> 00:16:45,160
+now use YouTube for America's funniest home videos, right?
+
+196
+00:16:45,160 --> 00:16:46,160
+Yeah.
+
+197
+00:16:46,160 --> 00:16:50,360
+Yeah, not the happy hearing.
+
+198
+00:16:50,360 --> 00:16:51,360
+I know what you're saying.
+
+199
+00:16:51,360 --> 00:16:56,400
+I think very much this is like a structural change.
+
+200
+00:16:56,400 --> 00:17:02,520
+I think it's not just an aesthetic change because the sort of things you mentioned in the past
+
+201
+00:17:02,520 --> 00:17:09,880
+were they were mostly just really about aesthetics and sort of like they were some conceptually
+
+202
+00:17:09,880 --> 00:17:16,480
+about thinking about art differently but not as radically as this is because it sort of
+
+203
+00:17:16,480 --> 00:17:22,680
+presents not only a new set of aesthetics that it's sort of like, again, you know, you
+
+204
+00:17:22,680 --> 00:17:28,400
+could look at take any one of my pieces and it's not like anything you've seen in the
+
+205
+00:17:28,400 --> 00:17:29,720
+museum before.
+
+206
+00:17:29,720 --> 00:17:32,840
+It's aesthetically very different.
+
+207
+00:17:32,840 --> 00:17:38,360
+And so it's not only that and obviously, you know, much of crypto art is aesthetically
+
+208
+00:17:38,360 --> 00:17:42,640
+very, very different from, you know, things that have come before.
+
+209
+00:17:42,640 --> 00:17:51,240
+And so I think it's not only that, it also has this by way of this entire new system
+
+210
+00:17:51,240 --> 00:18:04,360
+of tokens and sort of social media and these new marketplaces and this level of sort of
+
+211
+00:18:04,360 --> 00:18:18,280
+like volume and this level of ability to create liquidity and sort of all different manner
+
+212
+00:18:18,280 --> 00:18:29,640
+of, you know, being able to now reach collectors and speak to them directly very quickly.
+
+213
+00:18:29,640 --> 00:18:35,800
+Doing all these sales be in public, I mean, there's a million different aspects of this
+
+214
+00:18:35,800 --> 00:18:43,600
+that I think fundamentally will change like pretty much all of art in a way or at least
+
+215
+00:18:43,600 --> 00:18:49,840
+affected in some way because there's no going back from this either.
+
+216
+00:18:49,840 --> 00:18:53,000
+There's no like kind of, oh, okay, well, that was fun.
+
+217
+00:18:53,000 --> 00:19:00,840
+Like it's sort of, it's out there and I think this, and we're just very much at the absolute
+
+218
+00:19:00,840 --> 00:19:02,920
+beginning of the possibilities here.
+
+219
+00:19:02,920 --> 00:19:12,400
+Like the possibilities are so, so endless in terms of the way this could kind of like
+
+220
+00:19:12,400 --> 00:19:16,600
+the way we could continue to sort of like evolve art through like this.
+
+221
+00:19:16,600 --> 00:19:23,840
+And so I think it will be seen as very much of like kind of, you know, potentially before
+
+222
+00:19:23,840 --> 00:19:33,520
+and after moment of sort of like art because I think it just changes so many different
+
+223
+00:19:33,520 --> 00:19:38,800
+things and sort of like dynamics that I think were already kind of there in a way.
+
+224
+00:19:38,800 --> 00:19:45,880
+It just made them sort of like evident because again, sort of like looking back for the last
+
+225
+00:19:45,880 --> 00:19:48,080
+10 years, it's like social media.
+
+226
+00:19:48,080 --> 00:19:51,120
+And like before that, it was like you wanted to view art.
+
+227
+00:19:51,120 --> 00:19:52,840
+It was very hard before the internet.
+
+228
+00:19:52,840 --> 00:19:58,200
+You had to go to a museum or sort of find a book or something, but now it's sort of anybody
+
+229
+00:19:58,200 --> 00:20:02,200
+can view any art from all over the world very, very fast.
+
+230
+00:20:02,200 --> 00:20:07,400
+And I think that is a big sort of like dynamic shift.
+
+231
+00:20:07,400 --> 00:20:14,000
+And I think this sort of moment kind of personifies, you know, that as well.
+
+232
+00:20:14,000 --> 00:20:20,080
+And so what does this, I agree with you by the way, and I think we're just at the very
+
+233
+00:20:20,080 --> 00:20:27,040
+beginning in some ways that, you know, there's an online art community that's not NFT based
+
+234
+00:20:27,040 --> 00:20:31,400
+and there's the NFT art community that's some pretty small, maybe it's a million people,
+
+235
+00:20:31,400 --> 00:20:32,400
+2 million people.
+
+236
+00:20:32,400 --> 00:20:36,480
+And here I'm going to ask an impossible question and I'll ask it anyway.
+
+237
+00:20:36,480 --> 00:20:43,840
+20 years from now, what does the world look like if these trends continue?
+
+238
+00:20:43,840 --> 00:20:54,360
+20 years from now, I think 20 years from now will be in sort of like what I consider
+
+239
+00:20:54,360 --> 00:21:03,920
+the real sort of like kind of, I think first sort of iteration that everybody will be part
+
+240
+00:21:03,920 --> 00:21:06,840
+of in terms of the metaverse with like AR.
+
+241
+00:21:06,840 --> 00:21:12,960
+And so I think it's, I think there will be a lot based on that.
+
+242
+00:21:12,960 --> 00:21:20,120
+And I think we'll have sort of fully kind of like fleshed out avatars and like weird
+
+243
+00:21:20,120 --> 00:21:23,920
+shit like that.
+
+244
+00:21:23,920 --> 00:21:30,000
+And I think art, there will be all sorts of like dynamic art objects that people have
+
+245
+00:21:30,000 --> 00:21:32,480
+like in their homes.
+
+246
+00:21:32,480 --> 00:21:39,240
+And I think the idea of owning objects, especially when you have a house that you could fill
+
+247
+00:21:39,240 --> 00:21:42,640
+with objects.
+
+248
+00:21:42,640 --> 00:21:51,840
+I think that will become very much like ingrained in people.
+
+249
+00:21:51,840 --> 00:21:58,520
+And it won't be a hurdle at all to have like these value on virtual objects.
+
+250
+00:21:58,520 --> 00:22:08,680
+And so I think it's one of these things where I think a lot of the hurdles that you see
+
+251
+00:22:08,680 --> 00:22:13,760
+people sort of like struggling with in terms of like the ideas of sort of like ownership
+
+252
+00:22:13,760 --> 00:22:18,480
+and things being more decentralized, I think those things will just be completely sort
+
+253
+00:22:18,480 --> 00:22:22,720
+of like ingrained in people as well.
+
+254
+00:22:22,720 --> 00:22:31,800
+So we will own decentralized NFTs will be in some augmented slash virtual reality, metaverse
+
+255
+00:22:31,800 --> 00:22:40,880
+internet, whatever you want to call it, and in that world, I am a lot of art.
+
+256
+00:22:40,880 --> 00:22:42,440
+I think we'll own a lot of art.
+
+257
+00:22:42,440 --> 00:22:48,320
+We'll also own a lot of like objects and stuff like we could own a bunch of digital lamps
+
+258
+00:22:48,320 --> 00:22:53,640
+where it's like, okay, here's the like lamp that creates a cool pattern on the wall or
+
+259
+00:22:53,640 --> 00:22:55,360
+like, you know, light things up.
+
+260
+00:22:55,360 --> 00:23:03,960
+I think there's a lot of different things that we'll own, you know, that really sort
+
+261
+00:23:03,960 --> 00:23:17,680
+of round out and sort of provide a lot of the experiences of our day to day life more
+
+262
+00:23:17,680 --> 00:23:19,880
+so now than now.
+
+263
+00:23:19,880 --> 00:23:25,760
+I think there's not that many virtual objects that we have now that you really interact
+
+264
+00:23:25,760 --> 00:23:32,440
+with on like a day to day hour to hour basis besides I mean, again, depending on your sort
+
+265
+00:23:32,440 --> 00:23:37,960
+of definition and virtual objects, you could also sort of say, you know, Twitter and stuff
+
+266
+00:23:37,960 --> 00:23:40,800
+like that is kind of, you know, virtual in some sense.
+
+267
+00:23:40,800 --> 00:23:49,000
+But I think just sort of 3D objects or sort of like objects that exist in a virtual space,
+
+268
+00:23:49,000 --> 00:23:53,920
+I think we'll spend more time interacting with them in the future and we'll just own
+
+269
+00:23:53,920 --> 00:23:55,880
+a bunch of them.
+
+270
+00:23:55,880 --> 00:24:03,200
+And in that world, some of the criticisms we hear now from the more traditional side of
+
+271
+00:24:03,200 --> 00:24:06,400
+the field like, well, who's going to do curation?
+
+272
+00:24:06,400 --> 00:24:09,400
+Who's going to check quality?
+
+273
+00:24:09,400 --> 00:24:15,200
+Why is there so much trading and volume and financialization?
+
+274
+00:24:15,200 --> 00:24:17,400
+Is that just how it's going to be realistically?
+
+275
+00:24:17,400 --> 00:24:22,600
+I think it probably will be.
+
+276
+00:24:22,600 --> 00:24:30,720
+I think that's where you see a lot of things headed and I don't see a change in that.
+
+277
+00:24:30,720 --> 00:24:40,280
+And even before, like if you look at more of the sort of like higher level concept of
+
+278
+00:24:40,280 --> 00:24:46,840
+what's happening, it's kind of a fractionalization of something.
+
+279
+00:24:46,840 --> 00:24:48,800
+A fractionalization of art.
+
+280
+00:24:48,800 --> 00:24:54,400
+But again, this was happening, you know, well before this in terms of sort of like Uber
+
+281
+00:24:54,400 --> 00:24:59,800
+and Airbnb where they were sort of fractionalizing ownership of a house, fractionalizing ownership
+
+282
+00:24:59,800 --> 00:25:01,640
+of a car in your time.
+
+283
+00:25:01,640 --> 00:25:06,440
+And so I think you're going to see more and more of this in the future.
+
+284
+00:25:06,440 --> 00:25:14,520
+And I think hopefully it will be done in a way that has some safe cards on it a bit
+
+285
+00:25:14,520 --> 00:25:17,320
+more maybe.
+
+286
+00:25:17,320 --> 00:25:27,480
+But I think the idea that sort of people are going to own things and kind of have a lot
+
+287
+00:25:27,480 --> 00:25:38,600
+more ownership over sort of their data, I think that is going to only be a more appealing
+
+288
+00:25:38,600 --> 00:25:40,640
+idea moving forward.
+
+289
+00:25:40,640 --> 00:25:44,960
+I don't see less people demanding that in the future.
+
+290
+00:25:44,960 --> 00:25:48,000
+Okay, let's go back.
+
+291
+00:25:48,000 --> 00:25:51,480
+I parked at the sale of every day.
+
+292
+00:25:51,480 --> 00:25:55,440
+It was $69 million.
+
+293
+00:25:55,440 --> 00:26:00,560
+I think it is still the highest enough to sell by a white margin.
+
+294
+00:26:00,560 --> 00:26:04,480
+If I'm not mistaken, one of the other pieces is probably the second highest.
+
+295
+00:26:04,480 --> 00:26:06,600
+I think it's not the maybe an alien.
+
+296
+00:26:06,600 --> 00:26:07,600
+Is that right?
+
+297
+00:26:07,600 --> 00:26:10,840
+The human one thing was, yeah, it's $30 million.
+
+298
+00:26:10,840 --> 00:26:16,280
+$30 million and then I think one of the aliens in the low 20s.
+
+299
+00:26:16,280 --> 00:26:25,200
+A lot of people reacted to the amount and said, well, this can't be real.
+
+300
+00:26:25,200 --> 00:26:31,160
+Like this is one of the top 50 art sales of all time.
+
+301
+00:26:31,160 --> 00:26:32,800
+It's a crypto bubble.
+
+302
+00:26:32,800 --> 00:26:33,800
+It's money laundering.
+
+303
+00:26:33,800 --> 00:26:36,600
+It's all the normal things.
+
+304
+00:26:36,600 --> 00:26:39,000
+How should people think about that sale?
+
+305
+00:26:39,000 --> 00:26:44,440
+I mean, the sale, I think what's to me, I think what people was totally lost in the
+
+306
+00:26:44,440 --> 00:26:55,280
+sale is that this sale happened to a person who grew up in rural India in abject poverty.
+
+307
+00:26:55,280 --> 00:26:59,480
+When I started that every day, he was working off a thumb drive.
+
+308
+00:26:59,480 --> 00:27:01,080
+He could not afford a laptop.
+
+309
+00:27:01,080 --> 00:27:03,560
+He was working off a thumb drive.
+
+310
+00:27:03,560 --> 00:27:13,240
+In that time, he amassed a fortune large enough through Bitcoin and crypto and all different
+
+311
+00:27:13,240 --> 00:27:20,360
+sort of really working and creating companies and creating things around this crazy new
+
+312
+00:27:20,360 --> 00:27:30,440
+technology to be able to buy this third most expensive, whatever piece.
+
+313
+00:27:30,440 --> 00:27:35,200
+So that to me is something that's crazy and something that I think was completely lost
+
+314
+00:27:35,200 --> 00:27:41,600
+in this crazy moment.
+
+315
+00:27:41,600 --> 00:27:47,240
+But I think to me that really speaks to how I think things are going to change and how
+
+316
+00:27:47,240 --> 00:27:54,120
+I think you're going to see a new class of patron around this who made money using this
+
+317
+00:27:54,120 --> 00:28:04,840
+technology and now wants to sort of buy art that reflects the culture and values of the
+
+318
+00:28:04,840 --> 00:28:11,560
+community that they sort of made this money kind of from and with.
+
+319
+00:28:11,560 --> 00:28:13,800
+And so I think that's very new.
+
+320
+00:28:13,800 --> 00:28:20,640
+And I think this was clearly a different class of sort of like collector and I think that
+
+321
+00:28:20,640 --> 00:28:24,680
+was very much kind of like missed in that moment.
+
+322
+00:28:24,680 --> 00:28:31,640
+I guess also I think there were 5,000 individual pieces in every day.
+
+323
+00:28:31,640 --> 00:28:34,000
+It's just a watch.
+
+324
+00:28:34,000 --> 00:28:39,280
+But in the image, it's five thousand every days.
+
+325
+00:28:39,280 --> 00:28:42,240
+So what do we ask for?
+
+326
+00:28:42,240 --> 00:28:45,920
+That's 13,000 per piece or something like that.
+
+327
+00:28:45,920 --> 00:28:52,920
+Whereas if you had been selling them every day for well, I don't think people would have
+
+328
+00:28:52,920 --> 00:28:53,920
+been shocked.
+
+329
+00:28:53,920 --> 00:28:54,920
+This is early.
+
+330
+00:28:54,920 --> 00:29:00,080
+And so I don't know if some of this is because you aggregated.
+
+331
+00:29:00,080 --> 00:29:03,920
+How many years of work was that?
+
+332
+00:29:03,920 --> 00:29:04,920
+13 years.
+
+333
+00:29:04,920 --> 00:29:05,920
+Right.
+
+334
+00:29:05,920 --> 00:29:09,320
+So people really glossed over that part.
+
+335
+00:29:09,320 --> 00:29:12,920
+It's like, well, it's just a compilation of like a picture every day for like, you know,
+
+336
+00:29:12,920 --> 00:29:13,920
+13 years or whatever.
+
+337
+00:29:13,920 --> 00:29:18,920
+I was like, okay, what kind of took a second to do here, guys?
+
+338
+00:29:18,920 --> 00:29:23,920
+That kind of was not just something I threw together over the weekend.
+
+339
+00:29:23,920 --> 00:29:27,920
+Like that did take 13 years to like do.
+
+340
+00:29:27,920 --> 00:29:30,920
+And I actually missed too.
+
+341
+00:29:30,920 --> 00:29:35,920
+Yeah, I mean, producing one piece of work every 13 years, a lot of work.
+
+342
+00:29:35,920 --> 00:29:40,920
+That's a, but now you mentioned something else that I think I agree with.
+
+343
+00:29:40,920 --> 00:29:46,920
+But a lot of the space, a lot of the artists in the space, they're like, oh, why are we
+
+344
+00:29:46,920 --> 00:29:51,920
+going to get the trad collectors coming into my art pieces?
+
+345
+00:29:51,920 --> 00:29:59,920
+But my view, and it can be wrong, is that I think for the certainly historically and possibly
+
+346
+00:29:59,920 --> 00:30:06,920
+for an appreciable future, the people willing to pay the highest price for this type of
+
+347
+00:30:06,920 --> 00:30:12,920
+art people from the crypto space, because it reflects somehow their values.
+
+348
+00:30:12,920 --> 00:30:18,920
+There are people who believe that things should be on shame for a variety of reasons.
+
+349
+00:30:18,920 --> 00:30:24,920
+And so are likely to value it more than someone who doesn't have that view.
+
+350
+00:30:24,920 --> 00:30:25,920
+What do you think about that?
+
+351
+00:30:25,920 --> 00:30:27,920
+I completely agree.
+
+352
+00:30:27,920 --> 00:30:31,920
+I think it will be a long time before people are fully.
+
+353
+00:30:31,920 --> 00:30:37,920
+Understand it in the traditional world.
+
+354
+00:30:37,920 --> 00:30:42,920
+And I think for definitely for the time being.
+
+355
+00:30:42,920 --> 00:30:48,920
+It will be people from the sort of like crypto native digital community who I think really
+
+356
+00:30:48,920 --> 00:30:50,920
+sort of get this.
+
+357
+00:30:50,920 --> 00:30:53,920
+They just, unless you've sort of like.
+
+358
+00:30:53,920 --> 00:31:01,920
+You just have to have things kind of.
+
+359
+00:31:01,920 --> 00:31:03,920
+I don't know.
+
+360
+00:31:03,920 --> 00:31:06,920
+It just is not sort of like native to you.
+
+361
+00:31:06,920 --> 00:31:14,920
+And so I think this art immediately speaks to people from this community in a very different way.
+
+362
+00:31:14,920 --> 00:31:16,920
+And they're able to sort of like.
+
+363
+00:31:16,920 --> 00:31:23,920
+Fully appreciate it in a way that I think it's going to take people coming from the true.
+
+364
+00:31:23,920 --> 00:31:24,920
+Professional side.
+
+365
+00:31:24,920 --> 00:31:30,920
+A very long time to to sort of maybe not a very long time, but it's going to take a second.
+
+366
+00:31:30,920 --> 00:31:31,920
+But also.
+
+367
+00:31:31,920 --> 00:31:33,920
+By the time.
+
+368
+00:31:33,920 --> 00:31:36,920
+They come around it's possible that.
+
+369
+00:31:36,920 --> 00:31:38,920
+Like I wonder.
+
+370
+00:31:38,920 --> 00:31:45,920
+If there's many pathways for traditional collector to ever become a truly very big.
+
+371
+00:31:45,920 --> 00:31:51,920
+And if he collect because by the time they get comfortable with it, I think the prices are going to move.
+
+372
+00:31:51,920 --> 00:31:52,920
+Right.
+
+373
+00:31:52,920 --> 00:31:54,920
+And then at the time it becomes get validated.
+
+374
+00:31:54,920 --> 00:31:57,920
+And so they're always going to be.
+
+375
+00:31:57,920 --> 00:32:00,920
+A step behind because there are.
+
+376
+00:32:00,920 --> 00:32:01,920
+Just like.
+
+377
+00:32:01,920 --> 00:32:09,920
+It's hard to mentally leave twin and if you haven't done.
+
+378
+00:32:09,920 --> 00:32:22,920
+The bit coin mentally and then you know the theorem mentally and there's that if you went to leave and even many of my friends who have done the prior mental leaps.
+
+379
+00:32:22,920 --> 00:32:31,920
+Got stuck with it.
+
+380
+00:32:31,920 --> 00:32:33,920
+Would say what you can right click save the image.
+
+381
+00:32:33,920 --> 00:32:35,920
+I said, yeah, but you can't right click save the token.
+
+382
+00:32:35,920 --> 00:32:36,920
+Obviously.
+
+383
+00:32:36,920 --> 00:32:37,920
+This is the same.
+
+384
+00:32:37,920 --> 00:32:39,920
+You can't right click save Bitcoin.
+
+385
+00:32:39,920 --> 00:32:40,920
+Yeah.
+
+386
+00:32:40,920 --> 00:32:41,920
+For the same reason.
+
+387
+00:32:41,920 --> 00:32:42,920
+Right.
+
+388
+00:32:42,920 --> 00:32:43,920
+And.
+
+389
+00:32:43,920 --> 00:32:44,920
+I.
+
+390
+00:32:44,920 --> 00:32:49,920
+If you haven't done that, if you're just a fiat world collector.
+
+391
+00:32:49,920 --> 00:32:57,920
+Making all of those leaps of once and then being comfortable spending large amounts seems difficult.
+
+392
+00:32:57,920 --> 00:32:58,920
+A hundred percent.
+
+393
+00:32:58,920 --> 00:33:08,920
+And I think you could very much see something where they are never able to sort of like catch up in some sense because I think.
+
+394
+00:33:08,920 --> 00:33:12,920
+Also the sort of, you know, if.
+
+395
+00:33:12,920 --> 00:33:20,920
+The sort of crypto continues its current should factory like.
+
+396
+00:33:20,920 --> 00:33:31,920
+You know, the, the amount of sort of like wealth that is in the sort of like crypto space could quickly sort of outpace the wealth that's coming from the.
+
+397
+00:33:31,920 --> 00:33:38,920
+The other sort of traditional sort of like space, which is a lot of times old money.
+
+398
+00:33:38,920 --> 00:33:45,920
+And I think that's where again you could really see the sort of like shift in this.
+
+399
+00:33:45,920 --> 00:33:49,920
+Just everything in the society becoming more digital, a kind of.
+
+400
+00:33:49,920 --> 00:33:57,920
+What sort of Santa reason that that are obviously would be included in that too. So I think it's, it's.
+
+401
+00:33:57,920 --> 00:34:05,920
+Very much one of those things where I very much could see exactly what you're saying happened and then it's sort of like, okay, by the time.
+
+402
+00:34:05,920 --> 00:34:11,920
+These people come along it's like the prices of everything will be, you know, sort of.
+
+403
+00:34:11,920 --> 00:34:16,920
+Kind of cemented and very much sort of.
+
+404
+00:34:16,920 --> 00:34:23,920
+I don't know, but I think it's, it's something where I think to.
+
+405
+00:34:23,920 --> 00:34:40,920
+Like this movement I see it as being so big that it's like it will spawn separate movements because I think just in general like generative art could be one entire thing and obviously now you're seeing PFPs as being one entire thing.
+
+406
+00:34:40,920 --> 00:34:56,920
+And so, you know, and then I think there's art like I do and you know, ex copy and people like that that is, you know, very different from generative art too and sort of each artwork being, you know, this sort of specific bespoke kind of like statement.
+
+407
+00:34:56,920 --> 00:35:14,920
+And so I think, you know, you're going to see under the umbrella of sort of like digital art, I think you could see many separate sort of like aesthetic kind of like movements crypto art is another sort of like very kind of specific kind of like kind of aesthetic
+
+408
+00:35:14,920 --> 00:35:22,920
+and sort of like feel. And so I think there's, there's, you know, many different.
+
+409
+00:35:22,920 --> 00:35:40,920
+And this isn't like one. I think it's much broader than sort of photography or street art in terms of like a new movement because I think it has like separate. It's so big and so there's so many different possibilities.
+
+410
+00:35:40,920 --> 00:35:43,920
+I think it's going to encompass a bunch of different movements.
+
+411
+00:35:43,920 --> 00:36:02,920
+And I think maybe one of those moments does appeal to traditional art a bit more. But I think it's definitely, I think there's so many pieces I think you're going to find a lot of people find their way in one way or another.
+
+412
+00:36:02,920 --> 00:36:15,920
+So, in my mind, I think you're saying something similar three or four years ago crypto art and NFT are kind of the same thing with crypto art was a specific aesthetic.
+
+413
+00:36:15,920 --> 00:36:23,920
+And it tended to be transported by NFTs but NFTs are a horizontal technology, whatever you want to them.
+
+414
+00:36:23,920 --> 00:36:43,920
+And so now if you go and foundation or super rare there's landscape photography there's a pixel art. There's many things that are in no way crypto art, but they are on NFTs. And if the world view you're describing turns out to be true, which I think is basically correct.
+
+415
+00:36:43,920 --> 00:36:58,920
+Every type of aesthetic will eventually find its way onto NFTs and some of them will be new and different enough to be a movement and crypto order long form generative art, but eventually everything will be on NFTs. Is this a good way to think about it?
+
+416
+00:36:58,920 --> 00:37:16,920
+That's all I think about it and I see these being separate different movements. To me crypto art is sort of art that either has some specific function in the crypto and sort of these, you know, everybody has their own definitions of this stuff.
+
+417
+00:37:16,920 --> 00:37:29,920
+Or it sort of like kind of aesthetically deals with the concept of crypto and sort of like has some sort of reference to that and sort of, you know, not to that like culture or whatever.
+
+418
+00:37:29,920 --> 00:37:45,920
+And I think there's kind of like digital art that I think is something that is, you know, you see this all the time and sort of like movies and video games and there's sort of like a massive kind of movement there and sort of industry around the sort of
+
+419
+00:37:45,920 --> 00:37:48,920
+aesthetic of that.
+
+420
+00:37:48,920 --> 00:37:53,920
+And so that's a whole other kind of like category of art.
+
+421
+00:37:53,920 --> 00:38:08,920
+And then I think there's there's sort of, you'll see, you know, generative art is obviously another sort of thing where people are using algorithms and writing code to sort of generate, you know, kind of larger sort of like data sets.
+
+422
+00:38:08,920 --> 00:38:30,920
+And so I think there's a bunch of different sort of like sub categories of sort of like digital art. I see all this as being like the moment kind of like digital art stop being lumped into like new media and sort of like it being its own sort of like cat category of
+
+423
+00:38:30,920 --> 00:38:49,920
+something. And so I think you'll see a bunch of different sort of like sub movements from there and sort of like sub communities but I think also just NFTs in general will over time be looked at as like, in my opinion, I think they'll be looked at as like email
+
+424
+00:38:49,920 --> 00:39:12,920
+where you have a bunch of them. Most of them are just, you know, this or that that are very sort of like boring and utilitarian. But then you will have a sort of like subsection of those that are art and sort of are, you know, kind of collectibles and things that you actually sort of like
+
+425
+00:39:12,920 --> 00:39:31,920
+sort of value. But I think again, you'll see much more nuanced differentiation, I think, between these sort of categories of different art which to me are very, very different.
+
+426
+00:39:31,920 --> 00:39:42,920
+Let's switch gears and talk to the artists for a second. Let's say you're a young artist who started your career in 2022. What advice would you give to them?
+
+427
+00:39:42,920 --> 00:40:09,920
+I would definitely give the advice to focus on craft and be as open to trying new things as possible and to be patient. And I think it's something where, to be honest, making a living doing NFTs is not going to be a
+
+428
+00:40:09,920 --> 00:40:28,920
+living doing NFTs is not going to be easy. It's something that is, is very tough because you have to grow an audience. And that's not easy. And you have to sort of grow community of people who sort of care about your work.
+
+429
+00:40:28,920 --> 00:40:48,920
+And I want you to do that. I think you need to be making a lot of work and putting a lot of work out there to sort of break through the noise because that's the thing you are battling the most is a way to break through the noise,
+
+430
+00:40:48,920 --> 00:41:00,920
+because the internet is very high. And it's very hard to get people's attention. And it's very hard to keep people's attention.
+
+431
+00:41:00,920 --> 00:41:11,920
+And so I would be patient. And I would just start putting out and doing as much work as I can in terms of, you know, making art.
+
+432
+00:41:11,920 --> 00:41:27,920
+And from there, I would just sort of be trying to expose it to as many people as you can. And the rest will sort of sort itself out. But I think I would not be so focused on trying to like sell things right away because that's very tough.
+
+433
+00:41:27,920 --> 00:41:31,920
+I would be much more focused on making the actual art.
+
+434
+00:41:31,920 --> 00:41:49,920
+And I would build an audience for some every day is an extreme example of this right, I guess, 13 years of building the audience and then selling it. Right, is that 100% like and that's the thing I really aside from like kind of a few prints here and there but not really that much to be honest.
+
+435
+00:41:49,920 --> 00:42:08,920
+I would never try to sell anything to the audience that I was building. And I think that's important too like you need to build an audience by giving things you need to provide value you need to show give assets give resources give information,
+
+436
+00:42:08,920 --> 00:42:21,920
+give away your work like I think there's it's one of those things where it's very hard to sort of like start out and build that audience, but it's snowballs over time if you stick with it.
+
+437
+00:42:21,920 --> 00:42:30,920
+And again I'm 41 so it's like I've been doing this for for sort of like 20 years this is not something that I just started doing two years ago with NFTs.
+
+438
+00:42:30,920 --> 00:42:41,920
+So, I think growing that audience and sort of growing that community of people interested in your work it takes time. And that's right, I think the patience thing comes in.
+
+439
+00:42:41,920 --> 00:42:59,920
+And, you know, I honestly feel very lucky that I was able to sort of do, you know, the first almost decade of kind of like learning and growing before social media was even a thing I started posting in like 2009.
+
+440
+00:42:59,920 --> 00:43:10,920
+I had, you know, I guess it was 10 years of being able to just do this, you know, much more under the radar and unfortunately kids don't have that now everything is in public.
+
+441
+00:43:10,920 --> 00:43:28,920
+But I think you need to be able to just get into a mode of like trying stuff and sort of be okay with not everything hitting and just sort of like learning in public more.
+
+442
+00:43:28,920 --> 00:43:35,920
+So, I think it's a model. I'm curious on your take on this because I think this is just what happens on the internet.
+
+443
+00:43:35,920 --> 00:43:54,920
+You have these quote unquote power law winners so the apps, the people that managed to match the feel the culture is like guess of the network at any point in time, become absolutely massive more massive than they could have ever been before social media, before
+
+444
+00:43:54,920 --> 00:44:08,920
+social media, right. And then there's, and of course that draws a lot of people in because it looks very exciting on them, make millions of dollars and it's super star, but of course that can't happen on average.
+
+445
+00:44:08,920 --> 00:44:17,920
+It's only for a very tiny fraction of this is not just for artists, it's for actors and YouTube videos and musicians.
+
+446
+00:44:17,920 --> 00:44:25,920
+And then there's very long tail, but then in the model of the very long tail.
+
+447
+00:44:25,920 --> 00:44:28,920
+Okay, obviously if you become one of the power law winners, that's great.
+
+448
+00:44:28,920 --> 00:44:39,920
+But it seems to me there could be a model of, you know, Chris Dixon had one written about this or finding your 1000 true fans.
+
+449
+00:44:39,920 --> 00:44:55,920
+And my guess and then if T is it's probably not even 1000 if you could find like 100 people who were super into whatever it is you're doing, maybe what you're doing is.
+
+450
+00:44:55,920 --> 00:45:13,920
+Gothic butterfly photographers, apparently super niche, but you find those 100 people, you can probably you might not become a superstar, but you can actually have a real career in a cultural domain, because that's probably enough people that every couple of them someone will buy something
+
+451
+00:45:13,920 --> 00:45:27,920
+over time, and you can sustain yourself for as previously, I don't think the distribution system, the option distribution system, the offline distribution system is high resolution enough to aggregate those 100 people for you.
+
+452
+00:45:27,920 --> 00:45:44,920
+No, 100% and that's where I think what people are not sort of like understanding in the traditional world is I believe almost all artists will be digital artists in the future just because there's, or on some level they'll be kind of digital artists because I think just what you were saying.
+
+453
+00:45:44,920 --> 00:45:57,920
+You are able to connect with people who have your sort of like micro niche interest and share that.
+
+454
+00:45:57,920 --> 00:46:21,920
+And then directly to them without the overhead of like a gallery, I think is very much like I think that will be very appealing and is very sort of a path forward that was is sustainable in a way that path models were not sustainable
+
+455
+00:46:21,920 --> 00:46:42,920
+I very much agree that this sort of like changes the rules and I think you'll see a lot more people able to sort of make it but I think with that the barrier to entry is also much lower in that, you know, before you have to have paints and
+
+456
+00:46:42,920 --> 00:46:54,920
+and canvases and I can't get out of this stuff it's like now you just need like pretty much like a smartphone.
+
+457
+00:46:54,920 --> 00:47:01,920
+And, and internet connection. And so there's a lot of sort of like competition there.
+
+458
+00:47:01,920 --> 00:47:23,920
+And so I think it's definitely doable in a way that it was not before, but I think it's still going to be challenging for for people and I think they just need to sort of, again, kind of like stick with it and sort of put in the kind of like time to sort of build that
+
+459
+00:47:23,920 --> 00:47:27,920
+following in that practice.
+
+460
+00:47:27,920 --> 00:47:38,920
+And I think that's a perfect sense. A few days weeks ago I don't remember you treated something and it was a video of this very large building.
+
+461
+00:47:38,920 --> 00:47:41,920
+Is there something you can share about that.
+
+462
+00:47:41,920 --> 00:47:49,920
+Sure so that was a that is the studios that were in here in Charleston.
+
+463
+00:47:49,920 --> 00:47:59,920
+And this is where we've got a 50,000 square foot building here, where we are.
+
+464
+00:47:59,920 --> 00:48:15,920
+This is our studio where we're sort of like building work and have a bunch of sort of projects underway, somewhat similar to kind of like human one where it's a sort of like mix of sort of like digital and physical.
+
+465
+00:48:15,920 --> 00:48:35,920
+Sort of pieces. And then we also have the other half of the building is a sort of white wall gallery which that was the video I showed a sort of construction video that that's kind of more of a traditional sort of like gallery in a way.
+
+466
+00:48:35,920 --> 00:48:55,920
+And something where we've got a bunch of artworks that have been made into like paintings and prints and stuff like that. And I think to me it's very interesting playing with these sort of like boundaries between kind of like physical and digital and sort of if I have one of the every days
+
+467
+00:48:55,920 --> 00:48:59,920
+made into a giant painting.
+
+468
+00:48:59,920 --> 00:49:11,920
+Well, is that a painting, or is that digital art to me it's digital arts still because it's like I made the image on the computer and it sort of like was was translated through this painting.
+
+469
+00:49:11,920 --> 00:49:28,920
+And so, like playing with those sort of like kind of like concepts and sort of like, you know, where's the actual art is it in the physical piece, or is it in the sort of like, you know, digital sort of like file and idea.
+
+470
+00:49:28,920 --> 00:49:44,920
+And so, we've got, you know, a bunch of pieces like that. And some of the pieces to like just resolution wise like you couldn't even sort of like put them on a TV they're very, very high resolution that you really only could sort of like get in a print.
+
+471
+00:49:44,920 --> 00:49:56,920
+But again they're done with these digital tools that really have only existed, you know, 10 years at this sort of like scale and fidelity and sort of like 3D detail.
+
+472
+00:49:56,920 --> 00:50:22,920
+And we also have a another that's like about 13,000 square foot then we have another sort of 13,000 square foot experiential space, which is going to be very cool and is just a very interesting space that I think is going to be great to have people sort of like come together in and kind of
+
+473
+00:50:22,920 --> 00:50:26,920
+be a place where
+
+474
+00:50:26,920 --> 00:50:35,920
+people can experience digital art in a much more sort of like visceral way that I think is going to be really
+
+475
+00:50:35,920 --> 00:50:44,920
+exciting and sort of fun way to sort of, you know, bring people together around this stuff and have them have more
+
+476
+00:50:44,920 --> 00:50:55,920
+experiences that I think reinforce the sort of like emotional connection that this stuff can provide.
+
+477
+00:50:55,920 --> 00:51:13,920
+And I think that will be a way to sort of sort of show people that this is, you know, just like any other medium in terms of the kind of connection and sort of way that it can can really sort of impact you.
+
+478
+00:51:13,920 --> 00:51:16,920
+It's amazing. Sounds really interesting.
+
+479
+00:51:16,920 --> 00:51:34,920
+Question that's a little bit outside your scope and it's okay if you don't want to take a position on it, but have you thought at all about PFPs and how do they evolve in the future that's something that people feel connection with some PFPs and they have a
+
+480
+00:51:34,920 --> 00:51:45,920
+lot of people who have created some sense of community.
+
+481
+00:51:45,920 --> 00:51:52,920
+It seems like somehow some of that effect could happen with one of one artist in some way though.
+
+482
+00:51:52,920 --> 00:52:03,920
+It's unclear how what do you think beyond just appreciating an engagement piece of work, whether it's a PFPs or some other approach or what might be a model where the tokens form or
+
+483
+00:52:03,920 --> 00:52:06,920
+how bound somehow community.
+
+484
+00:52:06,920 --> 00:52:28,920
+Sure, I think what PFPs have sort of become in the last year to me is like crazy because at first, it's funny when I first remember I saw the hash masks and it was like, that's just like a complete rip off of the like crypto pops it's like the same exact thing.
+
+485
+00:52:28,920 --> 00:52:41,920
+Because at that time, there wasn't this idea of like a PFP still yet. It was like just project to project and it was sort of like well that project seems almost exactly the same as that other project.
+
+486
+00:52:41,920 --> 00:52:51,920
+And then more of them started coming out and then it's like, then you kind of realize like oh wait, this sort of like idea can be done a lot of different ways.
+
+487
+00:52:51,920 --> 00:53:03,920
+And then it's such a like, you know, what crypto punks did was so revolutionary that it like spawned in the entire sort of, you know, industry.
+
+488
+00:53:03,920 --> 00:53:12,920
+I don't know where things go from here in terms of that I think.
+
+489
+00:53:12,920 --> 00:53:20,920
+I think it's tough because there's so many of them out there.
+
+490
+00:53:20,920 --> 00:53:41,920
+And I think you really need to be doing it's sort of one of these things where there's no kind of like secret to it it's, it's what you put into it is kind of like what you'll get out of it if you are putting something in where, you know, you are constantly trying to sort of like add value and add meaning to this stuff.
+
+491
+00:53:41,920 --> 00:53:44,920
+And then you're able to be able to grow community.
+
+492
+00:53:44,920 --> 00:53:49,920
+A lot of the ones though I think though a little bit that kind of hit.
+
+493
+00:53:49,920 --> 00:54:10,920
+There's some level of like randomness to it that it's sort of like it's, it's kind of a mix of sort of Internet magic that causes crypto dick but to sort of take off when crypto jerk off kittens or whatever.
+
+494
+00:54:10,920 --> 00:54:33,920
+And then you're like, you know, it's sort of like there's, I think if people will think there's not some level of like randomness to this, then I think they're kind of kidding themselves a little bit but I think the thing you can do with that or sort of how that's going to involve this I think
+
+495
+00:54:33,920 --> 00:54:53,920
+in ways for people to use these avatars more in more places and having ways of them being integrated into other things maybe.
+
+496
+00:54:53,920 --> 00:55:12,920
+I think, yeah, I think people are it's going to need to have some more, I don't know, I think a lot of them will need to have some more level of utility to sustain the value.
+
+497
+00:55:12,920 --> 00:55:33,920
+I don't know it's so tough. I have no idea that it's so hard to like, I would have never predicted the things that happened in the last, you know, two years so it's like, I'm not sure my crystal ball is so good but some of the stuff I don't know how do you see it playing out.
+
+498
+00:55:33,920 --> 00:55:42,920
+I simultaneously feel the following two things.
+
+499
+00:55:42,920 --> 00:55:47,920
+I think PFPs or avatars have obvious product market fit.
+
+500
+00:55:47,920 --> 00:56:02,920
+I mean, I'm right there as an avatar as a PFP right I mean obviously I'm going to believe this, but I don't think this is just some weird thing that 20,000 50,000 people are going to do and everyone in the future.
+
+501
+00:56:02,920 --> 00:56:08,920
+It's only going to use their LinkedIn photo online right I just know that's going to be true right.
+
+502
+00:56:08,920 --> 00:56:16,920
+People are going to be cartoon characters but also other types of people and maybe animals and what happened right all types of things for sure.
+
+503
+00:56:16,920 --> 00:56:18,920
+This is going to happen.
+
+504
+00:56:18,920 --> 00:56:30,920
+On the other hand I also believe most current collections are not going to make it because they are doing things where you look at those things and say like, but why would anyone care about the stuff.
+
+505
+00:56:30,920 --> 00:56:34,920
+I think progressively people will not care about it.
+
+506
+00:56:34,920 --> 00:56:51,920
+And so I'm in a very weird place on PFP collections much more than I think on the server of art and one of what I have views on their coherence on PFPs in a way they're going to be the biggest category of all right.
+
+507
+00:56:51,920 --> 00:57:00,920
+I think in this world 20 years from now that you mentioned that everyone's an augmented reality isn't everyone going to have some type of PFP or avatar.
+
+508
+00:57:00,920 --> 00:57:06,920
+And so, and even today when we say we have a lot of these I mean important PFP collections.
+
+509
+00:57:06,920 --> 00:57:10,920
+Maybe they have 150,000 PFPs in total.
+
+510
+00:57:10,920 --> 00:57:21,920
+Because there's a huge tail of PFP collections that have no real usage, no liquidity. I mean they're there on the blockchain but they're effectively dead. So I think someday we'll have billions of PFPs.
+
+511
+00:57:21,920 --> 00:57:30,920
+But obviously most of them will have to be low priced because most people do not have a lot of money to spend on a PFP.
+
+512
+00:57:30,920 --> 00:57:41,920
+Sure. On the other hand the thing that kind of always sticks in my mind is Rolex sells a million watches a year. And there's like 40 million Rolexes in the world.
+
+513
+00:57:41,920 --> 00:57:47,920
+And a Rolex is a pure status symbol right it's not a way to tell time.
+
+514
+00:57:47,920 --> 00:57:52,920
+You can tell time using all types of other mechanisms that don't cost $10,000.
+
+515
+00:57:52,920 --> 00:58:07,920
+And so, I think there might be a couple like if they're handled correctly like the punks that just make it purely as a cultural object.
+
+516
+00:58:07,920 --> 00:58:12,920
+Yeah. And then I think for most of the other ones, it's unclear.
+
+517
+00:58:12,920 --> 00:58:22,920
+I think there will be utility version but I don't think it's the things we're seeing now. I don't think utility is you can get this video or go to this party. That stuff seems not worth tens of thousands dollars.
+
+518
+00:58:22,920 --> 00:58:33,920
+And I think for some collections the more they do these things, the more they reduce the value because you take the value from something kind of abstract and intangible to like, wait, I don't like that.
+
+519
+00:58:33,920 --> 00:58:43,920
+Like I wouldn't pay a hundred bucks for that honey. Why, why is this linked to my PFP.
+
+520
+00:58:43,920 --> 00:58:48,920
+It's weird because I'm bullish. I'm super bullish on the category.
+
+521
+00:58:48,920 --> 00:58:53,920
+And bearish on most implementations of the idea if that makes any sense.
+
+522
+00:58:53,920 --> 00:59:15,920
+No, I think that does. I think that's honestly the way it should be because I think it's one of these things where you're going to continue to see more sort of like consolidation in these industries around sort of things that are a bit more sort of proven because most of the things that
+
+523
+00:59:15,920 --> 00:59:23,920
+people are doing to your point are exactly that. Why would anybody care like okay cool you did that nobody cares.
+
+524
+00:59:23,920 --> 00:59:28,920
+Like they're just not things that are going to like garner people's attention.
+
+525
+00:59:28,920 --> 00:59:44,920
+And I think that's the thing that is the most sort of the biggest thing here is how are people going to like keep people's like attention over long periods of time because if nobody cares about these things, they're not going to have value in the future.
+
+526
+00:59:44,920 --> 00:59:58,920
+And that's where I think a lot of these projects, you know, are wrestling with that question of how are we going to sort of like keep people's attention because it's not easy over, you know, sort of long periods of time.
+
+527
+00:59:58,920 --> 01:00:11,920
+It's easy when there's a big burst of hype and sort of like everybody's into this stuff. But when the hype dies out, how are you going to sort of like sustain that attention.
+
+528
+01:00:11,920 --> 01:00:31,920
+And so I think, yeah, it's, I completely agree with you in that I am very much the same way across the board and like a lot of this stuff where it's like very bullish on the category but I see a lot of people doing a lot of freaking garbage within that sort of domain.
+
+529
+01:00:31,920 --> 01:00:41,920
+I mean, look, everyone is all started with the success of the crypto punks but that came slowly over time and organically. And so a lot of this is an attempt to engineer that.
+
+530
+01:00:41,920 --> 01:00:49,920
+And that never works right and you can, you can create a hype cycle, but it won't stick if it's forced.
+
+531
+01:00:49,920 --> 01:01:16,920
+So, I also feel there's something with these dynamics, the dynamics of the PFP collection. And then maybe with this 1000 true fans thing that could apply in some way to artists, whether they're generally over one of one, you know, because a lot of things that are happening.
+
+532
+01:01:16,920 --> 01:01:20,920
+And the first time you're in a new medium.
+
+533
+01:01:20,920 --> 01:01:34,920
+There's a lot of design principles for the from the old medium. Right. So, like, things that I think are kind of amusing, where in this digital media would do whatever one. Right.
+
+534
+01:01:34,920 --> 01:01:51,920
+So, 99.9999% of our comes in the rectangle. Yeah. Right. I was like, a size that would kind of normally fit on a wall if it was on canvas.
+
+535
+01:01:51,920 --> 01:02:20,920
+And then the last majority of artists sell one piece, then they sell another piece that missile another piece, just like they would if they were selling oil paintings.
+
+536
+01:02:20,920 --> 01:02:34,920
+What we've seen with PFPs is that the token can do more than that. I don't know what people should do with it. But it seems like there's more than they can do with the token in their community than just sell one piece after another in linear order.
+
+537
+01:02:34,920 --> 01:02:53,920
+And without knowing what's going to work in general, what's going to work for specific artists. I'd love to see more experimentation. Right. Because the designs, the design universe is gigantic here. And I think we've only explored a tiny fraction of
+
+538
+01:02:53,920 --> 01:03:12,920
+100%. We've definitely barely scratched the surface on how dynamic NFTs could be barely barely barely scratched the surface. I mean, again, we're to liken it to sort of a web page.
+
+539
+01:03:12,920 --> 01:03:27,920
+We're still, we're 25 years into the internet here and we're still very much figuring out what could be on a web page. And I think what could be in an NFT and what could be an NFT are working out that artwork interact with other artwork.
+
+540
+01:03:27,920 --> 01:03:43,920
+How could it interact with the outside world? How could you interact with it? These are endless questions based on current day technology, much less, you know, the pace that technology is evolving.
+
+541
+01:03:43,920 --> 01:03:45,920
+I think there were.
+
+542
+01:03:45,920 --> 01:03:56,920
+There's a lot to be done. And I think to me that's like super exciting. And I think what's exciting about it too is because all this is very much kind of happening in public use.
+
+543
+01:03:56,920 --> 01:04:01,920
+You get to see what other people are doing and kind of like, oh, let me take a little idea from that.
+
+544
+01:04:01,920 --> 01:04:22,920
+And I'll go that that's cool how you did that sort of auction mechanic or this sort of like idea of kind of, you know, utility around this stuff. And so I think it's, it's to me just like such an exciting, inspiring time to sort of be creating this stuff because it feels like we're all creating kind of together in a way.
+
+545
+01:04:22,920 --> 01:04:32,920
+Yeah. Last question before everyone asked you one very last question, but one of the controversial areas.
+
+546
+01:04:32,920 --> 01:04:45,920
+It certainly and it's most established in G.F. G. is, but then I think you to cast some art. There was a little bit of this in photography.
+
+547
+01:04:45,920 --> 01:04:58,920
+And then I think the biggest move here was the X copy, which is this concept of CC zero of placing your work in the public domain. So it can be remixed and spread.
+
+548
+01:04:58,920 --> 01:05:04,920
+By anyone. And this is quite controversial with artists that some say, well, I don't want to do this.
+
+549
+01:05:04,920 --> 01:05:06,920
+And that's of course perfectly fine. It's just a tool.
+
+550
+01:05:06,920 --> 01:05:21,920
+And use it if they want. And others saying, Oh, it's a good way to I think a lot of the PFP projects are starting to four one five six last week. This is what's the natural way that things can spread online. I think that's one view.
+
+551
+01:05:21,920 --> 01:05:40,920
+And then I had spoken to X copy about why he didn't said any version that I don't do this eventually would create a centralization point in my art, but I don't want. And I was worried if you had any views whatsoever. I actually have a question here because I don't know what the question would be.
+
+552
+01:05:40,920 --> 01:05:55,920
+And if you had any views on the stop at all. Yeah, 100%. I think it's, and again, sort of with the VJ clips I've been giving away my work under Creative Commons over over the or Creative Commons for over a decade.
+
+553
+01:05:55,920 --> 01:06:11,920
+But I purposely kept it a little fuzzy to be honest, I didn't get it under Creative Commons zero because if big companies wanted to sort of like, like, come and pay me to license this work, then I was going to take that money.
+
+554
+01:06:11,920 --> 01:06:18,920
+But if you know the average person want to use it for whatever they're, you know, sort of more welcome to use it for free.
+
+555
+01:06:18,920 --> 01:06:42,920
+But I think it's, it's one of those things where I personally believe giving away work is very sort of like valuable. I think it's a little different how people are giving it away now, because I think a lot of the PFPs are giving it away in a hope that somebody will build a bunch of value on their IP for them.
+
+556
+01:06:42,920 --> 01:06:55,920
+And I don't know that that's going to happen. It's not sort of like, Oh, I'm giving this to the public domain so everybody can benefit from it. It's like, I'm giving this away into the public domain so that you can build the IP around my thing.
+
+557
+01:06:55,920 --> 01:07:11,920
+And so it's sort of, I think to me, I don't. The other thing with the Internet is the Internet just takes what it wants. Like it's like, it's stuff away or you cannot. And people are still just going to do whatever the fuck they want on the Internet to be quite
+
+558
+01:07:11,920 --> 01:07:17,920
+speaking at somebody who just does whatever the fuck he wants on the Internet.
+
+559
+01:07:17,920 --> 01:07:25,920
+So I think it's one of these things where it's an experiment. I think it's an interesting experiment.
+
+560
+01:07:25,920 --> 01:07:38,920
+I think it makes sense for some people. And I think it makes maybe doesn't make as much sense for other stuff. I think it's very, and then you get into the sort of like, you know,
+
+561
+01:07:38,920 --> 01:07:44,920
+I see sort of, you know, IP ownership.
+
+562
+01:07:44,920 --> 01:07:56,920
+Sort of use cases, which I think is also very experimental. And I think it's, we've never had IP ownership with this level of liquidity.
+
+563
+01:07:56,920 --> 01:08:08,920
+And that's very new and it's legally, I think, pretty gray.
+
+564
+01:08:08,920 --> 01:08:15,920
+And so I think these things are interesting concepts.
+
+565
+01:08:15,920 --> 01:08:27,920
+I think people probably need to sort of think clearly about this stuff before they, you know, sort of put things in the public domain because there's no coming back from that.
+
+566
+01:08:27,920 --> 01:08:42,920
+And so it's one of those things where I wouldn't, I wouldn't super rush into anything if I were people, because again, I think this is much more experimental than people are sort of like, recognizing here.
+
+567
+01:08:42,920 --> 01:08:58,920
+And I think, like, to me, it's sort of, like, right now I just have kind of pretty loose approach where it's like, if you're not doing something big thing, then go for it, do whatever you want to like work or whatever.
+
+568
+01:08:58,920 --> 01:09:24,920
+And I think, you know, sort of having a looser approach, I think, and maybe it's not CCO zero but having a much more permissible approach to allow ideas to circulate and sort of have the opportunity to kind of become a meme or sort of become something that they kind of a wide
+
+569
+01:09:24,920 --> 01:09:45,920
+variety of people interact with and sort of, you know, sort of, it affects, I think is much more the future than the sort of stringent copyright laws that people sort of like had asked.
+
+570
+01:09:45,920 --> 01:09:58,920
+Okay, my actual last question. What's the question that I should have asked you, but I don't know.
+
+571
+01:09:58,920 --> 01:10:08,920
+I feel like it covered a lot of stuff I feel like, no, I think we got everything, didn't we?
+
+572
+01:10:08,920 --> 01:10:13,920
+Sounds, sounds.
+
+573
+01:10:13,920 --> 01:10:16,920
+Thank you so much.
+
+574
+01:10:16,920 --> 01:10:36,920
+Yeah, this has been great. It's definitely, you know, super good to connect here and I think very excited to see what comes from this course and I think the course itself is such a cool concept and I think, you know, another one of the sort of very interesting experiments in the space here.
+
+575
+01:10:36,920 --> 01:10:49,920
+Yeah, I mean, it's both this metaverse environment, the three environment, but the hard part is trying to figure out how to do everything on chain so the university has all this information systems and we're not going to touch any information system.
+
+576
+01:10:49,920 --> 01:10:52,920
+We're going to try and do everything on Ethereum.
+
+577
+01:10:52,920 --> 01:11:05,920
+And it's complicated and I think, you know, we're learning things and it's not, you know, we're building as we're doing it, but if the ideas we're going to have an on chain central as well that can't be that.
+
+578
+01:11:05,920 --> 01:11:09,920
+Well, maybe percent of what you're doing is back in someone's database, right?
+
+579
+01:11:09,920 --> 01:11:11,920
+Sure, sure.
+
+580
+01:11:11,920 --> 01:11:25,920
+What does that actually look like? And that's what I think, I think people don't. I think that's a great thing to do is like, okay, let's just dive in and fucking do it like we'll learn very quick. Does this make sense to the on chain? Does this not make sense?
+
+581
+01:11:25,920 --> 01:11:42,920
+And that's the thing that I think this is what exactly what we need to get to the future that sort of like justifies these, a lot of these valuations is we need this infrastructure that makes the shit actually fucking useful.
+
+582
+01:11:42,920 --> 01:11:46,920
+Instead of just being a speculative thing.
+
+583
+01:11:46,920 --> 01:12:00,920
+And that infrastructure is not built in many cases. It's like you're saying, like you're building this shit because there is no, nobody's done on on chain sort of like course. What would that look like? How does that make sense?
+
+584
+01:12:00,920 --> 01:12:09,920
+Like what value does that add? And so I think that's very awesome to see things like this because that's desperately what we need.
+
+585
+01:12:09,920 --> 01:12:26,920
+Yep, yep, yep. Okay. Well, thank you once again.
+
+586
+01:12:26,920 --> 01:12:28,920
+Hey, hey.
+
+587
+01:12:28,920 --> 01:12:32,920
+Hello. Hi, hi, what up, how we doing?
+
+588
+01:12:32,920 --> 01:12:42,920
+I'm good. How are you? How are you doing? Ah, good. Good. Thanks. Thanks for being here. Thanks for.
+
+589
+01:12:42,920 --> 01:13:01,920
+To join this experimental course as you as you discussed with 65 to nine. I really enjoyed your discussion. So we are now in the Q&A session. So our students are able to ask questions live to you. So thank you very much for agreeing to take some of your very busy
+
+590
+01:13:01,920 --> 01:13:14,920
+time to do that. Some logistics for our students. So I know that some of you are watching this in the open net office in the open. If you're doing that, please use the open chat to post your questions.
+
+591
+01:13:14,920 --> 01:13:30,920
+If you're watching this on YouTube, please note that we're not actively monitoring YouTube at this point. So you can use Twitter. Use the NFT Q&A tag that you see here in the screen to post your questions.
+
+592
+01:13:30,920 --> 01:13:39,920
+So let me start with a number of questions that students had already posted while you were discussing with 65 to nine.
+
+593
+01:13:39,920 --> 01:13:44,920
+First one is a very, very fundamental question. Is there a story to the name Beeple.
+
+594
+01:13:44,920 --> 01:13:55,920
+Sure. So the story, this is actually what I'm sort of named after. Is this toy.
+
+595
+01:13:55,920 --> 01:14:01,920
+This is from like the 80s. This is this is actually a Beeple.
+
+596
+01:14:01,920 --> 01:14:09,920
+And this was something again that I sort of like named myself after 20 years ago.
+
+597
+01:14:09,920 --> 01:14:20,920
+And at that time, the work that I was doing was very much a kind of about the sort of like, thinking of very tight thinking of audio and visuals.
+
+598
+01:14:20,920 --> 01:14:29,920
+And that toy, when you cover its face, when you cover its eyes, the change in light causes it to kind of like make this sound like.
+
+599
+01:14:29,920 --> 01:14:37,920
+And so that kind of like interplay between sort of like sound and light. That's what kind of like appealed to me. And I thought it just sounded like a cool name.
+
+600
+01:14:37,920 --> 01:14:46,920
+Awesome. Great. So I know that you discussed with 65 to nine a vision for the metaverse and how the world would look like in like 20 years.
+
+601
+01:14:46,920 --> 01:15:03,920
+So once one of our students is asking, what do you view on the like the major discussion about the future of the metaverse is it's going to be one universal metaverse or many smaller virtual worlds competing with each other or complimenting each other.
+
+602
+01:15:03,920 --> 01:15:05,920
+How do you see this playing out?
+
+603
+01:15:05,920 --> 01:15:28,920
+I think there will eventually be one sort of like overarching world that has sort of these little pockets that are kind of, you know, sort of completely like you can go to areas that are sort of, you know, much more bespoke and much more sort of either topic oriented or oriented around
+
+604
+01:15:28,920 --> 01:15:49,920
+an interest or a certain group of people. So I think there will be kind of be both. I think there will be one sort of like sort of public internet I think, and I really look at the metaverse when it's fully kind of fleshed out and realized out as being kind of the next iteration of the Internet itself.
+
+605
+01:15:49,920 --> 01:16:08,920
+And so, much like with the Internet, you've got kind of like a public internet where everybody can kind of, you know, this or that but then you also have sort of smaller kind of like the groups where people kind of congregate and sort of exchange ideas or spend time or whatever so I think that's similar
+
+606
+01:16:08,920 --> 01:16:10,920
+to how how this will be.
+
+607
+01:16:10,920 --> 01:16:30,920
+Okay, so in that case, if there's like one mega world and I can move into different places and, you know, join different communities, will I be able to like have different identities or personalities or different avatars because obviously, you know, in my professional capacity and my personal or hoping type of personality
+
+608
+01:16:30,920 --> 01:16:41,920
+and I'm a totally different person like everyone. So, do you think we will be able to move around this world and think personality so rabbit are so
+
+609
+01:16:41,920 --> 01:16:57,920
+I think there will be some places where you can change sort of like personalities and sort of be more anonymous or have a different kind of avatar. But then I think there will be some areas that sort of
+
+610
+01:16:57,920 --> 01:17:03,920
+for participation kind of you have to be you.
+
+611
+01:17:03,920 --> 01:17:19,920
+I think there will be some areas where people want that and they want to know that they're interacting with a real person who everybody knows who that person is and sort of
+
+612
+01:17:19,920 --> 01:17:34,920
+they that is more similar to kind of like the real world. And so I think there will be both. I think there will be definitely places where people can be anonymous and totally sort of like have an avatar and do whatever
+
+613
+01:17:34,920 --> 01:17:48,920
+and places not. And so I think again that's sort of similar to like the internet now there's places where you can just say and do whatever and then there's places where it's like okay you need to kind of actually be you.
+
+614
+01:17:48,920 --> 01:18:03,920
+Okay, thanks. I think I have two questions that are somewhat similar so I'm going to ask them together and they both have to do with how how you work. So, first one is as someone who's been doing
+
+615
+01:18:03,920 --> 01:18:14,920
+the work for years. What is your workflow like regarding using previous experience versus innovating or experimenting with new with new tools and effects and workflows.
+
+616
+01:18:14,920 --> 01:18:27,920
+And the second question is how often do you find some new methods to incorporate versus just having an idea and kind of going in the zone and working like, you know, from muscle memory.
+
+617
+01:18:27,920 --> 01:18:43,920
+Sure, I would say it's definitely kind of a mix of both like I definitely have some sort of like workflows that I kind of developed over the years that are kind of like go to sort of workflows that.
+
+618
+01:18:43,920 --> 01:18:59,920
+And kind of I guess maybe to back up half a second so the way that the pictures are made each day is that I have a massive library of sort of like 3D models.
+
+619
+01:18:59,920 --> 01:19:15,920
+And sort of like stores with with sort of millions of different 3D models of anything you could want. And then I sort of pose these models in a 3D space, sort of, you know, and hopefully interesting ways.
+
+620
+01:19:15,920 --> 01:19:28,920
+And then you kind of scale them and make them bigger or smaller position them and pose them, you know, in different ways and sort of do any kind of like combination of changes there.
+
+621
+01:19:28,920 --> 01:19:42,920
+Then I have kind of a virtual camera that I sort of like light the scene and compose a shot with. And then that still image that I bring that into Photoshop and then sort of do any kind of like painting so at the beginning of the process it's very
+
+622
+01:19:42,920 --> 01:20:03,920
+very natural I'm trying to build like a 3D sculpture of something interesting. And then it becomes almost like photography. And then now I've got this virtual camera that I'm shooting a a sort of like still image of that virtual object that I've already lit and sort of, you know, kind of has more of the sort of properties of photography.
+
+623
+01:20:03,920 --> 01:20:13,920
+And then it becomes more like painting, because then I'm sort of like painting on top of that sort of like image to kind of like finish it up and doing final sort of like compositing work.
+
+624
+01:20:13,920 --> 01:20:26,920
+So that's why I really like this workflow is because it has so many different sort of like aspects to it and you get a little bit of a bunch of different sort of like styles of working.
+
+625
+01:20:26,920 --> 01:20:37,920
+So with that being said I'm always kind of like bringing in new tools here and there to kind of like change things up or speed things up, because to me I'm trying to work as fast as possible.
+
+626
+01:20:37,920 --> 01:20:47,920
+And I think doing things quickly on the computer is not really something that's been possible before.
+
+627
+01:20:47,920 --> 01:21:01,920
+Especially if you look back kind of like historically if you wanted to make something you had to code it. If you wanted to make art. I mean, all art on the computer was generative up until, you know, I don't know, 20 years ago or whatever.
+
+628
+01:21:01,920 --> 01:21:08,920
+When we started to have Photoshop and started have these tools to make art more accessible.
+
+629
+01:21:08,920 --> 01:21:20,920
+So I'm always trying to like figure out those workflow tweaks to be able to work as quickly as possible to have it be more about the flow and have the sort of like tool kind of get out of the way.
+
+630
+01:21:20,920 --> 01:21:29,920
+Amazing. I never thought that your work would combine like sculpting and photography and painting all at the same time. Fascinating.
+
+631
+01:21:29,920 --> 01:21:41,920
+So, I have a related question. Do you have a team that helps you and if you are building a project or community what kind of team members are important to have.
+
+632
+01:21:41,920 --> 01:21:46,920
+Sure. So I'm pretty new to kind of like working with the team.
+
+633
+01:21:46,920 --> 01:22:00,920
+So, I'm tired to all the NFT stuff. I really would never hire people. I had jobs coming in that I could have hired people and I could have kind of started a studio just because I had a huge amount of sort of like work coming in.
+
+634
+01:22:00,920 --> 01:22:14,920
+But I never really wanted to sort of like work with people. As soon as the NFT thing hit, I suddenly kind of was like, okay, well, I definitely have a bunch of things I want to do here that I cannot do on my own.
+
+635
+01:22:14,920 --> 01:22:17,920
+But I would say it was a really great question.
+
+636
+01:22:17,920 --> 01:22:28,920
+But even with that I will say my brother who works with me and sort of manages the team, he used to work at Boeing and manage a team there.
+
+637
+01:22:28,920 --> 01:22:41,920
+So he's been very instrumental in helping manage the engineers and sort of the logistics of what going on so that I can kind of put as much of my focus on just making art as possible.
+
+638
+01:22:41,920 --> 01:22:46,740
+The same thing is tough, I think, making sure you have people you trust and people who are
+
+639
+01:22:46,740 --> 01:22:49,060
+very passionate about what you're doing.
+
+640
+01:22:49,060 --> 01:22:51,540
+That's obviously super key.
+
+641
+01:22:51,540 --> 01:22:54,700
+Great.
+
+642
+01:22:54,700 --> 01:23:02,860
+What do you think is missing for mass adoption of on-chain art?
+
+643
+01:23:02,860 --> 01:23:06,500
+What is missing for mass adoption of on-chain art?
+
+644
+01:23:06,500 --> 01:23:11,300
+I think there's a number of things missing.
+
+645
+01:23:11,300 --> 01:23:21,300
+I think there's education around this stuff, I think, is one of the things, like people
+
+646
+01:23:21,300 --> 01:23:25,380
+understanding how this stuff is made.
+
+647
+01:23:25,380 --> 01:23:28,540
+I think that's a big thing.
+
+648
+01:23:28,540 --> 01:23:34,900
+I think understanding this works place in art history, that's another thing that maybe
+
+649
+01:23:34,900 --> 01:23:38,940
+holds some people back if they think, oh, this is bad, this is just kind of like this
+
+650
+01:23:38,940 --> 01:23:44,380
+thing that happened last summer or whatever.
+
+651
+01:23:44,380 --> 01:23:50,880
+But I think beyond that, the experience of buying this art and owning this art needs
+
+652
+01:23:50,880 --> 01:23:58,340
+to improve a lot because I think if you look at the average person and you kind of remove
+
+653
+01:23:58,340 --> 01:24:07,220
+the sort of speculative element of ownership of this art, it's not that different than
+
+654
+01:24:07,220 --> 01:24:09,460
+not owning the art.
+
+655
+01:24:09,460 --> 01:24:13,740
+If it's literally just this thing that's on your screen and the only difference between
+
+656
+01:24:13,740 --> 01:24:20,300
+owning it and not owning it is that it says your name owned, I think that to me is still
+
+657
+01:24:20,300 --> 01:24:25,620
+going to take a second for a lot of people to kind of wrap their head around.
+
+658
+01:24:25,620 --> 01:24:33,860
+So I think trying to show those people that it's about the ideas and the sort of innovation
+
+659
+01:24:33,860 --> 01:24:35,260
+behind this artwork.
+
+660
+01:24:35,260 --> 01:24:37,460
+That's what kind of gives it value.
+
+661
+01:24:37,460 --> 01:24:38,700
+I think that's a big thing.
+
+662
+01:24:38,700 --> 01:24:47,740
+But I think also the secure stuff making it easier by the art and sort of, I think all
+
+663
+01:24:47,740 --> 01:24:53,540
+those things could be improved and need to be improved before this is truly, truly adopted
+
+664
+01:24:53,540 --> 01:24:54,540
+by the masses.
+
+665
+01:24:54,540 --> 01:24:58,220
+Do you have any views on regulation?
+
+666
+01:24:58,220 --> 01:25:04,820
+I'm asking because we're based in Europe and here the European Commission is taking a stance
+
+667
+01:25:04,820 --> 01:25:13,260
+in which it's looking into NFTs basically as potentially financial instruments and they
+
+668
+01:25:13,260 --> 01:25:19,300
+are looking as to whether they should subject them to regulations that have to do with money
+
+669
+01:25:19,300 --> 01:25:25,020
+laundering or reporting like you would have with digital currencies.
+
+670
+01:25:25,020 --> 01:25:28,300
+What's your view on regulating the NFT space?
+
+671
+01:25:28,300 --> 01:25:36,860
+Yeah, I think it obviously does need some level of oversight or some more clarity on
+
+672
+01:25:36,860 --> 01:25:40,220
+sort of what these things are.
+
+673
+01:25:40,220 --> 01:25:47,220
+And I think it's going to be tough because there's so much different ways to use this
+
+674
+01:25:47,220 --> 01:25:53,580
+technology that are much more gray versus with the ICO boom, it was pretty clear that
+
+675
+01:25:53,580 --> 01:25:59,020
+this was one ICO versus another ICO versus they're all the same, they're all just coin
+
+676
+01:25:59,020 --> 01:26:07,780
+offerings with fungible tokens that act almost entirely like securities.
+
+677
+01:26:07,780 --> 01:26:14,340
+And with the NFT space, I think you have certain people doing things that are more like securities
+
+678
+01:26:14,340 --> 01:26:21,420
+and certain people doing things that are in my opinion, not at all securities.
+
+679
+01:26:21,420 --> 01:26:26,940
+And so I think it's going to be interesting to see how that plays out because I think
+
+680
+01:26:26,940 --> 01:26:33,340
+it's going to be very hard to make kind of blanket rules that cover everything.
+
+681
+01:26:33,340 --> 01:26:42,740
+So I think it's good, I think it will long-term boost the confidence in this space if there
+
+682
+01:26:42,740 --> 01:26:47,900
+is more regulation and people feel like they're not just waiting for the government to come
+
+683
+01:26:47,900 --> 01:26:51,540
+in and take their JPEGs.
+
+684
+01:26:51,540 --> 01:26:58,740
+And so I think ultimately it will be good, but I don't know how it's going to play out.
+
+685
+01:26:58,740 --> 01:27:03,660
+Yeah, I think it's going to be very interesting in that position to have to write these rules.
+
+686
+01:27:03,660 --> 01:27:10,700
+I've spoken to regulators and even in the crypto space where things are more clear because
+
+687
+01:27:10,700 --> 01:27:14,860
+these things are financial instruments and some of them are securities, we see lots and
+
+688
+01:27:14,860 --> 01:27:19,700
+lots of complexities, NFTs now bring it to a whole different level.
+
+689
+01:27:19,700 --> 01:27:24,220
+So yeah, I agree it's going to be challenging.
+
+690
+01:27:24,220 --> 01:27:30,340
+I have a number of questions from students asking about collaborations you've done.
+
+691
+01:27:30,340 --> 01:27:36,500
+So for example, one is saying whether you would like to talk a bit about the Madonna collaboration.
+
+692
+01:27:36,500 --> 01:27:39,020
+I don't know if you would like to go down.
+
+693
+01:27:39,020 --> 01:27:45,700
+Yeah, so the Madonna collaboration for anybody who's not see it, definitely make sure you're
+
+694
+01:27:45,700 --> 01:27:48,060
+not on a work computer or at work.
+
+695
+01:27:48,060 --> 01:27:53,460
+That's not suitable for work.
+
+696
+01:27:53,460 --> 01:27:57,580
+But yeah, it kind of came about last year.
+
+697
+01:27:57,580 --> 01:28:03,100
+Gary V. messaged me and he's like, Madonna wants to talk to you and it was like, okay,
+
+698
+01:28:03,100 --> 01:28:06,660
+I don't know what that's about.
+
+699
+01:28:06,660 --> 01:28:11,020
+So we jumped out of call and it was very, very evident.
+
+700
+01:28:11,020 --> 01:28:17,060
+We just kind of like clicked right away and it became very clear that she still very much
+
+701
+01:28:17,060 --> 01:28:25,140
+wanted to do something to kind of shake things up a bit.
+
+702
+01:28:25,140 --> 01:28:30,700
+And so I was like, I think we could probably have blag there.
+
+703
+01:28:30,700 --> 01:28:35,660
+And so yeah, it was definitely a really fun experience and just like such an honor to
+
+704
+01:28:35,660 --> 01:28:38,180
+be able to sort of like work with this person.
+
+705
+01:28:38,180 --> 01:28:47,220
+It was such a legend and somebody who for me in my lifetime really kind of pushed forward
+
+706
+01:28:47,220 --> 01:28:52,300
+the conversation of like what you can say and what you can't say and what you can show
+
+707
+01:28:52,300 --> 01:28:53,980
+and what you can't show.
+
+708
+01:28:53,980 --> 01:29:01,820
+And sort of I think we take for granted the things that when Madonna did them 30 years
+
+709
+01:29:01,820 --> 01:29:05,020
+ago, it was like, oh my God.
+
+710
+01:29:05,020 --> 01:29:10,260
+That somebody's a woman is doing that like, women can't do that.
+
+711
+01:29:10,260 --> 01:29:18,540
+And I think to me that is so powerful and she's made such a lasting impact on what we
+
+712
+01:29:18,540 --> 01:29:21,060
+see as like obscene.
+
+713
+01:29:21,060 --> 01:29:25,060
+And that's very much what I'm trying to do with the pictures that I make.
+
+714
+01:29:25,060 --> 01:29:32,300
+Oftentimes they are very shocking and very like, oh my God, what most people would consider
+
+715
+01:29:32,300 --> 01:29:33,300
+obscene.
+
+716
+01:29:33,300 --> 01:29:40,340
+But I'm trying to change our definition of sort of like what is unacceptable.
+
+717
+01:29:40,340 --> 01:29:42,180
+And I think that's not new.
+
+718
+01:29:42,180 --> 01:29:45,700
+That's something that's been happening for hundreds of years.
+
+719
+01:29:45,700 --> 01:29:51,460
+And I was like, you can't show a woman's legs or something, you know what I mean?
+
+720
+01:29:51,460 --> 01:29:55,900
+Like this definition of what is like shocking keeps changing.
+
+721
+01:29:55,900 --> 01:30:01,780
+And so I am, you know, in a long line of people who is trying to push the needle forward
+
+722
+01:30:01,780 --> 01:30:03,580
+there in terms of what is shocking.
+
+723
+01:30:03,580 --> 01:30:08,340
+But to me, that's the aesthetic of the internet.
+
+724
+01:30:08,340 --> 01:30:15,980
+The internet is always pushing and it's always trying to find something new and something
+
+725
+01:30:15,980 --> 01:30:18,380
+that people have not seen before.
+
+726
+01:30:18,380 --> 01:30:22,820
+And so that's what I'm very much trying to do with the artwork that I make too.
+
+727
+01:30:22,820 --> 01:30:23,820
+Amazing.
+
+728
+01:30:23,820 --> 01:30:29,700
+You made the point when you were discussing with 659 earlier that stuck with me.
+
+729
+01:30:29,700 --> 01:30:35,460
+You said that the aesthetic of the internet is very weird and it's very difficult to outweird
+
+730
+01:30:35,460 --> 01:30:36,460
+it.
+
+731
+01:30:36,460 --> 01:30:38,540
+So what do you mean by that?
+
+732
+01:30:38,540 --> 01:30:41,140
+What do you mean by outweirding this that's the internet?
+
+733
+01:30:41,140 --> 01:30:48,300
+Well, I think like earlier this week, I did a picture of these crypto deck bots that everybody
+
+734
+01:30:48,300 --> 01:30:52,020
+seemed have a bit of an opinion on.
+
+735
+01:30:52,020 --> 01:30:59,620
+Yeah, there was lots of discussion about this in the chat while you were discussing with
+
+736
+01:30:59,620 --> 01:31:00,620
+659.
+
+737
+01:31:00,620 --> 01:31:07,220
+Yeah, and so that's one of these things where so like in that instance, it's like that
+
+738
+01:31:07,220 --> 01:31:11,820
+was something where you were like, whoa, what the fuck I have not seen this before.
+
+739
+01:31:11,820 --> 01:31:17,780
+But it takes a lot for you to be like scrolling on the internet and see something where you're
+
+740
+01:31:17,780 --> 01:31:23,860
+like, whoa, what the hell that is something I have not seen before because we're so inundated
+
+741
+01:31:23,860 --> 01:31:25,660
+with media.
+
+742
+01:31:25,660 --> 01:31:31,700
+And the things that go viral are things that are new.
+
+743
+01:31:31,700 --> 01:31:37,300
+They are fundamentally new ideas where you're like, oh my god, what this is possible or
+
+744
+01:31:37,300 --> 01:31:38,820
+somebody did this?
+
+745
+01:31:38,820 --> 01:31:42,300
+And like, those are the things that go viral.
+
+746
+01:31:42,300 --> 01:31:48,700
+Ideas that have already sort of come and gone, those don't go viral.
+
+747
+01:31:48,700 --> 01:31:55,580
+Like we don't sort of go back and like, okay, let's start doing this again.
+
+748
+01:31:55,580 --> 01:31:57,180
+Like that's not what happens.
+
+749
+01:31:57,180 --> 01:32:03,780
+It's like it truly has to be something new.
+
+750
+01:32:03,780 --> 01:32:08,340
+And so that's what I'm trying to do with these pictures is make something that is so
+
+751
+01:32:08,340 --> 01:32:13,980
+bizarre that you have not seen that before.
+
+752
+01:32:13,980 --> 01:32:22,940
+It's not, it's also trying to make something that's bizarre but also has a lot of sort
+
+753
+01:32:22,940 --> 01:32:27,580
+of like craft to it.
+
+754
+01:32:27,580 --> 01:32:31,340
+And it's not just something where it's like, okay, this person, you know, threw together
+
+755
+01:32:31,340 --> 01:32:35,420
+a collage of, you know, five different weird pictures.
+
+756
+01:32:35,420 --> 01:32:39,700
+Because even that people see that and it's like, you know, you're scrolling through whatever
+
+757
+01:32:39,700 --> 01:32:44,260
+meat and sight or whatever and you see a bunch of weird shit there.
+
+758
+01:32:44,260 --> 01:32:55,020
+So it's got to be weird in a way that I don't know is not just about a mashup of sort of
+
+759
+01:32:55,020 --> 01:32:57,460
+like different images.
+
+760
+01:32:57,460 --> 01:33:04,900
+And so to me, that the craft of making that image, making something bizarre, but then
+
+761
+01:33:04,900 --> 01:33:13,780
+also trying to make it look good and look like it was professionally done and sort of
+
+762
+01:33:13,780 --> 01:33:20,500
+and I think to me that there's a lot of interesting area to kind of play there.
+
+763
+01:33:20,500 --> 01:33:21,900
+Okay.
+
+764
+01:33:21,900 --> 01:33:27,580
+So one final question, an apologies to the students that I'm not going to be asking every
+
+765
+01:33:27,580 --> 01:33:28,580
+single question.
+
+766
+01:33:28,580 --> 01:33:33,180
+There's too many of them and some of them, you know, like as a student asking how about
+
+767
+01:33:33,180 --> 01:33:36,260
+giving away an air drop to the unique NFT holders.
+
+768
+01:33:36,260 --> 01:33:39,500
+So I don't want to take you there.
+
+769
+01:33:39,500 --> 01:33:41,980
+So last question.
+
+770
+01:33:41,980 --> 01:33:48,060
+I know you discussed IP with 6.5 to 9 and you said a little bit about how you're using
+
+771
+01:33:48,060 --> 01:33:54,260
+creative commons and being, you know, with on purpose, ambiguous about that.
+
+772
+01:33:54,260 --> 01:34:01,740
+But the question from the student is, do you think that IP protection is taking consideration
+
+773
+01:34:01,740 --> 01:34:06,740
+in the NFT space as much as it should be?
+
+774
+01:34:06,740 --> 01:34:07,740
+Sorry.
+
+775
+01:34:07,740 --> 01:34:09,740
+Because there's many.
+
+776
+01:34:09,740 --> 01:34:18,460
+They're buying NFTs and they don't really realize, you know, kind of rights do they have
+
+777
+01:34:18,460 --> 01:34:24,060
+with this property that they have or even whether, you know, the actual images store
+
+778
+01:34:24,060 --> 01:34:28,300
+don't say it or somewhere else and, you know, maybe 10 years down the line, they relax as
+
+779
+01:34:28,300 --> 01:34:31,460
+they're talking and they will not show, will not show what they have.
+
+780
+01:34:31,460 --> 01:34:34,220
+So what's your view on that?
+
+781
+01:34:34,220 --> 01:34:45,740
+I think the arguments around things being creative, common zero, I think are again sort
+
+782
+01:34:45,740 --> 01:34:48,980
+of like interesting, but they're very experimental.
+
+783
+01:34:48,980 --> 01:35:05,020
+And I think people, I think for the most part, I think it, I'm not sure it matters that much
+
+784
+01:35:05,020 --> 01:35:06,020
+to be honest.
+
+785
+01:35:06,020 --> 01:35:14,180
+I think it matters somewhat, but I'm not 100% sure it matters as much as people think.
+
+786
+01:35:14,180 --> 01:35:17,940
+Because again, everybody does whatever they want on the internet.
+
+787
+01:35:17,940 --> 01:35:22,700
+Through you make something creative, common zero or not, it's sort of like people are
+
+788
+01:35:22,700 --> 01:35:24,820
+going to just take it and do what they want.
+
+789
+01:35:24,820 --> 01:35:30,860
+And sort of, you know, my work's been remixed a billion times in this and that.
+
+790
+01:35:30,860 --> 01:35:39,700
+And it's sort of like, to me, I think it's more so what I would not do is try to pull
+
+791
+01:35:39,700 --> 01:35:41,540
+these the internet.
+
+792
+01:35:41,540 --> 01:35:43,820
+That to me is a very losing thing.
+
+793
+01:35:43,820 --> 01:35:48,500
+I think whether you make things creative, common zero, I think there are certain times
+
+794
+01:35:48,500 --> 01:35:52,340
+where it makes sense and there are certain times where it's like if you are giving away
+
+795
+01:35:52,340 --> 01:36:00,500
+something that truly has value and people can build value upon that, I think that's
+
+796
+01:36:00,500 --> 01:36:02,580
+interesting.
+
+797
+01:36:02,580 --> 01:36:08,820
+But I think if it's like you're giving away IP so that other people will build value on
+
+798
+01:36:08,820 --> 01:36:16,580
+that, to make your thing more valuable, I don't know that a lot of people are going
+
+799
+01:36:16,580 --> 01:36:24,740
+to do that just because I think it takes a lot of time and money to sort of build value
+
+800
+01:36:24,740 --> 01:36:26,020
+around a piece of IP.
+
+801
+01:36:26,020 --> 01:36:32,180
+And then if you don't actually even own it, it's sort of like, well, why would I do that?
+
+802
+01:36:32,180 --> 01:36:38,540
+Why would I spend my time and money to build value around this thing that I don't own?
+
+803
+01:36:38,540 --> 01:36:47,260
+And so I think it's tough and I think these things are very interesting sort of like
+
+804
+01:36:47,260 --> 01:36:52,220
+experiments but they are very experimental and I think people don't really know where
+
+805
+01:36:52,220 --> 01:36:54,900
+they're going to sort of like end up.
+
+806
+01:36:54,900 --> 01:37:01,220
+And I think with sort of things being on chain or not on chain, to me I also don't think
+
+807
+01:37:01,220 --> 01:37:04,540
+that matters that much.
+
+808
+01:37:04,540 --> 01:37:11,580
+Because again, if IPFS and all these things went down and we're probably fucked, we're
+
+809
+01:37:11,580 --> 01:37:23,420
+probably not like, okay, which of my fucking PFPs was saved as an SVG file versus a JPEG,
+
+810
+01:37:23,420 --> 01:37:30,820
+I'm not sure if all of our file systems are down, that's going to be your primary concern
+
+811
+01:37:30,820 --> 01:37:32,660
+at that point in life.
+
+812
+01:37:32,660 --> 01:37:38,740
+Yeah, well, all file systems went down, we'll definitely have more important things to worry
+
+813
+01:37:38,740 --> 01:37:39,740
+about I guess.
+
+814
+01:37:39,740 --> 01:37:42,260
+Yeah, that's what I'm saying.
+
+815
+01:37:42,260 --> 01:37:47,420
+If the internet goes down and suddenly our JPEGs are coming up with broken links, somehow
+
+816
+01:37:47,420 --> 01:37:51,460
+I'm not sure your JPEGs are going to be the things you're most worried about.
+
+817
+01:37:51,460 --> 01:37:57,300
+So to me, like I think a lot of these things have dependencies and we're very much dependent
+
+818
+01:37:57,300 --> 01:38:03,300
+on ether scan and open C and blah, blah, blah, I think there's more dependencies than people
+
+819
+01:38:03,300 --> 01:38:07,180
+want to kind of like admit with this stuff.
+
+820
+01:38:07,180 --> 01:38:11,180
+And I think you look at a lot of the things too, like look at a bunch of the art blocks
+
+821
+01:38:11,180 --> 01:38:15,300
+of uses a bunch of like code libraries, what if those code libraries don't exist?
+
+822
+01:38:15,300 --> 01:38:18,700
+What if blah, blah, blah, this plug in for the browser doesn't exist.
+
+823
+01:38:18,700 --> 01:38:26,260
+I mean, a lot of this stuff has some outside dependencies.
+
+824
+01:38:26,260 --> 01:38:32,420
+But here's the thing that I'm very confident of, even if you do have a bunch of dependencies,
+
+825
+01:38:32,420 --> 01:38:39,100
+the things that people value, people will protect and keep track of.
+
+826
+01:38:39,100 --> 01:38:44,500
+Look at these paintings that were painted with garbage, whatever paints that they had
+
+827
+01:38:44,500 --> 01:38:49,420
+500 years ago, those paintings shouldn't last.
+
+828
+01:38:49,420 --> 01:38:54,700
+They were made with whatever, you know, people called paint 500 years ago, which I'm sure
+
+829
+01:38:54,700 --> 01:39:01,620
+was just dirt and sort of they didn't know how to make things last hundreds of years.
+
+830
+01:39:01,620 --> 01:39:06,940
+And yet we still have those paintings and we still protected them and sort of we keep
+
+831
+01:39:06,940 --> 01:39:10,940
+refurbishing them and sort of like renovating them.
+
+832
+01:39:10,940 --> 01:39:15,660
+And so the ideas that are valuable, people will figure out how to hold.
+
+833
+01:39:15,660 --> 01:39:20,860
+I mean, again, look at very old computers, like early sort of like computing things.
+
+834
+01:39:20,860 --> 01:39:27,180
+We still have app of two E's and all kinds of things that don't really make sense anymore.
+
+835
+01:39:27,180 --> 01:39:31,460
+But we kept those alive and people figured out how to preserve those things.
+
+836
+01:39:31,460 --> 01:39:36,540
+So the things that are important and people want to preserve, they will figure out how
+
+837
+01:39:36,540 --> 01:39:41,980
+to preserve, whether it's on chain, off chain, whatever.
+
+838
+01:39:41,980 --> 01:39:49,140
+And the things that are not will just end up in sort of the kind of heap of the internet.
+
+839
+01:39:49,140 --> 01:39:57,260
+And so I would worry more about putting out work that you believe will stand the test of
+
+840
+01:39:57,260 --> 01:40:02,860
+time than whatever little protocol we have right now.
+
+841
+01:40:02,860 --> 01:40:11,940
+Because again, making something that people give a fuck about in 50 years, 100 years,
+
+842
+01:40:11,940 --> 01:40:18,020
+that's much harder than like how people are going to like save that thing.
+
+843
+01:40:18,020 --> 01:40:22,580
+And sort of like experience it 100 years from now.
+
+844
+01:40:22,580 --> 01:40:27,540
+Again, if you're taking a very long view of this stuff, are we all going to be using
+
+845
+01:40:27,540 --> 01:40:29,940
+IPFS 100 years from now?
+
+846
+01:40:29,940 --> 01:40:31,100
+I don't know.
+
+847
+01:40:31,100 --> 01:40:33,660
+It will be moved on to something else.
+
+848
+01:40:33,660 --> 01:40:36,380
+Are we even going to be using a theory on 100 years from now?
+
+849
+01:40:36,380 --> 01:40:37,380
+I don't know.
+
+850
+01:40:37,380 --> 01:40:40,300
+Maybe it will be migrated to a different blockchain or this or that.
+
+851
+01:40:40,300 --> 01:40:44,340
+So it's one of these things where taking a very long look at this.
+
+852
+01:40:44,340 --> 01:40:52,860
+I think I would focus more on the ideas than any specific 2022 technologies.
+
+853
+01:40:52,860 --> 01:40:56,580
+I couldn't think of a better way to close.
+
+854
+01:40:56,580 --> 01:40:58,740
+This is an amazing thought.
+
+855
+01:40:58,740 --> 01:41:01,980
+Thank you so much for being with us.
+
+856
+01:41:01,980 --> 01:41:06,980
+It was a very, very interesting session, both a discussion with 65 to 90, I think, our
+
+857
+01:41:06,980 --> 01:41:07,980
+student questions.
+
+858
+01:41:07,980 --> 01:41:11,780
+I'm looking forward to having you again in the future.
+
+859
+01:41:11,780 --> 01:41:12,780
+Awesome.
+
+860
+01:41:12,780 --> 01:41:13,780
+Thank you.
+
+861
+01:41:13,780 --> 01:41:14,780
+I appreciate it.
+
+862
+01:41:14,780 --> 01:41:15,780
+I appreciate the opportunity.
+
+863
+01:41:15,780 --> 01:41:16,780
+Bye-bye.
+
+864
+01:41:16,780 --> 01:41:43,780
+Bye everyone.
+
