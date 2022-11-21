@@ -26,5 +26,7 @@ The following list contains the endpoints (links) to the live sessions recording
 
     - **Week 6.2** - https://arweave.net/9IFjtUIyZO9-Nyjs6k5M6N7Cm1y2l9WARMqhi2LjuXU
 
+- **Week 7: Gaming NFTs** - https://arweave.net/RbjXLOUD8ij_WiCNYz-meHW51RCQBhATMkq09fOyFj0
+
 
 NOTE: the video files are stored in a peer-to-peer visual content database. For more : https://ardrive.io/ 

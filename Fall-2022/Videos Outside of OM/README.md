@@ -27,6 +27,8 @@ The following list contains the endpoints (links) to the live sessions recording
     - **Week 6.1** - https://arweave.net/6VgQV-AsRq8eM9YuvuHngoRn9ndM5xJFYtU1-XV9xz8
 
     - **Week 6.2** - https://arweave.net/YRW52746OegQ06vTeIhsqHz0vPeNRYXKORM-awjw6mM
+
+- **Week 7: Gaming NFTs** - https://arweave.net/ngTjfIVzapSnwQ7sl8bqTlk38iuTAtEcz3xJhWs2-1M
     
     
 
