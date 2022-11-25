@@ -32,7 +32,7 @@ Inside this directory you may find the transcripts of the live sessions, were -w
         - .txt - https://arweave.net/hw5mcEsSnsDoT2qcseFl2cr9PmqwjxS2Txucj_u07sw
         - .srt - https://arweave.net/Bf54i-BYFaVtgiLu63gOBjRbaQ3qZoWJr5OhN44wGx0
         - .vtt - https://arweave.net/apgfC7ONvUr4NjOfqRyX-SZlIqdJS2x4RRS-z9zSB20
-        - **Week 4.2**
+    - **Week 4.2**
         - .txt - https://arweave.net/2GZwX7REKPNDSJjjvkfmdHgs1zq8YOICFFBikaHnA68
         - .srt - https://arweave.net/JHXCaIw5zim106nTweA7KcMtlNZti6xl33tBHXyiMUA
         - .vtt - https://arweave.net/wXE6VuchVdZABNOarbMcyx9npbt1WWmINKcwVmOhKg4

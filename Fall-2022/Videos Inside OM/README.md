@@ -28,5 +28,7 @@ The following list contains the endpoints (links) to the live sessions recording
 
 - **Week 7: Gaming NFTs** - https://arweave.net/RbjXLOUD8ij_WiCNYz-meHW51RCQBhATMkq09fOyFj0
 
+- **Week 8: What is the Metaverse?** - https://arweave.net/LgqQMxVJP8QWvl-jSMmyn5b67OcHuJKBI-9mfTVMoEw
+
 
 NOTE: the video files are stored in a peer-to-peer visual content database. For more : https://ardrive.io/ 
