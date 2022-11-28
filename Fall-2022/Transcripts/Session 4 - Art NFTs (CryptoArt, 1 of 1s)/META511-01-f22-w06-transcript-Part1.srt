@@ -1,0 +1,2796 @@
+1
+00:00:00,000 --> 00:00:25,480
+Okay, everyone, I think we are now all set.
+
+2
+00:00:25,480 --> 00:00:33,720
+This is session 6 of Meta 511 Non-Fungible Tokens and the Metaverse.
+
+3
+00:00:33,720 --> 00:00:37,160
+And today, the session sounds a little bit more general.
+
+4
+00:00:37,160 --> 00:00:40,000
+It's called Key Considerations in the NFT space.
+
+5
+00:00:40,000 --> 00:00:44,040
+And I'll get into what that means in a little bit.
+
+6
+00:00:44,040 --> 00:00:54,800
+Before I do that, I'd like to acknowledge that the last 24, 48, 72 hours in the general
+
+7
+00:00:54,800 --> 00:00:58,240
+crypto space, I think, has been quite dramatic.
+
+8
+00:00:58,240 --> 00:01:06,160
+I assume almost everyone here knows, but in case we have non-crypto folks here who don't
+
+9
+00:01:06,160 --> 00:01:12,000
+over the last couple of days, FTX, which is one of the largest exchanges in the world,
+
+10
+00:01:12,000 --> 00:01:18,680
+and has failed to meet redemptions withdraws.
+
+11
+00:01:18,680 --> 00:01:23,080
+And this is causing understandably a lot of turbulence in the market, a lot of anxiety
+
+12
+00:01:23,080 --> 00:01:25,520
+of what it might mean.
+
+13
+00:01:25,520 --> 00:01:33,880
+And it looks like there's no immediate end in sight to this situation.
+
+14
+00:01:33,880 --> 00:01:41,080
+What I wanted to just say for a second, what I wanted to share with you what I've said
+
+15
+00:01:41,080 --> 00:01:47,360
+on my Twitter feed, first of all, I'm sure some people, a lot of people, maybe some people
+
+16
+00:01:47,360 --> 00:01:50,920
+here, have been hurt by this.
+
+17
+00:01:50,920 --> 00:01:55,400
+And I feel very badly for anyone who has been hurt by this.
+
+18
+00:01:55,400 --> 00:02:01,960
+You should be able to trust that an exchange that has your tokens or your money can give
+
+19
+00:02:01,960 --> 00:02:05,520
+them back to you when you want to.
+
+20
+00:02:05,520 --> 00:02:09,320
+But sadly, that often in crypto has not happened.
+
+21
+00:02:09,320 --> 00:02:16,680
+Unfortunately, the natural keys, not your coins, stay of crypto has often been this way.
+
+22
+00:02:16,680 --> 00:02:27,960
+But what I wanted to share is it might feel very bleak.
+
+23
+00:02:27,960 --> 00:02:30,520
+And this has happened many times before in crypto.
+
+24
+00:02:30,520 --> 00:02:33,640
+And as many times as anyone who's been in the field for a very long time has been through
+
+25
+00:02:33,640 --> 00:02:38,400
+multiple of these cycles and has been hit at various points through these cycles.
+
+26
+00:02:38,400 --> 00:02:51,040
+So if you're just regular, sad, and don't talk to your non-crypto friends, it will pass.
+
+27
+00:02:51,040 --> 00:02:54,400
+If you're seriously sad, please do seek help.
+
+28
+00:02:54,400 --> 00:03:00,000
+This is, crypto is important, money is important, of course, all these things are important.
+
+29
+00:03:00,000 --> 00:03:03,920
+But they're not as important as your health as you're well-being, your family, and
+
+30
+00:03:03,920 --> 00:03:08,880
+a lot of people are really in shock today.
+
+31
+00:03:08,880 --> 00:03:13,880
+And for a lot of people, this might be the first time that this has happened to them.
+
+32
+00:03:13,880 --> 00:03:17,640
+And so do take care of yourself.
+
+33
+00:03:17,640 --> 00:03:26,800
+In the end, you look back at these things over time and they feel very different than
+
+34
+00:03:26,800 --> 00:03:30,040
+a point of when they do while they're happening.
+
+35
+00:03:30,040 --> 00:03:34,760
+I have had things like this happen to me multiple times over the last decade.
+
+36
+00:03:34,760 --> 00:03:41,600
+And when you're in it, it is extraordinarily stressful, painful, maybe emotionally painful.
+
+37
+00:03:41,600 --> 00:03:46,640
+And over time, then it feels very different.
+
+38
+00:03:46,640 --> 00:03:54,360
+And there, in the fullness of times, I mean, it's just become really interesting stories,
+
+39
+00:03:54,360 --> 00:03:59,880
+which sounds crazy at the moment to think about it, the moment you're just saying, my
+
+40
+00:03:59,880 --> 00:04:00,880
+own disaster.
+
+41
+00:04:00,880 --> 00:04:07,400
+But I'm here to say that it's not like that.
+
+42
+00:04:07,400 --> 00:04:10,560
+The vast majority of cases, it's not like that.
+
+43
+00:04:10,560 --> 00:04:18,800
+And just like when everything is going super super well, it's never as good as it seems.
+
+44
+00:04:18,800 --> 00:04:24,840
+When things are going badly as they are now, it's never as bad as it seems.
+
+45
+00:04:24,840 --> 00:04:33,880
+And so do take care of yourself, don't let yourself take it too hard.
+
+46
+00:04:33,880 --> 00:04:38,800
+Whatever has happened in this case has probably more or less happened and is probably out
+
+47
+00:04:38,800 --> 00:04:42,760
+of your control in the case of FTX.
+
+48
+00:04:42,760 --> 00:04:49,840
+And so do me, do me, be kind to yourself, be kind to yourself, be kind to your family.
+
+49
+00:04:49,840 --> 00:05:01,620
+And as I said, it's never as good as it seemspol as it seems Brund Time is probably a good
+
+50
+00:05:01,620 --> 00:05:16,700
+life- Executioners are something that we9 arcade time for and letters are a good model for
+
+51
+00:05:16,700 --> 00:05:17,700
+you.
+
+52
+00:05:17,700 --> 00:05:22,660
+seems perfect, there's some reversion to the meme in your happiness and in your life,
+
+53
+00:05:22,660 --> 00:05:27,660
+and when everything seems terrible, the same is actually true.
+
+54
+00:05:27,660 --> 00:05:34,620
+So I didn't want to share that, so I shared it on Twitter.
+
+55
+00:05:34,620 --> 00:05:40,620
+It is some of us are hardened now.
+
+56
+00:05:40,620 --> 00:05:43,620
+We've been through this many times.
+
+57
+00:05:43,620 --> 00:05:50,620
+So to the degree that is helpful for people who are going through it for the first time,
+
+58
+00:05:50,620 --> 00:05:58,620
+now would like to be helpful and find a friend, talk to a friend, talk to a fellow,
+
+59
+00:05:58,620 --> 00:06:03,620
+get off Crypto Twitter, that's possibly a good idea.
+
+60
+00:06:03,620 --> 00:06:08,620
+Be kind to yourself.
+
+61
+00:06:08,620 --> 00:06:16,620
+Okay, now today's session is another framework session.
+
+62
+00:06:16,620 --> 00:06:17,620
+What do I mean?
+
+63
+00:06:17,620 --> 00:06:25,620
+These are topics that we are going to dive into in-depth with a lot of the guests.
+
+64
+00:06:25,620 --> 00:06:35,620
+We are going to bring guests without who are specialists in these topics.
+
+65
+00:06:35,620 --> 00:06:44,620
+And maybe on something that today is a slide, we'll spend a whole hour.
+
+66
+00:06:44,620 --> 00:06:49,620
+So just like we did in a couple of the more recent sessions,
+
+67
+00:06:49,620 --> 00:06:55,620
+and particularly for folks who are newer to this field,
+
+68
+00:06:55,620 --> 00:07:00,620
+I want to make sure we have the same basic frameworks among all of us.
+
+69
+00:07:00,620 --> 00:07:15,620
+And then, and then we will go into the individual sessions and dig into this in much more detail.
+
+70
+00:07:15,620 --> 00:07:28,620
+So my guess is as many of the prior sessions, this is going to be more fairly basic for the advanced folks today.
+
+71
+00:07:28,620 --> 00:07:35,620
+And we'll get into the advanced topics in sessions, but for folks who may be not as deep into the space,
+
+72
+00:07:35,620 --> 00:07:36,620
+it'll be helpful.
+
+73
+00:07:36,620 --> 00:07:39,620
+It's a level setting.
+
+74
+00:07:39,620 --> 00:07:42,620
+It's a level-setting session.
+
+75
+00:07:42,620 --> 00:07:47,620
+So, let me, that's the same.
+
+76
+00:07:47,620 --> 00:07:49,620
+I want to talk about pre-topics today.
+
+77
+00:07:49,620 --> 00:07:55,620
+This topic of collectibles, this question of aesthetics and versus rarity,
+
+78
+00:07:55,620 --> 00:08:04,620
+which is often discussed in the space, a little bit of NFT-5, which is a play on the word DeFi,
+
+79
+00:08:04,620 --> 00:08:13,620
+or DeFi being decentralized finance, and a variety of crypto services that are effectively financial services,
+
+80
+00:08:13,620 --> 00:08:19,620
+but they're running as on-chain protocols, not as centralized companies.
+
+81
+00:08:19,620 --> 00:08:28,620
+So, Uniswap is a DeFi exchange, compound is a DeFi lender, a small editorial note.
+
+82
+00:08:28,620 --> 00:08:38,620
+A nice thing about DeFi services is you can see, transparently, what's happening all the way through,
+
+83
+00:08:38,620 --> 00:08:44,620
+which apparently has not been the case for the centralized crypto services,
+
+84
+00:08:44,620 --> 00:08:50,620
+which have truly performed very poorly during this fair market.
+
+85
+00:08:50,620 --> 00:09:00,620
+So, the theory that the value and the interesting thing and the magic of crypto assets and crypto currencies
+
+86
+00:09:00,620 --> 00:09:07,620
+of blockchain is the on-chain part, not a centralized company wrapped around your on-chain balances,
+
+87
+00:09:07,620 --> 00:09:15,620
+un-beated, undefeated. This is what it's all about for better or for worse.
+
+88
+00:09:15,620 --> 00:09:22,620
+So, we'll talk a little bit about how NFTs may or may not interact with DeFi.
+
+89
+00:09:22,620 --> 00:09:26,620
+So, let's talk about collectibles.
+
+90
+00:09:26,620 --> 00:09:36,620
+And collectibles is one of these concepts that is thrown around a lot in the space.
+
+91
+00:09:36,620 --> 00:09:48,620
+Mostly as a criticism, mostly its people saying, you mostly hear this concept from people from outside the space
+
+92
+00:09:48,620 --> 00:09:59,620
+saying, well, this stuff's not really art. It's collectibles.
+
+93
+00:09:59,620 --> 00:10:09,620
+And they mean that primarily in a negative way. Sometimes in a neutral, it's really meant in a positive way.
+
+94
+00:10:09,620 --> 00:10:18,620
+And it's interesting to think, is that true? Is that accurate? Or is it accurate?
+
+95
+00:10:18,620 --> 00:10:22,620
+And I thought it was something like, okay, what are collectibles?
+
+96
+00:10:22,620 --> 00:10:30,620
+One of the things that are unambiguously collectibles that nobody really questions that they are collectibles.
+
+97
+00:10:30,620 --> 00:10:37,620
+How many, many things? Humans love to collect things.
+
+98
+00:10:37,620 --> 00:10:43,620
+Different humans love to collect different types of things.
+
+99
+00:10:43,620 --> 00:10:53,620
+But it does seem to be some type of innate human desire. What are like things that are real people collect?
+
+100
+00:10:53,620 --> 00:11:00,620
+Well, those are stamps. I'm a stamp collector. I'm a coin collector.
+
+101
+00:11:00,620 --> 00:11:07,620
+I'm a baseball card collector. I'm a football card collector. I'm a comic book collector.
+
+102
+00:11:07,620 --> 00:11:14,620
+I'm a Beanie baby collector. It's always an example. Everyone always mentions beanie because it all comes to this.
+
+103
+00:11:14,620 --> 00:11:20,620
+I'm a collectible wine collector.
+
+104
+00:11:20,620 --> 00:11:25,620
+And wine's interesting because there's two categories of wine, right? There's collectible grade wine.
+
+105
+00:11:25,620 --> 00:11:31,620
+I mean, not collectible grade wine. There's the kind of cheap and cheerful wine that you buy from the supermarket
+
+106
+00:11:31,620 --> 00:11:34,620
+and you'll have tonight for dinner.
+
+107
+00:11:34,620 --> 00:11:38,620
+That wine, even if you collect, it's not going to make any difference like it's not.
+
+108
+00:11:38,620 --> 00:11:45,620
+It's not actually collectible wine. And then there's wine that is, that ages well and is limited supply and is high quality.
+
+109
+00:11:45,620 --> 00:11:52,620
+It is collectible. Classic cars are collectible.
+
+110
+00:11:52,620 --> 00:11:57,620
+Comic books are collectible.
+
+111
+00:11:57,620 --> 00:12:05,620
+But also things from the fashion world. Certain handbags are collectibles.
+
+112
+00:12:05,620 --> 00:12:09,620
+Certain watches are collectibles.
+
+113
+00:12:09,620 --> 00:12:17,620
+Genstones, jewelry. All of these are broadly in the category of collectibles.
+
+114
+00:12:17,620 --> 00:12:28,620
+And many of these things, many of them, have long-term established value.
+
+115
+00:12:28,620 --> 00:12:42,620
+So, stamps have been something that people collected a decade ago and 50 years ago and 100 years ago.
+
+116
+00:12:42,620 --> 00:12:48,620
+It's not going likely to change.
+
+117
+00:12:48,620 --> 00:12:57,620
+Genstones have been collected for millennia.
+
+118
+00:12:57,620 --> 00:13:19,620
+And in categories of collectibles, where it has become established that the categories important and people care about it,
+
+119
+00:13:19,620 --> 00:13:28,620
+they tend to trade on rarity. Stamps are a great example. They are.
+
+120
+00:13:28,620 --> 00:13:41,620
+A very large number of stamps involved. Some of them are very pretty. Some of them are beautiful.
+
+121
+00:13:41,620 --> 00:13:50,620
+But a typical run of stamps is gigantic.
+
+122
+00:13:50,620 --> 00:13:55,620
+There might be millions. The United States, they have the stamps. It's the American flag.
+
+123
+00:13:55,620 --> 00:14:03,620
+I don't think it's even millions. It might be hundreds of millions that have been printed of that stamp.
+
+124
+00:14:03,620 --> 00:14:12,620
+That might be an aesthetically appealing stamp. It might be more aesthetically appealing than a rare stamp, but it does not generate collectible value.
+
+125
+00:14:12,620 --> 00:14:17,620
+Because the supply is very large.
+
+126
+00:14:17,620 --> 00:14:24,620
+And so, even if 100,000, 100,000 people say, oh, yeah, what one of those things?
+
+127
+00:14:24,620 --> 00:14:40,620
+There's so much supply that when the basic laws of supply and demand kick in, the laws of supply and demand being the price of something is how much demand there is for it, how many people want it.
+
+128
+00:14:40,620 --> 00:14:46,620
+And also how much of it there is.
+
+129
+00:14:46,620 --> 00:14:56,620
+So, you know, people who haven't taken a microeconomic class sometimes, you know, get a little confused on this.
+
+130
+00:14:56,620 --> 00:15:01,620
+Things might be extremely valuable, and you have a low price.
+
+131
+00:15:01,620 --> 00:15:10,620
+For example, air. Oxygen is extremely valuable. Without it, we'd all be dead in a couple minutes.
+
+132
+00:15:10,620 --> 00:15:16,620
+And demand for oxygen is off the charts.
+
+133
+00:15:16,620 --> 00:15:20,620
+But oxygen is also extremely plentiful.
+
+134
+00:15:20,620 --> 00:15:23,620
+It's available all around us.
+
+135
+00:15:23,620 --> 00:15:30,620
+And therefore, it trades for free.
+
+136
+00:15:30,620 --> 00:15:46,620
+The primary driver of established collectible category value tends to be a bread.
+
+137
+00:15:46,620 --> 00:16:02,620
+You have to, for their to be value, there has to be some shortage in quotes, air quotes of supply.
+
+138
+00:16:02,620 --> 00:16:10,620
+And I think also it becomes a little bit reflexive.
+
+139
+00:16:10,620 --> 00:16:24,620
+The price itself becomes in some cases, part of the value of the rarity, somehow independently of the rarity.
+
+140
+00:16:24,620 --> 00:16:27,620
+What are we, but let's just work through an example.
+
+141
+00:16:27,620 --> 00:16:30,620
+We'll stay with an example that's like you're going to be very neutral to people.
+
+142
+00:16:30,620 --> 00:16:36,620
+Stamps.
+
+143
+00:16:36,620 --> 00:16:41,620
+If there are this, not a ton of people in the world want to go at stamps, right?
+
+144
+00:16:41,620 --> 00:16:46,620
+But of the very rare stamps, there's really quite not that many of them at all.
+
+145
+00:16:46,620 --> 00:16:56,620
+They tend to be older. They tend to be things like misprints, or only fewer printed, or they vary old and most of them destroyed.
+
+146
+00:16:56,620 --> 00:17:05,620
+And even though you might not be interested in it generically in a stamp as well, it will feel special to own one of ten late Victorians.
+
+147
+00:17:05,620 --> 00:17:09,620
+And you know, the other ones in a museum somewhere in the UK, right?
+
+148
+00:17:09,620 --> 00:17:15,620
+Another one is with some other person, and you now own one of them.
+
+149
+00:17:15,620 --> 00:17:17,620
+And then you maybe pay a lot of money for it.
+
+150
+00:17:17,620 --> 00:17:20,620
+To a thousand dollars for it, making these numbers up.
+
+151
+00:17:20,620 --> 00:17:22,620
+All these examples are made up.
+
+152
+00:17:22,620 --> 00:17:34,620
+And then you see a story that says, wow, someone paid $200,000 for this rare Victorian stamp.
+
+153
+00:17:34,620 --> 00:17:42,620
+And somehow even the price itself gets embedded into the rarity, into the status.
+
+154
+00:17:42,620 --> 00:17:47,620
+Now, this reflexivity causes booms and busts and bubbles, right?
+
+155
+00:17:47,620 --> 00:17:52,620
+So it's not in and of itself a good or a bad thing.
+
+156
+00:17:52,620 --> 00:17:54,620
+It's a neutral thing.
+
+157
+00:17:54,620 --> 00:18:03,620
+But what ends up being the case is that ultimately,
+
+158
+00:18:03,620 --> 00:18:14,620
+ultimately, I think, I think this might be controversial and it might cause people to react.
+
+159
+00:18:14,620 --> 00:18:26,620
+But a huge amount of what drives collectable of us is status issue.
+
+160
+00:18:26,620 --> 00:18:36,620
+And I said, oh, no, no, no, I really like stamps and the stamps are super interesting, and this is a very special stamp.
+
+161
+00:18:36,620 --> 00:18:39,620
+And now I own the special stamp.
+
+162
+00:18:39,620 --> 00:18:42,620
+Okay, cool, there's all two.
+
+163
+00:18:42,620 --> 00:18:48,620
+And I think when you're a stamp expert, you don't think you're collecting that special stamp for status purposes.
+
+164
+00:18:48,620 --> 00:18:55,620
+Just like when I'm pouring through out blocks curated for a rare piece of genital art.
+
+165
+00:18:55,620 --> 00:19:02,620
+And genuinely don't think I'm doing it for status purposes.
+
+166
+00:19:02,620 --> 00:19:07,620
+What I think I'm doing it for is for the intellectual challenge to find something interesting,
+
+167
+00:19:07,620 --> 00:19:14,620
+to find something special, to put it in the museum to complete the collection, all these things, right?
+
+168
+00:19:14,620 --> 00:19:27,620
+But the underlying driver, the underlying psychological driver, has to somehow biologically be status related, right?
+
+169
+00:19:27,620 --> 00:19:31,620
+Like birds.
+
+170
+00:19:31,620 --> 00:19:39,620
+Oh, sorry, some species of birds decorate their nests.
+
+171
+00:19:39,620 --> 00:19:48,620
+And when you see them how they decorate their nests, you kind of laugh because it's sort of the way humans would decorate their nests.
+
+172
+00:19:48,620 --> 00:19:57,620
+They like sparkly and colorful things.
+
+173
+00:19:57,620 --> 00:20:00,620
+And what I think is going on is, I know, look, I have a special nest.
+
+174
+00:20:00,620 --> 00:20:02,620
+I have nice and valuable things in my nest.
+
+175
+00:20:02,620 --> 00:20:14,620
+This is prestigious in the pigeon community or whatever, but you don't know if pigeons decorate their nests, but it's prestigious in my bird community.
+
+176
+00:20:14,620 --> 00:20:23,620
+I'm perhaps more likely to attract the mate to my nest.
+
+177
+00:20:23,620 --> 00:20:25,620
+And it's a sign of fitness, right?
+
+178
+00:20:25,620 --> 00:20:32,620
+I was able to find these nice and sparkly things and bring them there.
+
+179
+00:20:32,620 --> 00:20:35,620
+Maybe it means I'm a good hunter or something, gatherer food.
+
+180
+00:20:35,620 --> 00:20:38,620
+By the way, the bird's not thinking any of these things, right?
+
+181
+00:20:38,620 --> 00:20:43,620
+The bird itself is just thinking, oh, look, sparkly thing.
+
+182
+00:20:43,620 --> 00:20:45,620
+I'd like this in my nest.
+
+183
+00:20:45,620 --> 00:20:48,620
+And then the bird's partner might be like, oh, well, that's pretty cool.
+
+184
+00:20:48,620 --> 00:20:49,620
+It's sparkly.
+
+185
+00:20:49,620 --> 00:20:57,620
+I'm going to hang out here for a second. I'm going to get to know each other and hear how birds flirt, but the rest is history.
+
+186
+00:20:57,620 --> 00:21:04,620
+And we don't 100% know why we're doing the things we're doing, right?
+
+187
+00:21:04,620 --> 00:21:09,620
+We're highly biologically driven. We're highly evolutionarily driven.
+
+188
+00:21:09,620 --> 00:21:12,620
+But I think it comes from a similar place.
+
+189
+00:21:12,620 --> 00:21:17,620
+And I think it is a very deep human tendency.
+
+190
+00:21:17,620 --> 00:21:35,620
+Because we say collectible behavior across category, across demographic, across societies, across centuries, across quote unquote asset classes.
+
+191
+00:21:35,620 --> 00:21:40,620
+And so there's something very deeply human about collecting.
+
+192
+00:21:40,620 --> 00:21:45,620
+Collectibles, for me, are not a dirty word.
+
+193
+00:21:45,620 --> 00:21:52,620
+They're not an interesting thing, a boring thing.
+
+194
+00:21:52,620 --> 00:22:11,620
+No, someone who is super into restoring classic cars and finding the one of whatever 20 old Mercedes Benz from the 1930s that,
+
+195
+00:22:11,620 --> 00:22:21,620
+and finding the original parts and making that car complete.
+
+196
+00:22:21,620 --> 00:22:36,620
+That is a nice behavior, arguably a noble behavior, a human behavior, and a negative behavior.
+
+197
+00:22:36,620 --> 00:22:44,620
+Again, let's come to the Beanie babies. Part of what people say collectibles when they say it in this context, a lot of times, I mean, it's a lot longer.
+
+198
+00:22:44,620 --> 00:22:49,620
+It's a fad, it's a bubble, and that absolutely happens.
+
+199
+00:22:49,620 --> 00:22:54,620
+The Beanie babies were very popular and very valuable, and then they were not.
+
+200
+00:22:54,620 --> 00:23:03,620
+Certain baseball and football courts in the 90s and 2000s were very popular and very valuable, and then they were up.
+
+201
+00:23:03,620 --> 00:23:07,620
+Usually, not always, but usually.
+
+202
+00:23:07,620 --> 00:23:17,620
+These bubbles occurred in corporate backed collectibles.
+
+203
+00:23:17,620 --> 00:23:25,620
+Usually the model does something like this. Something starts organically normally. People start buying, they think it's good.
+
+204
+00:23:25,620 --> 00:23:32,620
+It hits the spirit of that era for whatever reason.
+
+205
+00:23:32,620 --> 00:23:38,620
+It usually starts off with a very good scenario. The beginnings always organic.
+
+206
+00:23:38,620 --> 00:23:42,620
+The people say, oh, yeah, I like this. I want to own one of these things.
+
+207
+00:23:42,620 --> 00:23:48,620
+And then because people want to own one of these things, I don't know what this is.
+
+208
+00:23:48,620 --> 00:23:51,620
+They buy them, and there's no things different.
+
+209
+00:23:51,620 --> 00:23:56,620
+Where it is with different statuses.
+
+210
+00:23:56,620 --> 00:24:02,620
+Oh, I want one of these more interesting ones. I want purple one, blue one, red one.
+
+211
+00:24:02,620 --> 00:24:08,620
+And then because lots of people might want it, when the price goes up and people tell, that's interesting.
+
+212
+00:24:08,620 --> 00:24:14,620
+Someone's made money, and any babies. And now it attracts certain people who might say,
+
+213
+00:24:14,620 --> 00:24:18,620
+oh, this is also interesting. It's a speculative opportunity.
+
+214
+00:24:18,620 --> 00:24:29,620
+And then more people come in, now the manufacturer, a counterparty in financial terms,
+
+215
+00:24:29,620 --> 00:24:41,620
+the person who's controlling the supply in financial terms, says, oh, this is very exciting.
+
+216
+00:24:41,620 --> 00:24:44,620
+They might even think of it in a completely innocent way.
+
+217
+00:24:44,620 --> 00:24:52,620
+Or they could be in a state of the world. People are really into our many babies.
+
+218
+00:24:52,620 --> 00:25:00,620
+They are valuable, important, symbolically interesting to people.
+
+219
+00:25:00,620 --> 00:25:08,620
+Let's make more. And it works first.
+
+220
+00:25:08,620 --> 00:25:14,620
+Everyone wins. More people come into the community.
+
+221
+00:25:14,620 --> 00:25:17,620
+The price and the rare one goes up some more.
+
+222
+00:25:17,620 --> 00:25:22,620
+The manufacturer is making lots of money. They hire people. They do more marketing.
+
+223
+00:25:22,620 --> 00:25:28,620
+They open stores, they put ads and relevant publications.
+
+224
+00:25:28,620 --> 00:25:33,620
+So this continues to work. And now everyone's really happy.
+
+225
+00:25:33,620 --> 00:25:41,620
+And usually what happens in this model, because supply is not constrained.
+
+226
+00:25:41,620 --> 00:25:50,620
+Supply tends to overshoot. And all this cycle works in reverse.
+
+227
+00:25:50,620 --> 00:25:55,620
+I don't like it prices aren't going up. This is not great.
+
+228
+00:25:55,620 --> 00:26:00,620
+In fact, really follow. But, you know, let me take some of my money out of this.
+
+229
+00:26:00,620 --> 00:26:08,620
+And then the cycle goes in reverse.
+
+230
+00:26:08,620 --> 00:26:12,620
+And then a few years later, everyone's looking at each other.
+
+231
+00:26:12,620 --> 00:26:16,620
+And people outside are the space of looking at it.
+
+232
+00:26:16,620 --> 00:26:19,620
+My God, what happened to people?
+
+233
+00:26:19,620 --> 00:26:28,620
+They lose their minds. Like, how are they paying so much money for this thing that looks like nothing.
+
+234
+00:26:28,620 --> 00:26:34,620
+And I believe, and this is not like some grand unifying theory like quantum physics or something,
+
+235
+00:26:34,620 --> 00:26:43,620
+but I do believe, there are generally patterns for when it plays out that way.
+
+236
+00:26:43,620 --> 00:26:47,620
+And counter patterns. Now, it doesn't have to play out that way.
+
+237
+00:26:47,620 --> 00:26:50,620
+Even if you have a corporate counterparty.
+
+238
+00:26:50,620 --> 00:27:04,620
+The Birkenbag has managed to remain popular, rare and collectible for several decades.
+
+239
+00:27:04,620 --> 00:27:06,620
+This is a very impressive achievement.
+
+240
+00:27:06,620 --> 00:27:12,620
+This is an achievement of both marketing.
+
+241
+00:27:12,620 --> 00:27:21,620
+Both staying in tune with a customer segment over decades through changing fashions.
+
+242
+00:27:21,620 --> 00:27:24,620
+It's really impressive.
+
+243
+00:27:24,620 --> 00:27:27,620
+And managing supply.
+
+244
+00:27:27,620 --> 00:27:33,620
+If the Birken bags, if there were millions and tens of millions of Birken bags,
+
+245
+00:27:33,620 --> 00:27:35,620
+they'd say, oh, look, everyone's a Birkenbag.
+
+246
+00:27:35,620 --> 00:27:42,620
+Back here, let's make, let's fill all the demand. Let's make more money.
+
+247
+00:27:42,620 --> 00:27:45,620
+It is almost certainly the case that don't want a Birkenbag today.
+
+248
+00:27:45,620 --> 00:27:50,620
+So that's the case of a corporate counterparty.
+
+249
+00:27:50,620 --> 00:28:03,620
+And supply and branding and fashion ability being kept within good parameters
+
+250
+00:28:03,620 --> 00:28:07,620
+are very long period of time. It's actually quite impressive.
+
+251
+00:28:07,620 --> 00:28:10,620
+It keeps saying a corporate counterparty.
+
+252
+00:28:10,620 --> 00:28:14,620
+Wait, how does it relate to the catabor?
+
+253
+00:28:14,620 --> 00:28:19,620
+In the other categories, the categories that I think are more stable,
+
+254
+00:28:19,620 --> 00:28:21,620
+there's not a corporate counterparty.
+
+255
+00:28:21,620 --> 00:28:25,620
+In stamps, you're not buying stamps from the one stamp manufacturer
+
+256
+00:28:25,620 --> 00:28:32,620
+who will also make lots of money if you buy a lot of stamps for them.
+
+257
+00:28:32,620 --> 00:28:43,620
+Stamp production over time and across countries and across eras is sort of decentralized.
+
+258
+00:28:43,620 --> 00:28:46,620
+There have been many countries, many regimes, many governments,
+
+259
+00:28:46,620 --> 00:28:51,620
+since we've invented sending a letter, and they produced a bunch of stamps
+
+260
+00:28:51,620 --> 00:28:55,620
+and they produced them not in order to sell collectibles to people.
+
+261
+00:28:55,620 --> 00:28:58,620
+They produced them for a different purpose, and then some of them got destroyed
+
+262
+00:28:58,620 --> 00:29:03,620
+above the bottom of the bottom of the bottom. All of a sudden,
+
+263
+00:29:03,620 --> 00:29:06,620
+you end up with a rarity structure in stamps.
+
+264
+00:29:06,620 --> 00:29:15,620
+It's very extreme, right? The typical stamp is collectability worthless.
+
+265
+00:29:15,620 --> 00:29:22,620
+But certain stamps are extremely valuable, and they're likely to remain extremely valuable,
+
+266
+00:29:22,620 --> 00:29:28,620
+because they're not going to make more of those stamps, right?
+
+267
+00:29:28,620 --> 00:29:31,620
+You can't change the supply dynamics there.
+
+268
+00:29:31,620 --> 00:29:36,620
+And other things that have been stamps are 150 years older than they are, right?
+
+269
+00:29:36,620 --> 00:29:39,620
+Coins are millennial.
+
+270
+00:29:39,620 --> 00:29:42,620
+There is a...
+
+271
+00:29:42,620 --> 00:29:51,620
+Well, function in fairly stable market in rare coins, both modern year and older year.
+
+272
+00:29:51,620 --> 00:29:56,620
+And you don't have a centralized corporate counterparty.
+
+273
+00:29:56,620 --> 00:29:59,620
+It's weird, right? It's like thinking about crypto.
+
+274
+00:29:59,620 --> 00:30:04,620
+But it's true. There's no one who is going to now...
+
+275
+00:30:04,620 --> 00:30:07,620
+So I say, oh, coins are super valuable.
+
+276
+00:30:07,620 --> 00:30:12,620
+Let's go mint another 1 million Roman-era coins.
+
+277
+00:30:12,620 --> 00:30:16,620
+You can't do that. You can't go back in time. The supplies fixed there.
+
+278
+00:30:16,620 --> 00:30:22,620
+Other might be occasionally discovery. Maybe someone discovers a huge stash of supply dynamics change,
+
+279
+00:30:22,620 --> 00:30:25,620
+but it's not common. It's not, it's rare.
+
+280
+00:30:25,620 --> 00:30:29,620
+So...
+
+281
+00:30:29,620 --> 00:30:35,620
+Rareity is important in collectibles.
+
+282
+00:30:35,620 --> 00:30:45,620
+Of course, rarity is important in collectibles contingent on the overall category being interesting.
+
+283
+00:30:45,620 --> 00:30:52,620
+And, you know, most of the categories here are interesting for...
+
+284
+00:30:52,620 --> 00:30:59,620
+kind of fundamental purposes. Coins are shiny, gemstones are shiny, some work in bands are shiny.
+
+285
+00:30:59,620 --> 00:31:04,620
+Lines drinkable, like you can drink in rare lines, you can taste it.
+
+286
+00:31:04,620 --> 00:31:12,620
+Right? And some have to form the social construction that they're important,
+
+287
+00:31:12,620 --> 00:31:20,620
+that the people come to agree as a group that something has cultural symbolic value,
+
+288
+00:31:20,620 --> 00:31:27,620
+and therefore it's desirable to own it.
+
+289
+00:31:27,620 --> 00:31:33,620
+The rarity by itself doesn't mean anything.
+
+290
+00:31:33,620 --> 00:31:40,620
+I could draw on five pieces of paper, five special six, five, two, nine cards,
+
+291
+00:31:40,620 --> 00:31:44,620
+and then we should pursue a rare by the guns, and then we'll say I'm using it in the journal.
+
+292
+00:31:44,620 --> 00:31:51,620
+Right? So, Rareity is important, contingent on the category being important.
+
+293
+00:31:51,620 --> 00:31:58,620
+And now with all of that, that's set up.
+
+294
+00:31:58,620 --> 00:32:00,620
+Let's ask suggestions.
+
+295
+00:32:00,620 --> 00:32:08,620
+On the left is, I believe, the most valuable baseball card in the world, the homeless wiger.
+
+296
+00:32:08,620 --> 00:32:12,620
+The homeless wiger baseball card is unambiguously a collectible.
+
+297
+00:32:12,620 --> 00:32:17,620
+It is a collectible in the positive sense that it is a collectible, people collected,
+
+298
+00:32:17,620 --> 00:32:22,620
+and spent lots of money for it. I don't remember offhand, maybe,
+
+299
+00:32:22,620 --> 00:32:29,620
+balancing as can Google it and put it in the chat, but I think they trade at five, six million dollars, something like that.
+
+300
+00:32:29,620 --> 00:32:35,620
+And it's also collectible in the sense that it is not fine art, which is, you know,
+
+301
+00:32:35,620 --> 00:32:45,620
+the discussion that people tend to have in the NFT world is it collectibles or is it finer?
+
+302
+00:32:45,620 --> 00:32:49,620
+Nobody, I think, will argue that the homeless wiger card is fine art.
+
+303
+00:32:49,620 --> 00:32:51,620
+But they'll say it's a collectible.
+
+304
+00:32:51,620 --> 00:32:58,620
+On the right is the first rare pepe card. You've seen it before in the prior sessions.
+
+305
+00:32:58,620 --> 00:33:06,620
+It looks kind of like a baseball or football card.
+
+306
+00:33:06,620 --> 00:33:13,620
+Is it a collectible for sure? It's a collectible. Is it also? I don't know.
+
+307
+00:33:13,620 --> 00:33:18,620
+I think people would argue. I think a lot of folks would look at this,
+
+308
+00:33:18,620 --> 00:33:22,620
+like in particular, if you're not in the NFT world, saying, oh, of course, it's not fine art.
+
+309
+00:33:22,620 --> 00:33:23,620
+It's a collectible.
+
+310
+00:33:23,620 --> 00:33:24,620
+It's an as looking collectible.
+
+311
+00:33:24,620 --> 00:33:28,620
+Main is a collectible that resonates with a certain community, but it's a collectible.
+
+312
+00:33:28,620 --> 00:33:30,620
+It's not art. Okay.
+
+313
+00:33:30,620 --> 00:33:34,620
+Hold that thought.
+
+314
+00:33:34,620 --> 00:33:38,620
+What about this?
+
+315
+00:33:38,620 --> 00:33:46,620
+On the left is an unambiguously important piece of fine art.
+
+316
+00:33:46,620 --> 00:33:56,620
+And from 1984 on the right is a derivative of that piece of fine art, a pepe basket.
+
+317
+00:33:56,620 --> 00:34:10,620
+If this same exact same image had been made by Luca the artist and sold as a painting,
+
+318
+00:34:10,620 --> 00:34:16,620
+I don't think anyone would question whether it's fine art.
+
+319
+00:34:16,620 --> 00:34:19,620
+It has, of course, derivative art. It's on the chart.
+
+320
+00:34:19,620 --> 00:34:22,620
+It's remixing culture, all those things.
+
+321
+00:34:22,620 --> 00:34:27,620
+But no one would say it's a collectible. It's art.
+
+322
+00:34:27,620 --> 00:34:31,620
+But it's AA up. There's a lot of them. It's an addition.
+
+323
+00:34:31,620 --> 00:34:33,620
+They don't think that actually would make a difference.
+
+324
+00:34:33,620 --> 00:34:39,620
+I don't think that would make a difference. I think if people said someone painted that
+
+325
+00:34:39,620 --> 00:34:45,620
+in the fine art print of an addition of a hundred of them,
+
+326
+00:34:45,620 --> 00:34:54,620
+the artist said, look, I'm referencing Jean-Michel's work and updating it for the modern era.
+
+327
+00:34:54,620 --> 00:34:56,620
+And here's what it means to me.
+
+328
+00:34:56,620 --> 00:35:01,620
+All of these things are very clear. The artist is actually doing it, right?
+
+329
+00:35:01,620 --> 00:35:07,620
+I don't think anyone would argue that if this was on a piece of paper, it's art.
+
+330
+00:35:07,620 --> 00:35:10,620
+An example of how important art is, it's important art.
+
+331
+00:35:10,620 --> 00:35:16,620
+Okay? It's art and the only thing that saves a collectible.
+
+332
+00:35:16,620 --> 00:35:22,620
+And then, okay, if that, someone is made effectively a derivative art addition
+
+333
+00:35:22,620 --> 00:35:29,620
+and minted it within the Rare Puppy series. Are you collectibles at art?
+
+334
+00:35:29,620 --> 00:35:37,620
+Obviously, the series as a whole has strong collectible tendencies.
+
+335
+00:35:37,620 --> 00:35:44,620
+That is sets and cards and additions, all those things. But, individual pieces.
+
+336
+00:35:44,620 --> 00:35:49,620
+Many of them, to me, are definitely art.
+
+337
+00:35:49,620 --> 00:35:56,620
+What about this one?
+
+338
+00:35:56,620 --> 00:36:01,620
+We've discussed this before.
+
+339
+00:36:01,620 --> 00:36:04,620
+It's the usual example.
+
+340
+00:36:04,620 --> 00:36:06,620
+It's the usual question.
+
+341
+00:36:06,620 --> 00:36:11,620
+It's what art known by the session will drop tomorrow.
+
+342
+00:36:11,620 --> 00:36:16,620
+Art known, and a whole interview with the Mar-R-O-L-E-R,
+
+343
+00:36:16,620 --> 00:36:19,620
+is it art, is it collectibles?
+
+344
+00:36:19,620 --> 00:36:30,620
+The creators, or artists, even the term is loaded.
+
+345
+00:36:30,620 --> 00:36:37,620
+Collectibles are likely made of by a creator. Art is likely made by an artist.
+
+346
+00:36:37,620 --> 00:36:40,620
+It doesn't really matter to them.
+
+347
+00:36:40,620 --> 00:36:43,620
+I think art comes as a little bit of both.
+
+348
+00:36:43,620 --> 00:36:49,620
+What they say is the thing you need to look at is actually the whole project, including the website.
+
+349
+00:36:49,620 --> 00:36:59,620
+To me, this is, of course, it has a collectible nature, but it is art.
+
+350
+00:36:59,620 --> 00:37:11,620
+That does that mean that the 11,000th GFP project is art?
+
+351
+00:37:11,620 --> 00:37:13,620
+No, probably not.
+
+352
+00:37:13,620 --> 00:37:26,620
+It's probably someone trying to leverage off the value that accrued to something unique and interested.
+
+353
+00:37:26,620 --> 00:37:29,620
+It's a good purpose.
+
+354
+00:37:29,620 --> 00:37:37,620
+And, okay, low effort in many cases, like attempts are replicated in its collectible nature.
+
+355
+00:37:37,620 --> 00:37:43,620
+It's not a clear answer to the point. It's a certain amount of clear answer across PFPs.
+
+356
+00:37:43,620 --> 00:37:48,620
+And it constantly reminds me of this discussion.
+
+357
+00:37:48,620 --> 00:37:53,620
+And it's a cliché that I'm putting this slide up.
+
+358
+00:37:53,620 --> 00:37:54,620
+But it's also true.
+
+359
+00:37:54,620 --> 00:38:03,620
+Now, the question with the soup cans of an anti-warhol in general wasn't if he was making collectibles.
+
+360
+00:38:03,620 --> 00:38:09,620
+The question with Pop Art was, well, this is actually art.
+
+361
+00:38:09,620 --> 00:38:23,620
+He was picking up a variety of images, a variety of thought processes
+
+362
+00:38:23,620 --> 00:38:35,620
+from popular culture from products and commercial products
+
+363
+00:38:35,620 --> 00:38:39,620
+and reinterpreting.
+
+364
+00:38:39,620 --> 00:38:50,620
+And a lot of people then, for a long time, and even some people now,
+
+365
+00:38:50,620 --> 00:38:54,620
+I spoke to someone, you know,
+
+366
+00:38:54,620 --> 00:38:58,620
+and said, yeah, I don't like wheelhalls to commercial company.
+
+367
+00:38:58,620 --> 00:39:14,620
+A lot of people then did not consider it fine art, objected to it.
+
+368
+00:39:14,620 --> 00:39:24,620
+And today, I think consensus opinion is that it's art.
+
+369
+00:39:24,620 --> 00:39:38,620
+It is for sure, in my view, art, I think it's like an absurd question to think about whether this is fine art or not.
+
+370
+00:39:38,620 --> 00:39:47,620
+It's absolutely absurd question.
+
+371
+00:39:47,620 --> 00:39:54,620
+So the reason the soup cans are here are not because we discussed 60 years ago
+
+372
+00:39:54,620 --> 00:39:57,620
+whether soup cans were collectibles or soup cans were fine art.
+
+373
+00:39:57,620 --> 00:40:01,620
+We actually discussed it in the years of popular art, we could find out.
+
+374
+00:40:01,620 --> 00:40:05,620
+But it was the same class of discussion.
+
+375
+00:40:05,620 --> 00:40:18,620
+And I think the same thing will happen here, I think, in 20, 30, 40, 50 years, no one's going to dispute or a large majority of people won't dispute that the crypto punks
+
+376
+00:40:18,620 --> 00:40:35,620
+that are very heavy art elements and also that you're like silly project of the cool camels that people spend three days on is not in fact art at all.
+
+377
+00:40:35,620 --> 00:40:54,620
+But I want to emphasize, I don't think there's anything wrong with collectibles, I don't think there's anything wrong with collectability, I don't think there's anything inappropriate with NFTs being used as a transportation technology to transport collectibles.
+
+378
+00:40:54,620 --> 00:41:11,620
+It is in fact an excellent case for collectibles. Just like we've heard, or you'll hear a lot tomorrow of an art known about fraud and provenance fraud in the art world, there's also nation collectibles.
+
+379
+00:41:11,620 --> 00:41:18,620
+And so to the degree that this is now solvable in collectibles.
+
+380
+00:41:18,620 --> 00:41:26,620
+It's a positive, it's a good usage case for NFTs. It is a perfectly appropriate human activity.
+
+381
+00:41:26,620 --> 00:41:30,620
+It's a human activity that they've been for a very long time.
+
+382
+00:41:30,620 --> 00:41:37,620
+In many different ways, and we will absolutely do it in the NFT space.
+
+383
+00:41:37,620 --> 00:42:02,620
+Now, we'll go to a related, but not exactly related topic, which is a topic that causes a lot of discussions in the space.
+
+384
+00:42:02,620 --> 00:42:10,620
+And I want to set up a small panel to discuss this exact topic in a video.
+
+385
+00:42:10,620 --> 00:42:15,620
+Where does, where does aesthetics matter, and where does rarity matter?
+
+386
+00:42:15,620 --> 00:42:31,620
+And my mental model for this is the following, that the more collectible like in project is an NFT is, the more rarity matters.
+
+387
+00:42:31,620 --> 00:42:43,620
+And the less collectible like it is, the less rarity matters, and by extension the more aesthetics matters.
+
+388
+00:42:43,620 --> 00:42:55,620
+And so PFPs that are for sure the most collectible like of the projects in this space.
+
+389
+00:42:55,620 --> 00:43:05,620
+Rarity matters a lot. It is in fact the dominant driver of value in PFPs.
+
+390
+00:43:05,620 --> 00:43:17,620
+On the other side of the spectrum, I am a artist, I am a photographer, I create wonderful work.
+
+391
+00:43:17,620 --> 00:43:25,620
+Rarity typically is a useful metric, they are all one of ones.
+
+392
+00:43:25,620 --> 00:43:30,620
+They are all equally rare, they don't have any structured rarity traits.
+
+393
+00:43:30,620 --> 00:43:42,620
+And so if I am an artist and I shoot 100 by mid to 100 photographs over the next 10 years of different subjects.
+
+394
+00:43:42,620 --> 00:43:48,620
+There is no collectible aspect there, there is no rarity aspect there.
+
+395
+00:43:48,620 --> 00:43:55,620
+People will judge them, select them, assign value to them.
+
+396
+00:43:55,620 --> 00:43:59,620
+Based on aesthetics and by aesthetics I am taking the very broad sense of aesthetics.
+
+397
+00:43:59,620 --> 00:44:02,620
+I don't just mean like it is pretty.
+
+398
+00:44:02,620 --> 00:44:12,620
+In aesthetics and meaning and the qualitative aspects.
+
+399
+00:44:12,620 --> 00:44:17,620
+And I think generative art falls somewhat in the middle.
+
+400
+00:44:17,620 --> 00:44:23,620
+In generative art you have collections, you have structured collections as we tell you, one of one of those.
+
+401
+00:44:23,620 --> 00:44:27,620
+But up to 1000 or 400 or 400 or whatever.
+
+402
+00:44:27,620 --> 00:44:32,620
+And those collections have traits.
+
+403
+00:44:32,620 --> 00:44:42,620
+And in many collections, if not most collections, they are explicitly organized by the artist to have a rare destruction.
+
+404
+00:44:42,620 --> 00:44:46,620
+And you can see this by the ones that are explicitly organized, not to have a rare destruction.
+
+405
+00:44:46,620 --> 00:44:51,620
+Incomplete controls by Tyler Holmes have no rarity structure, there is no traits.
+
+406
+00:44:51,620 --> 00:44:56,620
+You cannot decide which one is more rare than the other one.
+
+407
+00:44:56,620 --> 00:45:01,620
+Elevated deconstruction by Luxbridge, again there is no rarity structure.
+
+408
+00:45:01,620 --> 00:45:11,620
+There is no way to say which one of those 200 is more rare than the other one from a statistical basis.
+
+409
+00:45:11,620 --> 00:45:15,620
+But many collections do have a rarity structure.
+
+410
+00:45:15,620 --> 00:45:21,620
+And sometimes the rarity structure overlaps with the aesthetic structure.
+
+411
+00:45:21,620 --> 00:45:26,620
+In more simple collections this tends to be true.
+
+412
+00:45:26,620 --> 00:45:34,620
+Oh look, this is the trait that it's gold, it's gold colored.
+
+413
+00:45:34,620 --> 00:45:36,620
+It looks nicer, people like gold colored things.
+
+414
+00:45:36,620 --> 00:45:41,620
+There's only 10 of them, 10 out of the 1000 are gold and there's a bunch of those other ones.
+
+415
+00:45:41,620 --> 00:45:50,620
+And so you link the rarity with also something that is visually appealing.
+
+416
+00:45:50,620 --> 00:45:59,620
+And so in kind of a simple mode of generative collecting, if you have a collection that structures that way,
+
+417
+00:45:59,620 --> 00:46:11,620
+let's say the things could be anyone of seven colors and there's 10 that are gold and all the other colors are 100 each.
+
+418
+00:46:11,620 --> 00:46:15,620
+And the gold also looks good as a contest.
+
+419
+00:46:15,620 --> 00:46:20,620
+And you ask someone in advance, which one do you want?
+
+420
+00:46:20,620 --> 00:46:25,620
+Well, if you're interested in the financial value, the one that other people are likely to want also,
+
+421
+00:46:25,620 --> 00:46:31,620
+taking into account the laws of supply and demand,
+
+422
+00:46:31,620 --> 00:46:38,620
+it is likely that you should take the hold on if you choose to do so.
+
+423
+00:46:38,620 --> 00:46:51,620
+Because the work gets more complex, it becomes more like a one of one, this stuff matters much less.
+
+424
+00:46:51,620 --> 00:46:54,620
+We'll come to that in a second.
+
+425
+00:46:54,620 --> 00:46:58,620
+The punks trade primarily on road.
+
+426
+00:46:58,620 --> 00:47:02,620
+They trade second barely on aesthetics.
+
+427
+00:47:02,620 --> 00:47:11,620
+Air punks that are meant are viewed to be more aesthetic than others.
+
+428
+00:47:11,620 --> 00:47:15,620
+But it doesn't overwhelm their rarity.
+
+429
+00:47:15,620 --> 00:47:27,620
+A very aesthetic hoodie punk generically will trade for, I don't know, three, four, hundred if.
+
+430
+00:47:27,620 --> 00:47:33,620
+And whatever the least aesthetic alien is will trade for several thousand.
+
+431
+00:47:33,620 --> 00:47:39,620
+And so there's just aesthetics do not overwhelm the rarity structure.
+
+432
+00:47:39,620 --> 00:47:42,620
+But even here, there's questions.
+
+433
+00:47:42,620 --> 00:47:49,620
+Generally people would say the aliens are the rarest and most valuable.
+
+434
+00:47:49,620 --> 00:47:54,620
+But here is this human,
+
+435
+00:47:54,620 --> 00:47:58,620
+which has seven traits, and it's the only one that has seven traits.
+
+436
+00:47:58,620 --> 00:48:05,620
+And statistically, this is rarer than the alien.
+
+437
+00:48:05,620 --> 00:48:12,620
+This is owned by gentlemen named seed phrase.
+
+438
+00:48:12,620 --> 00:48:17,620
+Is this rarer? Is it more valuable?
+
+439
+00:48:17,620 --> 00:48:21,620
+Which would you rather have one of these?
+
+440
+00:48:21,620 --> 00:48:23,620
+Or one of these?
+
+441
+00:48:23,620 --> 00:48:32,620
+This is a one of one seven traits, but one of six thousand male punks.
+
+442
+00:48:32,620 --> 00:48:36,620
+These were one of nine aliens, but there's only nine aliens.
+
+443
+00:48:36,620 --> 00:48:39,620
+And when you see an alien, it's obvious it's an alien.
+
+444
+00:48:39,620 --> 00:48:45,620
+And I'm not saying this because it is, there's anything particularly meaningful in this discussion.
+
+445
+00:48:45,620 --> 00:48:52,620
+But even rarity is, and these are all, of course, very valuable punks because of their rarity.
+
+446
+00:48:52,620 --> 00:48:55,620
+But even there, people don't agree.
+
+447
+00:48:55,620 --> 00:49:01,620
+They might not coalesce on the same theories.
+
+448
+00:49:01,620 --> 00:49:09,620
+But PFP collections are primarily rarity driven.
+
+449
+00:49:09,620 --> 00:49:15,620
+In complex generative collections, the rarity starts to matter much less.
+
+450
+00:49:15,620 --> 00:49:21,620
+This is the tool that is a cadence of the title.
+
+451
+00:49:21,620 --> 00:49:27,620
+It is believed to be one of the most valuable things.
+
+452
+00:49:27,620 --> 00:49:32,620
+It is not in the slightest bit rare.
+
+453
+00:49:32,620 --> 00:49:34,620
+On the right are the rarity scores.
+
+454
+00:49:34,620 --> 00:49:47,620
+And in generative art, people are very, very advanced, sophisticated, and picky on rarity.
+
+455
+00:49:47,620 --> 00:49:51,620
+As you can see here, this is from a site called Artical.
+
+456
+00:49:51,620 --> 00:49:54,620
+There are multiple rarity scores.
+
+457
+00:49:54,620 --> 00:50:04,620
+In any case, whatever rate is score, any way you score the tool for the ends of 313, it's not very rare.
+
+458
+00:50:04,620 --> 00:50:07,620
+But it's one of the few most valuable for those.
+
+459
+00:50:07,620 --> 00:50:08,620
+Why?
+
+460
+00:50:08,620 --> 00:50:10,620
+Oh, it's beautiful.
+
+461
+00:50:10,620 --> 00:50:16,620
+And also, it looks like a tool, which is a form of emergent, nomadic, hell.
+
+462
+00:50:16,620 --> 00:50:20,620
+So it's not statistically rare by the set.
+
+463
+00:50:20,620 --> 00:50:26,620
+But it's considered one of the more peaceful ones, and certainly one of the more medical ones.
+
+464
+00:50:26,620 --> 00:50:29,620
+And so it's aesthetically rare.
+
+465
+00:50:29,620 --> 00:50:34,620
+And this is how one of one's trade as well.
+
+466
+00:50:34,620 --> 00:50:38,620
+Like, you know, it won't say there's all this powerful work of art, right?
+
+467
+00:50:38,620 --> 00:50:45,620
+Powerful works of art are aesthetically rare.
+
+468
+00:50:45,620 --> 00:50:52,620
+And so, it's very powerful, very valuable, because it's rare that you can produce something like
+
+469
+00:50:52,620 --> 00:50:53,620
+credit cards.
+
+470
+00:50:53,620 --> 00:50:54,620
+It's not easy.
+
+471
+00:50:54,620 --> 00:50:56,620
+It's not something that anyone can do.
+
+472
+00:50:56,620 --> 00:51:04,620
+It's not like there are thousands of people doing that on a daily basis, and we just happen to like the causes.
+
+473
+00:51:04,620 --> 00:51:15,620
+So, even within generative art, you can imagine a spectrum.
+
+474
+00:51:15,620 --> 00:51:33,620
+The more the trait structure reflects the final piece, the more it is going to trade a little bit more of a collectible,
+
+475
+00:51:33,620 --> 00:51:36,620
+the more it is going to matter.
+
+476
+00:51:36,620 --> 00:51:47,620
+The less relationship there is between the underlying traits and how the piece looks, the less the traits are going to matter,
+
+477
+00:51:47,620 --> 00:51:52,620
+and the more the aesthetics is going to matter.
+
+478
+00:51:52,620 --> 00:51:59,620
+It's how the generative community looks at these.
+
+479
+00:51:59,620 --> 00:52:19,620
+And, you know, one of the things I want to do is bring a couple of collectors who are considered to be very good at aesthetics,
+
+480
+00:52:19,620 --> 00:52:39,620
+collecting and generative art, and others who are meant to be good at rarity-based collecting, and have them shut about it,
+
+481
+00:52:39,620 --> 00:52:40,620
+and see what they think.
+
+482
+00:52:40,620 --> 00:52:43,620
+And there's no right answer, right?
+
+483
+00:52:43,620 --> 00:52:46,620
+The answer is going to be both.
+
+484
+00:52:46,620 --> 00:52:52,620
+And even one of ones are not immune from supply dynamics.
+
+485
+00:52:52,620 --> 00:53:00,620
+You can let's say there's a wonderful one of one, some are not capable, and I like one, and it's a one of one.
+
+486
+00:53:00,620 --> 00:53:12,620
+And as a one of one, it will be viewed as valuable.
+
+487
+00:53:12,620 --> 00:53:18,620
+But if that same piece was released by X-copy as an addition of one of a thousand,
+
+488
+00:53:18,620 --> 00:53:21,620
+the individual unit price would be lower.
+
+489
+00:53:21,620 --> 00:53:26,620
+The total price would be higher, I don't know, but the individual unit price would be lower for each one of a thousand,
+
+490
+00:53:26,620 --> 00:53:28,620
+because each one of them.
+
+491
+00:53:28,620 --> 00:53:32,620
+And since a thousand people can own them, it's easier to get a hold of one.
+
+492
+00:53:32,620 --> 00:53:35,620
+There's more likely to be someone to sell it to you.
+
+493
+00:53:35,620 --> 00:53:43,620
+Today, when there's only one of them, there's not even a coded market price, because I'm a old seller.
+
+494
+00:53:43,620 --> 00:53:47,620
+So when there's a thousand, there's always a marginal seller.
+
+495
+00:53:47,620 --> 00:53:50,620
+Supply and demand matters.
+
+496
+00:53:50,620 --> 00:53:51,620
+Supply matters.
+
+497
+00:53:51,620 --> 00:53:53,620
+Rarity does matter in fact.
+
+498
+00:53:53,620 --> 00:54:01,620
+Now, rarity might be created through the structure of the collection of piece of art, or it could emerge aesthetically,
+
+499
+00:54:01,620 --> 00:54:11,620
+or it could be created by how an artist organizes their lifetime of work.
+
+500
+00:54:11,620 --> 00:54:24,620
+But it does play a role, again, contingent on the collection or the work or the artist's mattering.
+
+501
+00:54:24,620 --> 00:54:30,620
+If they don't matter, it doesn't matter what they're rare, right? It doesn't matter at all.
+
+502
+00:54:30,620 --> 00:54:43,620
+Okay. Let's switch topics. Let's put another chunk of ideas into the framework, which is NFT5.
+
+503
+00:54:43,620 --> 00:54:51,620
+Can't say I love the acronym, but I think it's what we've got for now.
+
+504
+00:54:51,620 --> 00:54:53,620
+I don't think we'll figure out for a better one.
+
+505
+00:54:53,620 --> 00:55:05,620
+Which is how do, I don't like my second sentence there, I'm going to skip to this.
+
+506
+00:55:05,620 --> 00:55:10,620
+How do they become, how do NFTs become composable?
+
+507
+00:55:10,620 --> 00:55:18,620
+When decentralized finance, chemicals, or in some cases here, there are protocols and services.
+
+508
+00:55:18,620 --> 00:55:23,620
+And the reality is that they can become because they're tokens.
+
+509
+00:55:23,620 --> 00:55:29,620
+Right? So what are the types of things that people think about here? Well, a simple one is workplaces.
+
+510
+00:55:29,620 --> 00:55:35,620
+I'm going to sell you an NFT, you're going to buy it. There's a variety of workplaces.
+
+511
+00:55:35,620 --> 00:55:42,620
+But some of them are now working on, to this opposite example,
+
+512
+00:55:42,620 --> 00:55:55,620
+or there's pools of NFTs and you can be an LP like you are in Uniswap.
+
+513
+00:55:55,620 --> 00:56:05,620
+People have fractionalization platforms. In fractionalization platforms, you put in your non-funcible NFT.
+
+514
+00:56:05,620 --> 00:56:13,620
+You can put the tool in it. It gets wrapped in a smart contract.
+
+515
+00:56:13,620 --> 00:56:22,620
+And it will sell, it will create, fungible ERC-20 tokens, not ERC-21 tokens.
+
+516
+00:56:22,620 --> 00:56:29,620
+Tokens of that non-funcible token.
+
+517
+00:56:29,620 --> 00:56:36,620
+It is a form of, it's called fractionalization of the space I take for regulatory reasons.
+
+518
+00:56:36,620 --> 00:56:40,620
+It's what we would call securitization of the financial.
+
+519
+00:56:40,620 --> 00:56:45,620
+It takes something that turns to a functional security.
+
+520
+00:56:45,620 --> 00:56:54,620
+It's a very tricky topic for actualization NFTs. Both from the user experience,
+
+521
+00:56:54,620 --> 00:57:00,620
+not the technical user experience of wrapping it in rationalizing, that's actually easy.
+
+522
+00:57:00,620 --> 00:57:13,620
+But the experience of what does it mean to own that fractional shard of a non-funcible token.
+
+523
+00:57:13,620 --> 00:57:20,620
+I will tell you for me, and I think for many, it doesn't feel the same.
+
+524
+00:57:20,620 --> 00:57:41,620
+Owning a NFT feels like one type of thing. Owning a one of 10,000 functional tokens of that same NFT feels different.
+
+525
+00:57:41,620 --> 00:57:53,620
+And oddly, it just feels boring. It left me flat. I do everything to always try things, see how it feels, see what I think about it.
+
+526
+00:57:53,620 --> 00:58:05,620
+And the general feeling you had was owning a fungible token, which is fine.
+
+527
+00:58:05,620 --> 00:58:13,620
+There's nothing wrong with owning fungible tokens, but there tends to be very little emotional value in owning a fungible token.
+
+528
+00:58:13,620 --> 00:58:21,620
+And what the possible exception for me of Bitcoin owning any other fungible token is truly bereft of emotional value.
+
+529
+00:58:21,620 --> 00:58:25,620
+So you just look at the price, like price going up, it's a price going down, is that?
+
+530
+00:58:25,620 --> 00:58:29,620
+You feel a little bit when it's going up, you feel bad when it's going down, and you don't feel anything else.
+
+531
+00:58:29,620 --> 00:58:35,620
+Which, okay, fine, this is not that hugely interesting.
+
+532
+00:58:35,620 --> 00:58:53,620
+The part that is interesting about owning an NFT is some sense of uniqueness of non-fungibility of identity.
+
+533
+00:58:53,620 --> 00:58:59,620
+And that gets lost in fractionalization. Having said that, there are very obviously useful cases for fractionalization.
+
+534
+00:58:59,620 --> 00:59:03,620
+Something important you want to sell, part of it, you don't want to sell all of it.
+
+535
+00:59:03,620 --> 00:59:07,620
+And so fractionalization, I think, is an important part of the toolkit.
+
+536
+00:59:07,620 --> 00:59:16,620
+There is a second problem that it's unclear under which circumstances this is allowed in the United States.
+
+537
+00:59:16,620 --> 00:59:26,620
+I think it is highly likely that some forms of fractionalization create security.
+
+538
+00:59:26,620 --> 00:59:35,620
+That's why this is, that's why it's often called securitization in a different context.
+
+539
+00:59:35,620 --> 00:59:46,620
+And so this, I think, has also hindered fractionalization.
+
+540
+00:59:46,620 --> 00:59:52,620
+I think it has also had fewer people testing ideas.
+
+541
+00:59:52,620 --> 00:59:55,620
+It worries me, for one.
+
+542
+00:59:55,620 --> 01:00:07,620
+I think it's not feel hugely comfortable saying, here's one of my NFTs and I'll sell you one of 10,000 fungible tokens of it.
+
+543
+01:00:07,620 --> 01:00:12,620
+Now, I'm not saying it actually is securitization, I'm not saying it'll be trea securit.
+
+544
+01:00:12,620 --> 01:00:16,620
+And plenty of people have done fractionalization, it's been totally fine.
+
+545
+01:00:16,620 --> 01:00:18,620
+It's just not 100%.
+
+546
+01:00:18,620 --> 01:00:22,620
+It's a little bit in the gray zone, I think, right on to it.
+
+547
+01:00:22,620 --> 01:00:27,620
+Another bucket, that's the bucket that people tend to really care about.
+
+548
+01:00:27,620 --> 01:00:49,620
+That comes from the concept of, comes from the concept, I think, really the concept of DeFi, is people want to, in some way, shape or form, borrow against an NFT.
+
+549
+01:00:49,620 --> 01:00:54,620
+And that, are using as collateral.
+
+550
+01:00:54,620 --> 01:01:11,620
+And that is, more more than exists, you can take your NFT primarily in the more liquid collections, or you can take your punk, or your punk's worth 100 ETH, and you can borrow 3040 ETH against it.
+
+551
+01:01:11,620 --> 01:01:19,620
+Or machinelessly, without a loan application, often with other people lending against it.
+
+552
+01:01:19,620 --> 01:01:25,620
+And your punk is there as collateral.
+
+553
+01:01:25,620 --> 01:01:42,620
+And if it is, if it is, if you don't make the payments, you'll lose your punk to the lenders, or you'll either have a punk or solid and get their ETH back.
+
+554
+01:01:42,620 --> 01:01:51,620
+The major true hindrances in this model tend to be valuation.
+
+555
+01:01:51,620 --> 01:02:02,620
+If you're borrowing against Bitcoin, it's very easy for the lender or the platform to know from time to time what the valuation is of your Bitcoin.
+
+556
+01:02:02,620 --> 01:02:07,620
+Ever reply to the earth knows about your Bitcoin from time to time.
+
+557
+01:02:07,620 --> 01:02:23,620
+The value of 486573 is sort of noble, but it's a harder question. The value of these 300 best for them is even harder to know from time to time.
+
+558
+01:02:23,620 --> 01:02:29,620
+And it gets worse as you get into less structured sets of NFTs.
+
+559
+01:02:29,620 --> 01:02:43,620
+So there's a lot of work listed being put into financializing.
+
+560
+01:02:43,620 --> 01:02:57,620
+Into financializing NFTs. A lot of people want to make them into collateral.
+
+561
+01:02:57,620 --> 01:03:03,620
+I think at an intellectual level, this is important.
+
+562
+01:03:03,620 --> 01:03:13,620
+At a personal emotional level, it's a terrible idea and people are going to like cause all types of disasters to themselves because there's no free lunch.
+
+563
+01:03:13,620 --> 01:03:27,620
+And if you use your NFT as collateral, you borrow money, well, you have to pay that money back. And if you don't pay that money back, someone, some days, will take your NFT.
+
+564
+01:03:27,620 --> 01:03:43,620
+And most of the time, most of the time people are not doing it with the idea that they're going to lose their NFT. If they thought they're going to lose their NFT, they might sell.
+
+565
+01:03:43,620 --> 01:03:53,620
+People are doing this as an all-out loser NFT. They want to keep their NFT and then all get the nice goodies that come from borrowing money and using it.
+
+566
+01:03:53,620 --> 01:04:01,620
+Generally, generally leverage, nothing has killed more people in crypto than leverage.
+
+567
+01:04:01,620 --> 01:04:14,620
+But if leverage is bad and problematic and painful in the functional world, it's kind of worse in NFTs because of the functional world.
+
+568
+01:04:14,620 --> 01:04:26,620
+You can make it back and buy back your collateral. Okay, I lost my ETH because I was borrowing against it to buy Solon.
+
+569
+01:04:26,620 --> 01:04:35,620
+Later, I earned some more money in my life. I can buy ETH again, maybe the price will be lower or higher, but I can get ETH again.
+
+570
+01:04:35,620 --> 01:04:46,620
+If you borrow against punk, what was C. Francis punk, and then the lender forehoses on you.
+
+571
+01:04:46,620 --> 01:04:52,620
+And then later you have the money you want to buy back, the lender of the new order might not sell back to you. It's gone.
+
+572
+01:04:52,620 --> 01:05:04,620
+It is all I don't care earlier than you're the customer for this type of thing, but a lot of people care. A lot of people have some type of identification with the specific entities that they are.
+
+573
+01:05:04,620 --> 01:05:19,620
+And so the idea of, you know, we have a huge historical data set of both unsophisticated and sophisticated people in the crypto space getting trouble with leverage.
+
+574
+01:05:19,620 --> 01:05:37,620
+And so once it becomes easy to pick up leverage in the NFT space, people are going to do it because they'll primarily be thinking about the exciting case, we'll make lots of money, not the unexciting case, we'll lose lots of money and their NFT.
+
+575
+01:05:37,620 --> 01:05:45,620
+And then they're going to be sad, I think, because there'll be no way back in many cases.
+
+576
+01:05:45,620 --> 01:06:10,620
+The other part that is the sophisticated driver of one side of the royalties debate is people saying like, well, look, you can't really have liquid markets with market makers who are going to make a market for
+
+577
+01:06:10,620 --> 01:06:20,620
+Fedensas or phone support apes or what have you and have them pay royalties with every trade.
+
+578
+01:06:20,620 --> 01:06:23,620
+This is not possible.
+
+579
+01:06:23,620 --> 01:06:25,620
+It cannot happen.
+
+580
+01:06:25,620 --> 01:06:29,620
+Because market makers trade all day long.
+
+581
+01:06:29,620 --> 01:06:37,620
+If every time they have to pay a 5 or 10% royalty, they can't market make if they can't market make there will be.
+
+582
+01:06:37,620 --> 01:06:42,620
+There will be less.
+
+583
+01:06:42,620 --> 01:06:47,620
+Training and less liquidity.
+
+584
+01:06:47,620 --> 01:06:55,620
+And so this is actually, you know, I generally think we shouldn't be against royalties.
+
+585
+01:06:55,620 --> 01:07:11,620
+But to the degree that there's a valuable case for certain types of transactions being royalty free is if it's in NFT collections that liquidity is useful and meaningful to people.
+
+586
+01:07:11,620 --> 01:07:18,620
+Liquidity mean like you can just like you can always sell your BTC and always sell your ETH and you'll get the price.
+
+587
+01:07:18,620 --> 01:07:19,620
+You might not, you'll get a price.
+
+588
+01:07:19,620 --> 01:07:22,620
+You might not like the price you'll get, but you'll get a price.
+
+589
+01:07:22,620 --> 01:07:30,620
+There is value, I believe, and be able to say, look, I want to get a price for my board.
+
+590
+01:07:30,620 --> 01:07:33,620
+I might not like the price, but I need money now.
+
+591
+01:07:33,620 --> 01:07:42,620
+And so that's useful if there's a good in there and that liquidity will not exist in a royalty based context.
+
+592
+01:07:42,620 --> 01:07:51,620
+And so there's been some interesting attempts firms like the Ford protocol will try and separate out the market makers from the end users and say what the market makers.
+
+593
+01:07:51,620 --> 01:07:56,620
+Shouldn't be people who are willing to buy or sell board apes at any point in time.
+
+594
+01:07:56,620 --> 01:08:00,620
+Shouldn't pay a royalty in every trade looking for the end user or the collector.
+
+595
+01:08:00,620 --> 01:08:03,620
+The person who wants to go to a professor should pay a royalty.
+
+596
+01:08:03,620 --> 01:08:05,620
+It's complicated.
+
+597
+01:08:05,620 --> 01:08:07,620
+We'll see if people figure this out.
+
+598
+01:08:07,620 --> 01:08:08,620
+It's complicated.
+
+599
+01:08:08,620 --> 01:08:11,620
+A lot of people are working on it, but it's complicated.
+
+600
+01:08:11,620 --> 01:08:17,620
+Um.
+
+601
+01:08:17,620 --> 01:08:39,620
+So I think in pulling this together, the main NFT file usage cases are, you know, buying and selling them share buying and selling them in a M type model, fractionalizing them.
+
+602
+01:08:39,620 --> 01:08:48,620
+And then I'm referring against them or using this collateral.
+
+603
+01:08:48,620 --> 01:08:54,620
+It equals to feed data into the some of these usage cases.
+
+604
+01:08:54,620 --> 01:09:00,620
+And then some of the things that I mean, that people working on, but I don't think are quite.
+
+605
+01:09:00,620 --> 01:09:10,620
+Part of the ecosystem is immature.
+
+606
+01:09:10,620 --> 01:09:15,620
+It's fairly new.
+
+607
+01:09:15,620 --> 01:09:17,620
+It's not very high volume.
+
+608
+01:09:17,620 --> 01:09:21,620
+They're unsolved technical problems.
+
+609
+01:09:21,620 --> 01:09:31,620
+Um.
+
+610
+01:09:31,620 --> 01:09:34,620
+Fungible tokens are more complicated.
+
+611
+01:09:34,620 --> 01:09:36,620
+Not much more complicated.
+
+612
+01:09:36,620 --> 01:09:40,620
+But I believe this ecosystem will be built up.
+
+613
+01:09:40,620 --> 01:09:43,620
+I think it is going to happen.
+
+614
+01:09:43,620 --> 01:09:51,620
+I want to stop there for today. I think these are these worthy main concepts. I'd like you to have in mind for.
+
+615
+01:09:51,620 --> 01:09:53,620
+The upcoming weeks.
+
+616
+01:09:53,620 --> 01:09:57,620
+I want to say we're also a little bit behind on our guests.
+
+617
+01:09:57,620 --> 01:09:59,620
+Just purely from logistics.
+
+618
+01:09:59,620 --> 01:10:03,620
+There's so much to do. And so, but we will get them all in.
+
+619
+01:10:03,620 --> 01:10:07,620
+We are not going to, we're not going to leave any guests behind.
+
+620
+01:10:07,620 --> 01:10:09,620
+It won't necessarily come.
+
+621
+01:10:09,620 --> 01:10:13,620
+On the exact same week as they were.
+
+622
+01:10:13,620 --> 01:10:17,620
+That everything would have otherwise happened.
+
+623
+01:10:17,620 --> 01:10:20,620
+But we will get them all in.
+
+624
+01:10:20,620 --> 01:10:22,620
+And.
+
+625
+01:10:22,620 --> 01:10:24,620
+Um.
+
+626
+01:10:24,620 --> 01:10:29,620
+It's going to be super interesting. So with that.
+
+627
+01:10:29,620 --> 01:10:35,620
+I'm going to switch to Q and A, maybe take 10, 15 minutes of Q and I and.
+
+628
+01:10:35,620 --> 01:10:39,620
+Keep today's session at some type of reasonable time.
+
+629
+01:10:39,620 --> 01:10:41,620
+Or longer.
+
+630
+01:10:41,620 --> 01:10:42,620
+And plan.
+
+631
+01:10:42,620 --> 01:11:11,620
+I think we should still take some Q and A.
+
+632
+01:11:11,620 --> 01:11:13,620
+Okay, so.
+
+633
+01:11:13,620 --> 01:11:17,620
+Is art restricted just the visual? No, of course not.
+
+634
+01:11:17,620 --> 01:11:19,620
+Absolutely not.
+
+635
+01:11:19,620 --> 01:11:23,620
+Who's making war hall NFTs?
+
+636
+01:11:23,620 --> 01:11:27,620
+I don't think there's a lot of.
+
+637
+01:11:27,620 --> 01:11:32,620
+I wasn't showing those soup cans because I'm going to become in 10 of T's. They're not enough T's.
+
+638
+01:11:32,620 --> 01:11:35,620
+The originals are in the mama.
+
+639
+01:11:35,620 --> 01:11:42,620
+I think there was.
+
+640
+01:11:42,620 --> 01:11:45,620
+There were.
+
+641
+01:11:45,620 --> 01:11:48,620
+Certain four or five.
+
+642
+01:11:48,620 --> 01:11:51,620
+NFTs made by the war hall state.
+
+643
+01:11:51,620 --> 01:11:53,620
+The title is a digital work you did.
+
+644
+01:11:53,620 --> 01:11:58,620
+And then that was that. I don't think anything else happened with war hall NFTs.
+
+645
+01:11:58,620 --> 01:12:05,620
+Okay, should the link to us be shunned by all cryptos being priced in crypto such as Bitcoin and Ethereum?
+
+646
+01:12:05,620 --> 01:12:08,620
+Well.
+
+647
+01:12:08,620 --> 01:12:11,620
+No, I don't think.
+
+648
+01:12:11,620 --> 01:12:17,620
+I think it is interesting that NFTs do primarily trade in.
+
+649
+01:12:17,620 --> 01:12:20,620
+The nominations.
+
+650
+01:12:20,620 --> 01:12:29,620
+But so long as people live their physical life in Fiat world.
+
+651
+01:12:29,620 --> 01:12:34,620
+Any token in Fiat terms, no matter what.
+
+652
+01:12:34,620 --> 01:12:43,620
+Because ultimately a lot of people will want to take their digital assets and convert them into various.
+
+653
+01:12:43,620 --> 01:12:52,620
+Physical world use this case.
+
+654
+01:12:52,620 --> 01:12:56,620
+And if you have to pay in Fiat, it does matter what the Fiat prices.
+
+655
+01:12:56,620 --> 01:13:00,620
+My mental model for this question is.
+
+656
+01:13:00,620 --> 01:13:03,620
+But there's two worlds.
+
+657
+01:13:03,620 --> 01:13:07,620
+And one world will be Fiat denominator. One world may be.
+
+658
+01:13:07,620 --> 01:13:13,620
+Crypto the one of the nominated. And that will happen if there is a.
+
+659
+01:13:13,620 --> 01:13:17,620
+Kind of circular economy in that world.
+
+660
+01:13:17,620 --> 01:13:21,620
+And to the degree that.
+
+661
+01:13:21,620 --> 01:13:24,620
+Crypto unit of account.
+
+662
+01:13:24,620 --> 01:13:29,620
+It's going to matter in a circular.
+
+663
+01:13:29,620 --> 01:13:38,620
+More than it's going to matter in a.
+
+664
+01:13:38,620 --> 01:13:43,620
+Fiat economy. It's going to be hard for a Fiat economy to be.
+
+665
+01:13:43,620 --> 01:13:47,620
+The nominated by.
+
+666
+01:13:47,620 --> 01:13:49,620
+And crypto terms.
+
+667
+01:13:49,620 --> 01:13:54,620
+I don't think that's any of that's particularly.
+
+668
+01:13:54,620 --> 01:13:56,620
+Anything else.
+
+669
+01:13:56,620 --> 01:14:03,620
+Okay, it doesn't seem like we have any more questions or at least no more were fed to me.
+
+670
+01:14:03,620 --> 01:14:05,620
+And if someone.
+
+671
+01:14:05,620 --> 01:14:07,620
+If he wants to.
+
+672
+01:14:07,620 --> 01:14:12,620
+I think the Fiat and crypto systems will call just absolutely for a long time.
+
+673
+01:14:12,620 --> 01:14:15,620
+And.
+
+674
+01:14:15,620 --> 01:14:18,620
+In the immediate.
+
+675
+01:14:18,620 --> 01:14:27,620
+Turn.
+
+676
+01:14:27,620 --> 01:14:29,620
+The.
+
+677
+01:14:29,620 --> 01:14:32,620
+The risk of the crypto system of the system.
+
+678
+01:14:32,620 --> 01:14:37,620
+But I think the correct way to think about it is that they will exist.
+
+679
+01:14:37,620 --> 01:14:41,620
+Together for a long time.
+
+680
+01:14:41,620 --> 01:14:45,620
+Does all have a marketplace not right now.
+
+681
+01:14:45,620 --> 01:14:48,620
+I'm still doesn't have.
+
+682
+01:14:48,620 --> 01:14:51,620
+An NFT based.
+
+683
+01:14:51,620 --> 01:14:55,620
+Community.
+
+684
+01:14:55,620 --> 01:14:58,620
+I am a team based ecosystem.
+
+685
+01:14:58,620 --> 01:15:00,620
+Because it's.
+
+686
+01:15:00,620 --> 01:15:04,620
+Not yet sufficiently decentralized for my test.
+
+687
+01:15:04,620 --> 01:15:05,620
+But I will change.
+
+688
+01:15:05,620 --> 01:15:07,620
+I expect that in 2023.
+
+689
+01:15:07,620 --> 01:15:12,620
+All right, I am going to wrap it up here.
+
+690
+01:15:12,620 --> 01:15:16,620
+We have.
+
+691
+01:15:16,620 --> 01:15:19,620
+And.
+
+692
+01:15:19,620 --> 01:15:21,620
+George.
+
+693
+01:15:21,620 --> 01:15:25,620
+As a conflict, so I will do the Q and A with.
+
+694
+01:15:25,620 --> 01:15:28,620
+So super great session.
+
+695
+01:15:28,620 --> 01:15:31,620
+Fabulous person.
+
+696
+01:15:31,620 --> 01:15:35,620
+And I encourage you to watch if you have the time.
+
+697
+01:15:35,620 --> 01:15:42,620
+Are able to join.
+
+698
+01:15:42,620 --> 01:15:45,620
+Everyone, thank you very much again.
+
+699
+01:15:45,620 --> 01:16:08,620
+You.
+

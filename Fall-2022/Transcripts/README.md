@@ -36,3 +36,19 @@ Inside this directory you may find the transcripts of the live sessions, were -w
         - .txt - https://arweave.net/2GZwX7REKPNDSJjjvkfmdHgs1zq8YOICFFBikaHnA68
         - .srt - https://arweave.net/JHXCaIw5zim106nTweA7KcMtlNZti6xl33tBHXyiMUA
         - .vtt - https://arweave.net/wXE6VuchVdZABNOarbMcyx9npbt1WWmINKcwVmOhKg4
+
+- **Week 5: Art NFTs (Generative Art)**
+    - **Week 5.1**
+        - .txt - https://arweave.net/hUqkPRqaPsL2TLV51A_AcULGjyRy_YkyDNErJa5ym-U
+        - .srt - https://arweave.net/M9MWQNHE8qPfM_hIi7YUjjt_QFb58Lvby03EQDUSMRE
+        - .vtt - https://arweave.net/9Us9tSUqWZAJutLUU0KNGYDvBjMb-41_TR9Ig9y51nc
+    - **Week 5.2**
+        - .txt - https://arweave.net/s53CDS39UX4457_Kio2NtlB4o7jkIwFUYuHj_owdV24
+        - .srt - https://arweave.net/h1Jl3gSRowafd00v9nwFRhunaUcAkWo_yRO7L9arPzs
+        - .vtt - https://arweave.net/thvh2uLv5xaEUOI1DbmM6Nujx5hsyr21F-w9sn03n5s
+
+- **Week 6: Key Considerations in the NFT Space**
+    - **Week 6.1**
+        - .txt - https://arweave.net/Yr0qxlZWRBfSFBGO9YHLik3KvWbOtUYc8FxsG07Nxj8
+        - .srt - https://arweave.net/Y3AAaa1b87tHx6zHs2yyiCP0dOgVZzTjAAMio719DUg
+        - .vtt - https://arweave.net/dh1_-rsdYZFSYSSHWyZbbGj2ui_-sQp_J16rdFOyIi8

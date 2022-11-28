@@ -1,0 +1,5005 @@
+
+00:00.000 --> 00:22.120
+Okay.
+
+00:22.120 --> 00:24.080
+Well, welcome, everyone.
+
+00:24.080 --> 00:32.600
+We are super excited today to have Snowfro Eric, the founder of Art Blocks with us.
+
+00:32.600 --> 00:40.040
+Art Blocks, I think most people know this but for those who don't, is by far the dominant
+
+00:40.040 --> 00:44.720
+platform or enabling technology for generative art.
+
+00:44.720 --> 00:53.480
+So far a very large percentage of important generative art projects were launched in
+
+00:53.480 --> 00:58.040
+Art Blocks and a large amount of the market activity is on Art Blocks.
+
+00:58.040 --> 01:03.200
+And so I'm very honored and excited that he's joining us today.
+
+01:03.200 --> 01:10.080
+We're going to cover his background, how he got here in the first place.
+
+01:10.080 --> 01:15.360
+Where the future of Art Blocks and generative art is going and then maybe touch upon some
+
+01:15.360 --> 01:18.760
+broader industry topics and what they might mean.
+
+01:18.760 --> 01:23.640
+So Eric first, thank you very much and thank you, welcome to the course.
+
+01:23.640 --> 01:24.640
+Thanks for having me.
+
+01:24.640 --> 01:25.640
+This is a little special.
+
+01:25.640 --> 01:27.000
+This is my first metaverse course.
+
+01:27.000 --> 01:31.160
+So pretty excited to be here.
+
+01:31.160 --> 01:34.000
+Let's start with the easy question.
+
+01:34.000 --> 01:37.400
+How did you end up in the NFT field?
+
+01:37.400 --> 01:39.120
+How did you end up founding Art Blocks?
+
+01:39.120 --> 01:41.680
+Why did you find out what?
+
+01:41.680 --> 01:44.680
+What's the point and purpose submission of Art Blocks?
+
+01:44.680 --> 01:49.280
+Well, let's start with NFT.
+
+01:49.280 --> 01:55.560
+So in 2017, I got really excited about Ethereum early, like January 2017, early in the year
+
+01:55.560 --> 02:00.880
+and started tinkering with smart contracts and really just like, you know, I was excited
+
+02:00.880 --> 02:03.200
+about Bitcoin and blockchain technology.
+
+02:03.200 --> 02:06.440
+But when I discovered the concept of a smart contract, it really clicked.
+
+02:06.440 --> 02:12.000
+And it felt like honestly, I feel like the smart contract is the killer app of blockchain
+
+02:12.000 --> 02:13.000
+technology.
+
+02:13.000 --> 02:17.880
+It's just so technical that it may not be what the mainstream sees that as.
+
+02:17.880 --> 02:25.400
+But I tinkered, wrote some smart contracts, tried to, like everybody else figure out how
+
+02:25.400 --> 02:29.280
+to integrate the technology into their regular life.
+
+02:29.280 --> 02:32.920
+I was in charge of a ceramic tile importing business.
+
+02:32.920 --> 02:38.600
+So couldn't be less technical, but always looking for like, exploring for ways of like,
+
+02:38.600 --> 02:44.160
+you know, finding the technology living in the real world.
+
+02:44.160 --> 02:50.160
+During that time, I saw a lot of organizations release projects in the NFT space, I mean,
+
+02:50.160 --> 02:51.960
+sorry, in the crypto space.
+
+02:51.960 --> 02:57.520
+I oftentimes found them to be a square peg around hole, just, you know, have meetings
+
+02:57.520 --> 02:59.800
+with people and it was just like, blockchain, blockchain, blockchain.
+
+02:59.800 --> 03:00.960
+And like, how am I going to use this?
+
+03:00.960 --> 03:01.960
+What am I going to do with it?
+
+03:01.960 --> 03:06.720
+And I was actually really kind of put off by just like the rush towards utilizing the
+
+03:06.720 --> 03:11.680
+technology without thinking about how actual use case would be with the product market.
+
+03:11.680 --> 03:15.920
+It would be the distribution mechanisms, et cetera.
+
+03:15.920 --> 03:24.440
+Fast forward to June 2017, I was on Reddit and I saw a link for the CryptoPunks project.
+
+03:24.440 --> 03:29.160
+Clicked it, read it, read all the information that was created and put together by larval
+
+03:29.160 --> 03:36.200
+labs and just like old moment for me, it was like, yeah, this is, this is, this is awesome.
+
+03:36.200 --> 03:41.080
+First of all, it was a generative art project, a 10,000 character generative art project,
+
+03:41.080 --> 03:44.440
+which, you know, I've always been really big in the generative art.
+
+03:44.440 --> 03:51.560
+And a project that to me was demonstrating in a very simple decentralized manner, the
+
+03:51.560 --> 03:59.360
+beauty of the technology, the simplicity and the power of being able to prove ownership
+
+03:59.360 --> 04:02.560
+of a digital asset.
+
+04:02.560 --> 04:08.680
+So I claimed a bunch of CryptoPunks, a lot of them were zombies, 34 to be exact.
+
+04:08.680 --> 04:14.840
+And I then dove right in and never looked back.
+
+04:14.840 --> 04:19.920
+It was very slow at the beginning in terms of people in the space, spent the next few
+
+04:19.920 --> 04:26.120
+years onboarding anybody that was interested in hearing about the technology, both IRL
+
+04:26.120 --> 04:31.360
+and in the CryptoPunks Discord, which was oftentimes a very slow place and oftentimes
+
+04:31.360 --> 04:33.880
+a pretty exciting place.
+
+04:33.880 --> 04:39.560
+All the while continuing a practice of creating art with code, something that I had started
+
+04:39.560 --> 04:44.960
+about six, seven years prior to that, tinkering with projection mapping and generating visual
+
+04:44.960 --> 04:49.640
+outputs with, with code.
+
+04:49.640 --> 05:02.080
+And finally, in 2020, after Art Blocks version one, two and three, just kind of feeling like
+
+05:02.080 --> 05:07.260
+I had an idea that wasn't able to really kind of put into action, I launched Art Blocks
+
+05:07.260 --> 05:12.120
+formally is what you see it today, which is the fourth iteration of Art Blocks conceptually
+
+05:12.120 --> 05:18.000
+as a platform intending to host, hopefully, the best generative art from the best generative
+
+05:18.000 --> 05:24.480
+artists in the world, using a technology that in my opinion demonstrates the power of watching
+
+05:24.480 --> 05:30.840
+an FT, which is a distribution mechanism for individualized outputs, the one of one of
+
+05:30.840 --> 05:37.600
+acts concept in a way that really would have been very difficult time consuming in the past
+
+05:37.600 --> 05:38.600
+for an artist.
+
+05:38.600 --> 05:46.920
+And to kind of put it all in a box, a generative artist prior to Art Blocks would have created
+
+05:46.920 --> 05:55.040
+an algorithm, produced visual outputs from that algorithm, save them on their hard drive
+
+05:55.040 --> 05:59.120
+and pre-block changes just displayed them, post them on Instagram, and maybe work with the
+
+05:59.120 --> 06:05.400
+gallery printed them, had exhibitions, et cetera.
+
+06:05.400 --> 06:13.960
+Post NFTs would save them on their hard drive, tokenize them, and then list them on a marketplace.
+
+06:13.960 --> 06:18.520
+And what Art Blocks did is actually cut those three steps out of the middle and make it
+
+06:18.520 --> 06:22.800
+to where the algorithmic artist would just upload the algorithm to the blockchain.
+
+06:22.800 --> 06:27.600
+And when the collector came to make a purchase, they would be purchasing a new iteration,
+
+06:27.600 --> 06:29.960
+a new output of that algorithm.
+
+06:29.960 --> 06:34.280
+And it would happen on demand, on the fly, the artist actually doesn't know exactly what's
+
+06:34.280 --> 06:38.880
+going to come out of the mentor, but has highly curated their algorithm in advance.
+
+06:38.880 --> 06:46.400
+And the collector, it becomes the creator, the one that actually makes the artwork happen.
+
+06:46.400 --> 06:52.120
+And the artwork is immediately and automatically deposited into their wallet.
+
+06:52.120 --> 06:57.760
+The product market fit is not what I expected.
+
+06:57.760 --> 07:03.880
+This is a hobby, and this was a hobby, and just literally like a hugely nerdy hobby that
+
+07:03.880 --> 07:07.840
+I thought had a tiny little niche audience.
+
+07:07.840 --> 07:16.160
+But the product market fit has demonstrated a desire, I think, for humans to be individuals
+
+07:16.160 --> 07:22.160
+and to display and collect things that are unique to them, and the technology enables
+
+07:22.160 --> 07:25.840
+that to happen in a way that could happen before.
+
+07:25.840 --> 07:33.200
+Can you spend a couple of minutes on exactly how the process works?
+
+07:33.200 --> 07:40.000
+Because I think some people might not understand what it means, and if T is on chain, that
+
+07:40.000 --> 07:46.520
+the algorithm is on chain, it is created at the time of the minting.
+
+07:46.520 --> 07:52.160
+And I say this, not even new people to the space actually, even people who are not new
+
+07:52.160 --> 07:54.800
+to the space, often don't understand exactly how it works.
+
+07:54.800 --> 07:56.880
+You may have spent two minutes on that.
+
+07:56.880 --> 07:57.880
+Yeah.
+
+07:57.880 --> 08:02.880
+I was recently on a panel with a very smart man that was talking about this concept of
+
+08:02.880 --> 08:04.600
+the stores of value.
+
+08:04.600 --> 08:08.760
+And there's a lot of things in the NFT space that can act as a store of value, but one
+
+08:08.760 --> 08:13.440
+thing that makes things a store of value is this sovereign bearer asset concept, right?
+
+08:13.440 --> 08:22.040
+Where there are no external influences in your ability to, A, prove ownership, and B, experience
+
+08:22.040 --> 08:24.280
+the artwork in the future.
+
+08:24.280 --> 08:30.080
+And so one of the things that are really interesting about our box is that we are very strict with
+
+08:30.080 --> 08:34.680
+artists and require them to upload algorithmic art.
+
+08:34.680 --> 08:36.840
+This is computer-generated art.
+
+08:36.840 --> 08:39.400
+They upload the code that generates the art.
+
+08:39.400 --> 08:45.080
+So blockchain storage is very expensive, prohibitively expensive.
+
+08:45.080 --> 08:54.560
+It's impossible to store an image on the blockchain without spending a lot of money on gas.
+
+08:54.560 --> 09:07.560
+And the idea here that the artwork stored on chain could generate a one megabyte image
+
+09:07.560 --> 09:12.560
+or a 1000 megabyte image, depending on the resolution at which the image was displayed
+
+09:12.560 --> 09:13.920
+was really intriguing to me.
+
+09:13.920 --> 09:18.320
+Like, if the limitation of the blockchain is storage, meaning that we can't really store
+
+09:18.320 --> 09:23.480
+high-resolution files on it, but if we want art to persist because it's stored on blockchain
+
+09:23.480 --> 09:30.080
+technology, to me the solution was storing the root of it, the algorithm of it on the
+
+09:30.080 --> 09:31.080
+blockchain.
+
+09:31.080 --> 09:34.240
+And that algorithm, something that we're very strict with artists to make it what we call
+
+09:34.240 --> 09:38.640
+resolution agnostic, meaning that it can be displayed and will display identically at
+
+09:38.640 --> 09:48.320
+any resolution that computer are capable of displaying, felt incredibly compelling as
+
+09:48.320 --> 09:50.480
+a way of utilizing the medium.
+
+09:50.480 --> 09:56.120
+And so, you know, people have recently referred to this as like the most true form of internet
+
+09:56.120 --> 10:02.960
+art or utilizing internet technology or digital technology to create art simply because it
+
+10:02.960 --> 10:05.320
+is meant to stand a test of time.
+
+10:05.320 --> 10:11.520
+And it stands a test of time from a resolution perspective, which we kind of didn't expect
+
+10:11.520 --> 10:16.160
+to need until later, maybe four or five years down the road, I figure maybe that they would
+
+10:16.160 --> 10:20.680
+release some new resolution television that would really demonstrate the power of the
+
+10:20.680 --> 10:23.080
+resolution agnosticism of an artworks artwork.
+
+10:23.080 --> 10:28.520
+Yet, this year, during a conference, there was an installation that we got to display
+
+10:28.520 --> 10:33.800
+artworks, artworks on a three-story screen at the Samsung headquarters in New York.
+
+10:33.800 --> 10:39.200
+And we were able to generate the artwork for a three-story screen at the full resolution
+
+10:39.200 --> 10:41.240
+that that screen could provide.
+
+10:41.240 --> 10:49.320
+And no matter what you do with any artwork that's stored as a JPEG or a GIF, you cannot.
+
+10:49.320 --> 10:52.840
+You either have to upsample, digitally up-sample that artwork, or you have to display
+
+10:52.840 --> 10:56.800
+it at a smaller size than what the screen is capable of doing.
+
+10:56.800 --> 11:01.840
+And there's something very powerful about something where all of the information required
+
+11:01.840 --> 11:04.480
+to recreate that algorithm is stored on chain.
+
+11:04.480 --> 11:10.680
+We used to say most of the information, but now we're seeing other community members upload,
+
+11:10.680 --> 11:15.840
+even the libraries like P5JS and 3JS that we use to generate these outputs are now also
+
+11:15.840 --> 11:16.840
+being stored on chain.
+
+11:16.840 --> 11:22.320
+So all of the information necessary to restore this artwork is stored on chain and it's able
+
+11:22.320 --> 11:24.560
+to be produced at any resolution.
+
+11:24.560 --> 11:29.800
+And it's a sovereign bare asset where nobody is deciding or making decisions as to how
+
+11:29.800 --> 11:32.360
+you utilize the NFT.
+
+11:32.360 --> 11:37.760
+As long as you own that digital asset, as long as you own that NFT, you own the rights
+
+11:37.760 --> 11:41.120
+that are conveyed by the artist, depending on the license that they provided, generally
+
+11:41.120 --> 11:45.800
+it's either a Creative Commons for license, the NFT license, or even a Creative Commons
+
+11:45.800 --> 11:49.200
+zero license, the CC0 license.
+
+11:49.200 --> 11:58.560
+And then you are at your leisure to how you utilize that, how you control, how you store
+
+11:58.560 --> 12:04.120
+that digital asset, knowing that that digital asset will persist as long as the blockchain
+
+12:04.120 --> 12:05.120
+persists.
+
+12:05.120 --> 12:08.760
+And that's what the future looks like, but given the transparency and the beauty of blockchain
+
+12:08.760 --> 12:12.920
+technology, I think that blockchain technology will last for a long time.
+
+12:12.920 --> 12:17.840
+And we're really excited about what that looks like, where these assets that were created
+
+12:17.840 --> 12:24.480
+in 2020, 2021, 2022, maybe in the year 2075 are still being able to be reproduced at full
+
+12:24.480 --> 12:26.400
+scale, full resolution.
+
+12:26.400 --> 12:33.520
+And you are still the owner of that asset in a way that's provable.
+
+12:33.520 --> 12:38.560
+It's revolutionary to be able to prove ownership of something digital, and then to then take
+
+12:38.560 --> 12:45.080
+it further and be able to reproduce that digital thing at any resolution, or within any environment
+
+12:45.080 --> 12:49.600
+is something that I think is truly special.
+
+12:49.600 --> 12:56.720
+And has a lot to do with why there's so much value placed on these artworks.
+
+12:56.720 --> 13:05.240
+And the point is that when someone mints at the time that they're minting, there is
+
+13:05.240 --> 13:09.640
+a random aspect that has to do with the time that they press the button, right?
+
+13:09.640 --> 13:15.800
+And this is how somehow there are a lot of you that are in a way a co-creator, in a limited
+
+13:15.800 --> 13:23.600
+sense perhaps, but the moment that they chose to click, determine what the work looked like,
+
+13:23.600 --> 13:24.600
+right?
+
+13:24.600 --> 13:29.480
+And then there is this concept of entropy, which is a concept of the amount of randomness,
+
+13:29.480 --> 13:31.720
+or where the source of randomness comes from.
+
+13:31.720 --> 13:34.240
+And on the blockchain, there's no pure randomness.
+
+13:34.240 --> 13:37.680
+It's pseudo-randomness, which means that there's always a deterministic nature of watching
+
+13:37.680 --> 13:38.920
+technology.
+
+13:38.920 --> 13:45.640
+But we utilize a bunch of fun little tips and tricks to make it more complex, borderline,
+
+13:45.640 --> 13:52.280
+or I would, you should never say impossible, but very, very difficult for someone to game
+
+13:52.280 --> 13:55.080
+the determinism of an art block piece.
+
+13:55.080 --> 13:58.400
+And what's beautiful about it is, you know, sometimes say, oh, if I would have minted
+
+13:58.400 --> 14:03.480
+number 25, I would have gotten something nicer or something different.
+
+14:03.480 --> 14:12.120
+The reality is that every little component from the balance of the USDC smart contract
+
+14:12.120 --> 14:19.200
+to the block ID and transaction hash changes and shapes the entropy of what went into the
+
+14:19.200 --> 14:26.560
+piece, and so every mint is truly uncontrolled by the user, or mostly uncontrolled by the
+
+14:26.560 --> 14:29.480
+user and random.
+
+14:29.480 --> 14:36.560
+And that forces the artists to really craft and curate an algorithm where they are putting
+
+14:36.560 --> 14:40.680
+their stamp of approval on every single output that's going to come out of that, because
+
+14:40.680 --> 14:42.000
+they need neither.
+
+14:42.000 --> 14:46.560
+They know the collector has control over what they're actually going to get in the end.
+
+14:46.560 --> 14:54.120
+Right, so what you're saying is, if I minted number 26, and I said, oh, man, 25 is beautiful,
+
+14:54.120 --> 14:55.600
+I wish I had just clicked earlier.
+
+14:55.600 --> 15:00.640
+If I had clicked earlier, the likelihood that I would have gotten 25 is infinitesimally
+
+15:00.640 --> 15:06.320
+small because unless it was the exact same millisecond or milliseconds that the previous
+
+15:06.320 --> 15:09.840
+person would click 25, 25 would have been different.
+
+15:09.840 --> 15:13.080
+Even that, but even the fact that your wallet address is different.
+
+15:13.080 --> 15:17.960
+So all of these things come into play into the entropy, and our blocks has evolved significantly
+
+15:17.960 --> 15:21.760
+the pseudo random number generator or the pseudo random generator that we're using.
+
+15:21.760 --> 15:24.440
+So even with the new smart contracts, it's even different from that.
+
+15:24.440 --> 15:30.080
+But ideally, there was enough entropy in there to where, you know, and this could be a tangent,
+
+15:30.080 --> 15:34.160
+so maybe we don't go to you window, but oftentimes people are like, oh, I want my birthday, or
+
+15:34.160 --> 15:37.720
+I want my DNA to be inside of an artwork.
+
+15:37.720 --> 15:43.160
+My response is that, you know, if my DNA generates something green and your DNA generates something
+
+15:43.160 --> 15:48.760
+yellow, and I know that my DNA generated that green one because it's my DNA, sure.
+
+15:48.760 --> 15:52.320
+But if my DNA generated something and yours generated something different, and we couldn't
+
+15:52.320 --> 15:56.680
+tell the difference between who generated who's, then really, it doesn't really matter what
+
+15:56.680 --> 16:00.320
+the source of entropy is as long as it's pseudo random or random.
+
+16:00.320 --> 16:09.640
+And it doesn't, I don't know that people actually want to have too much of a say in what the
+
+16:09.640 --> 16:10.640
+output is.
+
+16:10.640 --> 16:17.720
+I think, at least for me, I like being able to control fully, well, limitedly because
+
+16:17.720 --> 16:22.840
+it's pseudo random, but be able to craft what the algorithm produces.
+
+16:22.840 --> 16:25.940
+And oftentimes, you know, we see people kind of go down this path, especially with our
+
+16:25.940 --> 16:30.520
+boxes, we kind of expand people are like, hey, can I put my birthday or my wallet address
+
+16:30.520 --> 16:34.960
+or my DNA, make that be the source of random for the piece.
+
+16:34.960 --> 16:40.480
+And I think it's actually fun and intriguing, but the result would be not palpable.
+
+16:40.480 --> 16:47.200
+And if the results not palpable, then it's an unnecessary intrusion into the block, the
+
+16:47.200 --> 16:49.240
+air gapped nature of the blockchain.
+
+16:49.240 --> 16:53.000
+And that's something that kind of goes back to like the art is on chain.
+
+16:53.000 --> 16:58.160
+And then also the generation of the seed is on chain, and therefore everything is air
+
+16:58.160 --> 17:05.600
+gapped and free from human meddling, for the most part, using this technology and the
+
+17:05.600 --> 17:06.600
+provenance there.
+
+17:06.600 --> 17:10.760
+I mean, obviously the NFT technology provides some crazy provenance in terms of ownership
+
+17:10.760 --> 17:17.560
+history and, you know, some financial information, but this added provenance of everything generated,
+
+17:17.560 --> 17:24.840
+stored on chain in an air gapped fashion, I think further enhances the durability of
+
+17:24.840 --> 17:32.160
+these things that people are looking at as not just like beautiful art and cultural items
+
+17:32.160 --> 17:36.120
+now, but also stores a value for the future.
+
+17:36.120 --> 17:38.720
+Makes perfect sense.
+
+17:38.720 --> 17:46.360
+Any touch upon something else you said, a common way people describe these types of
+
+17:46.360 --> 17:52.440
+collections is one of one of X that each one's unique, but they're part of a broader whole
+
+17:52.440 --> 17:56.760
+Tyler Hobbes calls them long form generative collections.
+
+17:56.760 --> 18:05.840
+And I think there's at least one point of view that this really is the natural medium
+
+18:05.840 --> 18:07.480
+for generative art.
+
+18:07.480 --> 18:15.400
+It's found its home because you can let everyone can see the algorithm operating at the same
+
+18:15.400 --> 18:16.400
+time.
+
+18:16.400 --> 18:18.400
+What's your view on this?
+
+18:18.400 --> 18:20.360
+Yeah, this goes in so many levels.
+
+18:20.360 --> 18:24.920
+I mean, if you just take a step back to one of one, right?
+
+18:24.920 --> 18:26.640
+I'm sorry, one of X.
+
+18:26.640 --> 18:33.760
+So in the physical world, you trust a photographer to do an addition of 10, but you don't know
+
+18:33.760 --> 18:34.760
+how many.
+
+18:34.760 --> 18:39.760
+I mean, we need to make sure that we can trust artists just institutionally, like down to
+
+18:39.760 --> 18:45.920
+the roots, we need to be in a position to trust artists.
+
+18:45.920 --> 18:49.920
+I live here in Houston and I love that the contemporary art museum here in Houston has
+
+18:49.920 --> 18:53.080
+this slogan that says, trust artist period, right?
+
+18:53.080 --> 18:57.240
+So we need to trust artists, but there's something really beautiful about NFT technology where
+
+18:57.240 --> 19:01.840
+if it's a one of X, if it's a one of 10, it's demonstrable.
+
+19:01.840 --> 19:08.000
+The artist is publicly accepting a capped limitation for that addition.
+
+19:08.000 --> 19:12.760
+Sure, they could go mint the same art on another platform, but it would be traceable
+
+19:12.760 --> 19:15.440
+and you would still be able to get back to what the original was.
+
+19:15.440 --> 19:19.720
+Sure, they can go print an addition of 10 and sign 10 additions and call those one of
+
+19:19.720 --> 19:21.800
+10, two of 10, three of 10.
+
+19:21.800 --> 19:28.400
+But ultimately, if we trust the artist to like act in their best interest and within
+
+19:28.400 --> 19:35.000
+the cultural norm that the art profession kind of provides, there's an opportunity for
+
+19:35.000 --> 19:37.640
+the artists to demonstrably choose an addition size.
+
+19:37.640 --> 19:47.600
+Now, an addition size of 100 of the same output is perfectly suitable for photography, 3D
+
+19:47.600 --> 19:52.480
+art, stuff made on procreate, I mean, things that are made with the hand.
+
+19:52.480 --> 19:59.800
+But in an increasingly digital world, we are drawn to a digital representation that distinguishes
+
+19:59.800 --> 20:01.520
+us from other people.
+
+20:01.520 --> 20:05.920
+And so while there's nothing technically wrong with making a PFP or an avatar out of
+
+20:05.920 --> 20:10.080
+an addition of 100 where it's like everybody can potentially have that, 100 people can
+
+20:10.080 --> 20:11.800
+have that same avatar.
+
+20:11.800 --> 20:18.280
+The internet has trained us to try to be as individualistic as we are in real life.
+
+20:18.280 --> 20:19.440
+And it's impossible.
+
+20:19.440 --> 20:20.840
+It's physically impossible.
+
+20:20.840 --> 20:23.840
+I could be called out for saying things that are impossible.
+
+20:23.840 --> 20:27.680
+So maybe it's very, very, very improbable that there would be two humans with the same
+
+20:27.680 --> 20:33.960
+air count and facial structure, I mean, literally identical humans.
+
+20:33.960 --> 20:38.240
+And I think that kind of translates well into the digital space.
+
+20:38.240 --> 20:46.040
+The concept of one of one of X is that the larval labs guys could not have, I mean, technically
+
+20:46.040 --> 20:51.520
+you could have created 10,000 crypto punks individually by placing pixels.
+
+20:51.520 --> 20:55.440
+Like that would not have been a good use of time, especially knowing the power of what
+
+20:55.440 --> 20:57.200
+the technology can provide.
+
+20:57.200 --> 21:01.200
+But what they did is they wrote an algorithm that created 10,000 pixels and 10,000, I mean,
+
+21:01.200 --> 21:05.480
+10 characters with 24 inch by 24 pixel by 24 pixel characters.
+
+21:05.480 --> 21:10.040
+And when they first came out, it felt like it was too many, especially in the typical
+
+21:10.040 --> 21:19.280
+norm of art, like 10,000 works of art in one fell swoop is a lot.
+
+21:19.280 --> 21:20.360
+It felt like a lot.
+
+21:20.360 --> 21:24.800
+There was really a few hundred people maybe participating actively in the space in the
+
+21:24.800 --> 21:28.680
+first couple of years after the release of the CryptoPugs project.
+
+21:28.680 --> 21:34.520
+But what we've learned is that as, forget about the speculation, the FOMO and all the
+
+21:34.520 --> 21:41.880
+money involved, like as this technology finds a foothold in our daily lives of transparency.
+
+21:41.880 --> 21:45.480
+And you know, my daily life is very different than the majority of humans because I use
+
+21:45.480 --> 21:48.840
+Metamask on a daily basis to authenticate who I am.
+
+21:48.840 --> 21:51.280
+So I understand we're not there yet in the mainstream.
+
+21:51.280 --> 21:56.680
+But as this technology has kind of taken a foothold, we realize that 10,000 is nothing.
+
+21:56.680 --> 21:59.160
+10,000 is very, very, very few.
+
+21:59.160 --> 22:04.040
+And that's demonstrated by the value, the kind of insane value that CryptoPunks and
+
+22:04.040 --> 22:07.000
+Board Apes have.
+
+22:07.000 --> 22:11.440
+And that value is what we are assigning as humans to being individuals.
+
+22:11.440 --> 22:16.840
+Because I don't believe that the value of 10,000 CryptoPunks would be what it is today
+
+22:16.840 --> 22:22.920
+if it was 10,000 of the same CryptoPunk as in addition of 10,000 or even the same 100
+
+22:22.920 --> 22:27.720
+editions of 100, the value would not be what it is today.
+
+22:27.720 --> 22:31.360
+The value is what it is today because of a sense of individuality.
+
+22:31.360 --> 22:36.600
+If I'm flicking through Twitter, I see your avatar, your PFP way before I see your name
+
+22:36.600 --> 22:39.840
+and I know who you are.
+
+22:39.840 --> 22:43.720
+Unless it's like a funk or, oh, actually that's facing the other direction or maybe like a
+
+22:43.720 --> 22:45.560
+B1 punk, but that has a different background.
+
+22:45.560 --> 22:49.760
+Like, there's something really special in the digital world about the individuality.
+
+22:49.760 --> 22:53.480
+And this goes back to this product, market fit, and I'm not trying to make art sound
+
+22:53.480 --> 22:56.640
+like a product and collect or sound like a market.
+
+22:56.640 --> 23:02.240
+But the distribution mechanism for an artist to create something with a demonstrable addition
+
+23:02.240 --> 23:09.880
+size in a large addition without intermediary steps and all the information used to recreate
+
+23:09.880 --> 23:10.960
+that artwork is on chain.
+
+23:10.960 --> 23:14.560
+It's just unprecedented stuff to be able to put it together like that.
+
+23:14.560 --> 23:19.400
+And I definitely want to reiterate that that is not when I launched ArtBlox, like I was
+
+23:19.400 --> 23:21.360
+excited about the one of one of X concept.
+
+23:21.360 --> 23:27.760
+I was excited about art being on chain, but I did not fully understand the product market
+
+23:27.760 --> 23:32.920
+fit, the distribution mechanism and the value proposition that this would have beyond the
+
+23:32.920 --> 23:37.120
+small niche generative art world.
+
+23:37.120 --> 23:43.200
+I literally saw this as a cool tool for generative artists, did not fully embrace or understand
+
+23:43.200 --> 23:47.520
+this product market fit until a couple of months into it when I started to realize just
+
+23:47.520 --> 23:54.840
+like how powerful the sense of community was around being a the creator of an artwork
+
+23:54.840 --> 24:00.880
+alongside the artist, the one that created the piece and then the sharing of it within
+
+24:00.880 --> 24:03.880
+a community of people with the artist president.
+
+24:03.880 --> 24:10.800
+Yeah, I still to this day kind of like and shocked at how it exploded, but also totally
+
+24:10.800 --> 24:14.680
+understand from a human perspective why it is exploded.
+
+24:14.680 --> 24:19.200
+And so one of one of X continues to be something that we pursue.
+
+24:19.200 --> 24:23.840
+I often say that the lowest friction use case of one of one of X is pixels on a screen
+
+24:23.840 --> 24:30.280
+with demonstrated a wonderful kind of community reception to the pixels on a screen being
+
+24:30.280 --> 24:33.520
+artwork that just lives in the digital space.
+
+24:33.520 --> 24:36.440
+And now we're really excited and earlier you asked, you know, what does the feature
+
+24:36.440 --> 24:37.920
+of ArtBlox look like?
+
+24:37.920 --> 24:41.160
+I don't think this ends at pixels on a screen.
+
+24:41.160 --> 24:45.600
+I do think that this permeates into the real world.
+
+24:45.600 --> 24:52.600
+And while I'm not fully in tune or understand like what the implications are of physical
+
+24:52.600 --> 24:57.840
+and digital goods that are meaningfully connected, it makes me.
+
+24:57.840 --> 25:01.240
+It just feels like an unresolved thing in my gut.
+
+25:01.240 --> 25:05.600
+The idea of like an ephemeral physical object that's derived from a digital object that
+
+25:05.600 --> 25:10.520
+you are the sole and provable owner of is something that I find fascinating and something that
+
+25:10.520 --> 25:14.160
+I really look forward to exploring beyond the pixels on a screen concept.
+
+25:14.160 --> 25:19.240
+And I really think that's where ArtBlox is going to be hopefully, you know, shepherding
+
+25:19.240 --> 25:30.080
+the world into enabling their audiences to own both digital and physical one of one of
+
+25:30.080 --> 25:37.320
+X's as opposed to like one copies of the same exact object when applicable.
+
+25:37.320 --> 25:42.240
+Obviously like we may not need spatulas that are one of one of X's.
+
+25:42.240 --> 25:46.840
+But yeah, in a future where I can mint a car and the car is unique to me for whatever reason.
+
+25:46.840 --> 25:48.360
+Yeah, I would look forward to that.
+
+25:48.360 --> 25:50.280
+And maybe that's 50 years down the road.
+
+25:50.280 --> 25:53.960
+I don't know, but I'd be excited about it.
+
+25:53.960 --> 25:55.640
+You had mentioned something at the beginning.
+
+25:55.640 --> 26:00.200
+It's very minor, but I want to flag it because it's the same way I think about the space.
+
+26:00.200 --> 26:01.920
+You had said the puncture generative.
+
+26:01.920 --> 26:07.560
+In my view is that most PFP collections, the way they're done, are also generative.
+
+26:07.560 --> 26:13.640
+And so if you think about the PFP's end-generative art, it means the vast majority of NFT spaces
+
+26:13.640 --> 26:16.360
+as it is today is in fact generative.
+
+26:16.360 --> 26:17.360
+Is that right?
+
+26:17.360 --> 26:18.360
+Yes, absolutely.
+
+26:18.360 --> 26:26.680
+Yeah, it's all, I mean, unless someone's drawing each individual one, yeah, it's by definition
+
+26:26.680 --> 26:27.680
+generative.
+
+26:27.680 --> 26:37.680
+I think it's further confirmation that generative might have found its native medium with NFTs.
+
+26:37.680 --> 26:45.640
+I think that there's a chance that if crypto punks were not generative, I may not have
+
+26:45.640 --> 26:52.800
+claimed them because it was a pain in the ass back then to claim an NFT.
+
+26:52.800 --> 26:58.240
+There was no metamasker, I didn't know about it, and I'd sink my Ethereum wallet, etc.
+
+26:58.240 --> 27:03.920
+And what caught my eye was the fact that it was generative and the fact that something
+
+27:03.920 --> 27:07.640
+generative was made accessible in this way.
+
+27:07.640 --> 27:17.080
+And people always say like larva labs is essentially instituted a 10k number for a PFP.
+
+27:17.080 --> 27:18.080
+It felt like a lot.
+
+27:18.080 --> 27:25.360
+A lot that came after that came from that concept of a generative thing, crypto kitties,
+
+27:25.360 --> 27:26.880
+also generative.
+
+27:26.880 --> 27:33.280
+And then everything that came after that, that was minted on demand was in fact generative,
+
+27:33.280 --> 27:37.680
+whether there was a reveal process afterwards or not, it was still a generative piece.
+
+27:37.680 --> 27:42.080
+Okay, this is an amazing background.
+
+27:42.080 --> 27:44.880
+Let's talk about the next steps in art blocks.
+
+27:44.880 --> 27:50.920
+And let's start again with some basics, art blocks used to have three collection types,
+
+27:50.920 --> 27:53.840
+curated, playground and factory.
+
+27:53.840 --> 27:58.680
+Now there's a different set, there's collaborations, there's also an API.
+
+27:58.680 --> 27:59.680
+How was it before?
+
+27:59.680 --> 28:00.680
+How was it now?
+
+28:00.680 --> 28:03.760
+What are the differences in the types of collections?
+
+28:03.760 --> 28:05.280
+Why did you make the change?
+
+28:05.280 --> 28:06.920
+Why did the series end?
+
+28:06.920 --> 28:10.000
+And so I'd love to hear about that.
+
+28:10.000 --> 28:14.240
+Well, first of all, I made collections initially when it was just me.
+
+28:14.240 --> 28:19.880
+And then Jeff Davis was working alongside me actually contract basis initially just because
+
+28:19.880 --> 28:25.240
+he was such a wonderful person to work with and like so involved early on.
+
+28:25.240 --> 28:31.120
+But when I was still kind of making all the decisions for the most part, I started getting
+
+28:31.120 --> 28:36.240
+the sense of dread of being the naysayer.
+
+28:36.240 --> 28:39.480
+And I am generally someone that is a very inclusive person.
+
+28:39.480 --> 28:40.840
+I don't like to leave people out.
+
+28:40.840 --> 28:47.080
+I don't like to say no to people generally, although I've had to say that more and more
+
+28:47.080 --> 28:48.080
+in.
+
+28:48.080 --> 28:54.960
+But then at the same time, before art blocks launched, I got very little traction.
+
+28:54.960 --> 28:59.240
+Some of the best artists in the world that I've since launched on art blocks, like fully
+
+28:59.240 --> 29:05.400
+ignored tweet messages and direct messages, Reddit messages when I reached out in 2018,
+
+29:05.400 --> 29:07.960
+2019, 2020 to talk about art blocks.
+
+29:07.960 --> 29:11.680
+And I totally understand why it was a shit show of information that I would just like
+
+29:11.680 --> 29:14.200
+regurgitate to them and be like, yeah, this is crazy.
+
+29:14.200 --> 29:18.240
+Or they just went on fire.
+
+29:18.240 --> 29:23.760
+In the first few weeks of art blocks, everything except for the Chromium School sold out immediately.
+
+29:23.760 --> 29:29.640
+And I think it peaked a lot of artists' interest and oftentimes with things that make people
+
+29:29.640 --> 29:34.520
+money, there are people that make things because they're artists and they love it and they're
+
+29:34.520 --> 29:36.400
+excited about sharing.
+
+29:36.400 --> 29:41.240
+And then there's people that make things because they can and because they can make money.
+
+29:41.240 --> 29:47.760
+And I did not feel that I was the right person to mean making those decisions.
+
+29:47.760 --> 29:48.760
+I didn't have time.
+
+29:48.760 --> 29:50.440
+First of all, I was not sleeping.
+
+29:50.440 --> 29:56.960
+And so I was making those decisions on behalf of the platform for artists that I don't know
+
+29:56.960 --> 29:59.320
+and I didn't know and I didn't have time to research.
+
+29:59.320 --> 30:05.440
+And so the first thing I did was create this territorial board to potentially say no to
+
+30:05.440 --> 30:06.360
+art.
+
+30:06.360 --> 30:10.720
+Very little art initially was said no to.
+
+30:10.720 --> 30:14.720
+And I still wanted art blocks to be a fully open platform.
+
+30:14.720 --> 30:17.040
+So I still wanted a place for people to release art.
+
+30:17.040 --> 30:21.960
+I just wanted to celebrate the best art.
+
+30:21.960 --> 30:27.440
+And so I added a couple categories.
+
+30:27.440 --> 30:31.440
+First of all, playground because we had some very prolific artists that were wanting to
+
+30:31.440 --> 30:33.560
+release more work that had already released on art blocks.
+
+30:33.560 --> 30:37.400
+And I didn't want to call it curated because I wanted there to be like a little pause just
+
+30:37.400 --> 30:38.920
+to give some breathing room.
+
+30:38.920 --> 30:42.320
+And then what we called the factory which was originally intended to be the open platform
+
+30:42.320 --> 30:46.840
+for anybody that can code a pixel onto a screen to code a pixel onto a screen.
+
+30:46.840 --> 30:55.520
+And that also served as a fall back for as we were getting more and more artists.
+
+30:55.520 --> 30:59.080
+I mean within a couple of weeks of opening an artist application, we had 300 artists apply.
+
+30:59.080 --> 31:02.240
+It was just like an impossibility to keep up with stuff.
+
+31:02.240 --> 31:06.600
+It gave us a bucket to put art that we were excited or wanted to give people a shot at
+
+31:06.600 --> 31:10.680
+like producing art in this way but did not want it to be feet.
+
+31:10.680 --> 31:15.560
+Like it wasn't at the level of the art that was coming that was to be featured in the
+
+31:15.560 --> 31:16.560
+curated section.
+
+31:16.560 --> 31:24.080
+So then after a year and a half, there was a shift in curation where we added a second
+
+31:24.080 --> 31:27.360
+curation process which is a screening process internally.
+
+31:27.360 --> 31:32.560
+And from feedback from some of the some of the really strong artists on the Art Block
+
+31:32.560 --> 31:37.600
+website and this idea that we wanted to make sure that all of the artwork on our box, not
+
+31:37.600 --> 31:45.240
+just curated, perpetuated the value of effort that artists put into their work.
+
+31:45.240 --> 31:52.640
+We started screening a significant percentage of artworks and lost the ability to kind of
+
+31:52.640 --> 31:54.480
+host everybody's art on our blocks.
+
+31:54.480 --> 31:59.440
+And it was really kind of sad for me because I really was really excited about the open
+
+31:59.440 --> 32:02.160
+democratized nature of the platform.
+
+32:02.160 --> 32:06.720
+But also when I launched Art Box, I didn't realize that we would have such incredibly
+
+32:06.720 --> 32:09.960
+powerful and significant artwork released on the platform.
+
+32:09.960 --> 32:15.000
+You know, given that I'm a huge fan of generative art and I'm a huge fan of these artists,
+
+32:15.000 --> 32:22.840
+like for years I had followed these artists like way before Art Box existed and like the
+
+32:22.840 --> 32:26.200
+best thing that I could do that we could do as a platform in service of those artists
+
+32:26.200 --> 32:32.440
+was to make sure that all of the art on the platform was of a certain level of quality.
+
+32:32.440 --> 32:37.880
+So what happened is we started accepting only about 15% of the artworks that were submitted
+
+32:37.880 --> 32:39.320
+to Art Box.
+
+32:39.320 --> 32:43.880
+But because of the perception of what happened and last year there was a kind of a mad rush
+
+32:43.880 --> 32:47.840
+to Art Box, we couldn't keep anything live on the platform.
+
+32:47.840 --> 32:50.120
+Everything would sell out immediately, crazy prices.
+
+32:50.120 --> 32:54.440
+I mean, the FOMO and speculation was real and it was significant and it was really,
+
+32:54.440 --> 32:58.080
+I think it was a step back for Art Box and for generative art.
+
+32:58.080 --> 33:02.800
+Like I think it was detrimental to the long term meaning of this type of art.
+
+33:02.800 --> 33:09.600
+In other words, I would very much have preferred this kind of slope than this kind of slope
+
+33:09.600 --> 33:16.040
+because if you're very crypto enough, you know that everything goes up, comes down.
+
+33:16.040 --> 33:21.440
+We started getting responses from artists that were screened but not curated and say
+
+33:21.440 --> 33:27.240
+things like, well, I don't want to be released on the factory.
+
+33:27.240 --> 33:31.360
+I don't want to be released in like the second class, whatever thing.
+
+33:31.360 --> 33:37.600
+And A, I would take it way more personally than I should because a lot of my favorite
+
+33:37.600 --> 33:39.760
+artworks are in the factory.
+
+33:39.760 --> 33:42.960
+And factory, a lot of the artwork is incredible.
+
+33:42.960 --> 33:45.040
+It just wasn't pushing boundaries.
+
+33:45.040 --> 33:48.240
+And there's a lot of really good examples of things that are in the factory that had
+
+33:48.240 --> 33:51.320
+they been released six months earlier, they would have absolutely been curated.
+
+33:51.320 --> 33:54.520
+But if you see the progression of like pushing the boundaries of dinner to art and the curated
+
+33:54.520 --> 33:58.480
+section, you realize that like it could be a brilliant work within the art and an artist
+
+33:58.480 --> 34:02.040
+could have worked on it for years, months, whatever.
+
+34:02.040 --> 34:05.680
+And it still wasn't pushing a boundary for the medium.
+
+34:05.680 --> 34:10.040
+And so they wouldn't want to release it on Art Box and so then we'd see the artwork release
+
+34:10.040 --> 34:11.040
+on other platforms.
+
+34:11.040 --> 34:18.480
+And I'd be like, man, 15% acceptance rate is pretty elite, in my opinion, especially
+
+34:18.480 --> 34:23.040
+given that there's not a huge number of generative artists in the world.
+
+34:23.040 --> 34:24.840
+And it hurt.
+
+34:24.840 --> 34:28.040
+Like it hurt us, the team, to see that happen.
+
+34:28.040 --> 34:29.560
+It was like demoralizing.
+
+34:29.560 --> 34:34.240
+And to know that we might have like screened an artist in and they were like they were
+
+34:34.240 --> 34:36.320
+dissatisfied with like the experience.
+
+34:36.320 --> 34:41.520
+And what it made us go back to think about is like, okay, is the word factory a turnoff,
+
+34:41.520 --> 34:42.520
+right?
+
+34:42.520 --> 34:43.760
+Like originally it was meant to be a factory.
+
+34:43.760 --> 34:46.720
+This is just anybody that can code can put art on the platform.
+
+34:46.720 --> 34:53.240
+But over time it was no longer just churning out meaning to churn out work or let anybody
+
+34:53.240 --> 34:54.360
+release.
+
+34:54.360 --> 34:56.880
+And so we started to second guess the word factory.
+
+34:56.880 --> 35:03.120
+We also realized that the curated that the playground badge and to explain playground
+
+35:03.120 --> 35:06.280
+or what we call heritage playground now was any work that was released.
+
+35:06.280 --> 35:11.880
+By an artist that had previously been curated because they had like a previous they had
+
+35:11.880 --> 35:12.880
+like a freeze period.
+
+35:12.880 --> 35:16.880
+They couldn't release new period of work six months or they couldn't submit to curation,
+
+35:16.880 --> 35:19.040
+but they could still have really great artwork.
+
+35:19.040 --> 35:24.960
+I think a lot of the work in the playground is and could very well be curated.
+
+35:24.960 --> 35:30.200
+I think for example, Meridian by Matt Deloria is one of my favorite pieces on our box period.
+
+35:30.200 --> 35:31.440
+And it's a playground piece, right?
+
+35:31.440 --> 35:33.880
+But to me that easily could have been a curated piece.
+
+35:33.880 --> 35:40.680
+It came sooner after his original release that it wasn't eligible to be curated.
+
+35:40.680 --> 35:45.840
+But what we're realizing is that playground actually became a designation for artists
+
+35:45.840 --> 35:50.880
+that had been previously curated more than a category in and of itself.
+
+35:50.880 --> 35:55.920
+And I also got a lot of communication as I, you know, I spent the year this year and
+
+35:55.920 --> 36:02.280
+last year essentially integrated in intermingling with both the traditional art world and the
+
+36:02.280 --> 36:07.360
+entity space and a lot of people would mention that they're confused even after someone explaining
+
+36:07.360 --> 36:09.200
+to them what the different categories were.
+
+36:09.200 --> 36:11.560
+They still felt confusion and uncertainty.
+
+36:11.560 --> 36:17.160
+And so the amazing team that I get to work with every single day at our box put our brains
+
+36:17.160 --> 36:19.600
+together and simplified it.
+
+36:19.600 --> 36:23.400
+And we really just, you know, changing the name from factory to presents is basically
+
+36:23.400 --> 36:31.440
+saying our blocks is presenting this work as a wonderful example of generative art.
+
+36:31.440 --> 36:36.600
+And the concept of playground is shifted to A, we have the heritage playground collection.
+
+36:36.600 --> 36:42.360
+But E, a playground project is something that that tag just means that that artists have
+
+36:42.360 --> 36:43.360
+been previously curated.
+
+36:43.360 --> 36:47.840
+And I do think that artists should be recognized for having achieved curation at some point
+
+36:47.840 --> 36:50.320
+or a curated project at some point in the process.
+
+36:50.320 --> 36:54.120
+So now we have those two categories curated.
+
+36:54.120 --> 36:56.440
+We also removed the designation for the series.
+
+36:56.440 --> 37:02.680
+In other words, we had series designations every quarter, it would be a new series.
+
+37:02.680 --> 37:04.680
+And the reason I did this is I did this for a lot of reasons.
+
+37:04.680 --> 37:09.440
+A, as a collector, I really always enjoyed collecting comic cards by series.
+
+37:09.440 --> 37:16.560
+Literally Marvel series one, series two and series three is the original reason the card
+
+37:16.560 --> 37:23.200
+collecting is the original kind of idea of coming up with a series.
+
+37:23.200 --> 37:29.160
+And then the series though became the other reason for the series was that somebody that
+
+37:29.160 --> 37:35.040
+may not be able to collect all curated art blocks pieces would be able to say and feel
+
+37:35.040 --> 37:38.320
+the satisfaction of having collected all of series one.
+
+37:38.320 --> 37:39.320
+So it was a compartmentalization.
+
+37:39.320 --> 37:44.000
+It was a way of enabling people to participate and have a set, something that I've always
+
+37:44.000 --> 37:48.240
+been drawn to is full sets, having a set of something and being able to say, look at my
+
+37:48.240 --> 37:54.480
+series three sets, even if they could not participate in all of them.
+
+37:54.480 --> 37:58.160
+What happened though is we had a very early project called elevated deconstructions, which
+
+37:58.160 --> 38:03.080
+gosh, the simplicity of that project is so special and also one of my favorite projects
+
+38:03.080 --> 38:05.280
+in art blocks.
+
+38:05.280 --> 38:11.200
+It was an addition of 200 and it demonstrated a bottleneck in collectability.
+
+38:11.200 --> 38:14.880
+And I don't have a problem with the bottleneck in collectability other than it's really good
+
+38:14.880 --> 38:15.880
+information.
+
+38:15.880 --> 38:17.480
+It was a really good reference point.
+
+38:17.480 --> 38:22.560
+For the future, when here we are saying we want to represent the best gender of art in
+
+38:22.560 --> 38:29.880
+the world, but the best gender of art might not actually do well at an addition of 1,000
+
+38:29.880 --> 38:31.600
+or 500.
+
+38:31.600 --> 38:32.920
+That may just not be the intent.
+
+38:32.920 --> 38:37.080
+Long form, while I love it, obviously everything from Fidezza to CryptoPunks and all these
+
+38:37.080 --> 38:42.200
+things, like I love the long form gender of art concept.
+
+38:42.200 --> 38:48.560
+I also remember early on screening projects that were incredible, but should not be an
+
+38:48.560 --> 38:50.680
+addition bigger than 50 or 100.
+
+38:50.680 --> 38:54.720
+So we got into this conundrum where we were like, hey, it would be really nice to release
+
+38:54.720 --> 39:00.520
+curated projects in addition to 50, 100, 200.
+
+39:00.520 --> 39:05.880
+As someone that was collecting one of every single curated drop, in fact, multiples of
+
+39:05.880 --> 39:12.160
+that, I realized also how terrifying it would be to be a collector and be presented with
+
+39:12.160 --> 39:18.960
+a curated drop of 50 and realize that in order to maintain this set, I would have to purchase
+
+39:18.960 --> 39:22.560
+something that was going to be in so potentially high demand.
+
+39:22.560 --> 39:26.680
+And so we dropped the series designation and now curated is just curated.
+
+39:26.680 --> 39:31.120
+So all of the heritage series went through eight.
+
+39:31.120 --> 39:35.800
+To me, fits inside of this really beautiful acrylic box of like, this is the roots, this
+
+39:35.800 --> 39:39.120
+is the beginning of our blocks, this is how we got started.
+
+39:39.120 --> 39:47.120
+You see a really clear progression in technical capabilities of projects over the course of
+
+39:47.120 --> 39:48.680
+that time.
+
+39:48.680 --> 39:54.040
+And then it ends at a point where we are now recognizing in art blocks that we want to
+
+39:54.040 --> 40:00.560
+be able to recognize a project is curated and have it be an addition of 50 or 100 or 200.
+
+40:00.560 --> 40:05.920
+And so moving forward, the curatorial board is asked what they recommend and we've been
+
+40:05.920 --> 40:09.760
+doing this for a little while now, what they recommend for addition size.
+
+40:09.760 --> 40:14.160
+And that is what within a plus or minus what the final edition will be.
+
+40:14.160 --> 40:17.840
+And I would love to see the curatorial board decide that something would be an addition
+
+40:17.840 --> 40:22.760
+of 50 or 100, obviously have the artist agree and sign off on that and see what it looks
+
+40:22.760 --> 40:27.240
+like to have something that we are considering to be the pioneering work in the field of
+
+40:27.240 --> 40:30.240
+gender of art, but in addition to 50.
+
+40:30.240 --> 40:36.440
+And that's where the series destination has been dropped, playground, factory destinations
+
+40:36.440 --> 40:42.200
+have been dropped and we now have our blocks curated, pushing boundaries, our box presents,
+
+40:42.200 --> 40:46.960
+incredible algorithmic, like I still consider them masterpieces.
+
+40:46.960 --> 40:50.160
+Then we have the collaboration section, which we're really proud of that right now we're
+
+40:50.160 --> 40:55.080
+currently deep in some collaborative projects with with face gallery, one of the leading
+
+40:55.080 --> 40:56.440
+art galleries in the world.
+
+40:56.440 --> 41:01.240
+And then most recently we added something I've been thinking about for a really long
+
+41:01.240 --> 41:07.600
+time, which is living in a new category called explorations and we added a project called
+
+41:07.600 --> 41:12.040
+a friendship bracelet, which is an exploration beyond just the artwork, although the artwork
+
+41:12.040 --> 41:18.520
+is to me the NFT is the artwork, but what it looks like to actually carry instructions
+
+41:18.520 --> 41:24.720
+in the same provenance and permanence of the Ethereum blockchain, integrate and embed instructions
+
+41:24.720 --> 41:27.640
+into an artwork on how to make a physical object.
+
+41:27.640 --> 41:33.520
+That doesn't fit the art for art itself narrative that we've really built and formulated for
+
+41:33.520 --> 41:39.040
+art blocks, but it definitely fits an exploration of what gender of art can and will be for
+
+41:39.040 --> 41:40.040
+the future.
+
+41:40.040 --> 41:45.160
+And so the team came up with this really wonderful category titled for explorations, where we
+
+41:45.160 --> 41:51.760
+will put things that art blocks is essentially dreaming up or commissioning ourselves.
+
+41:51.760 --> 41:57.480
+And so we commissioned the artist to in their style create this beautiful thing that may
+
+41:57.480 --> 42:03.160
+demonstrate something, whether it's a, you know, minting experience that you have to
+
+42:03.160 --> 42:11.320
+like visit somewhere to get to or a, you know, physical item that you can create giving back
+
+42:11.320 --> 42:15.240
+to our artists community in a way other than just releasing their work, commissioning their
+
+42:15.240 --> 42:20.760
+work and putting the kind of the weight of what we created in our blocks behind something
+
+42:20.760 --> 42:26.680
+that will generally hopefully be either always low cost or free.
+
+42:26.680 --> 42:32.440
+Obviously that could change as ideas and projects come into the fold.
+
+42:32.440 --> 42:34.280
+But yeah, really excited about that category.
+
+42:34.280 --> 42:40.240
+That's where we're really going to kind of spring into this future of art or content
+
+42:40.240 --> 42:44.000
+or design being created generatively beyond just like what the people's on the screen
+
+42:44.000 --> 42:45.000
+are.
+
+42:45.000 --> 42:46.000
+Amazing.
+
+42:46.000 --> 42:53.120
+Well, look forward to see how the next phase goes.
+
+42:53.120 --> 43:01.680
+Let's now go to, I guess, less technical practical questions, more conceptual ones.
+
+43:01.680 --> 43:10.360
+We're going to try and rally suit utilities faster and some slower.
+
+43:10.360 --> 43:18.840
+I had seen some work that the unit kind of two valuations team did.
+
+43:18.840 --> 43:23.840
+Art blocks is some gigantic percentage of the market cap of generative work.
+
+43:23.840 --> 43:26.760
+85% percent, 97, 83.
+
+43:26.760 --> 43:28.880
+It depends on the day.
+
+43:28.880 --> 43:30.320
+Is that good, bad?
+
+43:30.320 --> 43:31.320
+Does it matter?
+
+43:31.320 --> 43:33.320
+Is it healthy unhealthy?
+
+43:33.320 --> 43:34.880
+Does it matter?
+
+43:34.880 --> 43:42.880
+I mean, I think what matters is what happens and how this unfolds in five years and what's
+
+43:42.880 --> 43:46.440
+going to guide that is people's intentions.
+
+43:46.440 --> 43:50.320
+There's so many things that happen in the space.
+
+43:50.320 --> 43:52.840
+People get shamed for selling art.
+
+43:52.840 --> 43:59.400
+It's like, well, I never really intended on selling my crypto bunks when I got them.
+
+43:59.400 --> 44:03.240
+Then there are situations that arise where it makes a lot of sense.
+
+44:03.240 --> 44:05.400
+Number one, I got excited about creating art blocks.
+
+44:05.400 --> 44:09.760
+I would sell zombies for $200, $500, which is kind of crazy to think about to pay for
+
+44:09.760 --> 44:10.760
+that.
+
+44:10.760 --> 44:15.840
+Also, as a father of two, eventually someone gives you an offer for an NFT that you have
+
+44:15.840 --> 44:19.680
+a lot of and you say, okay, it would literally just be reckless for me not to accept this
+
+44:19.680 --> 44:25.080
+offer and change the trajectory of my family's life.
+
+44:25.080 --> 44:27.400
+Shaming is so bad.
+
+44:27.400 --> 44:31.960
+Also people get shamed off in for having very big collections.
+
+44:31.960 --> 44:36.760
+The reality is that these people will be stewards of this art and it's just way too early to
+
+44:36.760 --> 44:38.880
+tell how they will steward the art.
+
+44:38.880 --> 44:41.280
+I'll give you a perfect example.
+
+44:41.280 --> 44:48.520
+I know the owner of the Houdis Houdat account that owns over 1,000 Chromysquigles and I
+
+44:48.520 --> 44:57.120
+feel very confident in that person's intents and vision and alignment with me personally,
+
+44:57.120 --> 44:59.920
+with generative art and the future of the Chromysquigle.
+
+44:59.920 --> 45:04.600
+I feel like those squiggles are in really good hands.
+
+45:04.600 --> 45:08.920
+We don't always know who the person is on the other end and we don't always know what
+
+45:08.920 --> 45:17.720
+the intentions are of the person, the platform, the mechanic, but the space moves very quickly.
+
+45:17.720 --> 45:23.360
+It is only a matter of time before we start really understanding what that dominant position
+
+45:23.360 --> 45:31.760
+in generative and or crypto art will mean and it could very well be detrimental to the
+
+45:31.760 --> 45:36.960
+future of this space, but it could also be incredibly powerful if these people hold these
+
+45:36.960 --> 45:43.680
+collections, start displaying these collections and do great things with it.
+
+45:43.680 --> 45:51.160
+There's also the concept of fractionalization which on the one hand, I do die a little bit
+
+45:51.160 --> 45:53.480
+inside when someone fractionalizes a squiggle.
+
+45:53.480 --> 45:57.800
+It just feels weird.
+
+45:57.800 --> 46:03.560
+But then on the other hand, I think it's an incredibly powerful technology.
+
+46:03.560 --> 46:04.560
+It's brilliant.
+
+46:04.560 --> 46:11.120
+It's beautiful for democratization of art and obviously we have SEC, regulatory compliance
+
+46:11.120 --> 46:14.080
+type stuff which hopefully will be kind of worked through over the course of the next
+
+46:14.080 --> 46:15.320
+year or two.
+
+46:15.320 --> 46:20.960
+But as much as I am uncomfortable with the little squiggle being fractionalized, I actually
+
+46:20.960 --> 46:27.520
+am more excited about the power from a decentralized ownership perspective of the value proposition
+
+46:27.520 --> 46:31.920
+of fractionalizing, not just art, but anything in this space.
+
+46:31.920 --> 46:40.920
+That combination of the fractionalized stuff plus the stuff that's in high collection,
+
+46:40.920 --> 46:48.440
+I really think that we're going to see how that plays out over the next year or two.
+
+46:48.440 --> 46:50.360
+I think it's too early to tell.
+
+46:50.360 --> 46:55.800
+I'm a very optimistic person and I tend to believe that people do things for the right
+
+46:55.800 --> 47:02.240
+reasons for the most part and so I'm hoping for the best.
+
+47:02.240 --> 47:04.760
+Next question.
+
+47:04.760 --> 47:13.160
+There is a tremendous debate going on about royalties.
+
+47:13.160 --> 47:17.400
+One side of the debate is like, wait, this is one of the good things about the NFC space
+
+47:17.400 --> 47:21.960
+that artists can earn along with their collectors over time.
+
+47:21.960 --> 47:26.880
+And another side of the debate is basically like, oh, you're so naive.
+
+47:26.880 --> 47:27.880
+This is never going to work.
+
+47:27.880 --> 47:31.640
+I mean, effectively it's that it's dressed up in a lot of things about blockchains and
+
+47:31.640 --> 47:34.360
+code is long, whatever, but it basically is that.
+
+47:34.360 --> 47:36.280
+Wait, where are you in this topic?
+
+47:36.280 --> 47:40.200
+Oh, man, do we have an extra hour?
+
+47:40.200 --> 47:41.440
+I would say a couple of things.
+
+47:41.440 --> 47:47.380
+Number one, I think one of the things that really drove the point in for me was at a
+
+47:47.380 --> 47:55.200
+some point somebody on my Twitter feed referring to royalties as a transfer tax.
+
+47:55.200 --> 48:00.520
+You know, a lot of, and I think we live in a very broken society and so I'm not actually
+
+48:00.520 --> 48:05.000
+going to like speak highly of what's happening with our taxes, but a lot of the reason that
+
+48:05.000 --> 48:10.320
+taxes exist ideally is like, you know, to help pay for infrastructure and roads and things
+
+48:10.320 --> 48:12.120
+that we utilize.
+
+48:12.120 --> 48:20.160
+And generally, the word transfer tax to me is troublesome in the fact that like taxes
+
+48:20.160 --> 48:24.680
+when utilized correctly are for the greater good and benefit the greater good.
+
+48:24.680 --> 48:28.680
+But anyways, it's kind of an aside, but you know, oftentimes I see it referred to as a
+
+48:28.680 --> 48:32.720
+transfer tax and that kind of bugs me a little bit.
+
+48:32.720 --> 48:37.440
+I firmly believe that creator royalties are revolutionary.
+
+48:37.440 --> 48:39.360
+I think it's highly problematic.
+
+48:39.360 --> 48:44.320
+And you know, when I give lectures, I often, you know, I've gotten to speak to at this
+
+48:44.320 --> 48:50.720
+point, thousands of not tens of thousands of people this year to give higher education,
+
+48:50.720 --> 48:54.120
+giving lectures about generative art, NFTs, whatever.
+
+48:54.120 --> 49:01.800
+And I make it a point to point out that baked in has never existed for royalties, even though
+
+49:01.800 --> 49:05.480
+they're often referred to in articles as like being baked into the smart contract, baked
+
+49:05.480 --> 49:07.000
+into the artwork.
+
+49:07.000 --> 49:11.720
+They have and will always be a cultural norm.
+
+49:11.720 --> 49:16.040
+And you cannot force culture.
+
+49:16.040 --> 49:17.040
+You just can't.
+
+49:17.040 --> 49:21.040
+I just, I don't even care about smart contracts in this premise right now.
+
+49:21.040 --> 49:28.200
+I'm just talking about in human life and society, you cannot force culture.
+
+49:28.200 --> 49:33.520
+But when there's a really good culture, people rally and support around that culture.
+
+49:33.520 --> 49:38.600
+And whether that culture is, you know, I don't know what blue jeans were big in the 90s or
+
+49:38.600 --> 49:46.720
+whatever, or something relevant today, like royalties or environmental concerns, et cetera,
+
+49:46.720 --> 49:53.360
+people rally around culture, A, because no one can force them to rally around culture.
+
+49:53.360 --> 49:57.320
+Otherwise, it's not culture, it's technology.
+
+49:57.320 --> 50:06.960
+And the, you know, I'm speaking as one of the people with the highest vested interests,
+
+50:06.960 --> 50:12.640
+personally, in the perpetuation of secondary market royalties.
+
+50:12.640 --> 50:16.600
+I don't know what the charts would say, but I'd say that I'm pretty high up there in the
+
+50:16.600 --> 50:19.520
+charts of total royalties received as a creator.
+
+50:19.520 --> 50:23.040
+I also have a really high vested interest in platform royalties, right?
+
+50:23.040 --> 50:30.800
+So like Artbox also survives, partly because of royalties and, or creator fees or platform
+
+50:30.800 --> 50:31.800
+fees.
+
+50:31.800 --> 50:37.120
+And I guess I fail to understand, for example, if you want to go on an open C and you want
+
+50:37.120 --> 50:41.400
+to see your Artbox artwork, like Artbox artwork is intended to be on chain.
+
+50:41.400 --> 50:43.600
+It's reproducible from the blockchain, right?
+
+50:43.600 --> 50:46.960
+Like that to me is the value proposition of Artbox.
+
+50:46.960 --> 50:54.120
+The value proposition of Artbox from a consumer perspective is like this beautiful back end
+
+50:54.120 --> 50:58.840
+that our engineers have built out to like really make strong and enable people to mint
+
+50:58.840 --> 51:02.960
+and see, consume that generator already immediately.
+
+51:02.960 --> 51:09.160
+The ongoing server costs of hosting the previously generated artwork, and this is both for generative
+
+51:09.160 --> 51:16.840
+and IPFS based art, even though IPFS right now is fairly centralized and propped up.
+
+51:16.840 --> 51:19.240
+We have to pay for those services.
+
+51:19.240 --> 51:22.520
+So as a platform, you know, everyone's like, what's Artbox?
+
+51:22.520 --> 51:26.160
+I just, now we've been releasing a lot of really cool stuff at Artbox, but like for six
+
+51:26.160 --> 51:31.080
+months people were like, when marketing, when this, when that, it's like, there's actually
+
+51:31.080 --> 51:34.080
+a limitation to what one human can do.
+
+51:34.080 --> 51:39.080
+So in order for Artbox to have grown, Artbox had to grow in terms of a team in the terms
+
+51:39.080 --> 51:40.080
+of staff.
+
+51:40.080 --> 51:43.080
+So we're nearly 40 people now.
+
+51:43.080 --> 51:44.400
+We have two choices.
+
+51:44.400 --> 51:50.560
+We can have an ongoing revenue source that allows us to participate in our own success
+
+51:50.560 --> 51:56.600
+as a platform in the same way that the royalties concept enables an artist to participate in
+
+51:56.600 --> 52:00.880
+their own success as an individual.
+
+52:00.880 --> 52:04.800
+Or we have to sell more stuff.
+
+52:04.800 --> 52:09.680
+So the concept of Peter, Robin, Peter to pay Paul, in other words, oh man, we've got to
+
+52:09.680 --> 52:11.680
+pay all these server fees next next month.
+
+52:11.680 --> 52:13.640
+So let's just release a bunch of artwork.
+
+52:13.640 --> 52:16.360
+First of all, eventually that artwork just won't sell.
+
+52:16.360 --> 52:21.080
+There's actually limited amount of, there's a finite amount of money in the space, whether
+
+52:21.080 --> 52:24.760
+it be able to get to infinite sometimes or not.
+
+52:24.760 --> 52:30.520
+And so when something has to persist in perpetuity, you can choose to pay creator fees, to pay
+
+52:30.520 --> 52:32.160
+platform fees.
+
+52:32.160 --> 52:36.360
+And this is just kind of focusing on the platform fees for a second, so that when you
+
+52:36.360 --> 52:41.960
+want to go list your artwork on OpenSea, there is metadata, there is a image that appears
+
+52:41.960 --> 52:45.400
+in the OpenSea window or any other marketplace that you want.
+
+52:45.400 --> 52:48.760
+Or you can choose, say, hey, look, the value proposition of art box is actually the stuff
+
+52:48.760 --> 52:49.960
+is stored on chain.
+
+52:49.960 --> 52:55.520
+So when you go sell your NFT, let's not cut the artist and let's not cut the platform
+
+52:55.520 --> 52:57.120
+any percentages.
+
+52:57.120 --> 53:01.000
+But maybe you have to go to Etherscan and regenerate your art to see what you're about
+
+53:01.000 --> 53:03.040
+to buy or what you're about to sell.
+
+53:03.040 --> 53:06.000
+People want the art to appear.
+
+53:06.000 --> 53:13.240
+People want the art to be there so that they can utilize the fast-paced speculative concepts
+
+53:13.240 --> 53:17.880
+of NFT, because generally the people that fight the creator royalties are more on the,
+
+53:17.880 --> 53:22.480
+generally more on the speculative side, not always, but generatively, generally.
+
+53:22.480 --> 53:30.000
+But you want the facility of being able to transact on a marketplace, but you don't actually
+
+53:30.000 --> 53:36.360
+want to acknowledge that somebody had to pay for that image appearing in your browser.
+
+53:36.360 --> 53:40.760
+And the more popular art box is, and I'm just using art boxes as an example, but this can
+
+53:40.760 --> 53:47.040
+be applied further, the more resources that are required to serve that image and to generate
+
+53:47.040 --> 53:51.560
+those algorithms and to produce algorithmic outputs.
+
+53:51.560 --> 54:00.600
+And so to me, it is very simple that the platform would benefit from more people utilizing the
+
+54:00.600 --> 54:07.920
+platform and that there would be a perpetual reward for the platform, for perpetually
+
+54:07.920 --> 54:10.440
+hosting the artwork.
+
+54:10.440 --> 54:14.360
+To me that feels very simple and straightforward.
+
+54:14.360 --> 54:20.360
+And that's hard to argue with, right?
+
+54:20.360 --> 54:26.520
+Go download your art and put it on IPFS and then let the platform not need to continue
+
+54:26.520 --> 54:28.560
+hosting your artwork if you don't want to pay those fees.
+
+54:28.560 --> 54:32.320
+Now, when you go to the artist, it's a bit more complex, right?
+
+54:32.320 --> 54:41.960
+Because the beauty of artist royalties are not apparent other than the artist making money
+
+54:41.960 --> 54:45.040
+until the norm has existed for a while.
+
+54:45.040 --> 54:53.640
+So I often say I consider myself an outlier when I talk about creator royalties.
+
+54:53.640 --> 54:58.320
+I don't think that I still wake up wondering if everything that's happening is real or
+
+54:58.320 --> 54:59.320
+not.
+
+54:59.320 --> 55:02.400
+And I've said before, I'm not someone that's driven by money.
+
+55:02.400 --> 55:05.280
+And so I have a very different perspective, I think.
+
+55:05.280 --> 55:10.800
+Then a lot of people, and I have nothing against people that are drawn and driven by making
+
+55:10.800 --> 55:15.000
+money, in fact, I think that's probably the normal way to operate and I consider myself
+
+55:15.000 --> 55:16.400
+kind of a weirdo in that sense.
+
+55:16.400 --> 55:23.080
+But I've also had a lot of success with some of the NFTs that I've acquired and subsequently
+
+55:23.080 --> 55:26.960
+accepted offers that we're life-changing for.
+
+55:26.960 --> 55:32.520
+Now, take that number, this crazy outlier number that maybe artists like myself and
+
+55:32.520 --> 55:37.600
+X-copy and some of the bigger, generative artists in this space are making and cut that by a
+
+55:37.600 --> 55:39.520
+hundred.
+
+55:39.520 --> 55:46.560
+And now consider what that amount of money, whether it's 50 bucks or $500, a week would
+
+55:46.560 --> 55:50.720
+do for someone that is making a living on art.
+
+55:50.720 --> 55:57.360
+First of all, one of the most prideful moments for me in the world of art box so far is the
+
+55:57.360 --> 56:03.920
+fact that there are now dozens of artists that created art, that were creatives part-time
+
+56:03.920 --> 56:07.720
+or as a hobby that have been able to quit their job to pursue artful time.
+
+56:07.720 --> 56:15.000
+And back to trusting artists, artists generally have good intentions and we need more art
+
+56:15.000 --> 56:16.000
+in this world.
+
+56:16.000 --> 56:19.680
+We need more conversation about art, we need more critique about art in this space.
+
+56:19.680 --> 56:20.680
+We need more artists.
+
+56:20.680 --> 56:23.680
+The world doesn't hurt when you have more artists.
+
+56:23.680 --> 56:29.640
+The world might hurt when you have more other types of professions but not artists.
+
+56:29.640 --> 56:33.640
+So let's get more artists out there.
+
+56:33.640 --> 56:40.680
+There's such a psychological issue when you as an artist, I'll put it this way, I never
+
+56:40.680 --> 56:42.720
+thought that royalties would be where they are today.
+
+56:42.720 --> 56:46.680
+But man, when I released ChromiSqueals, they were $10 apiece.
+
+56:46.680 --> 56:50.080
+And last I checked, they were $22,000 apiece.
+
+56:50.080 --> 56:57.480
+I think it's incredibly difficult to understand and process how somebody would think that
+
+56:57.480 --> 57:04.880
+it's okay psychologically for someone to create something and sell it for $10 and see somebody
+
+57:04.880 --> 57:11.360
+else sell it for hundreds if not thousands of times what it was originally sold for.
+
+57:11.360 --> 57:15.680
+Yeah, I priced it at $10 because I was happy with that price point and that's great.
+
+57:15.680 --> 57:26.360
+But artists have historically watched other people profit exponentially on their work
+
+57:26.360 --> 57:35.080
+and their craft and this technology enables us through cultural mechanisms to perpetuate
+
+57:35.080 --> 57:40.720
+a process where artists now get to participate in their own success.
+
+57:40.720 --> 57:47.000
+And whether that's $50 a week or $5,000 a week, it doesn't actually matter because the
+
+57:47.000 --> 57:53.280
+$50 a week extra for an artist over the course of 10 years instead of releasing hundreds
+
+57:53.280 --> 57:56.960
+of artworks because they need to continue to put food on the table.
+
+57:56.960 --> 58:02.200
+It's like you have accumulated a little bit of IP for every artwork that you have released
+
+58:02.200 --> 58:08.080
+and in the long run, art will thrive because there's less pressure.
+
+58:08.080 --> 58:13.840
+There's just in some cases a little bit and in other cases a lot less pressure to produce.
+
+58:13.840 --> 58:16.160
+And I can speak from experience.
+
+58:16.160 --> 58:19.880
+I have this project being released in Mexico City in two weeks.
+
+58:19.880 --> 58:25.360
+I generally am a fairly overwhelmed person with art blocks and just the space in general
+
+58:25.360 --> 58:30.720
+and a family and I committed to releasing an artwork and I'm actually very proud of it.
+
+58:30.720 --> 58:34.120
+But the amount of time that I've had to spend on it is insane.
+
+58:34.120 --> 58:39.640
+And the idea that I would rush through something like that because I needed to sell my next
+
+58:39.640 --> 58:45.800
+thing, the same idea that art blocks would have to sell more art to pay for ongoing
+
+58:45.800 --> 58:53.320
+surgeries for employees to grow the team versus letting the artwork continue to give in a
+
+58:53.320 --> 58:57.560
+small percentage for the perpetuity of the assistance of that artwork.
+
+58:57.560 --> 59:05.160
+To me, it's hard to understand why people would have such a strong opposition to that.
+
+59:05.160 --> 59:08.440
+And I empathize with everybody.
+
+59:08.440 --> 59:13.000
+I empathize with people that are selling an entity for less than what they paid for it.
+
+59:13.000 --> 59:18.320
+Sometimes as the crypto prunks project has demonstrated and some early art blocks projects
+
+59:18.320 --> 59:22.560
+have demonstrated, people act as if somebody held a gun to their head in order to make
+
+59:22.560 --> 59:27.280
+a purchase and make an acquisition versus them taking responsibility for purchasing
+
+59:27.280 --> 59:28.280
+the thing that they purchased.
+
+59:28.280 --> 59:32.200
+If I buy a house for a million bucks today and I have to sell it for half a million bucks
+
+59:32.200 --> 59:38.520
+next year, you bet the realtor is going to make their commission regardless of whether
+
+59:38.520 --> 59:40.720
+I made money on it or not.
+
+59:40.720 --> 59:42.880
+And there's a lot of other examples of that in society.
+
+59:42.880 --> 59:48.600
+So I just think that like, royalties are cultural norms, there's this beautiful opportunity
+
+59:48.600 --> 59:50.120
+to like change things.
+
+59:50.120 --> 59:54.280
+There's this beautiful opportunity in this nascent space to be more giving, to be more
+
+59:54.280 --> 59:58.320
+charitable, to build that culture into what we're doing as artists, as platforms.
+
+59:58.320 --> 01:00:04.400
+There's a beautiful opportunity in this nascent space to try to be more inclusive and diverse,
+
+01:00:04.400 --> 01:00:08.680
+to concentrate on gender diversity.
+
+01:00:08.680 --> 01:00:15.640
+There's an opportunity here and it may or may not materialize, but if it doesn't, I
+
+01:00:15.640 --> 01:00:19.720
+personally will look back at it as a missed opportunity.
+
+01:00:19.720 --> 01:00:25.160
+And that is the same with royalties, with charitable giving, with inclusivity and all
+
+01:00:25.160 --> 01:00:26.680
+sorts of other parts of this.
+
+01:00:26.680 --> 01:00:32.120
+It's like we are at the very root of something that could be revolutionary.
+
+01:00:32.120 --> 01:00:36.200
+It already is in some cases for this entire planet.
+
+01:00:36.200 --> 01:00:42.080
+We are stewards of this and this is an opportunity for us to really put things forward in the
+
+01:00:42.080 --> 01:00:47.640
+best way in a way that makes sense for the longevity of the artwork, for the artists,
+
+01:00:47.640 --> 01:00:50.080
+for the artists estate.
+
+01:00:50.080 --> 01:00:55.680
+When I'm long gone, the fact that my children may benefit from this thing that I created
+
+01:00:55.680 --> 01:01:00.480
+today, gosh, that feels good.
+
+01:01:00.480 --> 01:01:07.560
+And I feel like it's a cultural norm and no smart contract restrictions and no shaming
+
+01:01:07.560 --> 01:01:17.880
+and no overall fomo bullying speculation in the space is going to enforce that.
+
+01:01:17.880 --> 01:01:24.120
+It's cultural and the more it remains cultural, I think the longer that it's going to remain
+
+01:01:24.120 --> 01:01:29.560
+as a norm and we need to fight for that and we need to fight for the culture.
+
+01:01:29.560 --> 01:01:36.280
+Last example, because I could speak on this for a long time, the thing that fascinates
+
+01:01:36.280 --> 01:01:42.440
+me the most is when a collector purchases a Chromies Google OTC from a seller that doesn't
+
+01:01:42.440 --> 01:01:43.440
+want to pay royalties, right?
+
+01:01:43.440 --> 01:01:46.240
+Like they just don't want to deal with the market, they don't want to pay royalties and
+
+01:01:46.240 --> 01:01:50.680
+the collector sends me the royalties, not the seller, but the buyer.
+
+01:01:50.680 --> 01:01:53.760
+And I don't think that royalties should be imposed upon the buyer.
+
+01:01:53.760 --> 01:01:57.160
+I actually think that they're perfectly fine on the collector.
+
+01:01:57.160 --> 01:02:00.520
+The fact that there is a cultural, because at this point there's nothing I can do to
+
+01:02:00.520 --> 01:02:07.760
+control it, there's a cultural drive that the collector has to take a moment, send me
+
+01:02:07.760 --> 01:02:11.920
+a message on Twitter and say, hey, what's your e-federis and what's our blocks as e-federis
+
+01:02:11.920 --> 01:02:17.240
+so that I can send these royalties, these creator fees, these platform fees.
+
+01:02:17.240 --> 01:02:25.640
+Man, that speaks so much more than the opposite, which is in my opinion, trying to institute
+
+01:02:25.640 --> 01:02:33.200
+contract level restrictions in this space, because the more you try to restrict somebody,
+
+01:02:33.200 --> 01:02:36.240
+look, if you want to be decentralized, then you be decentralized.
+
+01:02:36.240 --> 01:02:39.880
+If it's decentralized, that means that you can't actually impose some of these rules.
+
+01:02:39.880 --> 01:02:45.240
+And the more you try to create rules, and this is very often visible in our political
+
+01:02:45.240 --> 01:02:48.960
+system in the United States, for example, the more you try to impose rules, the more
+
+01:02:48.960 --> 01:02:55.200
+you try to shame someone, the more you try to implicate people in things, the more defiant
+
+01:02:55.200 --> 01:03:02.840
+they get, and the more vitriol they have in defending that right or that ability.
+
+01:03:02.840 --> 01:03:11.800
+And to me, it is almost encouraging defiance to try to impose something.
+
+01:03:11.800 --> 01:03:14.120
+And okay, this is really the last thing I'll say.
+
+01:03:14.120 --> 01:03:20.400
+Our blocks released a rule last year where you can only mint one NFT per wallet, because
+
+01:03:20.400 --> 01:03:21.840
+things were getting out of control with bots.
+
+01:03:21.840 --> 01:03:22.840
+You know what that did?
+
+01:03:22.840 --> 01:03:27.600
+It made it to where people wrote bots that minted 100 NFTs with 100 different wallets.
+
+01:03:27.600 --> 01:03:30.120
+Like, what was I thinking?
+
+01:03:30.120 --> 01:03:33.320
+Thinking that I could get in the middle of a decentralized technology and try to fix
+
+01:03:33.320 --> 01:03:35.240
+something that was actually unfixable.
+
+01:03:35.240 --> 01:03:36.880
+There is actually no solution.
+
+01:03:36.880 --> 01:03:38.440
+People would yell on this score, what about the bots?
+
+01:03:38.440 --> 01:03:39.440
+What are you doing about the bots?
+
+01:03:39.440 --> 01:03:44.240
+Like, there was actually no solution, but we felt so pressured to accommodate and to
+
+01:03:44.240 --> 01:03:46.000
+understand people's frustrations.
+
+01:03:46.000 --> 01:03:48.400
+And it worked for the first two or three drops.
+
+01:03:48.400 --> 01:03:50.200
+But then after that, it all went to shit.
+
+01:03:50.200 --> 01:03:55.400
+And today, we don't actually know how many humans own our block pieces, because we encouraged,
+
+01:03:55.400 --> 01:04:00.120
+we shot ourselves in the foot and we encouraged people to generate new wallets because they
+
+01:04:00.120 --> 01:04:02.680
+wanted to mint more than one NFT.
+
+01:04:02.680 --> 01:04:07.240
+And if that had been a successful tactic, then I would have a different opinion on some
+
+01:04:07.240 --> 01:04:10.720
+of the restrictions that are happening in the NFT space today with royalties.
+
+01:04:10.720 --> 01:04:16.040
+But it was unsuccessful because we knew deep down inside that it could be circumvented.
+
+01:04:16.040 --> 01:04:20.480
+You cannot block someone from selling an NFT without royalties.
+
+01:04:20.480 --> 01:04:26.120
+You cannot block someone from minting only one NFT or force someone to mint only one
+
+01:04:26.120 --> 01:04:28.080
+NFT.
+
+01:04:28.080 --> 01:04:29.800
+You can create hurdles.
+
+01:04:29.800 --> 01:04:34.960
+You can make it, you can encumber them with other tasks to pull it off.
+
+01:04:34.960 --> 01:04:40.200
+But as long as we're celebrating decentralization, you can't prevent it in a fully decentralized
+
+01:04:40.200 --> 01:04:41.200
+manner.
+
+01:04:41.200 --> 01:04:45.760
+And to us, at our box in general, we believe in the fact that an NFT is a sovereign fair
+
+01:04:45.760 --> 01:04:51.040
+asset and something that we do not have any say in once it's minted.
+
+01:04:51.040 --> 01:04:55.560
+And so we hope that people will continue to perpetuate the royalty conversation as a cultural
+
+01:04:55.560 --> 01:04:59.080
+norm in support of artists and support of creators.
+
+01:04:59.080 --> 01:05:02.920
+And what we're going to do is we're going to, instead of trying to punish people for
+
+01:05:02.920 --> 01:05:06.480
+acting in a way that doesn't feel right to us, we're going to reward people.
+
+01:05:06.480 --> 01:05:12.320
+And how that looks, I don't know, maybe in a far distant future, I, as snowflake, do a
+
+01:05:12.320 --> 01:05:19.720
+drop and allow this people that have participated in the royalty convention or the cultural
+
+01:05:19.720 --> 01:05:22.120
+standard and don't allow people that don't.
+
+01:05:22.120 --> 01:05:23.120
+I don't know.
+
+01:05:23.120 --> 01:05:24.120
+I'm not saying I'm going to do that.
+
+01:05:24.120 --> 01:05:27.720
+It's just because of the beauty of the transparency, it's like, you know, we can fight decentralization
+
+01:05:27.720 --> 01:05:29.160
+or we can totally embrace it.
+
+01:05:29.160 --> 01:05:31.000
+There's a beautiful transparency.
+
+01:05:31.000 --> 01:05:35.440
+And that transparency is something that will enable us as a platform to reward the people
+
+01:05:35.440 --> 01:05:39.000
+that are perpetuating this cultural standard that has really changed so many different
+
+01:05:39.000 --> 01:05:40.000
+people's lives.
+
+01:05:40.000 --> 01:05:44.440
+Whoa, that's quite an answer.
+
+01:05:44.440 --> 01:05:45.440
+Sorry.
+
+01:05:45.440 --> 01:05:47.400
+It's just top of mind.
+
+01:05:47.400 --> 01:05:51.200
+I also don't want to get into a Twitter debate with like thousands of people that feel so
+
+01:05:51.200 --> 01:05:52.440
+strongly about this.
+
+01:05:52.440 --> 01:05:58.640
+And I, you know, I really don't think it's wrong to impose creator royalties at the
+
+01:05:58.640 --> 01:06:00.120
+smart contract level.
+
+01:06:00.120 --> 01:06:06.360
+I just don't, I just, you know, a lot of times it's posed as, you know, in support of the
+
+01:06:06.360 --> 01:06:07.360
+artist.
+
+01:06:07.360 --> 01:06:09.680
+But I think long term, it's actually maybe detrimental.
+
+01:06:09.680 --> 01:06:12.280
+And so we just don't want to perpetuate it in our blocks.
+
+01:06:12.280 --> 01:06:18.240
+I do love the idea that an artist is taking a stand by imposing contract level restrictions.
+
+01:06:18.240 --> 01:06:19.960
+I think they're sending a strong signal.
+
+01:06:19.960 --> 01:06:21.720
+It's a very important signal.
+
+01:06:21.720 --> 01:06:25.640
+And I think that that should exist and should continue to exist.
+
+01:06:25.640 --> 01:06:30.040
+But for a platform that is relying on fully on decentralization of algorithms stored
+
+01:06:30.040 --> 01:06:36.040
+on chain, it feels like the wrong move for us at our blocks to impose that kind of stuff.
+
+01:06:36.040 --> 01:06:40.160
+And it feels like we've already learned our lesson with a one per wallet limit and we
+
+01:06:40.160 --> 01:06:43.240
+will continue to embrace decentralization as much as possible.
+
+01:06:43.240 --> 01:06:51.080
+So I have a question that is a, it's kind of the same question.
+
+01:06:51.080 --> 01:06:56.400
+Though it might seem like there's two different things.
+
+01:06:56.400 --> 01:07:04.520
+PFP projects to some greater or lesser degree have managed to create some level of community
+
+01:07:04.520 --> 01:07:07.760
+around the tokens of the project.
+
+01:07:07.760 --> 01:07:22.360
+One of X seem like they could do that in somehow a similar way in a way that just pure one
+
+01:07:22.360 --> 01:07:31.440
+of ones might not because there's like a natural community there.
+
+01:07:31.440 --> 01:07:40.040
+And the, but I do think most generative artists have treated, you know, one of one of X is
+
+01:07:40.040 --> 01:07:44.800
+very new and interesting and onshade and amazing and differentiated.
+
+01:07:44.800 --> 01:07:49.240
+But most I think of the artworks artists have treated, okay, you've got a piece of my art.
+
+01:07:49.240 --> 01:07:52.240
+You have a piece of my art.
+
+01:07:52.240 --> 01:07:53.240
+That's fine.
+
+01:07:53.240 --> 01:07:59.800
+I don't know that there has been a ton of innovation thinking about do we want to do
+
+01:07:59.800 --> 01:08:03.040
+more with my thousand holders of whatever.
+
+01:08:03.040 --> 01:08:07.400
+Hazers take something in the news this week, right?
+
+01:08:07.400 --> 01:08:12.360
+It still feels a little bit unidirectional from the artists to the collector.
+
+01:08:12.360 --> 01:08:16.160
+I think relevant to this question and it's not the same question.
+
+01:08:16.160 --> 01:08:19.040
+It's a different question, but it's kind of the same question.
+
+01:08:19.040 --> 01:08:24.320
+You don't see a ton of CC zero projects because the logic of a CC zero project, I think tends
+
+01:08:24.320 --> 01:08:31.640
+to be that well, there'll be a broader engagement within and outside the community to bring
+
+01:08:31.640 --> 01:08:36.960
+this lore into the public sphere, the global digital commons, et cetera.
+
+01:08:36.960 --> 01:08:39.360
+And I think one of those kind of come from the same place.
+
+01:08:39.360 --> 01:08:42.160
+To be honest, that it's still a fairly traditional.
+
+01:08:42.160 --> 01:08:47.120
+I've made a piece of art and you've bought it and I hope you display it nicely.
+
+01:08:47.120 --> 01:08:48.960
+And it kind of stops there.
+
+01:08:48.960 --> 01:08:58.600
+But my question is, and noting that this is still all very unknown and un clarified even
+
+01:08:58.600 --> 01:09:04.560
+in the PFP space, but could you imagine some version of these techniques that we're seeing
+
+01:09:04.560 --> 01:09:12.440
+in the PFP space somehow applied to a generative art collection?
+
+01:09:12.440 --> 01:09:16.520
+So I imagine a lot with the Chrome's Google and I think that Chrome's Google might be
+
+01:09:16.520 --> 01:09:24.520
+one of the more hybrid in the fact that it's a larger edition and it is often regarded
+
+01:09:24.520 --> 01:09:27.720
+as representing something or representing a community.
+
+01:09:27.720 --> 01:09:33.120
+And lately a lot of people are saying that it kind of represents NFTs in a way which
+
+01:09:33.120 --> 01:09:40.760
+I would never put that cloak on just because I would want to be so whatever.
+
+01:09:40.760 --> 01:09:47.880
+But I think that, okay, well first of all, it's your first question.
+
+01:09:47.880 --> 01:09:51.640
+It does feel a little unidirectional for a couple of reasons.
+
+01:09:51.640 --> 01:09:54.160
+Number one, it's all very new.
+
+01:09:54.160 --> 01:09:58.440
+So we're just getting started here.
+
+01:09:58.440 --> 01:10:04.320
+Also artists creating art for the sake of art itself have generally just made art for
+
+01:10:04.320 --> 01:10:05.320
+the sake of art itself.
+
+01:10:05.320 --> 01:10:07.720
+That's what they have done.
+
+01:10:07.720 --> 01:10:14.360
+It is the ones that are thinking about the secondary implications that are really going
+
+01:10:14.360 --> 01:10:15.600
+to blow people's minds.
+
+01:10:15.600 --> 01:10:19.760
+And so I agree in some cases that it feels unidirectional, but I also don't necessarily
+
+01:10:19.760 --> 01:10:21.480
+think that is a problem.
+
+01:10:21.480 --> 01:10:25.720
+I think some artists, and this, man, this goes to the CC0 debate, the licensing debate,
+
+01:10:25.720 --> 01:10:35.400
+it's kind of like people should be held accountable for what they set out to do and following
+
+01:10:35.400 --> 01:10:38.760
+through with anything that they promised to set out to do.
+
+01:10:38.760 --> 01:10:44.400
+People should not be held accountable for a fantasy of what someone thinks somebody should
+
+01:10:44.400 --> 01:10:48.320
+do because that's what they think is the right thing to do.
+
+01:10:48.320 --> 01:10:52.360
+And so if an artist sets out to release an artwork, and it's really good artwork, the
+
+01:10:52.360 --> 01:10:58.640
+people buy it, and the artist doesn't reward that community, other than actually being
+
+01:10:58.640 --> 01:11:03.560
+in the discord and talking about their art, which I think is actually like a very beautiful
+
+01:11:03.560 --> 01:11:06.240
+utility that's built into specifically art block artworks.
+
+01:11:06.240 --> 01:11:09.240
+And not all artists stick around, but a lot of them do, especially when they have a great
+
+01:11:09.240 --> 01:11:10.720
+reception of their art.
+
+01:11:10.720 --> 01:11:12.560
+They're on Twitter, they engage.
+
+01:11:12.560 --> 01:11:22.520
+What other, I mean, I can't text or get on discord with Damien Hirst, let's say, or other
+
+01:11:22.520 --> 01:11:28.120
+major artists at will, whereas in this space, part of the utility is just the artist being
+
+01:11:28.120 --> 01:11:31.120
+present.
+
+01:11:31.120 --> 01:11:37.600
+I think that as artists form their careers, and they realize that there's an opportunity
+
+01:11:37.600 --> 01:11:47.360
+in this space to develop a slightly different career path than the traditional artist does.
+
+01:11:47.360 --> 01:11:53.280
+If you apply the concepts of creativity that are required to make beautiful works of art,
+
+01:11:53.280 --> 01:12:00.160
+and you then zoom out and realize that this entire movement is in and of itself a really
+
+01:12:00.160 --> 01:12:07.680
+interesting conceptual performance artwork.
+
+01:12:07.680 --> 01:12:14.000
+I think when you start seeing artists apply creativity to the concept, to the community,
+
+01:12:14.000 --> 01:12:23.960
+to the, like, just experience, we're going to be blown away, and we're going to be really
+
+01:12:23.960 --> 01:12:27.080
+rewarded for having been a collector of that artist.
+
+01:12:27.080 --> 01:12:29.880
+And not all artists are going to do that, and that's okay.
+
+01:12:29.880 --> 01:12:33.120
+A lot of artists are still in shock for the amount of money that they made on their artwork.
+
+01:12:33.120 --> 01:12:36.440
+A lot of artists didn't want to make that much money on their artwork, especially last
+
+01:12:36.440 --> 01:12:38.080
+year when things were crazy.
+
+01:12:38.080 --> 01:12:42.200
+Like there's some serious mental health concerns that we address all the time internally at
+
+01:12:42.200 --> 01:12:46.160
+art blocks for the team, for the artists, even for the collectors, all of them because
+
+01:12:46.160 --> 01:12:48.760
+of the insanity of the space.
+
+01:12:48.760 --> 01:12:52.680
+But ultimately, I don't think artists or people should ever be held accountable to do anything
+
+01:12:52.680 --> 01:12:55.640
+with their artwork beyond what they originally set out to do.
+
+01:12:55.640 --> 01:13:03.240
+And if they do, it should be celebrated and appreciated as, like, icing on the cake.
+
+01:13:03.240 --> 01:13:13.560
+And as an example, I definitely am incredibly terrified of Fogo and speculation, and somebody
+
+01:13:13.560 --> 01:13:17.440
+texted me yesterday and told me, Skrillex had all time high, and part of me wants to celebrate,
+
+01:13:17.440 --> 01:13:20.720
+and part of me literally just wants to go hide under a rock, because the more people pay
+
+01:13:20.720 --> 01:13:23.120
+for these things, the more entitled that they will get.
+
+01:13:23.120 --> 01:13:28.000
+So right now, I think it's still reasonable, and art blocks is just hitting milestone after
+
+01:13:28.000 --> 01:13:32.960
+milestone, and people feel that things are happening, and I guess they attribute some
+
+01:13:32.960 --> 01:13:37.640
+of the success of art blocks to the success of the Chromie Squiggles, and vice versa.
+
+01:13:37.640 --> 01:13:39.120
+But then things slow down.
+
+01:13:39.120 --> 01:13:41.120
+And it's completely predictable.
+
+01:13:41.120 --> 01:13:46.520
+It's as predictable as the sun rising, that if the price of the Chromie Squiggle starts to
+
+01:13:46.520 --> 01:13:52.200
+drop, people will start saying, and this happened earlier, I remember when punks, I
+
+01:13:52.200 --> 01:13:56.240
+mean, when apes rose dramatically, and someone's like, what's interesting?
+
+01:13:56.240 --> 01:14:01.720
+Skrillex and apes, and someone's response on Twitter was, apes know how to market, and
+
+01:14:01.720 --> 01:14:04.560
+I'm like, yeah, I'm not going to market.
+
+01:14:04.560 --> 01:14:07.160
+I'm not going to go out and market this squiggle.
+
+01:14:07.160 --> 01:14:13.280
+All the things that are happening, to me, feel very organic.
+
+01:14:13.280 --> 01:14:18.400
+I just, you know, I would like in the future to do really nice things for Skrillex holders.
+
+01:14:18.400 --> 01:14:21.320
+I don't feel that it's appropriate for me to do that until the entire collection just
+
+01:14:21.320 --> 01:14:23.120
+mentioned out for what it's worth.
+
+01:14:23.120 --> 01:14:27.880
+And I definitely don't want to like suggest that I'm going to do that because I'm fully
+
+01:14:27.880 --> 01:14:32.000
+cognizant of what that could potentially do for the value of the Chromie Squiggles.
+
+01:14:32.000 --> 01:14:37.320
+If I said anyone with a Chromie Squiggle is going to be able to mint an artwork of my next year,
+
+01:14:37.320 --> 01:14:42.520
+which is absolutely not what I'm doing to be clear, it could potentially increase the
+
+01:14:42.520 --> 01:14:43.680
+value of the Chromie Squiggle.
+
+01:14:43.680 --> 01:14:49.160
+And that is not a good reason for the value of the Chromie Squiggle to go up if it's something
+
+01:14:49.160 --> 01:14:52.840
+that I've created to be a work of art for the Seagorn itself.
+
+01:14:52.840 --> 01:14:59.720
+It's okay to have platforms like Proof and V-Friends promise future value in terms of
+
+01:14:59.720 --> 01:15:01.280
+utility of air drops.
+
+01:15:01.280 --> 01:15:07.400
+That's okay because they have the resources to perpetuate that, to continue to do that.
+
+01:15:07.400 --> 01:15:11.560
+Not a lot of people can, but I fully believe that, you know, the Kevin Rose's and Gary
+
+01:15:11.560 --> 01:15:19.880
+V's of this world can continue to delight their communities with things over time.
+
+01:15:19.880 --> 01:15:25.120
+But the art that's created for the Seagorn itself, like it doesn't feel like it should
+
+01:15:25.120 --> 01:15:27.040
+be required to do that.
+
+01:15:27.040 --> 01:15:32.040
+But you and I both know that in the event that an artist were to do something delightful
+
+01:15:32.040 --> 01:15:37.520
+like that, it would be welcomed and received and celebrated and appreciated.
+
+01:15:37.520 --> 01:15:43.320
+And generally, as artists, we like to do things that make people happy.
+
+01:15:43.320 --> 01:15:44.320
+I do, at least.
+
+01:15:44.320 --> 01:15:46.120
+Like, I'm literally, that's what I do.
+
+01:15:46.120 --> 01:15:49.760
+I like to try to do whatever I can to make people smile and make people happy.
+
+01:15:49.760 --> 01:15:53.680
+And so the opportunities will come in the future to delight the people that are supporters
+
+01:15:53.680 --> 01:15:54.680
+of my work.
+
+01:15:54.680 --> 01:15:58.560
+And I would like to do that.
+
+01:15:58.560 --> 01:16:03.880
+But the moment someone starts forcing me to do that or say that I owe them something is
+
+01:16:03.880 --> 01:16:09.080
+detrimental to my desire as an artist to do that.
+
+01:16:09.080 --> 01:16:13.560
+And I think this is a big problem with the CryptoPunks community and why eventually the
+
+01:16:13.560 --> 01:16:16.240
+larval labs team sold the IP.
+
+01:16:16.240 --> 01:16:20.160
+It's like, you know, you create this thing and then the world tells you what to do with
+
+01:16:20.160 --> 01:16:21.800
+your baby.
+
+01:16:21.800 --> 01:16:26.280
+And if you don't want to do it, the world tells you that you're an idiot or that you're stupid
+
+01:16:26.280 --> 01:16:32.160
+or that you're wrong or that you're, you know, extract whatever they might want to say.
+
+01:16:32.160 --> 01:16:36.280
+And that wasn't the original intention of the artwork.
+
+01:16:36.280 --> 01:16:40.520
+So I don't think that anybody owes anybody anything other than what they promised when
+
+01:16:40.520 --> 01:16:42.160
+they set out to do stuff.
+
+01:16:42.160 --> 01:16:46.320
+We've been very, very careful at our blogs and I'm very careful with my artwork in particular
+
+01:16:46.320 --> 01:16:48.320
+to never promise anybody any future value.
+
+01:16:48.320 --> 01:16:54.600
+You know, the friendship-based project that we just released is an example of value for
+
+01:16:54.600 --> 01:16:56.680
+our blogs collectors.
+
+01:16:56.680 --> 01:16:58.920
+But it's not intended to be some speculative thing.
+
+01:16:58.920 --> 01:17:00.800
+But if it has value one day, that's great.
+
+01:17:00.800 --> 01:17:01.800
+That's fantastic.
+
+01:17:01.800 --> 01:17:03.600
+But we never promised it to anybody.
+
+01:17:03.600 --> 01:17:07.120
+We never made anybody buy an art box artwork in order to live deemed or to receive this
+
+01:17:07.120 --> 01:17:08.120
+air drop.
+
+01:17:08.120 --> 01:17:12.680
+We delighted people with these really nice things that recognize people's participation
+
+01:17:12.680 --> 01:17:14.080
+in this space.
+
+01:17:14.080 --> 01:17:17.960
+I think it's only been two years for art box artists.
+
+01:17:17.960 --> 01:17:21.920
+I think of all of the art box artists, not that many have quit their job, but the ones
+
+01:17:21.920 --> 01:17:26.000
+that have quit their jobs will find ways to delight the people that have collected their
+
+01:17:26.000 --> 01:17:27.000
+work.
+
+01:17:27.000 --> 01:17:30.120
+If anything, to make them want to be repeat customers of that work.
+
+01:17:30.120 --> 01:17:33.360
+And so I think those opportunities just haven't been explored yet.
+
+01:17:33.360 --> 01:17:36.080
+It feels like we've been doing this for a couple of decades, but it's only been a year
+
+01:17:36.080 --> 01:17:37.560
+and a half to years.
+
+01:17:37.560 --> 01:17:43.280
+And I think we need to give people a little bit of space and time to kind of really think
+
+01:17:43.280 --> 01:17:44.280
+about.
+
+01:17:44.280 --> 01:17:47.200
+I think a lot of the artists that released art on our blogs literally have no idea what's
+
+01:17:47.200 --> 01:17:48.480
+about to happen to them.
+
+01:17:48.480 --> 01:17:51.600
+And oftentimes they talk about that moment when they unpause the project and how their
+
+01:17:51.600 --> 01:17:56.840
+life has changed ever since, not just financially, but also pressure, but also community.
+
+01:17:56.840 --> 01:18:02.120
+They have like fans and we should let humans take a moment to absorb everything that's
+
+01:18:02.120 --> 01:18:03.120
+happening.
+
+01:18:03.120 --> 01:18:09.640
+I'll be the first to say that I personally have not, I can't stress this enough, I have
+
+01:18:09.640 --> 01:18:16.520
+not been able to take a moment and reflect and absorb and understand everything that's
+
+01:18:16.520 --> 01:18:20.280
+happening.
+
+01:18:20.280 --> 01:18:25.560
+We're humans and we need time to understand and it's going to take a long time to understand
+
+01:18:25.560 --> 01:18:27.160
+exactly what happens.
+
+01:18:27.160 --> 01:18:32.040
+And once the people that want to continue in this space understand what those implications
+
+01:18:32.040 --> 01:18:38.480
+are, I'm pretty confident it will stop feeling so unidirectional and it'll start feeling
+
+01:18:38.480 --> 01:18:40.400
+a lot more dynamic.
+
+01:18:40.400 --> 01:18:44.560
+And in the meantime, you know, again, like no one's forcing anyone to buy anything, but
+
+01:18:44.560 --> 01:18:47.640
+damn, like I've collected a bunch of art blogs, I think they're beautiful works of
+
+01:18:47.640 --> 01:18:51.520
+genital art and buying art for the sake of art itself feels like the right thing to do.
+
+01:18:51.520 --> 01:18:53.720
+And if it goes up in value, would they great?
+
+01:18:53.720 --> 01:18:57.920
+And if it doesn't, you know, I have to build 20 houses at this point just to show what
+
+01:18:57.920 --> 01:19:03.080
+genital art collection or, you know, just build a big metaverse and show it all there.
+
+01:19:03.080 --> 01:19:06.120
+So anyways, I'm kind of rambling there, but I just think that there's a certain amount
+
+01:19:06.120 --> 01:19:10.840
+of entitlement in the space and holding anybody accountable for anything beyond what they
+
+01:19:10.840 --> 01:19:15.120
+set out to do feels wrong to me.
+
+01:19:15.120 --> 01:19:18.200
+But I'm someone that's pretty laissez-faire and I believe that, you know, people should
+
+01:19:18.200 --> 01:19:21.800
+do what they want with their bodies and people should just, you know, as long as they're doing
+
+01:19:21.800 --> 01:19:26.800
+good, they should be allowed to make their own decisions.
+
+01:19:26.800 --> 01:19:28.840
+Okay.
+
+01:19:28.840 --> 01:19:36.040
+My last question is this because I know we've delayed you to your next meeting and I want
+
+01:19:36.040 --> 01:19:37.040
+to do that.
+
+01:19:37.040 --> 01:19:43.920
+My last question is what question should I have asked you, but I didn't.
+
+01:19:43.920 --> 01:19:44.920
+Ooh.
+
+01:19:44.920 --> 01:19:51.920
+Oh, man, you've asked some good ones.
+
+01:19:51.920 --> 01:19:56.040
+Some very pertinent ones.
+
+01:19:56.040 --> 01:19:58.440
+Yeah.
+
+01:19:58.440 --> 01:20:03.760
+You didn't ask me who my favorite art blocks artist is, which is something I'm very grateful
+
+01:20:03.760 --> 01:20:04.760
+for.
+
+01:20:04.760 --> 01:20:09.240
+I don't know if you can get that question and have to like pick a child, like my favorite
+
+01:20:09.240 --> 01:20:10.240
+child.
+
+01:20:10.240 --> 01:20:12.240
+Yeah, that's it.
+
+01:20:12.240 --> 01:20:13.240
+I don't know.
+
+01:20:13.240 --> 01:20:16.040
+I think you nailed it.
+
+01:20:16.040 --> 01:20:17.040
+Okay.
+
+01:20:17.040 --> 01:20:21.720
+Well, thank you so much for joining us.
+
+01:20:21.720 --> 01:20:24.920
+We very much appreciate the time.
+
+01:20:24.920 --> 01:20:27.960
+The insight, I will say I can't.
+
+01:20:27.960 --> 01:20:37.200
+I couldn't be more excited about the future of generative art, both in the net, both
+
+01:20:37.200 --> 01:20:43.400
+as art, but then I think in other digital objects that will become generative.
+
+01:20:43.400 --> 01:20:45.960
+And then maybe as you say in the long run, we'll figure out how we do this in the physical
+
+01:20:45.960 --> 01:20:46.960
+world as well.
+
+01:20:46.960 --> 01:20:52.520
+But in the meantime, for sure, for virtual goods, this will absolutely happen.
+
+01:20:52.520 --> 01:20:58.160
+And I mean, one mental model I have, I think it's, it makes the world a more beautiful
+
+01:20:58.160 --> 01:20:59.160
+place.
+
+01:20:59.160 --> 01:21:00.160
+Absolutely.
+
+01:21:00.160 --> 01:21:05.080
+And that just so literally makes the world a more beautiful place, a more unique and diverse
+
+01:21:05.080 --> 01:21:10.880
+and, you know, just dynamic, dynamic world.
+
+01:21:10.880 --> 01:21:14.600
+And I can't wait to see everybody wearing friendship bracelets next time I see you.
+
+01:21:14.600 --> 01:21:16.120
+All right, sir.
+
+01:21:16.120 --> 01:21:17.680
+Thank you so much.
+
+01:21:17.680 --> 01:21:20.640
+Thank you so much for having me.
+
+01:21:20.640 --> 01:21:25.440
+I appreciate it.
+
+01:21:25.440 --> 01:21:28.040
+Hello.
+
+01:21:28.040 --> 01:21:30.840
+Hi, hi.
+
+01:21:30.840 --> 01:21:32.800
+Hi.
+
+01:21:32.800 --> 01:21:36.400
+Good morning, good evening.
+
+01:21:36.400 --> 01:21:37.880
+Good morning to you, I guess.
+
+01:21:37.880 --> 01:21:40.320
+Good evening here in Europe.
+
+01:21:40.320 --> 01:21:45.400
+Thank you very much for this amazing discussion you've had with 6'5 to 9", with just what's
+
+01:21:45.400 --> 01:21:49.360
+that and it was really brilliant.
+
+01:21:49.360 --> 01:22:00.040
+As you might know, we ask our guests if they can to spend a few more minutes with us taking
+
+01:22:00.040 --> 01:22:01.520
+questions from our students.
+
+01:22:01.520 --> 01:22:06.080
+So thank you very much for being here for that.
+
+01:22:06.080 --> 01:22:13.640
+Just a note for the people that are listening to us now either on the OM or YouTube.
+
+01:22:13.640 --> 01:22:19.480
+As always, please post your questions either in the OM chat or on Twitter using the hashtag
+
+01:22:19.480 --> 01:22:20.640
+NFTQNA.
+
+01:22:20.640 --> 01:22:30.320
+Please don't post live questions on YouTube because we're not monitoring that chat.
+
+01:22:30.320 --> 01:22:35.720
+So let me start off with a number of questions from the students already.
+
+01:22:35.720 --> 01:22:43.840
+Some of them are quite practical, let's say, regarding how our blocks operates.
+
+01:22:43.840 --> 01:22:51.200
+But rather start with the discussion you just had with, I mean, we just heard the discussion
+
+01:22:51.200 --> 01:22:55.240
+that you've had with 6'5 to 9", regarding royalties.
+
+01:22:55.240 --> 01:23:01.960
+I know that you sort of had the... yeah, it's a hot topic for everyone.
+
+01:23:01.960 --> 01:23:05.880
+I see lots of discussions in the chat while you were discussing with 6'5 to 9".
+
+01:23:05.880 --> 01:23:13.480
+So I know you advocated for a more, let's say, less effort or kind of cultural norm approach
+
+01:23:13.480 --> 01:23:21.200
+to how this thing is going to be resolved instead of, let's say, imposing restrictions
+
+01:23:21.200 --> 01:23:23.640
+on smart contracts.
+
+01:23:23.640 --> 01:23:29.000
+But I'd like to ask you, in the decentralized world and especially in the original Bitcoin
+
+01:23:29.000 --> 01:23:37.760
+communities and everything, there was this mode of code is low and that rules should
+
+01:23:37.760 --> 01:23:42.600
+be embedded in smart contracts and be respected by everyone because otherwise it's going to
+
+01:23:42.600 --> 01:23:43.600
+be clear.
+
+01:23:43.600 --> 01:23:49.720
+So how do you feel regarding this?
+
+01:23:49.720 --> 01:23:58.760
+Can we trust the collective to come up with a unified homogeneous like, resolved to this
+
+01:23:58.760 --> 01:24:06.240
+question or should we at some point agree on what should happen and make it on the contract
+
+01:24:06.240 --> 01:24:07.240
+level?
+
+01:24:07.240 --> 01:24:13.720
+Well, number one, I just want people to understand that this will never actually be resolved.
+
+01:24:13.720 --> 01:24:18.240
+This will never be something that is just stamped, done, finished, move on.
+
+01:24:18.240 --> 01:24:27.400
+Number two, I do believe that code should be law, but only when the code can be law.
+
+01:24:27.400 --> 01:24:34.440
+And so we embrace decentralization, we embrace the sovereignty of owning these things in
+
+01:24:34.440 --> 01:24:36.440
+a way that really didn't exist before you.
+
+01:24:36.440 --> 01:24:38.360
+I mean, we couldn't own digital assets before.
+
+01:24:38.360 --> 01:24:39.360
+We can't.
+
+01:24:39.360 --> 01:24:48.040
+We can provably own the digital asset, but we can't provably force anyone to pay a
+
+01:24:48.040 --> 01:24:49.800
+royalty.
+
+01:24:49.800 --> 01:24:54.600
+You can't block someone from operating without paying a royalty.
+
+01:24:54.600 --> 01:24:56.720
+You can hamper their efforts.
+
+01:24:56.720 --> 01:24:57.800
+You can make it difficult.
+
+01:24:57.800 --> 01:25:03.400
+You can make it complicated, but you can't block it unless you get really restrictive
+
+01:25:03.400 --> 01:25:08.040
+and you start actually putting restrictions on the ability to transfer an NFT with permission.
+
+01:25:08.040 --> 01:25:14.520
+So there is a world where you can actually guarantee royalties, but you'd have to restrict
+
+01:25:14.520 --> 01:25:15.760
+the ability to transfer.
+
+01:25:15.760 --> 01:25:18.000
+And so I'll give you an example.
+
+01:25:18.000 --> 01:25:22.960
+Last year I created this kind of, I worked with a consultant created this crazy level
+
+01:25:22.960 --> 01:25:30.520
+of security, cold storage, two week delay for all of my R-blocks NFTs.
+
+01:25:30.520 --> 01:25:36.800
+And then I transferred 2,400 R-blocks NFTs to this wallet.
+
+01:25:36.800 --> 01:25:43.840
+And it would feel pretty weird to me if there was some mechanism required for me to have
+
+01:25:43.840 --> 01:25:46.480
+approval in order for me to transfer.
+
+01:25:46.480 --> 01:25:47.840
+I wasn't selling them.
+
+01:25:47.840 --> 01:25:51.480
+No royalty should be paid when you transfer from one wallet to the other.
+
+01:25:51.480 --> 01:25:57.560
+But you have to transfer your assets every now and then imagine someone gets hacked,
+
+01:25:57.560 --> 01:25:58.560
+compromised.
+
+01:25:58.560 --> 01:26:04.520
+And you're watching stuff happening and I guess you need approval that even the hacker
+
+01:26:04.520 --> 01:26:05.520
+can't steal your NFTs.
+
+01:26:05.520 --> 01:26:08.000
+I guess that's maybe that's a good thing right there.
+
+01:26:08.000 --> 01:26:13.040
+But yeah, I mean, ultimately I don't know that unless you go to those levels of restrictions,
+
+01:26:13.040 --> 01:26:17.400
+which what happens if the approver loses their keys?
+
+01:26:17.400 --> 01:26:19.960
+Are you no longer able to transfer your NFT again?
+
+01:26:19.960 --> 01:26:26.040
+You know, there's a lot of things that make me uncomfortable with that level of control.
+
+01:26:26.040 --> 01:26:31.600
+And if you don't go to that level of control, then code is not law.
+
+01:26:31.600 --> 01:26:36.400
+And unfortunately if code is not law, I believe that we're encouraging people to act in a
+
+01:26:36.400 --> 01:26:40.120
+way that will prove that code is not law.
+
+01:26:40.120 --> 01:26:45.040
+Because that's generally how society likes to be both good people and bad people.
+
+01:26:45.040 --> 01:26:51.160
+They like to show and prove that their position is valid.
+
+01:26:51.160 --> 01:26:57.920
+And that's one position that seems very easy to prove that you can get around these restrictions
+
+01:26:57.920 --> 01:26:59.160
+at any point.
+
+01:26:59.160 --> 01:27:05.000
+And there's a lot of arguments that it's hard to get around the restrictions and it is.
+
+01:27:05.000 --> 01:27:10.680
+It's actually really kind of annoying to try to figure out how to get through, how to wrap an NFT.
+
+01:27:10.680 --> 01:27:15.720
+But it only gets easier as people build tools to make it easier.
+
+01:27:15.720 --> 01:27:20.680
+And over time, my opinion is that, you know, there's this thought that like, you know,
+
+01:27:20.680 --> 01:27:22.280
+our royalty is going to zero.
+
+01:27:22.280 --> 01:27:27.000
+I don't actually think or I can't tell you with certainty that I'm correct.
+
+01:27:27.000 --> 01:27:28.720
+But I think there's actually two paths.
+
+01:27:28.720 --> 01:27:35.280
+I think that there's a path that royalties go to zero because people try to enforce royalties
+
+01:27:35.280 --> 01:27:39.480
+at the smart contract level in a way that's completely impossible to enforce unless we
+
+01:27:39.480 --> 01:27:42.240
+restrict transfer ship.
+
+01:27:42.240 --> 01:27:47.160
+And then there's the other path where royalties go to zero because of the cultural, you know,
+
+01:27:47.160 --> 01:27:50.520
+because we believe that we should reward people that operate in good behavior and then everybody
+
+01:27:50.520 --> 01:27:53.640
+just becomes a bad, you know, actor, I guess.
+
+01:27:53.640 --> 01:27:57.200
+I don't think that people that don't pay royalties are bad humans.
+
+01:27:57.200 --> 01:28:00.200
+By the way, I just, everybody has their motives for being in the space, right?
+
+01:28:00.200 --> 01:28:04.320
+And that's what we need to understand.
+
+01:28:04.320 --> 01:28:08.640
+But I think for someone to stand up and say, this is the way for royalties not to go to
+
+01:28:08.640 --> 01:28:09.640
+zero.
+
+01:28:09.640 --> 01:28:18.520
+And the other way, the potential culturally sensitive, non-restrictive, you know, positive
+
+01:28:18.520 --> 01:28:20.200
+reinforcement way is the wrong way.
+
+01:28:20.200 --> 01:28:27.440
+I feel like that's actually a pretty bold statement to make also.
+
+01:28:27.440 --> 01:28:31.360
+And I don't, again, there's no solution here.
+
+01:28:31.360 --> 01:28:34.520
+And I think it's just more of like, let's see how it goes.
+
+01:28:34.520 --> 01:28:41.400
+We've been told that art blocks, artworks consistently have a higher percentage of sales
+
+01:28:41.400 --> 01:28:43.960
+that include a royalty than a lot of others.
+
+01:28:43.960 --> 01:28:49.720
+And I think that this narrative that we've pushed so hard, I mean, to the point of dying
+
+01:28:49.720 --> 01:28:56.000
+on a hill of buy the art for the sake of art itself, like support the artists, participate
+
+01:28:56.000 --> 01:29:03.720
+in this new thing of collecting art and understanding art and whatever, that seems to have an implication
+
+01:29:03.720 --> 01:29:08.720
+towards people's desire to want to continue to support the artists.
+
+01:29:08.720 --> 01:29:14.680
+And I guess the last thing I'd say is if somebody wants to sell a Chromie Squiggle and
+
+01:29:14.680 --> 01:29:20.920
+do not pay, like just so adamant about not paying a Chromie Squiggle royalty, not sending
+
+01:29:20.920 --> 01:29:29.240
+me fees or not sending art block their fees, like, I just can't imagine, you know, reaching
+
+01:29:29.240 --> 01:29:31.000
+out and be like, you're an asshole.
+
+01:29:31.000 --> 01:29:32.400
+It's just, it is what it is.
+
+01:29:32.400 --> 01:29:35.880
+Like we just need to kind of embrace it and work through it.
+
+01:29:35.880 --> 01:29:36.880
+I agree.
+
+01:29:36.880 --> 01:29:38.640
+Very related question.
+
+01:29:38.640 --> 01:29:43.080
+I think you sort of answered it, but I'm going to ask it anyway.
+
+01:29:43.080 --> 01:29:48.120
+Aside from what you think is fair or desired, what do you think will eventually happen?
+
+01:29:48.120 --> 01:29:52.280
+Where is the royalties narrative converging to?
+
+01:29:52.280 --> 01:29:53.280
+I think that's interesting.
+
+01:29:53.280 --> 01:29:59.280
+I can't remember if I mentioned in the interview before, but a lot of royalties that I receive
+
+01:29:59.280 --> 01:30:01.680
+and art blocks receives, because this is really interesting, right?
+
+01:30:01.680 --> 01:30:03.080
+We have two parties here.
+
+01:30:03.080 --> 01:30:06.880
+We have two interested parties and some people would make an argument that the creator fees
+
+01:30:06.880 --> 01:30:08.720
+are more important than the platform fees.
+
+01:30:08.720 --> 01:30:13.280
+And obviously, we want to support the creators.
+
+01:30:13.280 --> 01:30:16.360
+Also, people want upgrades and updates to our blocks and they want us to grow the platform,
+
+01:30:16.360 --> 01:30:19.040
+make it bigger and grow the team and give you more features.
+
+01:30:19.040 --> 01:30:23.800
+And so, you know, we also have to be cognizant of the fact that these, you know, the expansion
+
+01:30:23.800 --> 01:30:30.160
+of the platform sometimes requires revenue.
+
+01:30:30.160 --> 01:30:37.080
+I think that given that a lot of collectors sometimes will purchase a Squiggle from a person
+
+01:30:37.080 --> 01:30:38.920
+that doesn't want to pay royalties.
+
+01:30:38.920 --> 01:30:43.080
+And the purchaser takes it upon themselves to reach out to me to request the information
+
+01:30:43.080 --> 01:30:49.560
+to send the royalties is a demonstration of this being a completely unenforceable cultural
+
+01:30:49.560 --> 01:30:55.160
+norm where the creator and the collector are creating a long-term relationship that
+
+01:30:55.160 --> 01:30:59.880
+is going to be mutually beneficial.
+
+01:30:59.880 --> 01:31:07.840
+That collector is making sure that, you know, as I release new work, maybe I'm going to
+
+01:31:07.840 --> 01:31:08.840
+ask them for feedback.
+
+01:31:08.840 --> 01:31:11.680
+I mean, this is actually a pertinent example.
+
+01:31:11.680 --> 01:31:17.720
+There's a collecting group that reached out to semi-royalties for a Squiggle they recently
+
+01:31:17.720 --> 01:31:21.600
+purchased and I was like, by the way, I'm working on this project for Mexico City, for
+
+01:31:21.600 --> 01:31:23.840
+Bright Moments, you know, I'd love to get your feedback on it.
+
+01:31:23.840 --> 01:31:27.160
+And they got a bit of an early view on it and they got to give me a little bit of feedback.
+
+01:31:27.160 --> 01:31:29.600
+Like, some people don't give a shit about that and that's fine.
+
+01:31:29.600 --> 01:31:35.560
+So like, if you don't care about that kind of relationship, then no big deal.
+
+01:31:35.560 --> 01:31:40.800
+Oftentimes, we are angry at the traditional art world for being so restrictive and gating
+
+01:31:40.800 --> 01:31:43.120
+and like only certain people get access.
+
+01:31:43.120 --> 01:31:50.160
+But, you know, I've said this before, like, if you're rewarding people for being a good
+
+01:31:50.160 --> 01:31:54.400
+customer, you know, at the traditional art gallery, if you're rewarding someone for being
+
+01:31:54.400 --> 01:31:58.240
+a thoughtful, meaningful collector that gives you feedback and advice and goes out of their
+
+01:31:58.240 --> 01:32:03.880
+way to like, send you royalties, even when the seller didn't want to.
+
+01:32:03.880 --> 01:32:09.440
+Do you think that it would make any sense for me to completely ignore those people and
+
+01:32:09.440 --> 01:32:15.200
+instead release an artwork that's available for anybody to mint?
+
+01:32:15.200 --> 01:32:19.640
+It feels like if I was that person that was going out of my way to pay the royalties,
+
+01:32:19.640 --> 01:32:25.760
+if I was going out of that way, out of my way to give feedback and I was not given an
+
+01:32:25.760 --> 01:32:32.120
+opportunity to kind of have early access to a piece or at least an early raffle to a piece,
+
+01:32:32.120 --> 01:32:35.120
+I would feel a little bit let down and betrayed.
+
+01:32:35.120 --> 01:32:37.600
+And so I just think people need to be aware of that.
+
+01:32:37.600 --> 01:32:45.360
+Like, I will never release another 10K PFP-type level artwork, you know, and there's a lot
+
+01:32:45.360 --> 01:32:50.240
+more Squiggle owners than there are potential artworks that I can have in the future.
+
+01:32:50.240 --> 01:32:58.080
+And I think it's very reasonable for me to want to reward the people that are trading
+
+01:32:58.080 --> 01:33:05.520
+my Squiggles and paying royalties, not punish the people that don't, but reward the people
+
+01:33:05.520 --> 01:33:06.600
+that are.
+
+01:33:06.600 --> 01:33:11.240
+And I think that creators have a lot of power here in that sense.
+
+01:33:11.240 --> 01:33:13.920
+And the only time will tell how this all plays up.
+
+01:33:13.920 --> 01:33:19.840
+But I really think that this is something that's going to be a pretty impactful part.
+
+01:33:19.840 --> 01:33:24.880
+It's going to be 30% less now that everything's kind of going to shit on these marketplaces,
+
+01:33:24.880 --> 01:33:27.800
+but it's still going to be part of the narrative.
+
+01:33:27.800 --> 01:33:33.120
+At least for our blocks, it will continue to be the theme of supporting our artists.
+
+01:33:33.120 --> 01:33:34.800
+Yeah.
+
+01:33:34.800 --> 01:33:37.040
+Okay.
+
+01:33:37.040 --> 01:33:42.960
+So moving on to the more practical questions, but still related to the reality, I guess.
+
+01:33:42.960 --> 01:33:49.200
+So I have one student asking, if there are any CC0 work looks projects at the moment.
+
+01:33:49.200 --> 01:33:58.160
+I'm asking if someone could make derivatives of Squiggles if they're a non-holder.
+
+01:33:58.160 --> 01:34:01.200
+So CC0, we do, we have a few.
+
+01:34:01.200 --> 01:34:03.360
+And I've been very public about my stance on CC0.
+
+01:34:03.360 --> 01:34:05.680
+I think it's very, something very intriguing.
+
+01:34:05.680 --> 01:34:08.000
+And I think it's wonderful that the world is exploring it.
+
+01:34:08.000 --> 01:34:11.600
+Obviously, I don't have the guts encouraged to release something CC0, but that doesn't
+
+01:34:11.600 --> 01:34:13.680
+mean that it's wrong.
+
+01:34:13.680 --> 01:34:18.520
+I'd say up there with my favorites, there's a project called Supermental.
+
+01:34:18.520 --> 01:34:27.040
+And then I believe, is it, I'll go rhythms, but I'll go beats by Han and Ichael Estaniel
+
+01:34:27.040 --> 01:34:28.440
+are also released to CC0.
+
+01:34:28.440 --> 01:34:31.960
+And I'm sure there's a multitude more out there.
+
+01:34:31.960 --> 01:34:36.120
+It's a really interesting concept, since this is a university conversation, I'd like to
+
+01:34:36.120 --> 01:34:37.880
+get a little bit of to show here.
+
+01:34:37.880 --> 01:34:41.200
+At Art Blocks, we do all these exhibitions.
+
+01:34:41.200 --> 01:34:45.840
+And we like to ask A, the artist, of course, their permission to exhibit their work, but
+
+01:34:45.840 --> 01:34:49.840
+it'd be we like to ask the collector for their permission to exhibit the work.
+
+01:34:49.840 --> 01:34:52.720
+And there's just too many artworks for us not to do that, right?
+
+01:34:52.720 --> 01:34:55.640
+Like if someone collector says, I don't want to show it, well, we can always show another
+
+01:34:55.640 --> 01:34:58.240
+person's work.
+
+01:34:58.240 --> 01:35:07.440
+And a very smart artist came back to me one time with the CC0 release and said, well,
+
+01:35:07.440 --> 01:35:10.560
+why are you asking collectors for permission to show the work at CC0?
+
+01:35:10.560 --> 01:35:12.320
+You have this permission, right?
+
+01:35:12.320 --> 01:35:14.960
+And I thought that was a really interesting point.
+
+01:35:14.960 --> 01:35:20.280
+And I actually very much defend it and understand it.
+
+01:35:20.280 --> 01:35:26.560
+The idea that CC0 is stripping potentially permission from the artist from displaying
+
+01:35:26.560 --> 01:35:29.720
+their work, I mean, but then also from the collector, I think it's fascinating.
+
+01:35:29.720 --> 01:35:33.480
+And so I think we still believe it very strongly that with Art Blocks, it's like whether it's
+
+01:35:33.480 --> 01:35:36.280
+CC0 or not, like somebody is the owner of that artwork.
+
+01:35:36.280 --> 01:35:37.920
+And we'd love to get permission.
+
+01:35:37.920 --> 01:35:40.880
+We'd like to get a blessing that that artwork is going to appear.
+
+01:35:40.880 --> 01:35:43.480
+So it's leading to some really interesting things.
+
+01:35:43.480 --> 01:35:47.920
+Because if Art Blocks were to ever make prints and we wanted a token gate, prints, obviously
+
+01:35:47.920 --> 01:35:53.600
+just the way infinite objects, token gates, Squiggles, would we token gate CC0?
+
+01:35:53.600 --> 01:35:54.600
+Because why would we?
+
+01:35:54.600 --> 01:35:55.600
+Right?
+
+01:35:55.600 --> 01:35:56.600
+You don't have to own it.
+
+01:35:56.600 --> 01:36:01.840
+So anyways, I think it's going to be really fun to explore what CC0 means in the world
+
+01:36:01.840 --> 01:36:02.840
+of art.
+
+01:36:02.840 --> 01:36:07.320
+Obviously, in the world of PFPs, it has some really interesting impacts and implications.
+
+01:36:07.320 --> 01:36:11.200
+And then in the world of art for art itself, I think it's going to be a really fun next
+
+01:36:11.200 --> 01:36:14.840
+a couple of years as we explore what all that means.
+
+01:36:14.840 --> 01:36:18.800
+Regarding the Chromie Squiggle, that's a little bit more complex.
+
+01:36:18.800 --> 01:36:20.640
+So there is a license.
+
+01:36:20.640 --> 01:36:22.440
+It's called the NFT license.
+
+01:36:22.440 --> 01:36:26.160
+And I've been working with an attorney on expanding the NFT license.
+
+01:36:26.160 --> 01:36:27.160
+And I'm way overdue.
+
+01:36:27.160 --> 01:36:28.160
+I mean, it's in my backpack.
+
+01:36:28.160 --> 01:36:31.080
+I'm ready to release it.
+
+01:36:31.080 --> 01:36:36.760
+Just have some tiny little stuff that gets in the way.
+
+01:36:36.760 --> 01:36:38.720
+If you don't own it, no.
+
+01:36:38.720 --> 01:36:44.160
+The NFT license says that if you own the NFT, you can commercialize the light, the lightliness
+
+01:36:44.160 --> 01:36:48.480
+of the NFT of the Chromie Squiggle for up to $100,000 a year without asking me any kind
+
+01:36:48.480 --> 01:36:50.800
+of permission.
+
+01:36:50.800 --> 01:36:54.440
+There are things that happen if you exceed $100,000 in revenue a year.
+
+01:36:54.440 --> 01:36:55.800
+So that gets a little bit complex.
+
+01:36:55.800 --> 01:37:01.080
+And that's why it's really important to reach out and kind of be in touch with the creator
+
+01:37:01.080 --> 01:37:02.320
+in advance of what you're doing.
+
+01:37:02.320 --> 01:37:07.520
+Because if the project exceeds $100,000, then there are licensing agreements that need
+
+01:37:07.520 --> 01:37:08.600
+to come into place.
+
+01:37:08.600 --> 01:37:13.320
+The NFT license that we're releasing is trying to be a little bit more innovative in saying,
+
+01:37:13.320 --> 01:37:19.600
+look, if you release a project, you get your $100,000 a year max end of the story.
+
+01:37:19.600 --> 01:37:24.640
+If you reach out to me in advance and clear with me what you're working on, now, to be
+
+01:37:24.640 --> 01:37:26.680
+clear, you don't have to clear anything with me.
+
+01:37:26.680 --> 01:37:32.120
+You can go make shwarma, Squiggle, whatever you want to do.
+
+01:37:32.120 --> 01:37:37.000
+But if you start exceeding that cap, I can and will, if you're making something that
+
+01:37:37.000 --> 01:37:41.800
+makes me uncomfortable, like maybe Squiggle underwear or something, say, okay, you are
+
+01:37:41.800 --> 01:37:45.560
+no longer allowed to continue making this product.
+
+01:37:45.560 --> 01:37:49.280
+With the updated Squiggle license, what I'm doing to try to encourage people to reach
+
+01:37:49.280 --> 01:37:54.640
+out and give me their ideas of what they're working on so that I can give them in advance
+
+01:37:54.640 --> 01:37:57.600
+the yes, even when you exceed the license.
+
+01:37:57.600 --> 01:38:03.520
+We're expanding the value, the revenue to $250,000 a year instead of $100,000 a year
+
+01:38:03.520 --> 01:38:08.280
+for anyone that's willing to reach out in advance and clear what they're working on,
+
+01:38:08.280 --> 01:38:13.480
+not for the first $250,000 but for what happens after you exceed that.
+
+01:38:13.480 --> 01:38:17.480
+If you don't own a Chromie Squiggle, the only thing that you can really do is if you
+
+01:38:17.480 --> 01:38:22.760
+have a website and you make something for people that own Chromie Squiggles, then you could
+
+01:38:22.760 --> 01:38:28.120
+potentially help people that own a Chromie Squiggle make something that they want to
+
+01:38:28.120 --> 01:38:30.080
+make.
+
+01:38:30.080 --> 01:38:33.960
+That's not super clear in the license and so what we did is say, okay, yeah, you can
+
+01:38:33.960 --> 01:38:39.680
+do this, but number one, you can't advertise it as Chromie Squiggles by Snowfro.
+
+01:38:39.680 --> 01:38:47.080
+It cannot help you generate more revenue by utilizing the brand and you have to token
+
+01:38:47.080 --> 01:38:48.080
+get it.
+
+01:38:48.080 --> 01:38:50.960
+In other words, you have to agree in advance that any products that you make for anybody
+
+01:38:50.960 --> 01:38:55.680
+that owns a Chromie Squiggle that they are the rightful owner of that Chromie Squiggle
+
+01:38:55.680 --> 01:38:56.680
+before you make it.
+
+01:38:56.680 --> 01:38:58.400
+Hello, can you hear me?
+
+01:38:58.400 --> 01:38:59.400
+Yes.
+
+01:38:59.400 --> 01:39:03.400
+Did I lose you?
+
+01:39:03.400 --> 01:39:04.400
+Hello?
+
+01:39:04.400 --> 01:39:06.400
+Uh oh.
+
+01:39:06.400 --> 01:39:12.400
+Oh, okay, you can hear me.
+
+01:39:12.400 --> 01:39:20.240
+Yeah, I can hear you now.
+
+01:39:20.240 --> 01:39:21.400
+I think we were cut off.
+
+01:39:21.400 --> 01:39:28.320
+I lost a few when you were saying what happens if you are a nonholder and what the updated
+
+01:39:28.320 --> 01:39:32.200
+license clarifies about this situation.
+
+01:39:32.200 --> 01:39:38.280
+If you're a nonholder, you cannot exploit any specific Chromium Squiggles, but you can
+
+01:39:38.280 --> 01:39:40.240
+help other people exploit their own.
+
+01:39:40.240 --> 01:39:46.880
+In other words, you can have a website that sells merch that allows someone that owns
+
+01:39:46.880 --> 01:39:54.120
+a Chromie Squiggle to make their own Chromie Squiggle on that merch.
+
+01:39:54.120 --> 01:39:56.000
+There's just some rules on how you can imply that.
+
+01:39:56.000 --> 01:39:58.400
+But the Squiggle is not CC0.
+
+01:39:58.400 --> 01:40:01.400
+It is a licensed item.
+
+01:40:01.400 --> 01:40:06.800
+And part of the value proposition I think of the NFT is owning it gives you some permissions
+
+01:40:06.800 --> 01:40:07.800
+and some rights.
+
+01:40:07.800 --> 01:40:13.560
+So if you don't own a Chromie Squiggle, ideally you're not out there making merch or doing
+
+01:40:13.560 --> 01:40:15.760
+anything specific with luck.
+
+01:40:15.760 --> 01:40:20.000
+And at the very least, if you're doing something with a Chromie Squiggle, because if you go
+
+01:40:20.000 --> 01:40:25.200
+make 20 hats, you're not going to hear from me, but you should at the very least get permission
+
+01:40:25.200 --> 01:40:29.320
+from the person that owns that Chromie Squiggle, or at least a blessing or a head nod.
+
+01:40:29.320 --> 01:40:32.600
+Because really, this, again, a lot of these things are cultural.
+
+01:40:32.600 --> 01:40:35.120
+None of these things matter until there's a lawsuit involved.
+
+01:40:35.120 --> 01:40:40.200
+I can't imagine really what it would be like for me to sue someone over making a bunch
+
+01:40:40.200 --> 01:40:41.600
+of shirts or a bunch of hats.
+
+01:40:41.600 --> 01:40:47.280
+I mean, we would maybe ask for a takedown if they're doing something that is egregious.
+
+01:40:47.280 --> 01:40:49.960
+I don't want Squiggles printed on bad quality stuff.
+
+01:40:49.960 --> 01:40:53.120
+I don't want crappy merch with them.
+
+01:40:53.120 --> 01:40:57.400
+But if you're doing good stuff, if you're making good things, I'm excited to see more
+
+01:40:57.400 --> 01:41:02.560
+Chromie Squiggles out in the world and more power to you.
+
+01:41:02.560 --> 01:41:03.560
+Super.
+
+01:41:03.560 --> 01:41:10.640
+And that's to be clear, the $250,000 rule that we mentioned, is this an update to the old
+
+01:41:10.640 --> 01:41:14.040
+$100,000 limit, or is it just the case of-
+
+01:41:14.040 --> 01:41:16.080
+We haven't updated license.
+
+01:41:16.080 --> 01:41:20.520
+No, so we haven't updated license and the license is addressing what it looks like for
+
+01:41:20.520 --> 01:41:24.560
+museums and exhibition centers to acquire the NFT.
+
+01:41:24.560 --> 01:41:28.120
+Just a little bit of wording in there because that's happening a little bit more and more.
+
+01:41:28.120 --> 01:41:36.600
+And also, we're trying to give people an incentive to reach out to me and let me know what you're
+
+01:41:36.600 --> 01:41:38.320
+doing with your squiggles.
+
+01:41:38.320 --> 01:41:45.720
+So you create Chromie Squiggle boxers and all of a sudden, and you sell $100,000 worth of
+
+01:41:45.720 --> 01:41:47.440
+boxers, fine, no big deal.
+
+01:41:47.440 --> 01:41:52.200
+All of a sudden, they become like Nike wants to license the Chromie Squiggle.
+
+01:41:52.200 --> 01:41:54.160
+And all of a sudden, it's like a million dollar thing.
+
+01:41:54.160 --> 01:41:58.160
+I probably won't want Chromie Squiggle boxers to exist at that scale.
+
+01:41:58.160 --> 01:42:03.680
+And so I would be able to tell you, initially, hey, feel free to operate within the license.
+
+01:42:03.680 --> 01:42:06.240
+But if you exceed that, we're going to put a stop to it.
+
+01:42:06.240 --> 01:42:10.040
+Like, it definitely don't want a global brand of Chromie Squiggle underwear to exist.
+
+01:42:10.040 --> 01:42:11.840
+And that's kind of what that license is saying.
+
+01:42:11.840 --> 01:42:16.040
+It's kind of like saying, hey, look, as an entrepreneur, what does it take for you to
+
+01:42:16.040 --> 01:42:18.840
+make a $100,000 in revenue on a hat?
+
+01:42:18.840 --> 01:42:20.560
+Like, that's a lot of hats.
+
+01:42:20.560 --> 01:42:24.800
+And so as an entrepreneur, a lot of us just small scale, we want to just have fun.
+
+01:42:24.800 --> 01:42:25.800
+We want to make stuff.
+
+01:42:25.800 --> 01:42:28.280
+We want to see what we can do.
+
+01:42:28.280 --> 01:42:33.160
+And that's what that license is there to do, is to let people tinker and have fun and not
+
+01:42:33.160 --> 01:42:35.320
+have to ask questions unless you're getting serious.
+
+01:42:35.320 --> 01:42:39.200
+And if you're getting serious, then we want to know and we want to be involved in the
+
+01:42:39.200 --> 01:42:40.200
+process.
+
+01:42:40.200 --> 01:42:41.200
+Okay.
+
+01:42:41.200 --> 01:42:47.080
+I think we have at least a few artists among our students because I have one, two, three
+
+01:42:47.080 --> 01:42:54.400
+questions asking more or less, how can an artist be eligible to be included in an art
+
+01:42:54.400 --> 01:42:57.000
+blocks collection in the future?
+
+01:42:57.000 --> 01:43:00.000
+And they put a collection inside that.
+
+01:43:00.000 --> 01:43:05.440
+Well, number one absolutely has to be generated algorithmically, period.
+
+01:43:05.440 --> 01:43:10.800
+Like, there's nothing we can do at our blogs to host any artwork that already exists.
+
+01:43:10.800 --> 01:43:16.080
+In fact, the magic of art blocks is that the artwork does not exist until it's purchased.
+
+01:43:16.080 --> 01:43:22.280
+So if you're looking at a piece of art, it's already not compatible with that straightforward.
+
+01:43:22.280 --> 01:43:25.680
+Number two, you need to be able to write an algorithm and that algorithm needs to be written
+
+01:43:25.680 --> 01:43:31.680
+in pure JavaScript or a few libraries that are compatible with JavaScript.
+
+01:43:31.680 --> 01:43:37.440
+The majority of projects released in our blocks are pure JavaScript, P5JS or 3JS with a couple
+
+01:43:37.440 --> 01:43:40.440
+variants out there.
+
+01:43:40.440 --> 01:43:45.440
+The project needs to be already established and ready to go when you apply.
+
+01:43:45.440 --> 01:43:48.800
+A lot of people early on would apply with an idea and then be disappointed to know that
+
+01:43:48.800 --> 01:43:50.680
+we don't have coders at art blocks.
+
+01:43:50.680 --> 01:43:55.280
+I think it's in fact like a conflict of interest for art blocks to support an artist on how
+
+01:43:55.280 --> 01:43:59.760
+to create their code to then be screened and then potentially curated on the platform.
+
+01:43:59.760 --> 01:44:01.640
+It just doesn't feel right.
+
+01:44:01.640 --> 01:44:07.200
+And then also a lot of times people reach out asking for help coordinating with the coder
+
+01:44:07.200 --> 01:44:10.800
+and that has led to some kind of awkward situations.
+
+01:44:10.800 --> 01:44:12.480
+So we really don't do that either.
+
+01:44:12.480 --> 01:44:16.560
+Really, when you're applying to art blocks, you need to come with an algorithm ready to
+
+01:44:16.560 --> 01:44:18.200
+release on the platform.
+
+01:44:18.200 --> 01:44:22.920
+And so then it's submitted and there's two layers of screening, screening one, which
+
+01:44:22.920 --> 01:44:27.560
+accepts about 15% of the artworks that are submitted to art blocks.
+
+01:44:27.560 --> 01:44:28.560
+1515.
+
+01:44:28.560 --> 01:44:29.560
+1515.
+
+01:44:29.560 --> 01:44:36.800
+Yeah, it's a reflection of us studying very carefully the market share that we have.
+
+01:44:36.800 --> 01:44:44.200
+Like the participants in our community compared to the amount of work that was coming in,
+
+01:44:44.200 --> 01:44:45.200
+so being submitted.
+
+01:44:45.200 --> 01:44:50.680
+At some points we get 200 applications a week and we release six artworks a week at most
+
+01:44:50.680 --> 01:44:52.440
+and in fact often less.
+
+01:44:52.440 --> 01:44:56.120
+So 15% of them get through and once it gets through, that means it will be released on
+
+01:44:56.120 --> 01:44:59.480
+our blocks and it'll be released on our blocks in one of two categories.
+
+01:44:59.480 --> 01:45:02.360
+It'll either be released in our blocks curated or our box presents.
+
+01:45:02.360 --> 01:45:06.160
+So once the artwork gets through and into our box, it goes through a second round and
+
+01:45:06.160 --> 01:45:13.520
+this is where we actually have a formal, more academic board of curators that decide not
+
+01:45:13.520 --> 01:45:17.800
+which projects are great because we already think the project is great if we're releasing
+
+01:45:17.800 --> 01:45:22.320
+it on our blocks, but which projects are pushing the boundaries, which projects are kind of
+
+01:45:22.320 --> 01:45:27.520
+making us even internally rethink the way that we think about generative art or what
+
+01:45:27.520 --> 01:45:30.760
+can be done, what's possible with generative art.
+
+01:45:30.760 --> 01:45:35.560
+And those projects get tagged as curated and released on a slower schedule once every
+
+01:45:35.560 --> 01:45:37.480
+other week we release a curated project.
+
+01:45:37.480 --> 01:45:44.720
+So at this point, unless the market expands significantly, we're releasing roughly 24
+
+01:45:44.720 --> 01:45:49.280
+curated projects a year.
+
+01:45:49.280 --> 01:45:52.720
+And yeah, that's kind of what we have.
+
+01:45:52.720 --> 01:45:54.360
+We have a new category called explorations.
+
+01:45:54.360 --> 01:46:02.320
+It's pretty fun where our blocks is actually getting to explore things that we've been
+
+01:46:02.320 --> 01:46:06.560
+thinking about for a long time, we just released a friendship bracelet project last week where
+
+01:46:06.560 --> 01:46:11.280
+these are ideas that I've had for years about what it means to own something, what the difference
+
+01:46:11.280 --> 01:46:17.640
+is between a digital and a physical that's connected and potentially has the ability to
+
+01:46:17.640 --> 01:46:22.200
+lose value when they're separated versus something that's ephemeral that has an almost intangible
+
+01:46:22.200 --> 01:46:25.200
+value to it but is still meaningful.
+
+01:46:25.200 --> 01:46:32.160
+Things like that, our blocks consumed in the example of the friendship bracelets by itself
+
+01:46:32.160 --> 01:46:40.040
+our blocks consumed me entirely to the point where I was unable to tinker and really get
+
+01:46:40.040 --> 01:46:44.400
+behind again, what is this technology, what's the power of this technology.
+
+01:46:44.400 --> 01:46:49.000
+And so if I would have had to release that project on my own, which in fact, when I first
+
+01:46:49.000 --> 01:46:53.320
+approached Alexi Andre on that project, it was almost six months ago, maybe eight months,
+
+01:46:53.320 --> 01:46:58.200
+maybe a year ago, I don't know, with the intention of releasing it as I could just separate collaborative
+
+01:46:58.200 --> 01:47:01.680
+work between me and Alexi Andre.
+
+01:47:01.680 --> 01:47:05.880
+It may never have happened but getting the weight of our blocks behind to help tell the
+
+01:47:05.880 --> 01:47:14.560
+story and explain what's happening with these physical ephemeral physical objects really
+
+01:47:14.560 --> 01:47:15.560
+made things happen.
+
+01:47:15.560 --> 01:47:19.960
+So that's the third category called explorations and then of course we have some collaborations
+
+01:47:19.960 --> 01:47:23.720
+like what we're collaborating with, pace and pace gallery, one of the biggest galleries
+
+01:47:23.720 --> 01:47:27.600
+in the world, they bring their own artists to the platform and they release artwork there
+
+01:47:27.600 --> 01:47:28.600
+as well.
+
+01:47:28.600 --> 01:47:29.600
+Great.
+
+01:47:29.600 --> 01:47:32.040
+I've got two follow up questions on that.
+
+01:47:32.040 --> 01:47:39.680
+So the first one is if the artwork is not known until it's purchased, how do artists
+
+01:47:39.680 --> 01:47:46.400
+and the curators board test the output before the artworks are minted, how do you know if
+
+01:47:46.400 --> 01:47:50.240
+the mints are likely to be beautiful as a collection, how do this happen?
+
+01:47:50.240 --> 01:47:51.240
+That's a good question.
+
+01:47:51.240 --> 01:47:56.480
+So the final edition size is going to be, let's say, an edition of 100.
+
+01:47:56.480 --> 01:47:59.160
+The final exact edition size is unknown.
+
+01:47:59.160 --> 01:48:04.600
+I mean, the final outputs of the final edition sizes are unknown but the algorithm exists
+
+01:48:04.600 --> 01:48:06.280
+and the algorithm can be run.
+
+01:48:06.280 --> 01:48:11.680
+So you can press play on the algorithm and see an example output.
+
+01:48:11.680 --> 01:48:16.400
+These example outputs demonstrate the variability of an algorithm and that algorithm could have
+
+01:48:16.400 --> 01:48:20.680
+millions, billions of possible outputs.
+
+01:48:20.680 --> 01:48:26.680
+What's special about our blocks is that we're forcing the artist to pre-curate the algorithm
+
+01:48:26.680 --> 01:48:30.240
+to make sure that they stand behind and are excited about anything that could potentially
+
+01:48:30.240 --> 01:48:37.160
+come out of that mentor and then also to sign off on a very compact final output set.
+
+01:48:37.160 --> 01:48:40.920
+So if the algorithm can handle millions of outputs, they're setting that as an edition
+
+01:48:40.920 --> 01:48:47.200
+of 1,000 or 10,000 and then they're locking that and saying the only artworks that represent
+
+01:48:47.200 --> 01:48:52.040
+this body of work, the final body of work are the ones that were created during the mint
+
+01:48:52.040 --> 01:48:57.480
+but you can press refresh on a browser and refresh over and over all the artworks.
+
+01:48:57.480 --> 01:49:02.840
+So effectively you simulate the output and you simulate the outputs.
+
+01:49:02.840 --> 01:49:08.400
+A related question is, are all art blocks projects minted in the same way with a common
+
+01:49:08.400 --> 01:49:14.000
+standard required and how much does it cost usually to go through the whole process?
+
+01:49:14.000 --> 01:49:19.840
+Well, we are all over the place on how we made the most standard is a Dutch auction.
+
+01:49:19.840 --> 01:49:25.360
+We use a Dutch auction as a method for there to be a little bit of price discovery and
+
+01:49:25.360 --> 01:49:32.440
+also to ensure that a strong collector is given the opportunity to collect the work because
+
+01:49:32.440 --> 01:49:37.680
+even though it be at a higher price, if they want the artwork, they can get the artwork
+
+01:49:37.680 --> 01:49:39.720
+before their second gas work.
+
+01:49:39.720 --> 01:49:44.800
+It lessens the gas works a little bit, not as much as we'd like.
+
+01:49:44.800 --> 01:49:46.960
+Artworks can be released at a fixed price.
+
+01:49:46.960 --> 01:49:52.040
+We discourage it, especially recently things have heated up a little bit more for art blocks
+
+01:49:52.040 --> 01:49:56.640
+and so the fixed price auctions are being bought.
+
+01:49:56.640 --> 01:50:01.360
+It's really funny to look back now at how strongly the community pushed back on the
+
+01:50:01.360 --> 01:50:07.240
+Dutch auction and really wanted us to leave things at fixed price because it made it possible
+
+01:50:07.240 --> 01:50:11.680
+for the most part for people to be able to flip more.
+
+01:50:11.680 --> 01:50:17.680
+Right now that we're seeing what a sophisticated bot can do, literally consume an entire collection,
+
+01:50:17.680 --> 01:50:20.720
+we realize, and that's what we were trying to avoid with the Dutch auction, is that we
+
+01:50:20.720 --> 01:50:24.720
+realize that if you don't have price discovery in place and one or two people can completely
+
+01:50:24.720 --> 01:50:30.840
+ruin your ability as a collector to attain that work or to have the minting experience.
+
+01:50:30.840 --> 01:50:35.000
+To me, I still think one of the most important things about art blocks and one of the things
+
+01:50:35.000 --> 01:50:38.480
+that will continue to define us, especially as people will explore alternative minting
+
+01:50:38.480 --> 01:50:43.680
+methods is that moment of surprise when you mint something and you don't know what you're
+
+01:50:43.680 --> 01:50:44.680
+going to get.
+
+01:50:44.680 --> 01:50:49.800
+Okay, I've got many, many questions but I'll try to respect your time because I know
+
+01:50:49.800 --> 01:50:55.560
+you're very busy so I'm trying to pick up a last one.
+
+01:50:55.560 --> 01:50:59.120
+We have time for a few more.
+
+01:50:59.120 --> 01:51:00.840
+I mean, I haven't until 9.30.
+
+01:51:00.840 --> 01:51:02.720
+I'll ask two then.
+
+01:51:02.720 --> 01:51:06.360
+So the first one is, are you concerned about supply versus demand issues?
+
+01:51:06.360 --> 01:51:11.280
+Is there an internal discussion in what looks about market conditions and the supply being
+
+01:51:11.280 --> 01:51:13.440
+issued for its collection?
+
+01:51:13.440 --> 01:51:20.160
+Yeah, we are constantly having internal discussions.
+
+01:51:20.160 --> 01:51:21.960
+Am I concerned?
+
+01:51:21.960 --> 01:51:24.400
+No, I mean, this is the thing.
+
+01:51:24.400 --> 01:51:32.440
+We often say, like, at our blocks, we are in a river that is moving very quickly through
+
+01:51:32.440 --> 01:51:37.560
+rapids with no paddles.
+
+01:51:37.560 --> 01:51:44.800
+Supply feels excessive when things slow down and then things pick up and we can't have
+
+01:51:44.800 --> 01:51:48.640
+anything in stock and then everything else, then all of this, like when there's nothing
+
+01:51:48.640 --> 01:51:53.800
+left to mint on our blocks, prices settle higher on the Dutch auction because there's
+
+01:51:53.800 --> 01:51:55.240
+nothing to buy anymore.
+
+01:51:55.240 --> 01:52:03.040
+And there's no right or wrong there, there's not like a, it's just, it's very difficult
+
+01:52:03.040 --> 01:52:06.200
+to control or to manage what that looks like.
+
+01:52:06.200 --> 01:52:11.560
+And so I think it's naive to think that anybody would be able to react quickly enough.
+
+01:52:11.560 --> 01:52:15.960
+Yes, art blocks could be a little bit more authoritarian and make decisions on behalf
+
+01:52:15.960 --> 01:52:21.240
+of the artist, but you have to understand, for example, an artist determines their minting
+
+01:52:21.240 --> 01:52:26.080
+style for their work, sometimes six to eight weeks before the release.
+
+01:52:26.080 --> 01:52:31.360
+So you know, something for.1 ETH today, if ETH were to go to 10,000, all of a sudden
+
+01:52:31.360 --> 01:52:36.320
+it's like $1,000 for the artwork and we can adjust those things, but you'll see that based
+
+01:52:36.320 --> 01:52:42.520
+on the transparency of the space, you know, if we have it listed for.1 ETH for five weeks,
+
+01:52:42.520 --> 01:52:50.120
+and then the week before we make this decision that ETH is just so high that it can't, you
+
+01:52:50.120 --> 01:52:55.400
+can't afford that piece, then the artist is in a really bad spot because they lower the
+
+01:52:55.400 --> 01:52:58.600
+price and then the community gets upset because we changed the price, etc.
+
+01:52:58.600 --> 01:53:06.360
+So it, I think that there's an opportunity there to study the market and be as tight
+
+01:53:06.360 --> 01:53:13.440
+as we can of the market, but understand also that it's naive to think that we can actually
+
+01:53:13.440 --> 01:53:18.080
+control anything in the market.
+
+01:53:18.080 --> 01:53:20.640
+This is as much as we can't control the price of Ethereum.
+
+01:53:20.640 --> 01:53:24.480
+Just as, I mean, what we can do, what we do have a goal for it, our blocks, let's just
+
+01:53:24.480 --> 01:53:28.440
+make this very clear, our goal at our blocks is to increase the number of people that
+
+01:53:28.440 --> 01:53:31.280
+enjoy our work.
+
+01:53:31.280 --> 01:53:35.720
+And that's not to pump our bags, that's because we believe that we have something that is
+
+01:53:35.720 --> 01:53:42.320
+going to be relevant way outside of the 400,000 wallets that currently operate within the NFT
+
+01:53:42.320 --> 01:53:43.320
+ecosystem.
+
+01:53:43.320 --> 01:53:49.960
+If you understand that and you understand there's 400,000 people that have an NFT or
+
+01:53:49.960 --> 01:53:54.840
+that are active in the MTF space and there's 200,000 our blocks of artworks, if that wallet
+
+01:53:54.840 --> 01:53:58.160
+count increases dramatically, there may not be enough art for everybody.
+
+01:53:58.160 --> 01:54:01.680
+And all of a sudden we're at a deficit and all of a sudden prices start going up.
+
+01:54:01.680 --> 01:54:08.960
+We're not doing it for that reason, but we are trying to grow awareness of generative
+
+01:54:08.960 --> 01:54:13.840
+art, grow awareness of NFT digital art, scarcity, et cetera.
+
+01:54:13.840 --> 01:54:18.880
+And so it's just kind of an interesting balance and we're working through all of it.
+
+01:54:18.880 --> 01:54:20.760
+Okay, final question.
+
+01:54:20.760 --> 01:54:21.960
+I like this very much.
+
+01:54:21.960 --> 01:54:23.720
+I could have asked this myself.
+
+01:54:23.720 --> 01:54:29.880
+So art blocks is a platform, but a lot of people see art blocks as an art brand.
+
+01:54:29.880 --> 01:54:31.120
+How do you see that?
+
+01:54:31.120 --> 01:54:37.120
+Is art blocks more like a museum or is it more like a launchpad?
+
+01:54:37.120 --> 01:54:41.600
+I don't know that trying to compartmentalize art blocks right now really makes a lot of
+
+01:54:41.600 --> 01:54:42.600
+sense.
+
+01:54:42.600 --> 01:54:49.240
+Like for example, art blocks started as an open platform for anybody that can create
+
+01:54:49.240 --> 01:54:53.940
+an algorithm to put code on chain and really if you could code a square pixel onto the
+
+01:54:53.940 --> 01:54:58.600
+screen and make it change with every mint, like we were happy to have you.
+
+01:54:58.600 --> 01:55:00.240
+And that has changed dramatically, right?
+
+01:55:00.240 --> 01:55:04.960
+Like there's just more demand for slots for releases than they are than there is demand
+
+01:55:04.960 --> 01:55:10.520
+for art blocks art works.
+
+01:55:10.520 --> 01:55:14.960
+What happened when we started screening is if you really think about it, we started
+
+01:55:14.960 --> 01:55:17.960
+following a little bit more of a gallery model.
+
+01:55:17.960 --> 01:55:19.840
+And that was never the intention of art blocks, right?
+
+01:55:19.840 --> 01:55:24.280
+So in fact, you know, we started this exhibition center in Marfa, Texas, which is kind of in
+
+01:55:24.280 --> 01:55:27.040
+the middle of nowhere, but it's this beautiful place out west actually.
+
+01:55:27.040 --> 01:55:28.320
+I'm not to fly out there.
+
+01:55:28.320 --> 01:55:34.160
+And part of the drive of this exhibition center was that there was nothing for sale.
+
+01:55:34.160 --> 01:55:35.960
+In fact, that's what's kind of cool about art blocks.
+
+01:55:35.960 --> 01:55:37.240
+There's really nothing for sale.
+
+01:55:37.240 --> 01:55:40.440
+The only way to buy stuff is to go out on the website and mint stuff or you get something
+
+01:55:40.440 --> 01:55:43.560
+on the secondary market, but you would never walk into an art blocks exhibition center
+
+01:55:43.560 --> 01:55:48.720
+and be like, see a price tag next to an artwork that's on the wall because there's no need
+
+01:55:48.720 --> 01:55:52.040
+for the exhibition center for that artwork to change hands.
+
+01:55:52.040 --> 01:55:56.000
+That's what the beauty is of decentralized exchanges.
+
+01:55:56.000 --> 01:56:00.600
+And I think that there's something really important about being an exhibition center
+
+01:56:00.600 --> 01:56:03.520
+and not having something to sell.
+
+01:56:03.520 --> 01:56:06.160
+So, you know, the gallery has to sell art.
+
+01:56:06.160 --> 01:56:07.240
+We have to sell art.
+
+01:56:07.240 --> 01:56:11.960
+So maybe we are a gallery in that sense, but long term, what I'd like art blocks to be
+
+01:56:11.960 --> 01:56:21.640
+is like this place where artists become discovered because you know that the next ringer's,
+
+01:56:21.640 --> 01:56:30.200
+Fidenza, you know, archetype is sitting out there in the head of a 13 year old that will
+
+01:56:30.200 --> 01:56:35.160
+learn to maybe even be inspired to learn creative coding and get involved with this because
+
+01:56:35.160 --> 01:56:39.480
+of the beauty of the things that are coming out of not just our blocks, but like FX hash
+
+01:56:39.480 --> 01:56:42.800
+and all the other wonderful generative art platforms that are out there and they're going
+
+01:56:42.800 --> 01:56:43.800
+to be inspired by it.
+
+01:56:43.800 --> 01:56:47.400
+And that person in three or four years will refine this beautiful algorithm and be released
+
+01:56:47.400 --> 01:56:54.600
+and blow everybody's minds like, you know, we don't want to have to chase.
+
+01:56:54.600 --> 01:56:59.240
+We want to host the best generative art from the best gender artists in the world.
+
+01:56:59.240 --> 01:57:05.760
+But we also want to make sure that we create a wonderful home to release the best gender
+
+01:57:05.760 --> 01:57:06.760
+of art.
+
+01:57:06.760 --> 01:57:12.400
+And so we don't know what the future of our blocks looks like in terms of a category.
+
+01:57:12.400 --> 01:57:18.400
+We do know that NFTs have been incredibly disruptive, not just from a financial perspective, but
+
+01:57:18.400 --> 01:57:20.840
+from like an understanding of things perspective.
+
+01:57:20.840 --> 01:57:26.520
+NFTs have elevated global awareness and appreciation for digital art.
+
+01:57:26.520 --> 01:57:28.640
+Forget generative art for just one second.
+
+01:57:28.640 --> 01:57:33.720
+Like digital art has been something that creators have been making for years and years and years
+
+01:57:33.720 --> 01:57:35.280
+decades.
+
+01:57:35.280 --> 01:57:40.120
+And yeah, it's had recognition, but not nearly to the level of like, you know, oil on canvas
+
+01:57:40.120 --> 01:57:41.280
+and sculpture.
+
+01:57:41.280 --> 01:57:46.960
+And I think we're seeing this beautiful thing where digital art is having a renaissance.
+
+01:57:46.960 --> 01:57:52.800
+Generative art is part of that is like, you know, sharing that moment with digital art
+
+01:57:52.800 --> 01:57:54.200
+as a whole.
+
+01:57:54.200 --> 01:58:01.240
+And we don't know what it looks like when digital art gets to that level of appreciation
+
+01:58:01.240 --> 01:58:04.960
+and acceptance as sculpture and oil on canvas.
+
+01:58:04.960 --> 01:58:13.960
+But what we do know is that people that own this art are incredibly proud to own the art.
+
+01:58:13.960 --> 01:58:17.560
+They're incredibly vocal about their ownership of the art.
+
+01:58:17.560 --> 01:58:19.960
+In some cases people might be pumping their bags.
+
+01:58:19.960 --> 01:58:22.560
+In some cases, you see this on Twitter all the time.
+
+01:58:22.560 --> 01:58:30.000
+I've seen people transformed from pumping their bags to saying meaningful deep reflection
+
+01:58:30.000 --> 01:58:33.800
+things that come out of their mind as they look at artwork or as they see this artist's
+
+01:58:33.800 --> 01:58:35.080
+career expand.
+
+01:58:35.080 --> 01:58:37.440
+So we're just it's just changing.
+
+01:58:37.440 --> 01:58:39.560
+Everything's changing so fast.
+
+01:58:39.560 --> 01:58:42.960
+There's no way to like compartmentalize this right now.
+
+01:58:42.960 --> 01:58:47.560
+We just need to do our best to support artists to support collectors to support our team.
+
+01:58:47.560 --> 01:58:48.840
+You know this is a bear market.
+
+01:58:48.840 --> 01:58:54.760
+It's really a weird time and you see people, major companies laying people off left and
+
+01:58:54.760 --> 01:58:55.760
+right.
+
+01:58:55.760 --> 01:59:00.240
+You see a lot of crypto organizations faltering and you realize like there's a lot
+
+01:59:00.240 --> 01:59:06.400
+of things here that need to happen for art blocks to be an adult company like not just
+
+01:59:06.400 --> 01:59:11.960
+this crypto startup, but like a real company that operates in the real world with real
+
+01:59:11.960 --> 01:59:13.520
+impact.
+
+01:59:13.520 --> 01:59:18.800
+And we're we're not going to shoot ourselves in the foot by trying to make any decisions
+
+01:59:18.800 --> 01:59:24.280
+right now as to what we are as long as we just continue doing everything that we can
+
+01:59:24.280 --> 01:59:29.200
+to host the best narrative art for the best artists in the world.
+
+01:59:29.200 --> 01:59:32.600
+And yeah, pushing that envelope forward.
+
+01:59:32.600 --> 01:59:36.960
+Oh, no, I lost you.
+
+01:59:36.960 --> 01:59:39.040
+I can't hear you.
+
+01:59:39.040 --> 01:59:40.040
+Sorry.
+
+01:59:40.040 --> 01:59:41.040
+I wasn't.
+
+01:59:41.040 --> 01:59:44.840
+So I was just saying that this was fascinating.
+
+01:59:44.840 --> 01:59:47.640
+I really enjoyed your discussion with 6529.
+
+01:59:47.640 --> 01:59:51.920
+I really enjoyed this session and I'm sure our students did too.
+
+01:59:51.920 --> 01:59:54.080
+So thank you very much for being here.
+
+01:59:54.080 --> 01:59:57.320
+Ladies and gentlemen, Eric Snowfro.
+
+01:59:57.320 --> 01:59:58.320
+Thank you.
+
+01:59:58.320 --> 01:59:59.640
+Thank you so much for having me.
+
+01:59:59.640 --> 02:00:01.840
+Thanks for following the course, everybody.
+
+02:00:01.840 --> 02:00:03.800
+This is pretty revolutionary in and of itself.
+
+02:00:03.800 --> 02:00:06.240
+So congratulations to everyone that's there listening.
+
+02:00:06.240 --> 02:00:07.240
+It's cool.
+
+02:00:07.240 --> 02:00:08.240
+Thank you.
+
+02:00:08.240 --> 02:00:11.040
+Bye bye.
+
