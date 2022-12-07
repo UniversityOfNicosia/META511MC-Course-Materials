@@ -30,5 +30,7 @@ The following list contains the endpoints (links) to the live sessions recording
 
 - **Week 8: What is the Metaverse?** - https://arweave.net/LgqQMxVJP8QWvl-jSMmyn5b67OcHuJKBI-9mfTVMoEw
 
+- **Week 9: Trends in Visualization Technology** - https://arweave.net/C7OEJVS4-Dz5e0knyUeZoUDuGW874snu4vgrtU2OhrI
+
 
 NOTE: the video files are stored in a peer-to-peer visual content database. For more : https://ardrive.io/ 
