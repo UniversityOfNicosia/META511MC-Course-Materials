@@ -32,5 +32,10 @@ The following list contains the endpoints (links) to the live sessions recording
 
 - **Week 9: Trends in Visualization Technology** - https://arweave.net/C7OEJVS4-Dz5e0knyUeZoUDuGW874snu4vgrtU2OhrI
 
+- **Week 10: Financing Models in the NFT and the Metaverse Space**
+    - **Week 10.1** - https://arweave.net/3jDaN_EJdXpRr5jDaIsL5DhJdAEkcEOcIeKStzS0Xcg
+    
+    - **Week 10.2** - https://arweave.net/3jDaN_EJdXpRr5jDaIsL5DhJdAEkcEOcIeKStzS0Xcg
+
 
 NOTE: the video files are stored in a peer-to-peer visual content database. For more : https://ardrive.io/ 
