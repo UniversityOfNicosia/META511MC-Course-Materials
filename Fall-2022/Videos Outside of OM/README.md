@@ -33,6 +33,12 @@ The following list contains the endpoints (links) to the live sessions recording
 - **Week 8: What is the Metaverse?** - https://arweave.net/tAx7q2-8-g8psStW7kfrOTur6EocH2Jl3DghyfiZSIs
 
 - **Week 9: Trends in Visualization Technology** - https://arweave.net/e5XGjlB3KcE_odMMPo2oC81giDc_73g9o3VHo3wYdH0
+
+- **Week 10: Financing Models in the NFT and the Metaverse Space**
+    - **Week 10.1** - https://arweave.net/DyblSlVacQ9z8bJ7R7RIzBJvYXolCFLRGXSWqzQmem4
+
+    - **Week 10.2** - https://arweave.net/mPnqQu8a3kreK4voAww_L0d7Xw930ylfCMxxqgeNPFU
+
     
     
 
