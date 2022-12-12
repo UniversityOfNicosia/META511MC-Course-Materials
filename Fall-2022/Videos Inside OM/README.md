@@ -21,7 +21,7 @@ The following list contains the endpoints (links) to the live sessions recording
 
     - **Week 5.2** - https://arweave.net/UsXjfnZZdvdIDnTfZRBYpmyiLJJ283qidjluxSNzjYo
 
-- **Week 6: Art NFTs (CryptoArt, NFTs)**
+- **Week 6:Key Considerations in the NFT Space**
     - **Week 6.1** - https://arweave.net/iP1CEu9ZfD8-H_o694L1SFq_sR5kbaPxr92fprfAs3k
 
     - **Week 6.2** - https://arweave.net/9IFjtUIyZO9-Nyjs6k5M6N7Cm1y2l9WARMqhi2LjuXU

@@ -52,3 +52,7 @@ Inside this directory you may find the transcripts of the live sessions, were -w
         - .txt - https://arweave.net/Yr0qxlZWRBfSFBGO9YHLik3KvWbOtUYc8FxsG07Nxj8
         - .srt - https://arweave.net/Y3AAaa1b87tHx6zHs2yyiCP0dOgVZzTjAAMio719DUg
         - .vtt - https://arweave.net/dh1_-rsdYZFSYSSHWyZbbGj2ui_-sQp_J16rdFOyIi8
+    - **Week 6.2**
+        - .txt - https://arweave.net/9TmDREgVWyGo6I4Etu-WuCWfFRaFRYaQg3-zVutsIiA
+        - .srt - https://arweave.net/hSIJnN1PumoD7OAAGTAWbLNfeN_fYNHY8pdVN9LgmxA
+        - .vtt - https://arweave.net/NitVkukOCHKRewS5S673mW_7u2UaJLAItISzGcumWTc
