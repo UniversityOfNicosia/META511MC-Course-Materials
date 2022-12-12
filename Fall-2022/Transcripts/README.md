@@ -56,3 +56,8 @@ Inside this directory you may find the transcripts of the live sessions, were -w
         - .txt - https://arweave.net/9TmDREgVWyGo6I4Etu-WuCWfFRaFRYaQg3-zVutsIiA
         - .srt - https://arweave.net/hSIJnN1PumoD7OAAGTAWbLNfeN_fYNHY8pdVN9LgmxA
         - .vtt - https://arweave.net/NitVkukOCHKRewS5S673mW_7u2UaJLAItISzGcumWTc
+
+- **Week 7: Gaming NFTs**
+    - .txt - https://arweave.net/tgDIpRwbo7XTu9Ad5TfLczvjnPJZsvc_ebOHXifsIKM
+    - .srt - https://arweave.net/pz4AGk0cn-UuTtxGS9h1qZqFQCR9psh2AHFxtok2MFI
+    - .vtt - https://arweave.net/tqudZR27JvBcMlcyet4EcYwKuKPa34KevwRte0ltb8o
