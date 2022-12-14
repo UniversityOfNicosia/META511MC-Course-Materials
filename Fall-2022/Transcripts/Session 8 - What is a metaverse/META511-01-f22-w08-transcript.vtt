@@ -1,0 +1,2864 @@
+WEBVTT
+
+00:00.000 --> 00:21.720
+Hello, can you hear me?
+
+00:21.720 --> 00:24.560
+Vt, can you hear me on my live?
+
+00:24.560 --> 00:29.960
+Great, and can you put the slides up please?
+
+00:29.960 --> 00:44.600
+Great, well everyone, sorry we're starting a couple of minutes late, we had just some
+
+00:44.600 --> 00:49.960
+mind I had a couple of minor technical difficulties, but we're up and running.
+
+00:49.960 --> 00:54.160
+This is session eight of the course.
+
+00:54.160 --> 01:02.120
+We're going to talk about what is the metaverse, what is a metaverse, what are metaverses,
+
+01:02.120 --> 01:07.400
+and I can give you the exciting conclusion from now we're not going to know the answer.
+
+01:07.400 --> 01:11.120
+I don't know the answer, I don't think anyone else knows the answer.
+
+01:11.120 --> 01:17.960
+So what we are going to do today is, I think ask the questions more than conclude on the
+
+01:17.960 --> 01:18.960
+answers.
+
+01:18.960 --> 01:24.880
+I also want to say something about scheduling which George and I agreed on earlier today,
+
+01:24.880 --> 01:27.160
+but we need to announce it online.
+
+01:27.160 --> 01:34.960
+We have a lot of guests and it's been hard to get the sessions out and get all the guests
+
+01:34.960 --> 01:40.880
+here so we're going to extend the course and particularly the time for the guests into
+
+01:40.880 --> 01:41.880
+January.
+
+01:41.880 --> 01:45.240
+We'll do the sessions on time and we'll do the guest, some of them now and some of them
+
+01:45.240 --> 01:51.200
+are just so we can fit everyone in because it's just it's hard to get everyone's schedules
+
+01:51.200 --> 01:55.840
+coordinate, but we will go through as planned.
+
+01:55.840 --> 02:02.160
+And so as with other sessions, this is a session where we will get some concepts in
+
+02:02.160 --> 02:12.640
+place and we are then going to talk about then we're going to talk about some of these topics
+
+02:12.640 --> 02:17.440
+with some of the guests.
+
+02:17.440 --> 02:28.680
+So let me, I only have two titles for this session, Metaverse frameworks and Metaverse
+
+02:28.680 --> 02:36.600
+is with a question mark and we'll talk about what these might be.
+
+02:36.600 --> 02:45.840
+So it's clear that there is now much more interest in Metaverse than there has been
+
+02:45.840 --> 02:46.840
+historically.
+
+02:46.840 --> 02:55.400
+This is the Google Trends data from 2004 and basically it's a flat line on the floor
+
+02:55.400 --> 02:58.320
+until basically last year.
+
+02:58.320 --> 03:06.640
+And some interest picked up, then Facebook announced change their name, etc.
+
+03:06.640 --> 03:17.400
+Interest shot up and has now pulled off a little bit, but at hugely higher levels than
+
+03:17.400 --> 03:18.920
+we were before.
+
+03:18.920 --> 03:28.760
+And so I think it is fair to say that it is a topic that has now attracted a lot of interest.
+
+03:28.760 --> 03:32.760
+It is a topic that has attracted interest from civilians.
+
+03:32.760 --> 03:40.480
+I mean, it's interesting because I think some of us, you know, people with a more sci-fi
+
+03:40.480 --> 03:47.960
+type orientation have considered the Metaverse to be kind of an obvious thing for forever.
+
+03:47.960 --> 03:51.040
+I mean, decades.
+
+03:51.040 --> 03:58.160
+But you can see from the Google Search data that this has absolutely not been the case
+
+03:58.160 --> 03:59.160
+in general.
+
+03:59.160 --> 04:08.080
+You know, civilian interest in the Metaverse is maybe 12 to 18 months old.
+
+04:08.080 --> 04:09.560
+It's a great.
+
+04:09.560 --> 04:25.160
+So we're going to have a Metaverse and the interesting thing is I think as many people
+
+04:25.160 --> 04:31.960
+as have written or spoken about the Metaverse as many people have written as one of those,
+
+04:31.960 --> 04:33.960
+that's how many definitions are the Metaverse.
+
+04:33.960 --> 04:38.400
+And it's very interesting because I mean, I don't think any of them are right, but also
+
+04:38.400 --> 04:40.960
+I don't think any of them are wrong.
+
+04:40.960 --> 04:43.000
+And I want to go through these aren't you going to read these?
+
+04:43.000 --> 04:47.040
+Because I think these are very interesting because they give you a sense of the different
+
+04:47.040 --> 04:50.040
+ways people are thinking about.
+
+04:50.040 --> 04:56.880
+Some people are just hugely aspirational, very non-specific.
+
+04:56.880 --> 05:01.360
+It's not a big shock that McKinsey's in that bucket.
+
+05:01.360 --> 05:07.360
+But you know, the Metaverse seems to be whatever people's imaginations dream it to
+
+05:07.360 --> 05:08.360
+be the verge.
+
+05:08.360 --> 05:12.480
+It's partially a dream for the future of the Internet.
+
+05:12.480 --> 05:16.200
+JPMorgan, the seamless conversion of our physical and digital lives.
+
+05:16.200 --> 05:22.880
+And I mean, I think all of these are true, but they don't really give you much to, you
+
+05:22.880 --> 05:24.440
+know, hang your hat on.
+
+05:24.440 --> 05:28.200
+Then there's folks who get much more specific.
+
+05:28.200 --> 05:32.560
+So we'll see you on that bit.
+
+05:32.560 --> 05:39.600
+In a time 3D social medium where people can create and engage in shared experiences as
+
+05:39.600 --> 05:46.280
+equal participants in an economy of societal impact.
+
+05:46.280 --> 05:51.960
+Matthew Ball, who has written a lot about the Metaverse, a massively scaled and interoperable
+
+05:51.960 --> 05:59.040
+network of real-time rendered 3D virtual worlds, which can be experienced synchronously and
+
+05:59.040 --> 06:05.800
+persistently by an effectively unlimited number of users with an individual sense of presence
+
+06:05.800 --> 06:08.640
+and with continuity of data.
+
+06:08.640 --> 06:18.280
+I think a definition like this is actually what most people, most civilians think of
+
+06:18.280 --> 06:19.280
+here.
+
+06:19.280 --> 06:28.120
+I think most civilians, when you tell the Metaverse, they're like, it's a 3D world and I probably
+
+06:28.120 --> 06:32.560
+have to put VR goggles and I'm not sure how interesting this is.
+
+06:32.560 --> 06:35.600
+And anyway, it's not something I want to do.
+
+06:35.600 --> 06:38.680
+And a lot of people like that.
+
+06:38.680 --> 06:44.560
+And then there's these, I'd say more conceptual definitions where I'd put these conceptual
+
+06:44.560 --> 06:48.760
+definitions of like the Metaverse is already kind of here.
+
+06:48.760 --> 06:54.200
+You know, the Metaverse is not 3D or 2D or even necessarily graphical.
+
+06:54.200 --> 06:59.840
+It's about the inexorable dematerialization of physical space, distance and objects, John
+
+06:59.840 --> 07:00.840
+Radoffin.
+
+07:00.840 --> 07:02.960
+I like this one, to be honest.
+
+07:02.960 --> 07:05.760
+This is probably closer to my view.
+
+07:05.760 --> 07:08.720
+We'll come to that in a moment.
+
+07:08.720 --> 07:15.080
+And then, Sean Purney, the Metaverse is the moment in time where our digital life is worth
+
+07:15.080 --> 07:17.720
+more than our physical life.
+
+07:17.720 --> 07:30.520
+I have to admit, if I was an outsider and I read all these things, it sounds like a word
+
+07:30.520 --> 07:34.240
+salad, to be honest.
+
+07:34.240 --> 07:38.520
+It doesn't sound very practical, it doesn't sound very real, it doesn't sound very here.
+
+07:38.520 --> 07:44.360
+We'll see how we think about this in a few more slides.
+
+07:44.360 --> 07:52.000
+Now in this section, I'm going to present three different Metaverse frameworks, how
+
+07:52.000 --> 07:53.440
+do I figure out a Metaverse?
+
+07:53.440 --> 07:59.600
+Two of which I stole from Munich and one of which is my own.
+
+07:59.600 --> 08:06.200
+And so I'll do the Munich ones that honor stressed and then I'll share mine.
+
+08:06.200 --> 08:11.440
+As usual, I don't think any of them are right and I don't think any of them are green.
+
+08:11.440 --> 08:15.880
+So, the Unichroto reported about the Metaverse for the European Union Blockchain Observatory
+
+08:15.880 --> 08:24.720
+and formed, and the team came up with a three-part framework.
+
+08:24.720 --> 08:29.200
+The first part is that it has universal impact.
+
+08:29.200 --> 08:37.400
+That a Metaverse, like other broadly adopted technologies and the internet, mobile phones
+
+08:37.400 --> 08:41.440
+and what have you, are universal in nature.
+
+08:41.440 --> 08:45.000
+They go across norms, disciplines, cultures, barriers.
+
+08:45.000 --> 08:52.400
+Some things you might think about is that some more specialized games, Metaverse, et cetera,
+
+08:52.400 --> 08:57.640
+might fail this first test of universality.
+
+08:57.640 --> 09:01.800
+The second test is persistence.
+
+09:01.800 --> 09:07.320
+I actually think this is important.
+
+09:07.320 --> 09:13.680
+So, here there's a you know, a cohesive and shared experience is created in your world.
+
+09:13.680 --> 09:20.800
+I think the mental model here is you leave and you come back and it's still there.
+
+09:20.800 --> 09:22.600
+It's not a firm rule.
+
+09:22.600 --> 09:33.800
+And the fire is adaptability, here defined as users can immerse themselves in a limited
+
+09:33.800 --> 09:37.800
+or significant way according to their individual needs.
+
+09:37.800 --> 09:42.280
+It's a reasonable framework to be honest.
+
+09:42.280 --> 09:47.920
+It's simple, it's straightforward, it's fairly conceptual.
+
+09:47.920 --> 09:52.920
+Let's put it as one mental model.
+
+09:52.920 --> 09:57.920
+Then we have a second framework that I call the Nicholas framework.
+
+09:57.920 --> 09:59.360
+George came up with it.
+
+09:59.360 --> 10:03.120
+He doesn't actually call it the Nicholas framework.
+
+10:03.120 --> 10:07.600
+So, he's probably going to yell at me that I called it back in the presentation.
+
+10:07.600 --> 10:14.760
+But since he's the one who told it to me, I have put his name on.
+
+10:14.760 --> 10:23.080
+And here is has six characteristics across two dimensions.
+
+10:23.080 --> 10:28.920
+And the dimensions one is technological in nature, one is governance in nature.
+
+10:28.920 --> 10:31.640
+And I think this is really interesting too.
+
+10:31.640 --> 10:35.040
+This is kind of more specific and more future looking I think.
+
+10:35.040 --> 10:42.880
+And here the technology properties are photorealism, immersive as in persistence and what I call
+
+10:42.880 --> 10:49.160
+is the governance property, data ownership, openness and censorship resistance.
+
+10:49.160 --> 11:05.160
+And his view of this is not that more photorealism is good and less photorealism is bad or more
+
+11:05.160 --> 11:17.920
+photorealism is less than a surprise for all of these variables or all these parameters.
+
+11:17.920 --> 11:19.720
+It's just a way to classify them.
+
+11:19.720 --> 11:23.360
+It's a way to say this is a matter of this.
+
+11:23.360 --> 11:25.840
+This is a matter of this.
+
+11:25.840 --> 11:26.840
+Not photorealistic.
+
+11:26.840 --> 11:35.960
+And so, you start thinking about these as sliders or spectrums.
+
+11:35.960 --> 11:38.400
+So one spectrum is a photorealism.
+
+11:38.400 --> 11:45.640
+Are we trying to replicate the visual model of the railroad?
+
+11:45.640 --> 11:52.680
+Or as many games or social media or other possible universes don't look like the role
+
+11:52.680 --> 11:54.000
+of it all?
+
+11:54.000 --> 11:58.040
+The second is immersiveness.
+
+11:58.040 --> 12:08.440
+How much are you in this world versus not in?
+
+12:08.440 --> 12:09.440
+What's the degree?
+
+12:09.440 --> 12:14.360
+You know, email is partially immersive.
+
+12:14.360 --> 12:15.360
+I sit at my laptop.
+
+12:15.360 --> 12:16.360
+I do things.
+
+12:16.360 --> 12:24.320
+I have my email client open.
+
+12:24.320 --> 12:25.320
+It pings me.
+
+12:25.320 --> 12:26.320
+The harass is a little bit.
+
+12:26.320 --> 12:27.320
+I'm not.
+
+12:27.320 --> 12:28.320
+I'm never totally out.
+
+12:28.320 --> 12:30.320
+I'm never totally in.
+
+12:30.320 --> 12:35.440
+If you're playing some first person shooter VR game with VR goggles, I'm only a pretty
+
+12:35.440 --> 12:36.440
+immersed.
+
+12:36.440 --> 12:37.440
+You're not.
+
+12:37.440 --> 12:39.000
+You're not also.
+
+12:39.000 --> 12:42.600
+I can reply to emails and cook pasta.
+
+12:42.600 --> 12:44.680
+I can't play a VR game and cook pasta, right?
+
+12:44.680 --> 12:46.760
+So it's a level of immersiveness.
+
+12:46.760 --> 12:49.360
+Again, not that immersive is good or bad.
+
+12:49.360 --> 12:52.360
+It's just a slider.
+
+12:52.360 --> 12:54.720
+Persistence and here.
+
+12:54.720 --> 13:00.560
+George has a different definition of persistence than my earlier definition of persistence,
+
+13:00.560 --> 13:04.640
+which may end up right.
+
+13:04.640 --> 13:05.640
+Wrong.
+
+13:05.640 --> 13:14.720
+Is it always on?
+
+13:14.720 --> 13:17.520
+Does it follow you?
+
+13:17.520 --> 13:18.520
+Things to imagine.
+
+13:18.520 --> 13:20.520
+I'd say you had a virtual pet, right?
+
+13:20.520 --> 13:21.520
+It comes with you.
+
+13:21.520 --> 13:22.520
+It's there.
+
+13:22.520 --> 13:29.800
+It's persistent, which is somehow similar to you can leave and come back and it's still
+
+13:29.800 --> 13:34.960
+there, that version of persistent, but it's a little bit different framework on.
+
+13:34.960 --> 13:41.240
+And then the governance properties are interesting.
+
+13:41.240 --> 13:43.680
+These are the types of topics that are exciting to me.
+
+13:43.680 --> 13:46.840
+We'll talk about them a few slides down as well.
+
+13:46.840 --> 13:54.080
+You know, data ownership that can users own the assets in the virtual world and can they
+
+13:54.080 --> 13:57.720
+take them out of the metaverse to another virtual world?
+
+13:57.720 --> 14:02.520
+It's interesting even hearing this definition.
+
+14:02.520 --> 14:07.560
+Someone might ask, what's the metaverse and what's the virtual world and why are they
+
+14:07.560 --> 14:08.560
+different?
+
+14:08.560 --> 14:16.000
+We'll come to this question of is metaverse singular and metaverse pool.
+
+14:16.000 --> 14:22.880
+Openness can developers or in my view, I think individuals, it doesn't have to be developers.
+
+14:22.880 --> 14:32.720
+So, Minecraft is, you don't need to be a developer to build things in Minecraft.
+
+14:32.720 --> 14:40.440
+And is the virtual world open to developers to create spaces, experiences, objects, applications?
+
+14:40.440 --> 14:42.240
+Is it customizable?
+
+14:42.240 --> 14:50.480
+And then the censorship resistance, so the degree to which users can be prohibited from
+
+14:50.480 --> 14:55.160
+accessing the virtual world restricted in their experiences or kicked off the metaverse
+
+14:55.160 --> 14:58.800
+place and some drivers are for your own security world.
+
+14:58.800 --> 15:03.600
+Yeah, this is my personal obsession.
+
+15:03.600 --> 15:10.720
+Arguably, I think today basically no metaverse is censorship resistant.
+
+15:10.720 --> 15:15.280
+There's always a counterparty that is controlling it.
+
+15:15.280 --> 15:25.240
+I think this is an interesting and more practical framework for classifying metaverses or potential
+
+15:25.240 --> 15:26.240
+metaverses.
+
+15:26.240 --> 15:33.600
+And I think it's something that I don't assign work 21, but it could be, you could have this
+
+15:33.600 --> 15:40.800
+grid and put different metaverses in this grid and see where they fall out.
+
+15:40.800 --> 15:50.080
+Because I'm not advanced, I have a simpler definition of the metaverse, which is my framework
+
+15:50.080 --> 15:54.360
+on it, which is just one sentence.
+
+15:54.360 --> 16:03.200
+And my definition is it is the internet with better visualization and persistent digital
+
+16:03.200 --> 16:06.600
+objects.
+
+16:06.600 --> 16:23.320
+And this is a quite different approach because I've kind of defined my way out of the singular
+
+16:23.320 --> 16:31.320
+or peery metaverse question and there's a reason for this.
+
+16:31.320 --> 16:41.240
+And I think my framework is going to be more relevant in the longer term.
+
+16:41.240 --> 16:46.440
+I think the other framework is great for today, but I think it's more relevant in the longer
+
+16:46.440 --> 16:47.440
+term.
+
+16:47.440 --> 16:50.920
+Why do I think that?
+
+16:50.920 --> 16:59.760
+Imagine any type of world where we have all these, let's call them metaverse experiences.
+
+16:59.760 --> 17:04.280
+They're persistent, they're immersive, they may be photo realistic.
+
+17:04.280 --> 17:06.440
+They follow us around.
+
+17:06.440 --> 17:12.000
+They're probably AI enabled in many ways.
+
+17:12.000 --> 17:16.160
+There'll be multiple things, it won't just be one thing, I don't think it'll just be
+
+17:16.160 --> 17:19.440
+one metaverse and that metaverse is going to be Minecraft, right?
+
+17:19.440 --> 17:28.280
+Well, imagine that's the case and it's not today, 10 years from now or 15 years from
+
+17:28.280 --> 17:32.440
+now, it doesn't really matter when you pick.
+
+17:32.440 --> 17:42.280
+I don't think in that world we will have the metaverse and separately the Internet.
+
+17:42.280 --> 17:47.880
+I don't think you'll say, oh, today I'm going to go use the Internet and then later today
+
+17:47.880 --> 17:50.640
+I'm going to go use the metaverse.
+
+17:50.640 --> 18:00.880
+I think we're going to become the same thing, just like there was a time, maybe still true
+
+18:00.880 --> 18:09.320
+today that like mobile apps was a different thing, mobile was a different thing than desktop.
+
+18:09.320 --> 18:16.640
+I'm sure the phone factor is different, but I basically use more or less all the same
+
+18:16.640 --> 18:25.440
+applications on the desktop and on my phone and I don't know if that's like some separate
+
+18:25.440 --> 18:26.440
+ecosystem.
+
+18:26.440 --> 18:30.000
+Or here's another way to think about it.
+
+18:30.000 --> 18:35.440
+Let's say you're in one of these for argument's sake three dimensional spaces.
+
+18:35.440 --> 18:45.480
+It isn't going to be the case that if you want to have extended conversations or chats
+
+18:45.480 --> 18:50.360
+with people in those spaces, you're going to leave them and go to some other chats
+
+18:50.360 --> 18:53.280
+offer.
+
+18:53.280 --> 19:00.520
+My guess is no, today the user experience, the user interface for having chats in these
+
+19:00.520 --> 19:03.680
+three spaces is kind of wonky.
+
+19:03.680 --> 19:11.000
+That's why I was still used Twitter and Discord and WhatsApp and Telegram and all these other
+
+19:11.000 --> 19:12.000
+things, right?
+
+19:12.000 --> 19:20.720
+But the idea that again, a decade from now, we have this kind of persistent immersive
+
+19:20.720 --> 19:30.000
+environment and yet in order to chat to someone, in order to chat to someone, you have to
+
+19:30.000 --> 19:34.800
+leave it and go somewhere else.
+
+19:34.800 --> 19:35.800
+Makes no sense to me.
+
+19:35.800 --> 19:41.040
+If you're still, if it's a decade from now and you still have to leave the quote unquote
+
+19:41.040 --> 19:49.000
+metaverse for me to send a DM to George, well, I mean, I don't think that metaverse will
+
+19:49.000 --> 19:50.000
+be very effective.
+
+19:50.000 --> 19:51.000
+Is that okay?
+
+19:51.000 --> 19:52.000
+Well, okay, fine.
+
+19:52.000 --> 19:53.000
+We'll have you.
+
+19:53.000 --> 19:54.000
+What about other things?
+
+19:54.000 --> 19:55.000
+Or whatever it is?
+
+19:55.000 --> 19:57.760
+You know, I'm sure we'll have you know that good from now.
+
+19:57.760 --> 20:02.680
+But why can't I answer my email in that environment?
+
+20:02.680 --> 20:07.880
+It's just a form factor that you ask a UI for reading my email.
+
+20:07.880 --> 20:11.240
+Why can't I read my email in a private room and on?
+
+20:11.240 --> 20:16.400
+Why do I have to read it and the interface that it has now?
+
+20:16.400 --> 20:17.400
+Well, sure.
+
+20:17.400 --> 20:18.400
+Okay.
+
+20:18.400 --> 20:20.880
+But what about an old studio computer?
+
+20:20.880 --> 20:23.640
+I want you to move you.
+
+20:23.640 --> 20:24.640
+Okay.
+
+20:24.640 --> 20:28.360
+You can watch a movie in a three-year environment.
+
+20:28.360 --> 20:32.680
+I want to work on Excel.
+
+20:32.680 --> 20:43.000
+And in fact, you know, you could have, I assume by that point, you'll have much more screen
+
+20:43.000 --> 20:44.000
+space to work with.
+
+20:44.000 --> 20:47.200
+You might have many Excels out there.
+
+20:47.200 --> 20:58.200
+So I just, I will be surprised if in the long run you go and spend a lot of time and some
+
+20:58.200 --> 21:04.240
+type of immersive environment and then you leave it to do all the other stuff you do
+
+21:04.240 --> 21:05.240
+now that's less immersive.
+
+21:05.240 --> 21:14.160
+To put it differently, I think the immersive environment can subsume the non-emersive environment.
+
+21:14.160 --> 21:19.120
+But I don't think the other way around works.
+
+21:19.120 --> 21:22.840
+You can have a 2D chat box in a 3D space.
+
+21:22.840 --> 21:26.240
+It's kind of hard to have a 3D space with a 2D chat box.
+
+21:26.240 --> 21:35.600
+And so if you believe in this, I just don't see any way it's not going to be like this.
+
+21:35.600 --> 21:41.440
+Then the internet goes away.
+
+21:41.440 --> 21:42.680
+Now it doesn't go away.
+
+21:42.680 --> 21:43.840
+It's all right there.
+
+21:43.840 --> 21:50.560
+It's been the plumbing of how we communicate in a distance for many decades.
+
+21:50.560 --> 21:57.360
+But the idea that the internet and the metaverse are separate spaces, I think eventually ends.
+
+21:57.360 --> 22:00.880
+It's an open question I'm willing to concede.
+
+22:00.880 --> 22:05.240
+But I don't know what is it in 10 years?
+
+22:05.240 --> 22:07.240
+Is it in 7?
+
+22:07.240 --> 22:08.240
+Is it in 23?
+
+22:08.240 --> 22:17.040
+But pick any arbitrary, arbitrary, future point, 100 years from now.
+
+22:17.040 --> 22:21.320
+We have human brain interfaces.
+
+22:21.320 --> 22:23.320
+We don't even have physical devices.
+
+22:23.320 --> 22:29.440
+You're thinking about something and you're seeing it in front of you directly through
+
+22:29.440 --> 22:30.440
+your neurons.
+
+22:30.440 --> 22:35.040
+Are you really going to separately go use the internet somewhere else?
+
+22:35.040 --> 22:37.040
+I don't think so.
+
+22:37.040 --> 22:39.040
+I think they merge.
+
+22:39.040 --> 22:40.040
+And then they merge.
+
+22:40.040 --> 22:42.800
+It's just the internet that they merge.
+
+22:42.800 --> 22:45.800
+The metaverse is anyway running today on the internet.
+
+22:45.800 --> 22:49.240
+The metaverse space we're talking about is running on the internet.
+
+22:49.240 --> 22:55.640
+But what's the second pillar with better visualization?
+
+22:55.640 --> 23:07.920
+And this concept of better visualization is one that is a consistent theme in the internet
+
+23:07.920 --> 23:09.160
+since the day it started.
+
+23:09.160 --> 23:10.920
+It used to be touch-based.
+
+23:10.920 --> 23:14.920
+Then we got some pictures.
+
+23:14.920 --> 23:17.600
+Then we got really lousy video.
+
+23:17.600 --> 23:23.240
+An old enough term for when video was lousy on the internet.
+
+23:23.240 --> 23:31.160
+And today you can watch an HD movie on the internet.
+
+23:31.160 --> 23:40.480
+You can do a zoom and you have free global video conferencing on your laptop or even
+
+23:40.480 --> 23:42.480
+on your phone.
+
+23:42.480 --> 23:48.480
+Global video teleconference and used it to be a big company feature 15 years ago.
+
+23:48.480 --> 23:52.760
+You went to a special conference room to do that.
+
+23:52.760 --> 23:56.480
+And that's showing no sign of stopping.
+
+23:56.480 --> 24:03.480
+What I think is going to be the transition now is 3D visualization, the browser, the
+
+24:03.480 --> 24:06.280
+church, or what is on the next side.
+
+24:06.280 --> 24:13.280
+And then augmented and virtual reality belong to them where they'll be together.
+
+24:13.280 --> 24:21.000
+I think once the devices get sufficiently functional, you'll have something like a pair
+
+24:21.000 --> 24:22.000
+of sunglasses.
+
+24:22.000 --> 24:26.400
+Those pair of sunglasses will be mostly an awkward to reality.
+
+24:26.400 --> 24:31.160
+You'll also see the world around you, but also have digital objects there.
+
+24:31.160 --> 24:37.200
+See your fiddens on your wall or you'll have your Phoenix all spreadsheets floating around,
+
+24:37.200 --> 24:42.720
+but they'll have the ability to pop into virtual reality and hide the world around you.
+
+24:42.720 --> 24:46.160
+And that's been to come.
+
+24:46.160 --> 24:48.440
+It's not there yet.
+
+24:48.440 --> 24:51.600
+I know of no specific person.
+
+24:51.600 --> 24:56.200
+I'm sure there's some of the world's lessons, but I don't know any of them who wears a virtual
+
+24:56.200 --> 24:57.200
+reality heads up all day.
+
+24:57.200 --> 25:01.200
+And there's a lot of excitement about the upcoming Apple augmented reality.
+
+25:01.200 --> 25:05.720
+I'd say maybe this will be a step forward and this is not going to work right every
+
+25:05.720 --> 25:06.720
+day.
+
+25:06.720 --> 25:11.680
+Every year we'll have a step forward where the devices will get more functional, more practical,
+
+25:11.680 --> 25:17.120
+and we will see this level of forwardness.
+
+25:17.120 --> 25:19.040
+I don't think we're there yet.
+
+25:19.040 --> 25:24.160
+I don't think it's like next year we're all going to be wearing AR and VR models.
+
+25:24.160 --> 25:39.360
+And then for persistence, I think of it about the digital objects.
+
+25:39.360 --> 25:42.160
+My mental models that will have persistent digital objects.
+
+25:42.160 --> 25:43.160
+Now what's a digital object?
+
+25:43.160 --> 25:44.160
+It'll be anything, right?
+
+25:44.160 --> 25:47.200
+It could be a piece of art.
+
+25:47.200 --> 25:51.280
+It could be an avatar.
+
+25:51.280 --> 25:54.040
+It could be a wearable.
+
+25:54.040 --> 26:01.840
+It could be a specific three dimensional space in which you do something.
+
+26:01.840 --> 26:06.640
+It could be a piece of land in quotes.
+
+26:06.640 --> 26:08.840
+The land is different than a space, right?
+
+26:08.840 --> 26:16.160
+A space doesn't land implies that there's some type of property that is surrounded by
+
+26:16.160 --> 26:18.760
+other property and you own a specific property.
+
+26:18.760 --> 26:21.600
+A space doesn't need to be the same as land, right?
+
+26:21.600 --> 26:29.880
+You can have a space that's not tied to some property grid.
+
+26:29.880 --> 26:40.960
+And my view of persistence is that they are there when you come back.
+
+26:40.960 --> 26:45.120
+Now, there's a preventative or stuff.
+
+26:45.120 --> 26:46.720
+Well, it's not in the stuff initially.
+
+26:46.720 --> 26:53.160
+But to me as a definition, you could imagine closed metaverses fulfilling these conditions.
+
+26:53.160 --> 26:57.120
+And I think for the question over here, what's a metaverse?
+
+26:57.120 --> 26:58.120
+That's fair.
+
+26:58.120 --> 27:05.400
+There's going to be closed metaverses and they might even win or partially win.
+
+27:05.400 --> 27:13.840
+So I don't think we can say that the definition of a metaverse by definition means it's open.
+
+27:13.840 --> 27:15.400
+It might be closed.
+
+27:15.400 --> 27:20.040
+We can think about what are the correct risks that make it open.
+
+27:20.040 --> 27:23.880
+But it's not like it's a short thing, but it's going to be open.
+
+27:23.880 --> 27:32.240
+But for me, these three things are the three main ones.
+
+27:32.240 --> 27:34.240
+They cover all scenarios.
+
+27:34.240 --> 27:39.480
+That is a less useful framework than say, Georges for classifying different metaverses
+
+27:39.480 --> 27:40.480
+on different dimensions.
+
+27:40.480 --> 27:51.200
+But it also, I think, is it covers almost any possible out-consolvable manner.
+
+27:51.200 --> 27:58.880
+I want to show an example here because I think people often, you say VR and AR, and this
+
+27:58.880 --> 27:59.880
+all cannot make sense.
+
+27:59.880 --> 28:02.480
+There is a 3D visualization of browser.
+
+28:02.480 --> 28:03.480
+What do you mean?
+
+28:03.480 --> 28:10.160
+And this is a very silly example, but I think it illustrates the point.
+
+28:10.160 --> 28:13.720
+These are both screen grabs from the browser.
+
+28:13.720 --> 28:24.760
+And on the left is the website over the museum of modern art, a mobile that has the inventory
+
+28:24.760 --> 28:25.760
+of everything at the moment.
+
+28:25.760 --> 28:27.520
+That is perfectly fine and functional.
+
+28:27.520 --> 28:35.680
+And you can search by artist and you get this list of artwork.
+
+28:35.680 --> 28:42.960
+And on the right is the generative gallery of the 6'5'2'9' museum, also running in
+
+28:42.960 --> 28:43.960
+the browser.
+
+28:43.960 --> 28:48.120
+But one of them is 3D.
+
+28:48.120 --> 28:55.880
+And I think, over time, quite a few usage cases will migrate from the visualization on
+
+28:55.880 --> 28:59.240
+the left to the visualization on the right.
+
+28:59.240 --> 29:05.920
+Now, some things might stay on the visualization on the left for speed and ease of use.
+
+29:05.920 --> 29:11.920
+And certainly we are not particularly ready to go to the right because there are still
+
+29:11.920 --> 29:14.920
+all of them for wanting.
+
+29:14.920 --> 29:26.040
+Even, do I think, oh, which is where this is on the right, is ready for time to time,
+
+29:26.040 --> 29:30.200
+detail, consumer use?
+
+29:30.200 --> 29:34.480
+That's okay, it's totally over the course of the next few years.
+
+29:34.480 --> 29:42.320
+We'll sort out how to make these spaces functional and fast and performant.
+
+29:42.320 --> 29:47.320
+And people will figure out what is the model for moving around to spaces.
+
+29:47.320 --> 29:51.160
+Everyone now knows the model for working on the web.
+
+29:51.160 --> 29:55.120
+But it took a long time to sort that out.
+
+29:55.120 --> 30:01.560
+But I do think there are many usage cases where looking at something with this more expressive
+
+30:01.560 --> 30:03.560
+visualization has been to make sense.
+
+30:03.560 --> 30:08.840
+And as I was saying, you can put goggles on and go into VR into that gallery.
+
+30:08.840 --> 30:09.840
+Yeah, that's true.
+
+30:09.840 --> 30:10.840
+It can't.
+
+30:10.840 --> 30:13.080
+But VR is there now.
+
+30:13.080 --> 30:20.240
+And so it's not, actually, don't think it's the rendering that's hugely the problem
+
+30:20.240 --> 30:21.240
+right now.
+
+30:21.240 --> 30:23.240
+I think it's the devices.
+
+30:23.240 --> 30:27.680
+Yes, that gallery, we can see it in VR.
+
+30:27.680 --> 30:29.680
+And I've seen it once in VR.
+
+30:29.680 --> 30:35.120
+And every other time I went, I just went to the browser because I wasn't going to go
+
+30:35.120 --> 30:39.440
+get VR goggles and put them on just to go and insert something.
+
+30:39.440 --> 30:44.840
+So until that becomes easier, I think it's going to be mostly, most of the screen time
+
+30:44.840 --> 30:52.040
+is going to be in the browser in not in VR and 3D on your browser or your computer, not
+
+30:52.040 --> 30:53.040
+in VR.
+
+30:53.040 --> 30:54.040
+But not yet.
+
+30:54.040 --> 31:07.840
+Anybody definition raises a question, which is a general question, of is metaphors a
+
+31:07.840 --> 31:08.840
+singular?
+
+31:08.840 --> 31:09.840
+Yeah.
+
+31:09.840 --> 31:10.840
+Healy.
+
+31:10.840 --> 31:11.840
+Yeah.
+
+31:11.840 --> 31:25.840
+And I'll say as always, I don't know.
+
+31:25.840 --> 31:34.800
+It's nobody else.
+
+31:34.800 --> 31:54.840
+But I will throw out a concept about how potentially we can resolve it.
+
+31:54.840 --> 32:03.560
+And maybe the concept, which I think matters more, my definition is all unbiased, I think.
+
+32:03.560 --> 32:11.760
+My concept is that today they are plural and that some sufficiently far off time in the
+
+32:11.760 --> 32:16.720
+future, it's singular.
+
+32:16.720 --> 32:18.720
+Why are they plural today?
+
+32:18.720 --> 32:27.600
+Well, because today, metaverse spaces are a small fraction of the inner.
+
+32:27.600 --> 32:37.120
+And so you kind of need the word to distinguish them from a regular website or a regular mobile
+
+32:37.120 --> 32:38.120
+application.
+
+32:38.120 --> 32:41.520
+It's very clear that not every website is a metaverse, right?
+
+32:41.520 --> 32:45.360
+And not every mobile application is a metaverse.
+
+32:45.360 --> 32:57.440
+And there is obviously more than one competing for this idea of being a metaverse.
+
+32:57.440 --> 33:05.960
+And I think today it's sensibly a plural topic.
+
+33:05.960 --> 33:15.520
+If this is correct, but in the long run, the internet won't really be a different thing,
+
+33:15.520 --> 33:24.160
+I think in the long run, it's not going to make as much sense that they are plural, I
+
+33:24.160 --> 33:25.160
+think.
+
+33:25.160 --> 33:27.680
+I think the whole thing is going to just be metaverse.
+
+33:27.680 --> 33:34.520
+The way to think about it is, I don't know, imagine a kid growing up in 2040.
+
+33:34.520 --> 33:45.000
+You know, if you have spent any time around young kids today and you know, but older like
+
+33:45.000 --> 33:54.200
+I am, it's a little bit disconcerting that they look at the TV as kind of being a subset
+
+33:54.200 --> 33:56.800
+of an iPad or something, right?
+
+33:56.800 --> 34:02.520
+A TV is a purely functioning iPad.
+
+34:02.520 --> 34:13.240
+You can't do things on demand and, you know, I mean, linear TV, right?
+
+34:13.240 --> 34:17.840
+And then, you know, with smart TVs, you end up getting the YouTube and Netflix and whatever
+
+34:17.840 --> 34:19.840
+applications on them.
+
+34:19.840 --> 34:24.920
+And so, there just becomes an iPad.
+
+34:24.920 --> 34:32.040
+The linear TV part of the TV is close to irrelevant.
+
+34:32.040 --> 34:33.680
+And that's weird.
+
+34:33.680 --> 34:42.120
+If you remember, like I remember, when TV was one thing and streaming video was something
+
+34:42.120 --> 34:53.680
+else, so you turn on TV and you watch on NBC, Thanksgiving Day Parade, it's on NBC or it's
+
+34:53.680 --> 34:54.680
+on CBS, however.
+
+34:54.680 --> 34:58.720
+Tomorrow you'll turn on network TV and you'll watch Thanksgiving Day Parade.
+
+34:58.720 --> 35:05.280
+And then you'd go to your computer, to the internet, and watch YouTube video.
+
+35:05.280 --> 35:15.800
+And those were very distinct things and there were telling reports about internet video and
+
+35:15.800 --> 35:22.680
+video on demand and over the top video and I think those reports still exist, right?
+
+35:22.680 --> 35:30.480
+And if I look at older people, there's the most you watch a linear TV and you're going
+
+35:30.480 --> 35:37.720
+to get a little bit on their iPad or what have you and they're still very distinct.
+
+35:37.720 --> 35:47.080
+But if someone doesn't have the history and is starting you, the idea of telerestrials
+
+35:47.080 --> 35:54.680
+or cable or linear TV is absurd and irrelevant and stupid, right?
+
+35:54.680 --> 36:01.000
+It's all video and they're just different screens.
+
+36:01.000 --> 36:09.840
+I think very abstractly, very conceptually, that's how it's going to be.
+
+36:09.840 --> 36:19.400
+You know, once these metaverse spaces are performant and simple to use and in any case,
+
+36:19.400 --> 36:22.840
+I believe it's going to be easy to go from one to another, even in the closed case.
+
+36:22.840 --> 36:29.720
+I think it is going to be easy to go from one to another.
+
+36:29.720 --> 36:40.600
+Then someone who does not have the prior experience of a pre-mediverse internet, I think it's
+
+36:40.600 --> 36:45.200
+just going to be the one thing that you go and do things.
+
+36:45.200 --> 36:47.200
+I'm not specific applications there, right?
+
+36:47.200 --> 36:50.200
+And yeah, maybe the one by then is not going to be metaverse, right?
+
+36:50.200 --> 36:51.360
+Maybe there'll be something else.
+
+36:51.360 --> 36:54.440
+But I do think it's going to be unified in the end.
+
+36:54.440 --> 37:02.720
+I don't think it's going to be a bunch of different ones.
+
+37:02.720 --> 37:10.240
+Now, just conceptually here, we're not going to get into so much the details on each one
+
+37:10.240 --> 37:16.880
+of these, but where were what might be an earliest metaverse?
+
+37:16.880 --> 37:25.920
+You know, multi-user versions were text-based and they had characters and you interacted
+
+37:25.920 --> 37:26.920
+with people.
+
+37:26.920 --> 37:27.920
+Immersive?
+
+37:27.920 --> 37:42.160
+Anyway, now I'm Georgians framework, not in the slightest but photo-realistic, but not
+
+37:42.160 --> 37:43.160
+necessarily relevant.
+
+37:43.160 --> 37:49.880
+So we started here, right?
+
+37:49.880 --> 37:53.080
+And then we got some graphics.
+
+37:53.080 --> 37:56.520
+And shared, shared version, right?
+
+37:56.520 --> 37:59.520
+But then we got some better graphics.
+
+37:59.520 --> 38:02.520
+And a little bit more than version, right?
+
+38:02.520 --> 38:06.320
+This is all very early.
+
+38:06.320 --> 38:07.320
+Work.
+
+38:07.320 --> 38:19.960
+But I'm not sure they are conceptually different from us bouncing around and essential and
+
+38:19.960 --> 38:21.840
+or all know whatever now.
+
+38:21.840 --> 38:23.840
+How are they conceptually different?
+
+38:23.840 --> 38:30.600
+Is anything different other than the graphics or better?
+
+38:30.600 --> 38:33.440
+Is anything different other than the graphics or better?
+
+38:33.440 --> 38:40.400
+Well, maybe now we have NFTs, which is a very specific topic, but for the metaverse aspect,
+
+38:40.400 --> 38:49.200
+I think the fundamental principles were already there in this year.
+
+38:49.200 --> 38:59.360
+And then I think the very obvious, you know, we come decades ahead.
+
+38:59.360 --> 39:07.480
+I think there's an excellent case that the massively multiplayer on wide role playing
+
+39:07.480 --> 39:13.480
+games are in the concept of pure metaverse, they're metaverse.
+
+39:13.480 --> 39:25.440
+Big older, you enter a specific node, you have a specific way or character or avatar.
+
+39:25.440 --> 39:36.200
+There's persistence in some of these there are economies.
+
+39:36.200 --> 39:44.280
+I would credit them with being a metaverse research.
+
+39:44.280 --> 39:49.000
+Even our social layer metaverse has been doing it for a long time.
+
+39:49.000 --> 40:00.520
+Second life, very famously, got a lot of traction trying to build a metaverse in the
+
+40:00.520 --> 40:01.520
+2000s.
+
+40:01.520 --> 40:04.520
+It's been at least 10 years.
+
+40:04.520 --> 40:12.520
+I'm going to have to check exactly when it started.
+
+40:12.520 --> 40:22.040
+But it's been the same concepts as well there.
+
+40:22.040 --> 40:32.400
+And a lot of the things we're seeing now with the blockchain based social virtual worlds
+
+40:32.400 --> 40:38.040
+exist then IBM is going to open a campus in second life.
+
+40:38.040 --> 40:41.160
+Some universities can open a campus in second life.
+
+40:41.160 --> 40:47.440
+Some retail stores are going to open a store in second life.
+
+40:47.440 --> 40:49.360
+We went through that cycle.
+
+40:49.360 --> 40:56.360
+And it didn't totally quite stick with second life.
+
+40:56.360 --> 40:58.960
+Second life still up and ready.
+
+40:58.960 --> 41:03.520
+But it didn't take over the world away.
+
+41:03.520 --> 41:06.440
+Some people might have thought it would.
+
+41:06.440 --> 41:12.640
+Here's another one.
+
+41:12.640 --> 41:15.600
+I ask myself this.
+
+41:15.600 --> 41:22.480
+Is NFT Twitter and Discord a metaverse?
+
+41:22.480 --> 41:29.080
+Is avatars or persistent digital objects?
+
+41:29.080 --> 41:39.880
+The world itself is persistent, my Twitter feed is persistent, my Discord feed is persistent.
+
+41:39.880 --> 41:51.240
+I come into them and I see the same type of people, characters, etc.
+
+41:51.240 --> 41:56.920
+There's definitely an economy.
+
+41:56.920 --> 42:08.040
+There is in fact a self-solving economy because that economy primarily runs on Ethereum blockchain.
+
+42:08.040 --> 42:15.720
+I'm thinking back to Georgia's six factors.
+
+42:15.720 --> 42:17.720
+It's not photo-realistic.
+
+42:17.720 --> 42:28.400
+But I'll maybe extend it a little bit.
+
+42:28.400 --> 42:34.360
+Is NFT Twitter and Discord an open-sea and on-cyber and on-central and in some is this
+
+42:34.360 --> 42:35.360
+a metaverse?
+
+42:35.360 --> 42:37.000
+Sort of, I think.
+
+42:37.000 --> 42:41.400
+Is it fully polished and integrated?
+
+42:41.400 --> 42:42.400
+No.
+
+42:42.400 --> 42:48.680
+Is it a metaverse?
+
+42:48.680 --> 42:49.680
+I think.
+
+42:49.680 --> 42:51.680
+I think it is.
+
+42:51.680 --> 42:59.880
+And it's weird because here there's not one platform.
+
+42:59.880 --> 43:13.600
+Here what is to some degree serving as the unifying link is it there?
+
+43:13.600 --> 43:20.680
+And is it fully integrated that I signed Punk 6'5 to 9 on Twitter and I signed Punk 6'5
+
+43:20.680 --> 43:21.680
+to 9 on Discord?
+
+43:21.680 --> 43:22.680
+Why don't I sign on Discord?
+
+43:22.680 --> 43:23.680
+I could.
+
+43:23.680 --> 43:24.680
+I guess.
+
+43:24.680 --> 43:25.680
+Do it cloud-land.
+
+43:25.680 --> 43:30.680
+Do I on-cyber and on?
+
+43:30.680 --> 43:32.880
+Yeah, I do.
+
+43:32.880 --> 43:40.640
+It feels to me that this is one a relatively more decentralized metaverse or relatively
+
+43:40.640 --> 43:47.680
+where the layer that ties people together imperfectly today.
+
+43:47.680 --> 43:56.480
+And with a lot of noise, not full signal, a lot of noise, is the Ethereum option?
+
+43:56.480 --> 43:59.560
+What's some other examples?
+
+43:59.560 --> 44:01.560
+What can I go?
+
+44:01.560 --> 44:02.560
+Okay.
+
+44:02.560 --> 44:03.560
+I'm just a parent.
+
+44:03.560 --> 44:05.560
+Does it have some metaverse characteristic?
+
+44:05.560 --> 44:06.560
+Yeah, it's persistent.
+
+44:06.560 --> 44:07.560
+Is there a community?
+
+44:07.560 --> 44:08.560
+Yeah.
+
+44:08.560 --> 44:09.560
+Is it a game?
+
+44:09.560 --> 44:10.560
+I don't know.
+
+44:10.560 --> 44:13.560
+Ask this question on a couple of seconds.
+
+44:13.560 --> 44:24.680
+Where is the line between any multiplayer game, and I also need this for the massively
+
+44:24.680 --> 44:32.040
+multiplayer online games, and Pokemon Go?
+
+44:32.040 --> 44:34.080
+Are the games or are the metaverse?
+
+44:34.080 --> 44:36.440
+I don't know.
+
+44:36.440 --> 44:40.520
+Is every game a metaverse?
+
+44:40.520 --> 44:45.480
+Does that just mean all games are metaversals?
+
+44:45.480 --> 44:52.640
+It feels like it diminishes the term of it.
+
+44:52.640 --> 45:02.640
+Also I feel like it diminishes the concept of metaversals total.
+
+45:02.640 --> 45:15.160
+Because you can't, there's no obvious stopping point on the point that's no longer a metaverse.
+
+45:15.160 --> 45:28.640
+So it's why my mental model often goes to someday it's just going to be metaverse singular.
+
+45:28.640 --> 45:38.000
+And then you don't have to have these highly theoretical discussions of is this a game?
+
+45:38.000 --> 45:39.000
+Is this a metaverse?
+
+45:39.000 --> 45:40.000
+Is this a virtual world?
+
+45:40.000 --> 45:41.000
+Is this a metaverse?
+
+45:41.000 --> 45:43.920
+Is this social media or is it a metaverse?
+
+45:43.920 --> 45:52.480
+Seems unhelpful, not particularly clear.
+
+45:52.480 --> 45:57.120
+And things that are unhelpful frameworks are unhelpful and not particularly clear and don't
+
+45:57.120 --> 46:04.480
+drive any particular changes in behavior possibly might be not perfectly fine tuned to the
+
+46:04.480 --> 46:08.280
+environment.
+
+46:08.280 --> 46:14.960
+Then we have the ones in our spaces, you know, the central and crypto console, some in other
+
+46:14.960 --> 46:24.720
+side, all of these that tend to be NFT based for the land assets.
+
+46:24.720 --> 46:32.920
+We do tend to have a centralized rendering delivery system.
+
+46:32.920 --> 46:40.280
+We'll talk about that in the very last session of the course.
+
+46:40.280 --> 46:42.320
+Here's my game slide.
+
+46:42.320 --> 46:45.520
+Is it a game or is it a metaverse?
+
+46:45.520 --> 46:46.840
+It doesn't matter.
+
+46:46.840 --> 46:47.840
+Right?
+
+46:47.840 --> 46:54.840
+Does that mean none of these things matter?
+
+46:54.840 --> 47:00.120
+Instead of fighting what exactly is or is it a metaverse?
+
+47:00.120 --> 47:05.920
+If you go to the generic definition that it is, the interna with better visualization
+
+47:05.920 --> 47:11.840
+and persistent digital objects starts to get interesting.
+
+47:11.840 --> 47:17.680
+You sidestep all these questions.
+
+47:17.680 --> 47:20.360
+Talk about openness for a second.
+
+47:20.360 --> 47:23.920
+We'll talk about a lot more in session 12.
+
+47:23.920 --> 47:28.280
+That's why I haven't got into great detail here.
+
+47:28.280 --> 47:37.560
+But I think it is useful to at least touch upon it a little bit.
+
+47:37.560 --> 47:40.440
+All of these are versions of openness.
+
+47:40.440 --> 47:45.600
+Some of them more open than others, I think.
+
+47:45.600 --> 47:48.160
+Let's start at the top.
+
+47:48.160 --> 47:49.160
+Interoperability.
+
+47:49.160 --> 47:55.240
+All of the big closed metaverse are going to talk about this.
+
+47:55.240 --> 47:56.240
+Why?
+
+47:56.240 --> 48:03.320
+Because partially for PR reasons, regulators like interoperability.
+
+48:03.320 --> 48:10.560
+Nobody is going to come say, I don't want to be interoperable with others.
+
+48:10.560 --> 48:16.880
+There are also cases where interoperability helps the big guys because they can absorb
+
+48:16.880 --> 48:18.880
+other users.
+
+48:18.880 --> 48:29.280
+And so expect from the big closed platforms, none of them are going to say that they're
+
+48:29.280 --> 48:30.280
+closed.
+
+48:30.280 --> 48:39.360
+What they're going to say is we are absolutely in favor of interoperability.
+
+48:39.360 --> 48:46.160
+That interoperability, of course, is going to be driven through closed systems and some
+
+48:46.160 --> 48:49.200
+interaction models with closed systems.
+
+48:49.200 --> 48:57.040
+And usually what happens in this case is there's a game to make it easy to come into
+
+48:57.040 --> 49:08.840
+your world or application or what have you and make it hard or inconvenient to leave.
+
+49:08.840 --> 49:21.480
+This is usually how people deal with interoperability.
+
+49:21.480 --> 49:26.840
+Let's say that is the absolute bottom layer of openness.
+
+49:26.840 --> 49:37.040
+Let's say the next layer, which is where most of the activity today is in the space.
+
+49:37.040 --> 49:43.920
+This is like a kind of five step model.
+
+49:43.920 --> 49:47.760
+A lot of people say, yeah, no, all your digital objects.
+
+49:47.760 --> 49:54.040
+Your land in, fill in the bank is an NFT.
+
+49:54.040 --> 49:56.040
+We can't take it from you.
+
+49:56.040 --> 49:57.880
+So that's good.
+
+49:57.880 --> 50:02.320
+It's certainly better and from my opinion, better than the alternative.
+
+50:02.320 --> 50:11.040
+But also, this usually comes with a bunch of terms and conditions.
+
+50:11.040 --> 50:16.080
+If you want to play this object in our world, you got to do these things that we can kick
+
+50:16.080 --> 50:21.520
+you out, which is different than saying, you know, Bitcoin.
+
+50:21.520 --> 50:27.040
+Bitcoin does not come with terms and conditions like Bitcoin.
+
+50:27.040 --> 50:32.720
+It's not going to get out of the Bitcoin world.
+
+50:32.720 --> 50:33.720
+Let's stop it.
+
+50:33.720 --> 50:34.720
+Governance models.
+
+50:34.720 --> 50:37.720
+Is someone in charge?
+
+50:37.720 --> 50:43.640
+Some of the metaverse NFT, metaverse platforms, games, etc.
+
+50:43.640 --> 50:47.520
+It's very clear there's a company in charge.
+
+50:47.520 --> 50:53.680
+They make the decisions and you play as a customer in effect.
+
+50:53.680 --> 51:04.080
+Some others have some form of partially decentralized governments where different districts can
+
+51:04.080 --> 51:13.320
+make decisions for themselves, but they do still, I think, fall within a broader top-level
+
+51:13.320 --> 51:16.960
+governments.
+
+51:16.960 --> 51:17.960
+Next topic, what's the client?
+
+51:17.960 --> 51:22.880
+You know, what's the client and what's the server, the client and the server go together?
+
+51:22.880 --> 51:28.040
+You know, some folks are trying to do open the Web3 types of servers, what we need in
+
+51:28.040 --> 51:29.040
+the browser.
+
+51:29.040 --> 51:32.880
+There's a some downsides, you know, that infrastructure is more developed to doing it
+
+51:32.880 --> 51:36.280
+with one of the gaming platforms.
+
+51:36.280 --> 51:43.880
+But browsers are more open as a...
+
+51:43.880 --> 51:46.880
+As a endpoint.
+
+51:46.880 --> 51:53.880
+I think nobody has right now, there's multiple rendering environments.
+
+51:53.880 --> 52:04.400
+Like on all these, you have to go, even the ones who have open clients and ownership of
+
+52:04.400 --> 52:16.480
+digital objects as NFTs, there's still a form of interoperability as opposed to being
+
+52:16.480 --> 52:19.480
+fully decentralized and open.
+
+52:19.480 --> 52:23.480
+And if it's fully decentralized and open, again, the rental model is Bitcoin, anyone can run
+
+52:23.480 --> 52:32.480
+a Bitcoin client, anyone can run a Bitcoin miner, you don't have to go to Bitcoin.com to
+
+52:32.480 --> 52:34.480
+do something.
+
+52:34.480 --> 52:45.440
+Today, every one of the platforms, you have to go to a platformame.com or.io to run
+
+52:45.440 --> 52:46.440
+a Bitcoin miner.
+
+52:46.440 --> 52:48.440
+It is a point of centralization.
+
+52:48.440 --> 52:51.440
+It's a point of not censorship-resistant.
+
+52:51.440 --> 52:56.440
+Everything we've got in the whole sale, I can't get one, but you can take them and rebuild
+
+52:56.440 --> 52:58.440
+them somewhere else, and yeah, that's fine.
+
+52:58.440 --> 53:01.440
+But that's some more interoperability.
+
+53:01.440 --> 53:03.440
+It's the last...
+
+53:03.440 --> 53:07.440
+What I'd like to see, or I'd like to get to it, is I might not get to, which is why I'm
+
+53:07.440 --> 53:10.440
+not saying all of these things yet, because it's not.
+
+53:10.440 --> 53:12.440
+I hope to get them.
+
+53:12.440 --> 53:14.440
+It's not today.
+
+53:14.440 --> 53:20.440
+So, is that anyone can do any of these things?
+
+53:20.440 --> 53:22.440
+Like the Internet.
+
+53:22.440 --> 53:29.440
+There is not one place you can have a website.
+
+53:29.440 --> 53:37.440
+Even if it's on popular website, confidential systems, WordPress, there's not one place
+
+53:37.440 --> 53:39.440
+where you can run WordPress.
+
+53:39.440 --> 53:45.440
+You can host your site on WordPress.org.
+
+53:45.440 --> 53:53.440
+But if you also download WordPress Self-Reserving chosen, you can run the WordPress software
+
+53:53.440 --> 53:54.440
+by yourself.
+
+53:54.440 --> 53:58.440
+You don't need anyone's permission to do this.
+
+53:58.440 --> 54:04.440
+There is no global governance governing one WordPress site.
+
+54:04.440 --> 54:08.440
+There's not one company that owns all the WordPress sites.
+
+54:08.440 --> 54:10.440
+It's all right.
+
+54:10.440 --> 54:15.440
+And this is, I guess, metaverse is going to be exactly WordPress now, but it's a useful
+
+54:15.440 --> 54:16.440
+example to think about.
+
+54:16.440 --> 54:19.440
+Are there centralized companies that are built on top of WordPress?
+
+54:19.440 --> 54:22.440
+Some of them variable?
+
+54:22.440 --> 54:23.440
+Sure.
+
+54:23.440 --> 54:25.440
+Is WordPress centralized?
+
+54:25.440 --> 54:27.440
+No, it's not.
+
+54:27.440 --> 54:28.440
+It's open.
+
+54:28.440 --> 54:29.440
+It's decentralized.
+
+54:29.440 --> 54:37.440
+So, I think these are things we'll talk about more in four weeks, but I do want to, like,
+
+54:37.440 --> 54:40.440
+introduce them to the discussion.
+
+54:40.440 --> 55:04.440
+Now, let me pause there because I'm on one hour and three.
+
+55:04.440 --> 55:12.440
+So, we'll switch to questions.
+
+55:12.440 --> 55:20.440
+But I do think the three big takeaways, I would say, is you found interesting to the
+
+55:20.440 --> 55:21.440
+metaverse.
+
+55:21.440 --> 55:28.440
+Anyways, multiple potential frameworks that metaverse or A metaverse is.
+
+55:28.440 --> 55:31.440
+And there's multiple different candidates over the years of things that could have been
+
+55:31.440 --> 55:34.440
+or might have been metaverse.
+
+55:34.440 --> 55:40.440
+And I think all of these are works in progress and a space where I think it's going to evolve
+
+55:40.440 --> 55:41.440
+very quickly.
+
+55:41.440 --> 55:46.440
+And in five, ten, fifteen, twenty years, we're going to have a different framework on these
+
+55:46.440 --> 55:47.440
+topics.
+
+55:47.440 --> 55:55.440
+So, let me open up my chat so I can see.
+
+55:55.440 --> 56:02.440
+And then I'll switch to questions.
+
+56:25.440 --> 56:28.440
+Okay.
+
+56:28.440 --> 56:31.440
+Okay.
+
+56:31.440 --> 56:34.440
+Okay.
+
+56:34.440 --> 56:38.440
+Okay.
+
+56:38.440 --> 56:46.440
+Okay.
+
+56:46.440 --> 57:04.440
+Okay.
+
+57:04.440 --> 57:05.440
+Okay.
+
+57:05.440 --> 57:06.440
+First question.
+
+57:06.440 --> 57:09.440
+Why doesn't your definition include decentralized platforms?
+
+57:09.440 --> 57:11.440
+It's so important.
+
+57:11.440 --> 57:13.440
+Yeah, I agree.
+
+57:13.440 --> 57:22.440
+I'm running around, tweeting all day long about the open metaverse.
+
+57:22.440 --> 57:29.440
+But I need to be in touch with you in this presentation because it is perfectly possible
+
+57:29.440 --> 57:36.440
+that the open metaverse doesn't happen.
+
+57:36.440 --> 57:44.440
+I hope that's not the case.
+
+57:44.440 --> 57:49.440
+I'm spending an infinite amount of time hoping it does happen.
+
+57:49.440 --> 57:53.440
+But the metaverse could exist.
+
+57:53.440 --> 57:56.440
+That is close.
+
+57:56.440 --> 57:59.440
+And I think it would still be a metaverse.
+
+57:59.440 --> 58:01.440
+It would be a close metaverse.
+
+58:01.440 --> 58:03.440
+I'd be less happy about it.
+
+58:03.440 --> 58:10.440
+So, me, a six life to nine believe in open metaverse.
+
+58:10.440 --> 58:18.440
+Me and someone running your presentation with a metaverse is, I don't think it is by definition
+
+58:18.440 --> 58:19.440
+decentralized.
+
+58:19.440 --> 58:21.440
+An open metaverse might be.
+
+58:21.440 --> 58:22.440
+Right?
+
+58:22.440 --> 58:26.440
+That's why I added the slide on open.
+
+58:26.440 --> 58:33.440
+The at least framework seems to bridge metaverse where they webbed three ethos.
+
+58:33.440 --> 58:35.440
+Is that the intention?
+
+58:35.440 --> 58:37.440
+Because not all visions of the metaverse do this.
+
+58:37.440 --> 58:40.440
+Yeah, now I noticed that when I read it.
+
+58:40.440 --> 58:46.440
+George is a crypto person, has been for a very long time.
+
+58:46.440 --> 58:49.440
+And so, I'm not sure.
+
+58:49.440 --> 58:56.440
+I am not surprised that there is a web three ethos embedded in his metaverse framework.
+
+58:56.440 --> 59:04.440
+And I think a lot of people who do not come from this web three slash crypto aspect of
+
+59:04.440 --> 59:19.440
+the metaverse framework, it does not include those parameters.
+
+59:19.440 --> 59:26.440
+So, I'm glad he has included them.
+
+59:26.440 --> 59:36.440
+It does the six first time framework believe they will be connected.
+
+59:36.440 --> 59:37.440
+Well, I hope so.
+
+59:37.440 --> 59:41.440
+I hope the basis, I'm parking this until week 12.
+
+59:41.440 --> 59:44.440
+Because week 12, I'm going to be a little bit more personal.
+
+59:44.440 --> 59:49.440
+And a week eight, I'm trying to be a little bit more neutral.
+
+59:49.440 --> 59:50.440
+I guess.
+
+59:50.440 --> 59:58.440
+My view is that they.
+
+59:58.440 --> 01:00:02.440
+That we have a mechanism to make them interoperable.
+
+01:00:02.440 --> 01:00:06.440
+And that mechanism is a kind of tease.
+
+01:00:06.440 --> 01:00:15.440
+And instead of having some large organizations decide on interoperability standards,
+
+01:00:15.440 --> 01:00:21.440
+but fundamentally work in closed.
+
+01:00:21.440 --> 01:00:27.440
+Closed environments.
+
+01:00:27.440 --> 01:00:32.440
+The.
+
+01:00:32.440 --> 01:00:36.440
+And if these are fundamentally open environment.
+
+01:00:36.440 --> 01:00:38.440
+And then people can build on top of them.
+
+01:00:38.440 --> 01:00:40.440
+But I want to talk about that in the week 12.
+
+01:00:40.440 --> 01:00:45.440
+There were heading away from.
+
+01:00:45.440 --> 01:00:48.440
+An objective understanding of the situation to my personal belief.
+
+01:00:48.440 --> 01:00:52.440
+And what would be better.
+
+01:00:52.440 --> 01:00:55.440
+What is the overlap between the concepts of metaverse and cryptocurrency?
+
+01:00:55.440 --> 01:01:01.440
+Well, if you want an open.
+
+01:01:01.440 --> 01:01:03.440
+If you want to close my diverse, not you don't need any.
+
+01:01:03.440 --> 01:01:05.440
+You can run a close metaverse where.
+
+01:01:05.440 --> 01:01:10.440
+People own the game objects, but in.
+
+01:01:10.440 --> 01:01:14.440
+It's database and people can pay for them with credits in.
+
+01:01:14.440 --> 01:01:17.440
+Epic's database.
+
+01:01:17.440 --> 01:01:24.440
+And the.
+
+01:01:24.440 --> 01:01:28.440
+The.
+
+01:01:28.440 --> 01:01:31.440
+A lot of companies are going to do that, to be honest.
+
+01:01:31.440 --> 01:01:35.440
+So.
+
+01:01:35.440 --> 01:01:37.440
+If you want an open.
+
+01:01:37.440 --> 01:01:39.440
+Metiverse.
+
+01:01:39.440 --> 01:01:46.440
+With not one party in charge with not one person's database in charge.
+
+01:01:46.440 --> 01:01:57.440
+Well, then you need something that's on a database and that's really a blockchain and specifically a public blockchain, which is what we call a cryptocurrency or crypto asset.
+
+01:01:57.440 --> 01:02:02.440
+So, that's a good question.
+
+01:02:02.440 --> 01:02:08.440
+I thought there was a social aspect to the metaverse versus just the 3D space, but it wasn't included in the definitions.
+
+01:02:08.440 --> 01:02:11.440
+This is a very good point.
+
+01:02:11.440 --> 01:02:15.440
+And we need to think about.
+
+01:02:15.440 --> 01:02:20.440
+I need to see on the slide somewhere.
+
+01:02:20.440 --> 01:02:22.440
+Yeah, for sure.
+
+01:02:22.440 --> 01:02:23.440
+It's a social aspect.
+
+01:02:23.440 --> 01:02:26.440
+And it's kind of implicitly there.
+
+01:02:26.440 --> 01:02:28.440
+It's just being possible.
+
+01:02:28.440 --> 01:02:34.440
+I mean, one mental model that I sometimes have is.
+
+01:02:34.440 --> 01:02:36.440
+Or.
+
+01:02:36.440 --> 01:02:43.440
+Metiverse is just social networks.
+
+01:02:43.440 --> 01:02:46.440
+With just different visualizations.
+
+01:02:46.440 --> 01:02:49.440
+But overall, there's a social networks.
+
+01:02:49.440 --> 01:02:58.440
+I don't know.
+
+01:02:58.440 --> 01:03:03.440
+But we need to put a slide in there, which is senseless.
+
+01:03:03.440 --> 01:03:06.440
+Explicitly.
+
+01:03:06.440 --> 01:03:17.440
+High risk that large companies get to set the rules for metaverse is that a threat or a possibility in your opinion. Yes, in fact, the whole reason 65 tonight exists is that I think that.
+
+01:03:17.440 --> 01:03:19.440
+That is a very high risk.
+
+01:03:19.440 --> 01:03:21.440
+I think that is the default case.
+
+01:03:21.440 --> 01:03:25.440
+I think the default case is that.
+
+01:03:25.440 --> 01:03:32.440
+Metiverses will become like web to they will be centralized in 5, 10, 15, 20 companies.
+
+01:03:32.440 --> 01:03:34.440
+And I think that's about outcome.
+
+01:03:34.440 --> 01:03:45.440
+And that's my personal opinion. I don't think that's an objective view about the metaverse someone might have someone for meta might think it's better not to be that way.
+
+01:03:45.440 --> 01:03:48.440
+I need to be that way, but.
+
+01:03:48.440 --> 01:03:51.440
+For sure, I think it's worse.
+
+01:03:51.440 --> 01:04:03.440
+Do you believe in a future of the concept of land and gravity in metaverse to me, they seem like artificial limitations of limit the entry barrier as people are familiar with.
+
+01:04:03.440 --> 01:04:06.440
+These concepts.
+
+01:04:06.440 --> 01:04:15.440
+Well, I mean.
+
+01:04:15.440 --> 01:04:23.440
+I hear this early often.
+
+01:04:23.440 --> 01:04:33.440
+People who are.
+
+01:04:33.440 --> 01:04:35.440
+Deep into the space.
+
+01:04:35.440 --> 01:04:39.440
+And as hell these things are just total skill morphism.
+
+01:04:39.440 --> 01:04:42.440
+They're limitations.
+
+01:04:42.440 --> 01:04:45.440
+We don't need to stick to the land concept.
+
+01:04:45.440 --> 01:04:50.440
+We don't need to stick to the human scale concept.
+
+01:04:50.440 --> 01:04:58.440
+And I appreciate that in theory.
+
+01:04:58.440 --> 01:05:01.440
+Now, without a counter argument.
+
+01:05:01.440 --> 01:05:04.440
+Which is the following.
+
+01:05:04.440 --> 01:05:07.440
+The counter argument is.
+
+01:05:07.440 --> 01:05:14.440
+Almost we've been making video games for several decades now.
+
+01:05:14.440 --> 01:05:20.440
+And those video games.
+
+01:05:20.440 --> 01:05:22.440
+Have been.
+
+01:05:22.440 --> 01:05:25.440
+Overwhelmingly.
+
+01:05:25.440 --> 01:05:28.440
+Overwhelmingly.
+
+01:05:28.440 --> 01:05:46.440
+Skillomorphic with land and gravity and things of that nature.
+
+01:05:46.440 --> 01:05:59.440
+I think there is.
+
+01:05:59.440 --> 01:06:07.440
+I don't think it's accidental.
+
+01:06:07.440 --> 01:06:17.440
+I don't think it's accidental.
+
+01:06:17.440 --> 01:06:22.440
+I also have.
+
+01:06:22.440 --> 01:06:28.440
+Seen attempts.
+
+01:06:28.440 --> 01:06:31.440
+And every attempt I've seen so far.
+
+01:06:31.440 --> 01:06:34.440
+Has been kind of junk.
+
+01:06:34.440 --> 01:06:37.440
+Now, maybe the space is really good, but the problem is like.
+
+01:06:37.440 --> 01:06:40.440
+Our mental models are stuck on.
+
+01:06:40.440 --> 01:06:43.440
+Are stuck on things looking a little bit like the real.
+
+01:06:43.440 --> 01:06:44.440
+Maybe.
+
+01:06:44.440 --> 01:06:47.440
+But it's kind of six and one and a half dozen of the other.
+
+01:06:47.440 --> 01:06:48.440
+It's.
+
+01:06:48.440 --> 01:06:50.440
+It's.
+
+01:06:58.440 --> 01:07:02.440
+I have yet to see one where it works.
+
+01:07:02.440 --> 01:07:04.440
+So in theory.
+
+01:07:04.440 --> 01:07:08.440
+Yes, these are official limitations and we can do whatever we want.
+
+01:07:08.440 --> 01:07:09.440
+And practice.
+
+01:07:09.440 --> 01:07:11.440
+Whatever we want.
+
+01:07:11.440 --> 01:07:13.440
+So far has ended up looking.
+
+01:07:13.440 --> 01:07:15.440
+Kind of like the real world.
+
+01:07:15.440 --> 01:07:16.440
+Now, not exactly for a little, but.
+
+01:07:16.440 --> 01:07:19.440
+There's gravity in home, for example, but not a lot of gravity.
+
+01:07:19.440 --> 01:07:21.440
+You can jump really high.
+
+01:07:21.440 --> 01:07:27.440
+So.
+
+01:07:27.440 --> 01:07:33.440
+To prove it otherwise.
+
+01:07:33.440 --> 01:07:37.440
+I would expect most things will somehow correlate with real world
+
+01:07:37.440 --> 01:07:38.440
+classes.
+
+01:07:38.440 --> 01:07:40.440
+Thoughts on digital twins using the metaverse.
+
+01:07:40.440 --> 01:07:44.440
+So digital twins are a digital representation of something in the
+
+01:07:44.440 --> 01:07:45.440
+physical world.
+
+01:07:45.440 --> 01:07:48.440
+And they came out of the world of like.
+
+01:07:48.440 --> 01:07:51.440
+High end equipment manufacturing and so on.
+
+01:07:51.440 --> 01:07:55.440
+And so you have like a turbine and.
+
+01:07:55.440 --> 01:07:58.440
+You put on the physical turbine sensors.
+
+01:07:58.440 --> 01:08:02.440
+And those sensors feed data to the digital twin.
+
+01:08:02.440 --> 01:08:05.440
+And so you can watch and monitor.
+
+01:08:05.440 --> 01:08:07.440
+The.
+
+01:08:07.440 --> 01:08:09.440
+Turbine.
+
+01:08:09.440 --> 01:08:11.440
+During.
+
+01:08:11.440 --> 01:08:13.440
+In the digital world.
+
+01:08:13.440 --> 01:08:14.440
+And you know.
+
+01:08:14.440 --> 01:08:16.440
+Say, Oh, look, these.
+
+01:08:16.440 --> 01:08:17.440
+Data is coming out of line.
+
+01:08:17.440 --> 01:08:19.440
+The turbines are behaving normally.
+
+01:08:19.440 --> 01:08:22.440
+Let's go fix it in the physical world before it breaks.
+
+01:08:22.440 --> 01:08:23.440
+Now there's other usage cases to it.
+
+01:08:23.440 --> 01:08:27.440
+I think in time you'll have cities where you'll see full in some
+
+01:08:27.440 --> 01:08:30.440
+cities, there are cities with digital twins, but they'll get better where
+
+01:08:30.440 --> 01:08:35.440
+you'll say, look, we're monitoring traffic flows and pollution and waste
+
+01:08:35.440 --> 01:08:38.440
+water and disease spread.
+
+01:08:38.440 --> 01:08:41.440
+Absolutely is going to exist.
+
+01:08:41.440 --> 01:08:46.440
+I think for.
+
+01:08:46.440 --> 01:08:48.440
+Kind of boring.
+
+01:08:48.440 --> 01:08:54.440
+I'm sorry, what I'm looking at.
+
+01:08:54.440 --> 01:08:56.440
+Institutional use.
+
+01:08:56.440 --> 01:08:59.440
+Not like hanging out fun social use actually think digital twins are going
+
+01:08:59.440 --> 01:09:01.440
+to be very important.
+
+01:09:01.440 --> 01:09:04.440
+Because they will give us.
+
+01:09:04.440 --> 01:09:07.440
+A viable.
+
+01:09:07.440 --> 01:09:10.440
+Model.
+
+01:09:10.440 --> 01:09:13.440
+To improve the real world and monitor the real world better.
+
+01:09:13.440 --> 01:09:15.440
+So I'm fairly bullish on these.
+
+01:09:15.440 --> 01:09:18.440
+I can't an architecture.
+
+01:09:18.440 --> 01:09:20.440
+How do we protect these from being copied?
+
+01:09:20.440 --> 01:09:25.440
+I don't think it's easy to be honest.
+
+01:09:25.440 --> 01:09:27.440
+Just like anything else on the Internet.
+
+01:09:27.440 --> 01:09:30.440
+How do you protect them from being copied?
+
+01:09:30.440 --> 01:09:32.440
+Not that easily.
+
+01:09:32.440 --> 01:09:35.440
+So what do you have to aim for?
+
+01:09:35.440 --> 01:09:37.440
+Well, the same.
+
+01:09:37.440 --> 01:09:40.440
+I mean, it's a version of right click.
+
+01:09:40.440 --> 01:09:48.440
+And so you're going to have to have some concept of.
+
+01:09:48.440 --> 01:09:51.440
+Well, evidence.
+
+01:09:51.440 --> 01:09:55.440
+For that.
+
+01:09:55.440 --> 01:09:58.440
+For that.
+
+01:09:58.440 --> 01:10:01.440
+Not to be a big issue.
+
+01:10:01.440 --> 01:10:05.440
+But I do think like you make a cool looking building somewhere.
+
+01:10:05.440 --> 01:10:07.440
+Might someone copy it somewhere else?
+
+01:10:07.440 --> 01:10:11.440
+Yeah, I think that one comes.
+
+01:10:11.440 --> 01:10:15.440
+I don't see it obviously for it not to happen.
+
+01:10:15.440 --> 01:10:21.440
+So I think given what we've learned from NFTs.
+
+01:10:21.440 --> 01:10:23.440
+If.
+
+01:10:23.440 --> 01:10:27.440
+X copy makes some cool X copy building.
+
+01:10:27.440 --> 01:10:31.440
+And there are 1000 tokens of that X copy building.
+
+01:10:31.440 --> 01:10:36.440
+And those.
+
+01:10:36.440 --> 01:10:40.440
+You own one of those.
+
+01:10:40.440 --> 01:10:42.440
+That's going to be different.
+
+01:10:42.440 --> 01:10:47.440
+And more valuable than someone who just right click saved your X copy building.
+
+01:10:47.440 --> 01:10:56.440
+So I suspect we're going to have to use the same frameworks and mental models that we use for digital art for digital buildings.
+
+01:10:56.440 --> 01:10:58.440
+I don't see any other.
+
+01:10:58.440 --> 01:11:01.440
+I don't see any other way around.
+
+01:11:01.440 --> 01:11:09.440
+You want provenance.
+
+01:11:09.440 --> 01:11:15.440
+To manage this topic.
+
+01:11:15.440 --> 01:11:19.440
+There's a question that I have about the slightest idea what it means.
+
+01:11:19.440 --> 01:11:22.440
+Or how to answer it when I'm going to read it because it's confusing.
+
+01:11:22.440 --> 01:11:28.440
+Is a metaverse a way of function with multiple potentials with collapsing one through observation?
+
+01:11:28.440 --> 01:11:34.440
+I think quantum computers will drastically change the metaverse definitions.
+
+01:11:34.440 --> 01:11:38.440
+I kind of understand the words.
+
+01:11:38.440 --> 01:11:41.440
+And sort of the concepts behind this.
+
+01:11:41.440 --> 01:11:44.440
+I just don't have any answers.
+
+01:11:44.440 --> 01:11:47.440
+So I didn't think it would be hard to read it for everyone.
+
+01:11:47.440 --> 01:11:52.440
+In place it's helpful for anyone else.
+
+01:11:52.440 --> 01:11:55.440
+What's the best book you've read about constructs?
+
+01:11:55.440 --> 01:11:58.440
+I mean the classic book on this right is Snow Crash.
+
+01:11:58.440 --> 01:12:03.440
+Everyone starts there.
+
+01:12:03.440 --> 01:12:09.440
+Actually I think a book that people don't think of as directly being a metaverse book.
+
+01:12:09.440 --> 01:12:12.440
+It is kind of a metaverse book.
+
+01:12:12.440 --> 01:12:22.440
+A mixed reality metaverse book is the series of.
+
+01:12:22.440 --> 01:12:32.440
+Demon and freedom.
+
+01:12:32.440 --> 01:12:37.440
+So.
+
+01:12:37.440 --> 01:12:42.440
+It's interesting because it's basically a gaming platform.
+
+01:12:42.440 --> 01:12:47.440
+Like wild and started.
+
+01:12:47.440 --> 01:12:50.440
+Impacting behavior in the real world.
+
+01:12:50.440 --> 01:12:55.440
+And it is a form of metaverse.
+
+01:12:55.440 --> 01:12:59.440
+I think.
+
+01:12:59.440 --> 01:13:02.440
+Kind of an abstract form of metaverse like some of these ones we're talking about.
+
+01:13:02.440 --> 01:13:09.440
+So I throw it out there not because it's radically.
+
+01:13:09.440 --> 01:13:12.440
+It's not a classic book of the genre.
+
+01:13:12.440 --> 01:13:18.440
+But I think there's a mental model that you could view it there and I find it's interesting.
+
+01:13:18.440 --> 01:13:21.440
+Aren't you afraid that the metaverse will become a trap?
+
+01:13:21.440 --> 01:13:24.440
+A.I. and robotics throw us from offices.
+
+01:13:24.440 --> 01:13:26.440
+There'll be nothing to do.
+
+01:13:26.440 --> 01:13:31.440
+The metaverse can be such a golden cage to socialize an extra damnit.
+
+01:13:31.440 --> 01:13:35.440
+Well, I mean.
+
+01:13:35.440 --> 01:13:38.440
+I'm not sure I believe the premises of this question.
+
+01:13:38.440 --> 01:13:45.440
+But if A.I. and robotics start doing all the work for us.
+
+01:13:45.440 --> 01:13:50.440
+We probably will hang out in the metaverse more.
+
+01:13:50.440 --> 01:13:54.440
+I know this question is written with a value judgment in it.
+
+01:13:54.440 --> 01:13:56.440
+But.
+
+01:13:56.440 --> 01:13:59.440
+Maybe the value judgment is opposite.
+
+01:13:59.440 --> 01:14:02.440
+Maybe if the machines do all of our.
+
+01:14:02.440 --> 01:14:04.440
+Work for us.
+
+01:14:04.440 --> 01:14:09.440
+We can be the people focused on.
+
+01:14:09.440 --> 01:14:12.440
+Self development and self expression.
+
+01:14:12.440 --> 01:14:15.440
+I'm a little skeptical of that.
+
+01:14:15.440 --> 01:14:18.440
+It hasn't played out.
+
+01:14:18.440 --> 01:14:23.440
+Actually not sure it's super healthy for humans not to have challenges.
+
+01:14:23.440 --> 01:14:27.440
+I don't know if it's going to play out that way.
+
+01:14:27.440 --> 01:14:35.440
+But yeah, I mean conceivably in the world that the A.I.s are good enough to do all our work.
+
+01:14:35.440 --> 01:14:40.440
+But not good enough to get rid of us.
+
+01:14:40.440 --> 01:14:44.440
+Will we keep ourselves all frame it differently?
+
+01:14:44.440 --> 01:14:49.440
+Keep ourselves more occupied with social activities from people around the world.
+
+01:14:49.440 --> 01:14:51.440
+Sure.
+
+01:14:51.440 --> 01:14:53.440
+Is that metaverse as a golden cage?
+
+01:14:53.440 --> 01:14:54.440
+Maybe.
+
+01:14:54.440 --> 01:14:56.440
+But like.
+
+01:14:56.440 --> 01:15:01.440
+I don't know if there's any more of a golden cage than true is today.
+
+01:15:01.440 --> 01:15:03.440
+And some people say, oh, putters not.
+
+01:15:03.440 --> 01:15:08.440
+It's taking people away from real life.
+
+01:15:08.440 --> 01:15:15.440
+So.
+
+01:15:15.440 --> 01:15:25.440
+The.
+
+01:15:25.440 --> 01:15:30.440
+Do you see our visual one largely the same as we come up on a year of their deal?
+
+01:15:30.440 --> 01:15:31.440
+Yeah.
+
+01:15:31.440 --> 01:15:32.440
+More or less exactly the same.
+
+01:15:32.440 --> 01:15:34.440
+I'll talk about it more in week 12.
+
+01:15:34.440 --> 01:15:39.440
+And I want to make the session about.
+
+01:15:39.440 --> 01:15:44.440
+Okay, I think we're an hour and a half.
+
+01:15:44.440 --> 01:15:46.440
+Let's wrap it here.
+
+01:15:46.440 --> 01:15:49.440
+Thank you as always for joining.
+
+01:15:49.440 --> 01:15:52.440
+We'll make the announcements a little bit about.
+
+01:15:52.440 --> 01:15:57.440
+We're going to course logistics a little bit so we can start getting the guests back and coming.
+
+01:15:57.440 --> 01:16:03.440
+There's just an awful lot going on and the teams are doing a great job.
+
+01:16:03.440 --> 01:16:04.440
+Working on things.
+
+01:16:04.440 --> 01:16:09.440
+So we're just going to give ourselves a little bit more breathing room to get everything done.
+
+01:16:09.440 --> 01:16:11.440
+Can anyone build them on the other?
+
+01:16:11.440 --> 01:16:12.440
+You need to.
+
+01:16:12.440 --> 01:16:15.440
+Can anyone can use a space and put enough teas in it.
+
+01:16:15.440 --> 01:16:18.440
+If you want to design spaces, you do need some.
+
+01:16:18.440 --> 01:16:22.440
+Experience and 3D modeling, but if you have that, yes, you can do that.
+
+01:16:22.440 --> 01:16:24.440
+All right, everyone.
+
+01:16:24.440 --> 01:16:27.440
+Thank you so much as always.
+
+01:16:27.440 --> 01:16:30.440
+And I'll see you back on.
+
+01:16:30.440 --> 01:16:34.440
+Sure.
+

@@ -61,3 +61,14 @@ Inside this directory you may find the transcripts of the live sessions, were -w
     - .txt - https://arweave.net/tgDIpRwbo7XTu9Ad5TfLczvjnPJZsvc_ebOHXifsIKM
     - .srt - https://arweave.net/pz4AGk0cn-UuTtxGS9h1qZqFQCR9psh2AHFxtok2MFI
     - .vtt - https://arweave.net/tqudZR27JvBcMlcyet4EcYwKuKPa34KevwRte0ltb8o
+
+- **Week 8: What is a Metaverse?**
+    - .txt - https://arweave.net/qLAwrAudhmjVdzMRitEtmPkYzQSvDbh6GzYizKkSIow
+    - .srt - https://arweave.net/AH-AKZ4yiR8dovKfnt-_HDorzlvQkKgttOK21rRKroI
+    - .vtt - https://arweave.net/jILzKbIrz6z1HLIbRF4nYCDAR3Oj_YoQX9rtfEBOwcw
+
+- **Week 9: Trends in Visualization Technology**
+    - .txt - https://arweave.net/KBzRU68LpIKv0vWsOG51nJxon00rMN1jEwFjJP11YFY
+    - .srt - https://arweave.net/z6SsADEimnQMdjhFUfnipEOk6MhH_jNDWnoJH7cPDz4
+    - .vtt - https://arweave.net/RIFJWyIpraaKekSVE2T6_g4LKPcR5CB0xfgbySahXo0
+
