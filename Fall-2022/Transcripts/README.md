@@ -77,7 +77,7 @@ Inside this directory you may find the transcripts of the live sessions, were -w
     - .txt - https://arweave.net/AoyxW3lsOimFn1M6XxUMiGV-wqFSN0AR9np0_wH3Xw4
     - .srt - https://arweave.net/Wuqhb_y8VlVbxZCqMHtFlB3O7b3-KSIEMjEbXOsbPAo
     - .vtt - https://arweave.net/NSFHcV72Zon4fJeI2hekmjvvUKKri8s4nqcAApotNnk
-- **Week 10.2**
-    - .txt - https://arweave.net/k25sq5txKF5nVy7w98JbLOUvpX6WzUCYN7Oas_q26Ws
-    - .srt - https://arweave.net/vl3PKZkrsoUCH1OoRzmQJm5HFEYG0k1aqqw5Hulx03Q
-    - .vtt - https://arweave.net/w75gEZBNcuJB3vPtJCjcIL3jzdr2bSDv1-AmcBiaBuI
+    - **Week 10.2**
+        - .txt - https://arweave.net/k25sq5txKF5nVy7w98JbLOUvpX6WzUCYN7Oas_q26Ws
+        - .srt - https://arweave.net/vl3PKZkrsoUCH1OoRzmQJm5HFEYG0k1aqqw5Hulx03Q
+        - .vtt - https://arweave.net/w75gEZBNcuJB3vPtJCjcIL3jzdr2bSDv1-AmcBiaBuI
