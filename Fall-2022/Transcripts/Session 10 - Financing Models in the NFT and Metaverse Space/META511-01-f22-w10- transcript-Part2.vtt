@@ -1,0 +1,1499 @@
+WEBVTT
+
+00:00.000 --> 00:29.000
+very excited today that we will have Fred Wilson joining us for an hour and
+
+00:29.000 --> 00:41.000
+hopefully also some Q&A afterwards. Fred is one of the leading venture capitalists in the world.
+
+00:41.000 --> 00:53.000
+He is also in my view one of the first venture capitalists to understand the new nature of decentralized
+
+00:53.000 --> 01:05.000
+communities and finance. He has been involved in many of the greatest technology companies of our era,
+
+01:05.000 --> 01:12.000
+including some in the social networking space, some in the crypto space.
+
+01:12.000 --> 01:21.000
+And what we're going to do today is chat a little bit about his view of where we are now,
+
+01:21.000 --> 01:26.000
+where we're going, what the environment looks like, and dig into a variety of topics.
+
+01:26.000 --> 01:32.000
+So before I go any further, Fred, welcome and thank you so much for joining with us.
+
+01:32.000 --> 01:40.000
+Oh, it's my pleasure. This is super fun. This is the first course I've ever participated in
+
+01:40.000 --> 01:48.000
+that's being delivered in the metaverse. So it's a very exciting moment for me.
+
+01:48.000 --> 01:54.000
+So before we get into solving Web 3 and everything that might mean,
+
+01:54.000 --> 02:04.000
+I'd like to ask you a background question. When did you first come across cryptocurrency,
+
+02:04.000 --> 02:13.000
+crypto assets in general? What was your first reaction? How did you process it and then what, if anything,
+
+02:13.000 --> 02:18.000
+do you want to do that?
+
+02:18.000 --> 02:26.000
+So it was sometime in 2011. I think it was winter spring of 2011.
+
+02:26.000 --> 02:33.000
+I was walking through part of Manhattan called the garment district,
+
+02:33.000 --> 02:41.000
+running to a meeting. And I literally bumped into an entrepreneur in Ricky Tata,
+
+02:41.000 --> 02:49.000
+who we had backed in our first fund in a Web 3 kind of idea that was built on Web 2,
+
+02:49.000 --> 02:56.000
+and it didn't work. And of course, I didn't know it was a Web 3 idea at the time,
+
+02:56.000 --> 03:01.000
+but I knew that Ricky was a very smart guy. And I said,
+
+03:01.000 --> 03:07.000
+hey, Ricky, what are you working on? He said, I am going to build a Bitcoin exchange.
+
+03:07.000 --> 03:12.000
+I had to compete with Mt. Gox. And I said, what coin exchange? And he said,
+
+03:12.000 --> 03:17.000
+a Bitcoin exchange, you know what Bitcoin is, right? And I said, no, I have no idea what Bitcoin is.
+
+03:17.000 --> 03:24.000
+And he said, Oh, it's this new kind of money that is permissionless and exists on a blockchain.
+
+03:24.000 --> 03:27.000
+Have you read the Bitcoin white paper? And I said, no, I haven't read the Bitcoin white paper.
+
+03:27.000 --> 03:33.000
+And he said, OK, I'm going to email you the Bitcoin white paper. You need to literally go read it.
+
+03:33.000 --> 03:39.000
+And so when I got done with my meeting, I went back to the office and I downloaded the Bitcoin white paper
+
+03:39.000 --> 03:43.000
+and I read the Bitcoin white paper. I think I understood about half of it.
+
+03:43.000 --> 03:52.000
+And what I understood, though, was that this was permissionless money. And it was essentially a financial system that was architected like the Internet.
+
+03:52.000 --> 04:01.000
+That's how I understood it. And one of the things that is true about me is that I am not the most technical person.
+
+04:01.000 --> 04:09.000
+And I don't understand things, maybe as deeply as others do, but I am good at understanding the important concepts.
+
+04:09.000 --> 04:22.000
+And I kind of immediately got that. And so I sent an email to my partners who at the time were Albert and Brad and John, I think, was at USB then.
+
+04:22.000 --> 04:26.000
+And I said, this seems super important. This seems like something we have to invest in.
+
+04:26.000 --> 04:32.000
+And Albert said, I've read the white paper. There's these five reasons why it may not work.
+
+04:32.000 --> 04:42.000
+And Brad was very interested just philosophically. And I think John was kind of skeptical.
+
+04:42.000 --> 04:48.000
+And I just like we had to find an investment in this space.
+
+04:48.000 --> 04:56.000
+And so I called a bricky and said, you know, are you going to build that exchange? And he ultimately bailed on the idea, unfortunately.
+
+04:56.000 --> 05:02.000
+I don't exactly remember why, but he didn't. And so then I went around trying to meet with every entrepreneur.
+
+05:02.000 --> 05:16.000
+I could find that was working in Bitcoin. And I met with a bunch of people, some people who ended up getting in a lot of trouble and managed to avoid getting entangled in them and their businesses.
+
+05:16.000 --> 05:24.000
+And then in the summer of 2012 at a white combinator.
+
+05:24.000 --> 05:38.000
+Office hours in the Bay Area, I met Brian Armstrong, and he was basically building the same thing that Ricky wanted to build, but he had already started building it. It was already up and running.
+
+05:38.000 --> 05:54.000
+And so I said to him, can I invest? And he said, yes. And so that's that was my first web three investment. We called it a Bitcoin investment at the time because it was really the only cryptocurrency.
+
+05:54.000 --> 06:01.000
+You know, XRP might have been around. Then I don't know. There were a few other things kind of percolating, but it was pretty early then.
+
+06:01.000 --> 06:14.000
+And the only asset that was on Coinbase at the time was Bitcoin. So, and there's a blog post on usv.com called Coinbase that I wrote that kind of explains why we made that investment.
+
+06:14.000 --> 06:29.000
+And I think it's pretty short, like most of what I write. And I think it kind of says much of what I've already said here. But, you know, I try not to make things more complicated than they need to be.
+
+06:29.000 --> 06:46.000
+And I like sort of big macro bets. And I felt like decentralized money was just a huge, huge idea still still feel that. Obviously, it wasn't just decentralized money. It's gone on to be, you know, decentralized everything.
+
+06:46.000 --> 06:54.000
+But when we originally got involved, it was really decentralized money that got my attention.
+
+06:54.000 --> 06:58.000
+So this was in 2013.
+
+06:58.000 --> 07:15.000
+Well, I bumped into Ricky in in probably February or March of 2011. And it took me about a year to meet Brian and then it took me another few months to make the investment. I think we closed the Coinbase investment sometime in
+
+07:15.000 --> 07:35.000
+the year, around 2000, the end of 2012, early 2013, you know, you know, you've been involved in lots of venture investments and, you know, there's there time between when you send a term sheet, you sign a term sheet and close the investment, but it all happened over the course of the winter of 2012 and 2013.
+
+07:35.000 --> 07:51.000
+And so my question is, that was about a decade ago, almost exactly a decade ago. Yep. What did you think then that turned out to be true? What did you think then that turned out not to be true?
+
+07:51.000 --> 08:03.000
+What's where are we now in the general world of decentralized assets to centralized crypto assets and how is it different than your what you would have expected a decade ago?
+
+08:03.000 --> 08:25.000
+What I didn't anticipate was Ethereum and smart contracts. And the fact that these blockchains would become programmable in a way that would allow people to build anything on top of them. I really saw this as a, as a financial services opportunity.
+
+08:25.000 --> 08:42.000
+When, when we made that, well, when I learned about Bitcoin and when we made that investment, I really thought this was going to be, you know, something that would disrupt Wall Street and the banks and these payment systems and things like that.
+
+08:42.000 --> 09:02.000
+But I didn't understand that it would also disrupt everything. So the opportunity over the course of the last decade in my mind has just gotten, I don't know, some somewhere between three and 10 orders of magnitude bigger.
+
+09:02.000 --> 09:20.000
+So let me follow on to that because if I would disrupt financial services, and now you think it might disrupt everything will come to the everything in a second, but has it disrupted financial services has anything changed in the banking or financial services industry due to crypto assets.
+
+09:20.000 --> 09:37.000
+I'd say nothing has changed and everything has changed. In like 2014 or 15, we invited Brian or Frederson, his co founder to our annual meeting in New York to talk about Coinbase and Bitcoin.
+
+09:37.000 --> 09:59.000
+And, and I remember one of our institutional investors asked me a question. He said, Oh, the New York Stock Exchange and the NASDAQ and, and other exchanges could use this technology to build a better version of of what they, you know, provide.
+
+09:59.000 --> 10:10.000
+And I said, no, no, that's not what's going to happen. What's going to happen is competitors to the New York Stock Exchange and the NASDAQ will emerge built natively on top of this technology.
+
+10:10.000 --> 10:21.000
+And that's what's happened, you know, with Uniswap and, and other, you know, fully crypto native, you know, liquidity pools.
+
+10:21.000 --> 10:38.000
+And then all of the decentralized services that are getting built, you know, on top of that protocol and other decentralized finance protocols. So, literally, we are rebuilding the financial system of the world on top of web three protocols.
+
+10:38.000 --> 10:41.000
+So that's why I say everything has changed.
+
+10:41.000 --> 10:52.000
+But, you know, in terms of the number of people who use these decentralized liquidity pools and decentralized protocols and decentralized applications.
+
+10:52.000 --> 11:02.000
+It's, it's tiny, right, like, you know, I'd say less than 1% of all assets in the world are on chain and less than 1% of assets in the world get traded on chain.
+
+11:02.000 --> 11:11.000
+So, like, you can barely see it when you look at it, but in my mind, it's all there. It's just a matter of time.
+
+11:11.000 --> 11:32.000
+All right, so is it because there's obviously an husband since the beginning, a strong set of crypto asset critics who would say even today look it's been a decade. Everyone, everyone was saying you were early in 2013 but now it's 2023 almost
+
+11:32.000 --> 11:41.000
+the crypto asset folks believe in it, which I believe you do and I do, saying, well, no, it actually still is early.
+
+11:41.000 --> 11:47.000
+And because you've been involved in many technologies and technology pathways.
+
+11:47.000 --> 11:57.000
+Before this, is it fair to ourselves to say that it's still early? Is it something that no, it actually might take 20, 30 years and it's still going to happen?
+
+11:57.000 --> 12:03.000
+Or is this moving the biggest.
+
+12:03.000 --> 12:22.000
+I think it's helpful to look at other technologies that have emerged and sort of compare the timelines. So if you look at artificial intelligence and machine learning, I think we can all agree that what's going on right now in terms of what's coming to market,
+
+12:22.000 --> 12:30.000
+getting built on those technologies is truly mind boggling and is going to change a lot of industries very quickly.
+
+12:30.000 --> 12:38.000
+The original concepts around neural networks were put forth in the 70s, I believe.
+
+12:38.000 --> 12:42.000
+Correct me if I'm wrong because you probably know more about this than I do.
+
+12:42.000 --> 12:51.000
+And it has taken 50 years for these technologies to get to the point where they're now reaching a mainstream use case.
+
+12:51.000 --> 12:59.000
+And look, you know, we saw it start to emerge a decade ago in things like online advertising.
+
+12:59.000 --> 13:17.000
+But now we actually have AI bots that, you know, we can use each and every one of us can use to do things that you tasks that we used to have to do ourselves. And so, you know, it takes time and these technologies go through, you know,
+
+13:17.000 --> 13:34.000
+and then people write them off. And so I think that by that measure, you know, I mean, a lot of the concepts that Satoshi stitched into the Bitcoin white paper had been percolating as far back as the mid 90s.
+
+13:34.000 --> 13:48.000
+You know, we may be 25 years into this technological revolution. But I think it might take, you know, it takes 50 years for something to go from an idea to truly mainstream.
+
+13:48.000 --> 14:00.000
+Then, you know, we might still be a ways away from a lot of this web through stuff becoming mainstream. But what I can see right now is I can literally see the path.
+
+14:00.000 --> 14:20.000
+I can see it, which I couldn't see back in 2011. I can literally see the path on how web three ultimately creates entirely new financial system, an entirely new creative system, an entirely new application system and entirely new social system.
+
+14:20.000 --> 14:32.000
+So, I think we're probably closer than 25 years I think we might be. I think this decade. I think it's going to happen this decade.
+
+14:32.000 --> 14:37.000
+So you had mentioned that.
+
+14:37.000 --> 14:52.000
+I think that was a financial services disruption idea, but now it's an everything disruption idea and everything sounds like a lot. What's in everything? What do you see? What are the non financial services descriptions you see?
+
+14:52.000 --> 15:08.000
+I think every app we use on our mobile phone will be a decentralized app at some point. And, you know, I said, I think it's going to happen this decade, right? So, you know, will we have a decentralized Twitter this decade? Yes. Will we have a decentralized Uber this decade?
+
+15:08.000 --> 15:28.000
+Well, we have a decentralized Gmail. The interesting thing about Gmail is that the email is actually already a decentralized protocol. So, but, but I, anything, any piece of technology in any piece of software that we use on some regular basis,
+
+15:28.000 --> 15:53.000
+Canon will be built using a decentralized architecture. And, you know, some will come sooner than others because there's some markets that are more are more maybe are easier to implement solutions for using decentralized stack than others.
+
+15:53.000 --> 16:02.000
+But I think you name it and it will eventually become a decentralized application.
+
+16:02.000 --> 16:04.000
+Okay.
+
+16:04.000 --> 16:17.000
+Everyone talks about web three these days, right? And then there's one one which and web two web three Jack Dorsey's on one five will come back to that in a second.
+
+16:17.000 --> 16:28.000
+What's I'm curious in your kind of framework. What's web one web two and one three? What are the key defining points of us.
+
+16:28.000 --> 16:31.000
+Web one to me was a one way web.
+
+16:31.000 --> 16:41.000
+We would go online and access services that were being provisioned for us, but not made by us.
+
+16:41.000 --> 17:00.000
+So, so on and so forth. Even Uber, the idea that it's a decentralized network of drivers around the world. I mean, the early ideas in ride sharing were much more decentralized than what's what it's become, but the idea that anybody can be a driver,
+
+17:00.000 --> 17:05.000
+anybody could be a passenger, you know, kind of feels almost web three. If you really think about it that way.
+
+17:05.000 --> 17:24.000
+So web two was a two way web and I think that web three is a web that we control that users control. So the problem with web two is that we created two way web, but all of the data that we were provisioning to construct these services
+
+17:24.000 --> 17:43.000
+ended up being owned by the service provider and we have to fix that. And so web three basically means that we still control our contributions, you know, through our keys and our control of those keys and therefore our data.
+
+17:43.000 --> 18:05.000
+And we provision them to the services when we want to use them, but we don't see that data and the control over the data to the service provider. So that's a, it's one of the problems, by the way, is it took me two minutes to say that.
+
+18:05.000 --> 18:19.000
+But it's, it's, it's our web. It's a web we control is basically my view on it. And I, I struggle to explain this to web three cynics. They don't get it.
+
+18:19.000 --> 18:47.000
+I think when you start issuing NFTs as an artist or start collecting NFTs, you know, I, I can tell you a story because it's a good one. Every summer we invite, you know, a group of high school students from, you know, one of the more challenging parts of New York City to spend their summer with us working on a project or two.
+
+18:47.000 --> 19:01.000
+And then at the end of the summer they, they present their projects to us. And it's like a summer internship program and this young man saw some NFT screens on the walls at us V and he's like, I don't get it like why.
+
+19:01.000 --> 19:10.000
+I mean, I could, I could just copy that like why, how's that yours and not mine like, you know, I could just go on the web and, you know, right click save and I've got it.
+
+19:10.000 --> 19:21.000
+And I said to him, you know, I held up my, my wallet on my phone. I said, see, this NFT is in my wallet right here. I said, now, if you give me your email address, I could send this to you.
+
+19:21.000 --> 19:31.000
+And you could then receive it in the wallet and it would no longer be in my wallet and it would be in your wallet and it wouldn't be in anyone else's wallet anywhere in the world.
+
+19:31.000 --> 19:46.000
+That's what I mean by you own it, you control it. And he was like, oh, I get it. Right. And, and, and it's just like clicked for him. He understood like, oh, yeah, sure, you know, the image itself can be presented anywhere, but literally the control of the asset.
+
+19:46.000 --> 19:50.000
+There's only one of them and I have it in my wallet. He got it.
+
+19:50.000 --> 20:05.000
+And like, I want everybody to get that everybody to see that. And I think he kind of got to use the technology. And if somebody was talking about, I wrote a blog post a couple of weeks ago and a bunch of people were criticizing it on Twitter, because I was talking
+
+20:05.000 --> 20:21.000
+about a world where we all use web three and we'll control our assets. I like that's the dream. And, and I was just like, look, go to mirror.com mirror.xyz and look at blog posts that are on chain. Go to Farcaster and look at tweets and casts that are on chain.
+
+20:21.000 --> 20:37.000
+Go to open seat and look at earth that is on chain and you will see it today. This world that you think is a joke exists today. If you, if you take the fucking time to go there and, and, and engage there.
+
+20:37.000 --> 20:49.000
+And the reason that people like us have this huge opportunity is because we're there. We see it and we're using it and we get it. And 99.9% of the people still aren't there. They're still not using it.
+
+20:49.000 --> 21:05.000
+And they still don't get it. And so, but, but it's so powerful once you get it. I really am preaching to the choir. I'm sure that everybody who's in this, in this class gets it. And of course you get it. But, you know, that's, that's why I think people don't get it.
+
+21:05.000 --> 21:12.000
+They're not using the technology and they're not getting the benefits of technology. I don't understand it.
+
+21:12.000 --> 21:32.000
+Now, so I obviously agree with everything you said. Now, normally, if there was, if it was any other type of company or organization or technology and the people, and I feel exactly the same way you do.
+
+21:32.000 --> 21:44.000
+The people who believe in it, or just like, gosh, the users are the potential customers in the potential ecosystem just doesn't get it. And like, I feel I have to yell at them together.
+
+21:44.000 --> 21:49.000
+Some things either wrong in the product or the messaging, right? I mean, both.
+
+21:49.000 --> 21:56.000
+Successful products and doesn't take off, right? You don't have to like, no one had to beat anyone over the head of the baseball bat to use Google.
+
+21:56.000 --> 22:00.000
+So what are we doing wrong?
+
+22:00.000 --> 22:05.000
+I think that we're not articulating the benefits very clearly in our messaging.
+
+22:05.000 --> 22:12.000
+And I also think that the products are still too hard to use.
+
+22:12.000 --> 22:19.000
+And it requires many of them require coming with a Web 3 wallet, right?
+
+22:19.000 --> 22:26.000
+So we've made it very hard to adopt this technology because you land on a DAP and the first thing you need to do is connect a wallet.
+
+22:26.000 --> 22:36.000
+And if you don't have a coinbase wallet or rainbow wallet or a phantom wallet or a metamask wallet, you got to go download that thing.
+
+22:36.000 --> 22:41.000
+You got to figure out how to store a 12 phrase seed, 12 word seed phrase.
+
+22:41.000 --> 22:49.000
+That's just too hard. Like we would, you do what I do it. Yeah, so we do it. Like, what's a big deal, but it's too hard, right?
+
+22:49.000 --> 23:00.000
+I think cloud based wallets will help. I think making Web 3 experiences that feel more like Web 2, at least initially, will help.
+
+23:00.000 --> 23:13.000
+And we haven't built enough compelling product. The Web 3 games, which I think Web gaming is going to be one of the big experiences that will bring, you know, hundreds of millions of people to Web 3.
+
+23:13.000 --> 23:22.000
+But the Web 3 games that have been built to date, they're not fun. They're not fun to play. Like, you know, there's no reason why I would go spend my time on a Web 3 game right now.
+
+23:22.000 --> 23:26.000
+So products aren't good enough.
+
+23:26.000 --> 23:32.000
+And the messaging is off.
+
+23:32.000 --> 23:57.000
+We went through this in Web 1 and Web 2, and the products got Chris Dixon explained this to me, and he's totally right. The products got good when the founders could focus on user experience and, and, and sort of like the, you know, the last little bit of the stack and the underlying
+
+23:57.000 --> 24:03.000
+stack was mature enough that they didn't have to build all that tooling.
+
+24:03.000 --> 24:13.000
+And so, great examples when the iPhone came along, you know, and there was, you know, this rich platform to build really simple and easy to use apps.
+
+24:13.000 --> 24:17.000
+We just saw everybody starting to build iPhone apps. It was really easy to do.
+
+24:17.000 --> 24:24.000
+But if you try to do that, you know, back in the era before the iPhone and try to build mobile apps, the disaster, like they were terrible.
+
+24:24.000 --> 24:36.000
+So, you know, Web 3 has yet to read. It's, I've reached iPhone, but we're getting close. We are getting close. There's a lot of tooling that's getting built on top of the smart contract chains now.
+
+24:36.000 --> 24:46.000
+And I, I, we're starting to see traditional Web 2 founders come over into Web 3 and start to build things that feel more Web 2 ish than Web 3 ish.
+
+24:46.000 --> 24:55.000
+So, I'm pretty optimistic actually in the next few years that we'll see some real breakthrough apps that will get tens of millions of people to use them very quickly.
+
+24:55.000 --> 25:04.000
+We saw hints of it, you know, when Dapper came out with Top Shot, you know, it was a Web, it was a Web 2 experience built on a Web 3 stack.
+
+25:04.000 --> 25:15.000
+They, they hit all the Web 3 stuff underneath it. Now they, I think they made a couple of mistakes there in terms of the gameplay and the value of the NFTs and, and,
+
+25:15.000 --> 25:32.000
+and scarcity and the, and the supply dynamics and things that, you know, ultimately, you know, have created some challenges for them. But, but they did get right was that they created an experience that anybody could use and they got millions of people to, to engage very actively
+
+25:32.000 --> 25:41.000
+and over a long period of time in a Web 3 experience without ever having a self custody wallet or looking at a seed phrase or even knowing that their assets were NFTs and were on chains.
+
+25:41.000 --> 25:54.000
+So, I, that, that, that's the model that I believe in. And I think we're just going to need to see more founders build more experiences like that. And we have a bunch of them in our portfolio that are going to bring things to market next year that we're going to feel like that.
+
+25:54.000 --> 26:02.000
+And so I'm, I'm optimistic, but that's, that's my analysis of why we are where we are.
+
+26:02.000 --> 26:14.000
+So you had also invested in the series of Twitter, right, which is a kind of reference web to.
+
+26:14.000 --> 26:24.000
+Company and one of the things that I sometimes think about, I think you sometimes think about is, couldn't have been a protocol, not a service.
+
+26:24.000 --> 26:32.000
+And now it's changed hands. Obviously, it looks like even today the mental model is going to be.
+
+26:32.000 --> 26:42.000
+It's going to be a centralized service Elon believes that it can't be performed on a blockchain and maybe there'll be some cryptocurrency integration.
+
+26:42.000 --> 26:45.000
+Maybe I think possibly.
+
+26:45.000 --> 26:52.000
+What's your view on that? How should we be thinking about short messaging online?
+
+26:52.000 --> 27:09.000
+So Twitter actually helped me understand the web three promise in a way that's very personal and very powerful for me because when we first invested in Twitter, there was a rich ecosystem of their party applications.
+
+27:09.000 --> 27:19.000
+The Twitter stack wasn't fully composable in a web three way, but it was, there was a very good API.
+
+27:19.000 --> 27:23.000
+There was a shitty web app and there was no mobile web app.
+
+27:23.000 --> 27:34.000
+So developers quickly use that API to build things like search engine for Twitter, mobile apps for Twitter, third party web apps for Twitter, etc, etc.
+
+27:34.000 --> 27:50.000
+And then Twitter reasons that we could get into if we had time and wanted to felt compelled to take away the API access to third party developers and really centralized the service.
+
+27:50.000 --> 28:12.000
+What could be done today with just a decision would be to move away from, you know, Twitter being the sole provider of clients to the Twitter namespace and the Twitter database and make it a rich ecosystem again.
+
+28:12.000 --> 28:18.000
+And that doesn't require rebuilding it on a web three stack.
+
+28:18.000 --> 28:41.000
+The way I think about it is truth social shouldn't be a competitor Twitter. It should just be a Twitter client that has a different set of moderation and, you know, who's allowed to use it, you know, permissions, and, and it could exist on top of the Twitter database
+
+28:41.000 --> 28:52.000
+and Twitter namespace. And we could get back to that architecture very quickly if Twitter committed to it and convinced developers that it was serious about that.
+
+28:52.000 --> 29:04.000
+That would be incredibly beneficial to Twitter because it would get Twitter out of the being a monopoly over curation and moderation, which is a losing game.
+
+29:04.000 --> 29:19.000
+And, and one that you can never ever win. It also gets Twitter out of the business of being the only blocker of spam and bots and things like that because each of the clients would would have their own protocols and algorithms for that.
+
+29:19.000 --> 29:25.000
+And then there'd be a competition at the application layer for the best interfaces into the Twitter database and Twitter namespace.
+
+29:25.000 --> 29:40.000
+That's a web two and a half architecture, not a web three architecture, but that's in my view what Twitter needs to do. And until it does it, I think it's going to continue to struggle with these core problems that the last two or three Twitter management teams couldn't solve.
+
+29:40.000 --> 29:57.000
+And I don't think this management team is going to be able to solve it either. In the meantime, I do think that there are web three implementations of Twitter that are out there that are pretty good. They don't try to put all the tweets on chain, because that that's not possible today.
+
+29:57.000 --> 29:59.000
+That's correct.
+
+29:59.000 --> 30:16.000
+But they put the namespace on chain, they put the identity on chain, they put the follower network on chain, which is, in my mind, the most important thing in terms of giving people really a composable architecture that they can build competitors on top of.
+
+30:16.000 --> 30:45.000
+And so I actually think social is going to be one of the first sort of big consumer markets to move to a decentralized architecture because of this core problem that trying to be a monopoly provider at the client level just just causes the, the owner of that enormous amounts of problems that, you know, can't really be solved with technology.
+
+30:45.000 --> 30:53.000
+And so that's kind of my view on that whole sector.
+
+30:53.000 --> 31:00.000
+Yeah, that makes perfect sense. Let's go to web three, because there's a very interesting debate.
+
+31:00.000 --> 31:12.000
+Web three, and these public blockchains usually generally need a token to work for variety of reasons.
+
+31:12.000 --> 31:22.000
+And they are meant to be decentralized and for global communities, but primarily I believe due to US security law.
+
+31:22.000 --> 31:30.000
+They tend to be funded by accredited investors and specifically by venture capital firms and so then you have some folks.
+
+31:30.000 --> 31:43.000
+I think most prominently Jack Gorsey, who says, well, it's kind of fake.
+
+31:43.000 --> 31:59.000
+We don't need tokens for anything else. We can just use the IDs running on top of Bitcoin and all those web three stuff is, you know, primarily funded by an increase in the Horowitz and so how to centralized.
+
+31:59.000 --> 32:09.000
+And I don't think you means only a piece of Horowitz, but it picks under the law, but you can represent the venture capital industry today.
+
+32:09.000 --> 32:14.000
+What should a more me person think about this when they're watching this debate.
+
+32:14.000 --> 32:17.000
+Well, Ethereum didn't do it that way.
+
+32:17.000 --> 32:27.000
+You know, there, there was a token issuance very, very early on, and to my knowledge, there were no venture capital investors in Ethereum.
+
+32:27.000 --> 32:41.000
+It is true that many, maybe most web three founders find it more convenient to capitalize their projects early on with venture capital, as opposed to doing what Ethereum did.
+
+32:41.000 --> 32:51.000
+And there are a lot of good reasons for that, which you pointed to regarding securities regulations, both here in the US and elsewhere.
+
+32:51.000 --> 33:10.000
+And so, you know, selling equity or a token to, you know, an investor like venture capital firm, unfortunately, is a safer thing to do from a regulatory perspective for a founder, or a bunch of founders, then, then, you know, doing what the
+
+33:10.000 --> 33:22.000
+venture capital firm and his crew did by just essentially doing a public offering.
+
+33:22.000 --> 33:29.000
+But the Vitalik way, I think, is a better way, you know, because the community can fund the project as opposed to, you know, a few venture capitalists.
+
+33:29.000 --> 33:36.000
+One thing that, you know, I would point out is that the venture capitalists understand this.
+
+33:36.000 --> 33:52.000
+There are a lot of ways of a single project that we have funded where the venture capitalists and the founders have held on to more than 40% of the fully diluted token network.
+
+33:52.000 --> 33:57.000
+There may be a few, but I'm not aware of any.
+
+33:57.000 --> 34:08.000
+So typically what happens in the venture capital funding model is that some web three developers start a company.
+
+34:08.000 --> 34:18.000
+They bring some capital in, usually from venture capitalists, as soon as they get a product and market and feel like they're sufficiently decentralized.
+
+34:18.000 --> 34:39.000
+They do a distribution of the token, do a listing of the token, and the company that was formed to get the thing going, holds on to somewhere between 20 and 40% of the tokens applying the rest is is made available to the community and, and the participants in the network.
+
+34:39.000 --> 34:53.000
+So, the web three venture model is a hybrid between the legacy web three model, the way that Twitter and Facebook and others were built where the venture capitalists and the founders held on to everything.
+
+34:53.000 --> 34:55.000
+And the users got nothing.
+
+34:55.000 --> 35:01.000
+And the metallic model where the users basically got everything and the venture capitalist got nothing.
+
+35:01.000 --> 35:23.000
+And where we are today is a hybrid, we can argue about is 20% the right numbers 30% right numbers 40% the right number but jet would we're jack is wrong is that USB, which is my firm and in recent Horowitz are not holding on to 100% of the value here after holding on to a relatively
+
+35:23.000 --> 35:41.000
+small percentage of the value and, and have acknowledged in the architecture of the, these token issuances that web three is different, and that it's critical for the community to be the majority owner of these assets from day one.
+
+35:41.000 --> 35:44.000
+You also don't get founder control.
+
+35:44.000 --> 35:52.000
+You know, one Bennett who's the founder of file coin I think owns 1% of the file coin network.
+
+35:52.000 --> 36:00.000
+I think rho homed Dapper owns in the single digits of the flow network right so I don't, I don't know.
+
+36:00.000 --> 36:14.000
+I don't quote me on these numbers because because I could be wrong like I don't have these, you know these numbers are in front of me but the point being that you know the idea that Zuckerberg has control over Facebook and, you know, one time actually own something like 40% or more of it.
+
+36:14.000 --> 36:32.000
+Now that's a very different model in web three. So I think Jack is pointing out something that is true, but ignoring I think the changes, important changes that have already happened in web three VC versus web two VC.
+
+36:32.000 --> 36:47.000
+And the other problem is that Jack has a very Bitcoin centric view of the world. And Bitcoin blockchain suffers from a few things. I mean, I personally own a lot of Bitcoin so don't, I don't want people to take this in the wrong way.
+
+36:47.000 --> 37:00.000
+But if I was totally negative on Bitcoin, I wouldn't own any Bitcoin and I do own a lot of Bitcoin, but the Bitcoin blockchain doesn't really have a programming layer on top of it.
+
+37:00.000 --> 37:05.000
+We're very involved in a web three project called stacks which is trying to fix that.
+
+37:05.000 --> 37:13.000
+But the truth is that there aren't really a lot of developers and there isn't a lot of tooling on on the Bitcoin blockchain.
+
+37:13.000 --> 37:17.000
+And Bitcoin core developers are very resistant.
+
+37:17.000 --> 37:22.000
+And you could argue for very good reason to making any real changes to their protocol.
+
+37:22.000 --> 37:29.000
+And that's not true. If you look at the Ethereum protocol, and look what happened this summer, they literally changed the consensus mechanism on the fly.
+
+37:29.000 --> 37:36.000
+The plane was literally in the air flying and he changed the engine. Incredible achievement.
+
+37:36.000 --> 37:42.000
+And you think about the amount of innovation that's happening in the Ethereum protocol relative to the Bitcoin protocol.
+
+37:42.000 --> 37:52.000
+And it's really depressing to me to look at Bitcoin. So I just, I think Jack, unfortunately, is hanging out with the wrong people.
+
+37:52.000 --> 38:10.000
+You mentioned the Vitalik model and agree it's a good model, but the Vitalik model had a period where it was the SEC was unclear if it was going to classify it as a security.
+
+38:10.000 --> 38:22.000
+And then basically came up with something along the lines of it might have been, in fact, at the initial launch, but it's now sufficiently decentralized.
+
+38:22.000 --> 38:28.000
+And so it's not. And even today, host the switch to proof of stake.
+
+38:28.000 --> 38:36.000
+We can't seem to get a clear answer from the SEC on if Ethereum's security hearing.
+
+38:36.000 --> 38:47.000
+The SEC seems comfortable that Bitcoin is not a security, but I might be mistaken, but I don't think there's ever been a formal communication about Ethereum.
+
+38:47.000 --> 38:55.000
+And I guess my question here is, what's gone wrong with the regulatory environment?
+
+38:55.000 --> 39:04.000
+What needs to change if a decade in we can't even get clarity? Whatever the answer is, right?
+
+39:04.000 --> 39:14.000
+There's a second question for what the right answer should be, but we can't even get an answer on the second largest crypto asset that's a multi hundred billion dollar asset.
+
+39:14.000 --> 39:18.000
+So, here's the thing.
+
+39:18.000 --> 39:31.000
+95% of all trading volume in crypto assets happens outside of the United States.
+
+39:31.000 --> 39:55.000
+My guess is, I love to see these numbers, but my guess is the 20 to 30% of the trading volume of these crypto assets is being done by US domiciled institutions and individuals, but 95% of the trading volume happens outside the United States.
+
+39:55.000 --> 40:00.000
+What has happened is the world's a big place.
+
+40:00.000 --> 40:20.000
+There are many, many places that one could stand up the ability to trade web three assets and it's not that hard to, because, because of the innovation in the web three architectures, not that hard to stand up in exchange, liquidity pool, whatever you want to call it.
+
+40:20.000 --> 40:32.000
+So, 95% of the trading volume happens on platforms or protocols that are not regulated by the Securities Exchange Commission, and there's a reason for that.
+
+40:32.000 --> 40:42.000
+And the reason is that the Security Exchange Commission is using an outdated regulatory framework to think about these assets.
+
+40:42.000 --> 40:48.000
+And that genie is not getting put back in the bottle.
+
+40:48.000 --> 40:53.000
+It's not going to go back in the bottle because these assets don't want to be regulated securities.
+
+40:53.000 --> 41:13.000
+It doesn't make sense for me to be using the Ethereum blockchain and Ethereum token to be buying or selling a beautiful piece of art from you, or the other way around, probably the other way around because you're a better collector than I am.
+
+41:13.000 --> 41:19.000
+With a security, we don't use Facebook stock to buy art.
+
+41:19.000 --> 41:23.000
+It doesn't make sense to treat these assets as securities.
+
+41:23.000 --> 41:26.000
+They are utilities. They are commodities. They're like oil.
+
+41:26.000 --> 41:31.000
+They are the fuel for this new web three architecture.
+
+41:31.000 --> 41:35.000
+And we cannot get as try as hard as we can.
+
+41:35.000 --> 41:54.000
+We cannot get the regulators in the United States to understand that what should be done is to create a new regulatory framework for this new technology and new kind of asset and regulate it in a way that it can be the thing that it is, which is, it's the fuel for this
+
+41:54.000 --> 42:06.000
+architecture. It's a commodity for this architecture. It is the oil for this architecture.
+
+42:06.000 --> 42:12.000
+And yet we want to trade it like a Facebook stock instead of a barrel of oil. That is the problem.
+
+42:12.000 --> 42:18.000
+That is why 95% of all volume happens outside the United States, and it's going to be 100.
+
+42:18.000 --> 42:35.000
+But it means that the exchange of these assets is going to happen in unregulated venues as opposed to regulated venues. If the regulation doesn't conform to the reality of the use case.
+
+42:35.000 --> 42:49.000
+So this is a failure by the United States argument. Right. It's the technology leader in many fields.
+
+42:49.000 --> 42:55.000
+Possibly in some areas of this field, not. And you know what, as far as I can tell, it doesn't seem to be a ton of activity to try and change that or desire at least, you know, in the current administration.
+
+42:55.000 --> 43:10.000
+I spend some percentage of my time, somewhere between five and 10% of my time. Not probably not. It's somewhere between zero and 10% of my time in a given week or month or year on this issue.
+
+43:10.000 --> 43:31.000
+Because I think it's an important issue. But the end of the day, I don't really care if US government and US regulators push this technology largely offshore, because this technology is going to succeed one way or another.
+
+43:31.000 --> 43:45.000
+Five years ago, this is electric capital data. They do an incredible report every year, maybe multi tons a year, where they query GitHub and do a bunch of analysis on protocols and developers. And it's really, really good.
+
+43:45.000 --> 43:51.000
+And they look at the time of day of the GitHub.
+
+43:51.000 --> 44:08.000
+Activity, and they look at the IP address of the developers, try to guess where those developers are. And it's not, there's not perfect analysis. But what they believe is that 70% of web three developers were in the United States five years ago and 30% of web three
+
+44:08.000 --> 44:26.000
+are in the United States now. And that's for two reasons. One, I think it's become in many ways easier to build a web three protocol or web three company outside the United States. But it's also because there's incredible developers all over the world who can access the web
+
+44:26.000 --> 44:45.000
+technology as easily as the people in the United States and assets has no, no lock on anything. And, you know, I mean, great developers are everywhere. And so, you know, as those developers have access to these decentralized protocols, they can, they can build things and create
+
+44:45.000 --> 45:02.000
+things that are available to the developers. And so, you know, that's just a reality. Is it good? Maybe? Probably. It's probably good for society. It's a good for the United States. Probably not.
+
+45:02.000 --> 45:11.000
+But if the United States uses to push the technology offshore, it's not going to kill the technology.
+
+45:11.000 --> 45:17.000
+Let's talk about NFTs, which is pretty close to my favorite topic on the planet.
+
+45:17.000 --> 45:20.000
+Yes, it's your favorite topic.
+
+45:20.000 --> 45:40.000
+That's right. I think you know my view that we have discovered the interoperable ownership layer for digital objects and the metaverse and the metaverse is just the Internet. And so we, you know, we can separate out our objects on a public blockchain
+
+45:40.000 --> 46:02.000
+and then people can build a lot of applications that compete with each other. What's your view of NFTs? How do you see them? How do you see the maturity of the marketplace? Now, what do you expect as being important in the next two to three years in terms of applications, trends, etc.
+
+46:02.000 --> 46:08.000
+What does the metaverse and quotes mean to you? I'd love to hear your thoughts on this.
+
+46:08.000 --> 46:19.000
+I think there have been three profound ideas, computer science ideas in the history of Web3.
+
+46:19.000 --> 46:27.000
+I think the first one was Satoshi's white paper. The second one was the idea of a smart contract, which Vitalik and his crew introduced.
+
+46:27.000 --> 46:46.000
+And the third was the idea of a non fungible token as originally. Well, it existed before ERC 721, but I think ERC 721 really, I think, encoded it in its first really, you know, full incarnation.
+
+46:46.000 --> 47:13.000
+And when I started to see rare pepés and things like that. And then I saw the 721 spec and then I saw crypto kitties. The thing that came to me was we have been trying to introduce the concept of scarcity back into content, our media, whatever you want to call it
+
+47:13.000 --> 47:27.000
+for 25 years, 30 years since the internet was created and basically removed all scarcity. And the ideas were always like digital rights management. They were clunky and they were like, they were written by security people.
+
+47:27.000 --> 47:44.000
+And the NFT did was it introduced scarcity in a way that was very internet native, which was the notion that the content is going to continue to be everywhere, but ownership will actually be able to be held on chain.
+
+47:44.000 --> 48:01.000
+And I was just like, Oh my God, what a fucking incredible like, Oh, just like, you know how sometimes you see things and they just take something that's been so complex and they, and they implement it like in three lines of code and you're just like, Oh my God, they saw the problem.
+
+48:01.000 --> 48:16.000
+This is how I felt about Uniswap when I first when I first understood how how, you know, liquidity protocol work. I was just like, Oh my God, they take this incredible thing, you know, which is, which is a stock exchange and they just implemented in the simplest possible
+
+48:16.000 --> 48:33.000
+idea, which is just, it's just a liquidity pool. And I was just like, Oh, fuck that's brilliant, right? And that's the way I felt like when I when I saw the RC 721 I was just like, this is just, this is, this is literally going to change the game for all forms of creativity
+
+48:33.000 --> 48:49.000
+because the people who make these things can now have some say in, in how much of it is is out there in the world. And, and that's always been something that's been important to people who make make something.
+
+48:49.000 --> 49:09.000
+So now, again, like, like Bitcoin, I thought Bitcoin was about money until I realized that blockchains and smart contracts were about everything. I originally thought that NFTs were about content creativity.
+
+49:09.000 --> 49:20.000
+But now with ENS and other ideas, you can see that NFTs are actually about identity. And much, much more.
+
+49:20.000 --> 49:30.000
+It's, it is a fundamental primitive of Web three, the fundamental primitive of that three is the idea of a token that is not fungible.
+
+49:30.000 --> 49:48.000
+It is, it is like literally one of the most important building blocks of Web three. Now, NFT art is amazing. I love NFT art. You know, if you look over here, I have a little display here that I'm showcasing some of my NFTs. This is my home office.
+
+49:48.000 --> 50:02.000
+I know not a lot of people come here. But I love NFT art. And as you know, 652 9, I, I, I, I think of it as art and not as money. And I know you're right that it is both.
+
+50:02.000 --> 50:07.000
+And that it's foolish to think of these things just as beautiful objects.
+
+50:07.000 --> 50:26.000
+They're, they're basically, you know, all the coins, beautiful pictures, I guess, in a way too. But what I mean, every day I walk into my office and I see these beautiful images and there's, they are as beautiful as, you know, this piece here of, of art, you know, that's
+
+50:26.000 --> 50:40.000
+the way. And so, by the way, for anybody who was a Gilligan's Island TV fan, as I was as a child. But my point is, like, there are incredible artists making incredible art and generative art.
+
+50:40.000 --> 50:56.000
+And the whole other thing didn't really, it couldn't really exist until now. Like there was lots of people working on it before the web, web 3 came along, but, but web 3 NFTs unlocked generative art in a way that couldn't have been unlocked before so.
+
+50:56.000 --> 51:16.000
+So there's some super super passionate about how it's being realized as an artistic endeavor, as a collector of it and somebody who art gives great joy to. But I actually think NFTs are, you know, it's good that we have an early use case that, you know, I could show the kid, you know, who was in my office.
+
+51:16.000 --> 51:28.000
+I've got this NFT on my phone, I'm going to send it to you, you now own it, I don't own it anymore. Like that's, that's, you got to get that, that's important. And art unlocked that for a lot of people that never felt it before. So that's good.
+
+51:28.000 --> 51:34.000
+It brings more people into web 3 but NFTs are going to be way more than art. And you know that.
+
+51:34.000 --> 51:52.000
+Of course, no, I mean, listening to you speak about NFTs as a technology, so it almost is what wishes I am. I think I am. Anything is going to come out of this conversation. It's that I am just a incredible bull on the sector.
+
+51:52.000 --> 51:57.000
+Right. I've fully drunk the cool. Fully drunk the cool. I'm drunk on the cool.
+
+51:57.000 --> 52:06.000
+So what does the NFT, no, no, no, no, no, no, no, no, hold on. What is the metaverse to you?
+
+52:06.000 --> 52:24.000
+I think you said it beautifully. The metaverse is just the internet. But as the internet starts to be able to become a place where things can happen that are more like what goes on in the real world.
+
+52:24.000 --> 52:32.000
+We can have experiences on the internet that feel more like real world experiences.
+
+52:32.000 --> 52:44.000
+You know, like some of some of the things that have happened in your open metaverse that feel a little bit like a nightclub for a while, you know, that but it's the internet. It's just it's a it's a layer.
+
+52:44.000 --> 52:47.000
+It's getting built up on top of the internet.
+
+52:47.000 --> 52:59.000
+And that's just allowing for different kinds of experiences than we traditionally have had on the internet. You could call discord the metaverse. Right. I don't. I struggle with discord. It's a UI that feels noisy and busy.
+
+52:59.000 --> 53:14.000
+And so I, I don't hang out in discord, but you know, obviously, you know, enormous number of people do discord is the metaverse.
+
+53:14.000 --> 53:28.000
+You agree with that. Yeah, I agree. I think I think my one sentence on what the metaverse is is it's the internet with progressively better visualization and persistent technologies.
+
+53:28.000 --> 53:31.000
+And that could be.
+
+53:31.000 --> 53:35.000
+I think I think absolutely yes.
+
+53:35.000 --> 53:50.000
+But it actually may you may have to add a few more things to that list. I think over time we may realize that there are a few more things that are important there but those two things are absolutely those two things coming together on top of the internet are showing us the way.
+
+53:50.000 --> 53:58.000
+And you've done a good job with your open metaverse. You've got a better visualization and you have beautiful objects in it so you're you're already doing that.
+
+53:58.000 --> 54:15.000
+And so I think it's not that applies to all these things. I mean, if there was a third part, obviously there are communities right like these communities. I mean, a metaverse with nobody in it. I'm internet with nobody in it is nothing right.
+
+54:15.000 --> 54:20.000
+It's just that it's an empty space. But I think, you know, it's six five two nine. Can I suggest another thing that maybe is important.
+
+54:20.000 --> 54:29.000
+So what are the identities we control?
+
+54:29.000 --> 54:35.720
+one, right? I think the reason I am trying to be intellectually honest with my definition,
+
+54:35.720 --> 54:42.960
+not to do what I wanted to be, what it might be, it could be Facebook and they control
+
+54:42.960 --> 54:55.360
+our entities. And I mean, this to me seems like it is still up for grabs. And possibly
+
+54:55.360 --> 55:09.480
+in a way, the regulatory uncertainty might create some type of drag on open versions,
+
+55:09.480 --> 55:15.440
+right? Like if it's, you know, there's this rule that radically comes into play in January
+
+55:15.440 --> 55:21.280
+2024, then if you transact more than 10,000 online, you have to follow a court within 10
+
+55:21.280 --> 55:26.640
+days, et cetera, et cetera, et cetera, which these things might scare people and they might
+
+55:26.640 --> 55:33.280
+say, well, I want a more less scary experience. And then web three looks kind of like one,
+
+55:33.280 --> 55:38.600
+too. Is that a risk history? Wherever that is, the open network going to win despite
+
+55:38.600 --> 55:47.120
+today's hurdles. I think the open network wins, but your description of regulation as
+
+55:47.120 --> 55:53.760
+a drag is absolutely correct. It has been a drag. Not the only drag. I think a lot of
+
+55:53.760 --> 56:01.160
+the problem had been self inflicted wounds. Products aren't as good. Unable to communicate
+
+56:01.160 --> 56:06.720
+the benefits of web three well enough. Regulation would be on the list there, too. It's definitely
+
+56:06.720 --> 56:19.160
+made the experiences clunkier, scarier, more complicated to use. And so when a regulator
+
+56:19.160 --> 56:25.240
+gets to dictate what your product looks like, you're fucked. I mean, I remember, you know,
+
+56:25.240 --> 56:31.600
+I've been chairman of the board of soundcloud on and off. I am now I was before I wasn't
+
+56:31.600 --> 56:37.400
+for a while. And it was this incredible YouTube like place where people who made music and
+
+56:37.400 --> 56:42.240
+people who listened to music came together. And then around 2014, they decided that they
+
+56:42.240 --> 56:45.920
+would get licensed by the music industry so that the music industry wouldn't sue them
+
+56:45.920 --> 56:50.040
+out of business. And then all of a sudden, the music industry started dictating what the
+
+56:50.040 --> 56:55.760
+product roadmap looked like. That was a terrible moment for soundcloud that they're still recovering
+
+56:55.760 --> 57:01.160
+from and the company's doing really well now. And I think it's having a great second win,
+
+57:01.160 --> 57:06.160
+but they went through this incredibly difficult time, almost went bankrupt because the music
+
+57:06.160 --> 57:13.600
+industry started dictating what product looked like. I'm one of the lead directors of Coinbase.
+
+57:13.600 --> 57:19.160
+Regulators do tell Coinbase how their products need to function and how the products need
+
+57:19.160 --> 57:24.520
+to work, which you know, you can see if you look at the Coinbase wallet, their self custody
+
+57:24.520 --> 57:28.400
+wallet where regulators don't dictate what it looks like. And you look at the Coinbase
+
+57:28.400 --> 57:32.480
+app, the main Coinbase app that you can download on your phone where the regulators do have
+
+57:32.480 --> 57:37.920
+a say in it. You can see that. It's just like crystal clear. You can see the difference
+
+57:37.920 --> 57:42.080
+between a development team who doesn't have a regulator sitting next to them and a development
+
+57:42.080 --> 57:47.400
+team who does. And a development team who has a regulator sitting next to them is fucked.
+
+57:47.400 --> 57:56.920
+Not out of business, but they're fucked. And so yes, it is a drag on the sector 100%.
+
+57:56.920 --> 58:03.920
+I ask a question since you mentioned Coinbase and I don't know if you can answer this or
+
+58:03.920 --> 58:12.760
+not. It's okay. What are your views on the other debacle that has been FTX?
+
+58:12.760 --> 58:20.320
+I don't know. You know, I felt for a long time that something was weird there. And I
+
+58:20.320 --> 58:27.600
+didn't ever say it publicly, but I did say it privately to lots of people in lots of places.
+
+58:27.600 --> 58:37.680
+And I guess I'm sort of saddened to be right because a lot of people got screwed. A lot
+
+58:37.680 --> 58:42.680
+of people got screwed. And the sector, you know, took it, you know, definitely a black
+
+58:42.680 --> 58:50.280
+guy in the process. But it didn't add up to me what was going on there from a distance.
+
+58:50.280 --> 59:00.240
+Because I know what it is to run one of these companies. And so anyway, I guess what I can
+
+59:00.240 --> 59:11.560
+say is I was not surprised. I deeply said buy it. And I think the sector will recover.
+
+59:11.560 --> 59:16.280
+But it's another black guy in a sector that is full of black eyes going back to Mt. Gox
+
+59:16.280 --> 59:25.880
+and just a lot of things. I mean, we could spend another hour on why that is. I think
+
+59:25.880 --> 59:30.360
+it's partially because it's an open platform that anybody can build something on, which
+
+59:30.360 --> 59:38.080
+you know, is both good and bad. It's something that started with money, which is both good
+
+59:38.080 --> 59:42.000
+and bad. So there's a bunch of reasons I think that we've seen this happen again and
+
+59:42.000 --> 59:48.440
+again in the sector. But this is particularly bad one. And I don't spend a lot of time
+
+59:48.440 --> 59:57.760
+thinking about it because I want to focus on, you know, what is coming, not what has happened.
+
+59:57.760 --> 01:00:05.800
+My wife tells me that that means that I'm not particularly, you know, whether they're
+
+01:00:05.800 --> 01:00:13.280
+just like, I don't look back a lot. And you know, that's maybe, you know, a bug in my
+
+01:00:13.280 --> 01:00:19.120
+system a little bit. But I really like to look forward and into what's possible as opposed
+
+01:00:19.120 --> 01:00:24.600
+to focusing on things that have happened to me or others because they can't change those.
+
+01:00:24.600 --> 01:00:27.160
+So I'm not spending a lot of time thinking about FTX, but I know a lot of people are
+
+01:00:27.160 --> 01:00:31.200
+still kind of obsessed about it. And it's crazy. It's a crazy story. And I haven't gone
+
+01:00:31.200 --> 01:00:36.480
+deep on it. So I really can't speak to a lot of specifics. But I wasn't surprised. I'm
+
+01:00:36.480 --> 01:00:43.600
+saddened and it's a problem. But we'll get through it.
+
+01:00:43.600 --> 01:00:52.320
+Does this mean, is there an effect here that like that the US has maybe pushed activity
+
+01:00:52.320 --> 01:00:58.920
+offshore as you had said and maybe pushed it offshore to jurisdictions that have a harder
+
+01:00:58.920 --> 01:01:06.840
+time supervising it? It is one possible outcome of this being, you know, the US maybe the
+
+01:01:06.840 --> 01:01:12.400
+European Union. The European Union has made some progress. Nica should have a supervisor
+
+01:01:12.400 --> 01:01:23.440
+regime for exchanges that's past portable in 2024. Should the US Europe be looking to
+
+01:01:23.440 --> 01:01:30.440
+ensure that there's a lot of change in the world?
+
+01:01:30.440 --> 01:01:40.360
+Yes, 100%. It's a huge opportunity for places that have been safe havens for finance forever
+
+01:01:40.360 --> 01:01:46.960
+to be safe havens for this kind of finance. And it's more than finance, of course. But
+
+01:01:46.960 --> 01:01:53.080
+until they recognize that these assets are different and that Ethereum is more like a
+
+01:01:53.080 --> 01:02:01.400
+barrel of oil than a share of Facebook, it's going to be very hard. I have some hope that
+
+01:02:01.400 --> 01:02:08.920
+now that you have a Republican controlled house that you might see legislation coming
+
+01:02:08.920 --> 01:02:17.920
+through Congress that could be good. Good regulations are not going to come from the
+
+01:02:17.920 --> 01:02:22.440
+SEC and the Treasury. If they're going to come from anywhere, they're going to come from
+
+01:02:22.440 --> 01:02:27.960
+Congress. And so that's the place that the industry is focused and should be focused
+
+01:02:27.960 --> 01:02:35.360
+on because these Congress people are elected by the people. And the people understand this.
+
+01:02:35.360 --> 01:02:40.240
+I mean, you've seen the numbers. They've been on Twitter, like something like 30% of
+
+01:02:40.240 --> 01:02:45.680
+people in the United States own crypto assets and it's even higher among black and brown
+
+01:02:45.680 --> 01:02:52.920
+people than white people, which is incredible. And I think crypto is viewed very positively
+
+01:02:52.920 --> 01:02:58.880
+by a majority of voters in the United States. And so people who are elected by the people
+
+01:02:58.880 --> 01:03:04.160
+are a little bit more responsive to the needs of the people than regulators who don't have
+
+01:03:04.160 --> 01:03:09.320
+to be accountable to anybody, which is an unfortunate thing about regulators.
+
+01:03:09.320 --> 01:03:18.680
+This is great. I want to be respectful of your time because I'm going to go in about
+
+01:03:18.680 --> 01:03:25.360
+15 minutes. So let's give let's give everyone else a chance to ask some questions. And I
+
+01:03:25.360 --> 01:03:30.800
+think how we're going to do this, you know, I think in a couple of months, we will feel
+
+01:03:30.800 --> 01:03:38.320
+comfortable enough with the UX that we can do a discussion like this natively in where
+
+01:03:38.320 --> 01:03:45.440
+we're in on as well. And there's there's sound, there's avatars, there's chat there as well.
+
+01:03:45.440 --> 01:03:51.120
+But what we've been doing for now is we have people monitoring the discussion, having there
+
+01:03:51.120 --> 01:03:59.080
+and then they just text me the, um, text me the questions and then I'll ask them here.
+
+01:03:59.080 --> 01:04:04.440
+And so it's like half three quarters native, but not all the way there. So I'm hoping,
+
+01:04:04.440 --> 01:04:09.320
+you know, January or February will be in a position, you know, you and I can stroll through
+
+01:04:09.320 --> 01:04:19.880
+the, uh, a museum or a campus and have a discussion to talk to people in, um, and fully in the
+
+01:04:19.880 --> 01:04:29.240
+universe. So, but for today, we're going to have a little manual sticky tape, which is me,
+
+01:04:29.240 --> 01:04:34.600
+reading the questions out of discord and reading them to you, if that's okay.
+
+01:04:34.600 --> 01:04:42.760
+So absolutely. Okay, the first question is, how can any space,
+
+01:04:42.760 --> 01:04:53.560
+or I think can any space experience the type of meaningful growth we hope to have
+
+01:04:54.280 --> 01:05:01.000
+without the sort of implosions like FTX? So I guess the question is, are these inevitable
+
+01:05:01.000 --> 01:05:07.880
+and part of developing further or is it something really could have avoided in a different pathway
+
+01:05:07.880 --> 01:05:18.040
+of life? I think it's a little of both. I think that if we get the rules right for web three,
+
+01:05:19.000 --> 01:05:25.400
+that understands, um, the uniqueness of these assets and where they're valuable and how they
+
+01:05:25.400 --> 01:05:37.560
+need to be available to transact, um, then I think we can create safe places to engage in web three
+
+01:05:37.560 --> 01:05:44.760
+activities, um, and that we'd have a better, we'd have a better answer than we have today.
+
+01:05:45.560 --> 01:05:51.080
+But we've really, really struggled to understand what these assets are.
+
+01:05:51.880 --> 01:05:58.280
+People look at them as money, but they're not really money. Um, I think they're more like the
+
+01:05:58.280 --> 01:06:06.440
+gas in your car than they are, um, the money in your bank and, um, both are valuable, by the way.
+
+01:06:06.440 --> 01:06:10.680
+And you could, if you wanted to sell the gas in your tank to somebody who's run out of gas.
+
+01:06:10.680 --> 01:06:16.040
+I mean, I know that doesn't happen, but they're both valuable, you know, as, as our crypto assets.
+
+01:06:16.040 --> 01:06:22.360
+The crypto assets are utilities that are needed to transact in these networks. Um, and so, uh,
+
+01:06:22.360 --> 01:06:27.160
+I think we just, we got to figure, we got to, uh, people need to understand that and they don't.
+
+01:06:27.160 --> 01:06:29.640
+And so as a result, the rules aren't very good.
+
+01:06:29.640 --> 01:06:36.840
+Good. Next question. How do you choose the projects you support?
+
+01:06:36.840 --> 01:06:43.800
+And I think it's unclear if it means, um, the companies that you as we invest in or the NFT
+
+01:06:43.800 --> 01:06:53.560
+projects that you purchase from, but maybe answer both. Um, so at USB, there's a couple
+
+01:06:53.560 --> 01:06:58.040
+things that are true about USB. One is we have kept the business very small for a reason.
+
+01:06:58.040 --> 01:07:05.160
+Um, it allows us to miss out on 90% of the interesting things and, and not be wounded by that.
+
+01:07:05.160 --> 01:07:11.800
+So there are a lot of great projects that we don't end up funding. Um, and what we try to do is have
+
+01:07:11.800 --> 01:07:17.960
+a very unique thesis that's well researched and that we have a lot of conviction in that leads us
+
+01:07:17.960 --> 01:07:24.200
+to some small subset of all the things in the world that there are, um, and then get involved
+
+01:07:24.200 --> 01:07:32.520
+with them with a lot of conviction. Um, and so we've probably invested in 20 web three projects
+
+01:07:33.960 --> 01:07:40.040
+since I read the Bitcoin white paper in 2011. That's two a year, although more likely it was
+
+01:07:41.800 --> 01:07:47.720
+one, then maybe none, then maybe one, then maybe two, then maybe three. And now it's more like
+
+01:07:47.720 --> 01:07:52.760
+four or five a year. Maybe some, maybe as much as six or seven a year, but in terms of the percentage
+
+01:07:52.760 --> 01:07:57.560
+of interesting web three projects that are getting funded, it's just a tiny, tiny portion. So
+
+01:07:58.920 --> 01:08:06.120
+we are not like some of the more well known crypto funds that invest in 50 or 100 projects a year.
+
+01:08:06.680 --> 01:08:12.440
+And so it doesn't mean that we're being really picky. It just means that
+
+01:08:14.360 --> 01:08:18.280
+or selective on the projects per se, it just means that there's, there's narrow sectors we're
+
+01:08:18.280 --> 01:08:23.080
+interested in. And so we define those sectors and then we try to meet all the people working in them
+
+01:08:23.080 --> 01:08:27.080
+and try to back what we think is the most interesting team and the most interesting project in that
+
+01:08:27.080 --> 01:08:35.880
+sector. So that's how we approach investments at USB. In terms of NFT projects, um, I personally
+
+01:08:35.880 --> 01:08:41.960
+am drawn to generative art. I think it's more interesting than PFPs or some of the other types
+
+01:08:41.960 --> 01:08:49.560
+of NFTs that are out there. I'm very interested in the artists themselves and their personal
+
+01:08:49.560 --> 01:08:56.840
+stories and and why they make the work they make, which is true of also how I think about
+
+01:08:57.400 --> 01:09:07.800
+traditional fine art. And I also like to get things early. So I've not gone out and bought NFTs,
+
+01:09:07.800 --> 01:09:12.760
+you know, that have traded up to millions of dollars of value, although I'm not saying they're
+
+01:09:12.760 --> 01:09:17.480
+not worth it. It's just that's not in my style. I guess I am in in the world of art the way I am
+
+01:09:17.480 --> 01:09:22.120
+in the world of venture capital. I like to get it into things at the ground floor. It's fun for me
+
+01:09:22.120 --> 01:09:30.920
+to do that. So that's what's similar actually between the two. Okay. Next question. What do you
+
+01:09:30.920 --> 01:09:37.960
+think about Tether? I don't know if there's if you have any thoughts about Tether? Um, I don't
+
+01:09:37.960 --> 01:09:49.000
+know any Tether. I'm more comforted by the transparency and audited nature of USDC reserves than Tether
+
+01:09:49.000 --> 01:09:59.800
+reserves. So I think USDC is a is a better offering for that reason. But I don't have any reason to
+
+01:09:59.800 --> 01:10:04.840
+believe that Tether is not fully reserved. I know that there's lots of people who believe that Tether
+
+01:10:04.840 --> 01:10:09.960
+is a house of cards waiting to come down. And it may be it literally may be there've been plenty of
+
+01:10:09.960 --> 01:10:17.400
+those in web three and Tether could be one of them. But I don't you know, I I said earlier that I had
+
+01:10:17.400 --> 01:10:31.400
+a bad feeling about FTX. I don't have quite the same feeling about Tether. I don't I'm not comfortable
+
+01:10:31.400 --> 01:10:43.400
+enough to own it myself. But I'm not also sure that it has issues. And so I would say it is a
+
+01:10:43.400 --> 01:10:55.400
+question mark in my mind. But I think it's likely to be more solid than not. And I also you know,
+
+01:10:55.400 --> 01:11:03.400
+I've seen a lot of interesting things written about whether something needs to be fully reserved
+
+01:11:03.400 --> 01:11:09.400
+or mostly reserved. And there's arguments that something that's 80 or 90% reserved is effectively
+
+01:11:09.400 --> 01:11:17.400
+as good as 100% reserved. I also don't have a fully formed view on that. But I think there's a possibility
+
+01:11:17.400 --> 01:11:22.400
+that the Tether is sufficiently reserved, but maybe not fully reserved. And I don't even know what the word
+
+01:11:22.400 --> 01:11:29.400
+sufficiently means in that context. So I guess I would summarize by saying I have some questions,
+
+01:11:29.400 --> 01:11:35.400
+I have some concerns, not as much as I did about something like FTX. I mean, I don't keep my money
+
+01:11:35.400 --> 01:11:45.400
+in Tether. Okay. It sounds like a balanced and kind of mixed, a balanced answer of a mixed view.
+
+01:11:45.400 --> 01:11:57.400
+Yes. That's right. Next question. How should entrepreneurs or people starting projects who are not
+
+01:11:57.400 --> 01:12:03.400
+based in the United States think about their access to funding? Are they at a disadvantage? Is the
+
+01:12:03.400 --> 01:12:09.400
+environment changing? I mean, I think historically, it was very much the case that if you lived in San Francisco,
+
+01:12:09.400 --> 01:12:17.400
+you had tremendous access to capital. And you remember this. There was a time when people were saying,
+
+01:12:17.400 --> 01:12:22.400
+well, even New York's at a big disadvantage versus San Francisco. And that's, I don't think anyone really
+
+01:12:22.400 --> 01:12:29.400
+believes that's true anymore. But how does the kind of globe, how do you think or how should the
+
+01:12:29.400 --> 01:12:35.400
+entrepreneur think about the global environment for accessing venture capital?
+
+01:12:35.400 --> 01:12:44.400
+I think if this is as a continuum. So 20 years ago, if you were a founder, you weren't in the US. It was very,
+
+01:12:44.400 --> 01:12:50.400
+very hard to access capital. Maybe you could access capital in the UK, or maybe you could access capital in
+
+01:12:50.400 --> 01:13:03.400
+Israel, but it was very, very hard. A lot of markets opened up between 2000 and 2010, and they became
+
+01:13:03.400 --> 01:13:09.400
+dozens of markets, particularly in China during that time period where founders had access to capital.
+
+01:13:09.400 --> 01:13:15.400
+And then the last 10 years, we've seen it open up even more. The pandemic was a huge boon in this regard
+
+01:13:15.400 --> 01:13:22.400
+because capital providers in the US were more willing to meet founders and invest in founders in all parts of the
+
+01:13:22.400 --> 01:13:31.400
+world using the metaverse as opposed to in person meetings. And that is going back a little bit now.
+
+01:13:31.400 --> 01:13:39.400
+I think people are moving a little bit more to in person meetings, but habits have changed. And I think the
+
+01:13:39.400 --> 01:13:48.400
+global markets for early stage companies are more global than they've ever been. And I think you do not need to be in the
+
+01:13:48.400 --> 01:13:57.400
+US to access US capital. And you may not need to even travel to the US to access US capital depending on how compelling a
+
+01:13:57.400 --> 01:14:07.400
+story you can tell and how good you are on video. But it's gotten enormously better for the global founder community
+
+01:14:07.400 --> 01:14:12.400
+that was even 10 years ago.
+
+01:14:12.400 --> 01:14:24.400
+Okay. We got a detailed question that just came on Twitter. I'm going to ask this one. What do you think about the
+
+01:14:24.400 --> 01:14:31.400
+encroachment on the crypto web 3 space by certain trad, fine market makers and hedge funds? How concerned should
+
+01:14:31.400 --> 01:14:39.400
+retail investors be when using platforms created slash influenced by global financial heavyweights? I assume we're talking
+
+01:14:39.400 --> 01:14:43.400
+about firms like Jim and other market makers, right?
+
+01:14:43.400 --> 01:14:53.400
+Yeah. Well, look, I mean, I think it's it is a feature of every capital market that there are whales and there are
+
+01:14:53.400 --> 01:15:00.400
+market makers. And when bad things happen to those whales and market makers, those markets are negatively impacted. This is true
+
+01:15:00.400 --> 01:15:08.400
+in every market. And it is certainly true in the market for web 3 assets as well.
+
+01:15:08.400 --> 01:15:16.400
+So there's some things you can do. You can self custody your assets. You can trade on decentralized finance
+
+01:15:16.400 --> 01:15:20.400
+protocols as opposed to centralized exchanges.
+
+01:15:20.400 --> 01:15:31.400
+But as we've seen with the whole FTX debacle and many others beforehand, when large players in the market get negatively impacted,
+
+01:15:31.400 --> 01:15:38.400
+they have to dump and then the prices of the assets go down. And if you hold those assets, your holdings are going to go down
+
+01:15:38.400 --> 01:15:42.400
+in value, maybe temporarily, maybe permanently.
+
+01:15:42.400 --> 01:15:51.400
+But you will be negatively impacted even if you are using the safety of a self custody solution and a decentralized protocol.
+
+01:15:51.400 --> 01:16:02.400
+You can still be negatively impacted. So, I mean, I don't know that this will ever change because markets, the best capital
+
+01:16:02.400 --> 01:16:10.400
+markets are fully open markets where there's a ton of activity and liquidity, which is good.
+
+01:16:10.400 --> 01:16:18.400
+You want market makers for sure, even though those market makers might be engaging in risky behaviors.
+
+01:16:18.400 --> 01:16:26.400
+And there will be large pools of capital that get built up to trade in those markets and those people can do stupid things.
+
+01:16:26.400 --> 01:16:37.400
+So, I don't know, I am an open markets bias person. I like open platforms. I like open markets.
+
+01:16:37.400 --> 01:16:44.400
+Open platforms have safety issues with them and open markets have safety issues with them.
+
+01:16:44.400 --> 01:16:53.400
+And if we try to make everything safe, we end up with a situation like we have in the US, where only wealthy people can invest in startups.
+
+01:16:53.400 --> 01:17:04.400
+That law is to protect innocent people from getting scammed, but it also protects those innocent people from making the kind of money that I make.
+
+01:17:04.400 --> 01:17:19.400
+And that sucks. So, I am a favor of putting up with the problems that exist with open markets because you get the benefits of it too.
+
+01:17:19.400 --> 01:17:21.400
+Okay.
+
+01:17:21.400 --> 01:17:27.400
+On cognitive time, do you do one more question? One more.
+
+01:17:27.400 --> 01:17:37.400
+We're back to investing. And this question is, there's a couple of parameters. When investing, do you invest in the team first and then their idea?
+
+01:17:37.400 --> 01:17:46.400
+Would you ever invest in a project where the team is in docs and or hasn't accomplished anything previously, which I kind of feel are different things.
+
+01:17:46.400 --> 01:18:07.400
+Answer as you think about it. What we like to do is start with markets and a thesis about those markets and identify sectors and even products that we think are going to be really important in these new markets.
+
+01:18:07.400 --> 01:18:10.400
+And then say we want to go invest in that.
+
+01:18:10.400 --> 01:18:22.400
+Then we want to go meet all the teams that are working in that sector. And then we try to find the best team in a sector that we've already identified that we want to be in.
+
+01:18:22.400 --> 01:18:32.400
+Now, sometimes we use the product and the go to market and the strategy as a indicator of whether or not that team is the best team.
+
+01:18:32.400 --> 01:18:42.400
+So it's not like just we meet the five founders and we say, Oh, we like them better than these five founders. We look at actually what they built. I'm like, Oh my God, that thing that they built is incredible.
+
+01:18:42.400 --> 01:18:59.400
+Therefore, we believe that they are superior team to the other teams we've met in the market. So we are idea first team second, but I think both are necessary for us to get excited about making an investment.
+
+01:18:59.400 --> 01:19:13.400
+Well, thank you so much for your time. I know you're incredibly busy. I know I've been watching the course discord. I've been watching Twitter. I think people have loved the session.
+
+01:19:13.400 --> 01:19:20.400
+We will also make it available. I think by tomorrow. So people can watch it afterwards. So I very much appreciate your time and your thoughts.
+
+01:19:20.400 --> 01:19:30.400
+I'll tell you one thing sessions like this are so valuable for me because I spend an enormous amount of time thinking about things and meeting people.
+
+01:19:30.400 --> 01:19:41.400
+But sessions like this give me an opportunity articulate my ideas in a way that's super helpful for me. Like this five or 10 things that I said.
+
+01:19:41.400 --> 01:19:56.400
+And I don't know if there's a recording of this and I probably wouldn't go back and watch it anyway, but there's five or 10 things I said today that I have never said before that I actually feel we're almost insights that I was having during this conversation.
+
+01:19:56.400 --> 01:20:13.400
+And so it's really, really valuable for me to do these kinds of things and they only work when they're moderated or, you know, where there's there's somebody driving like you who who deeply knowledgeable.
+
+01:20:13.400 --> 01:20:22.400
+And so I appreciate, you know, the fact that you steered this conversation. It's lots of interesting places and I got a lot out of it too.
+
+01:20:22.400 --> 01:20:30.400
+Right, thank you very much and I appreciate those kind words. Great. Take care everybody. Take care. Bye bye.
+
+01:20:52.400 --> 01:21:19.400
+Bye bye.
+
