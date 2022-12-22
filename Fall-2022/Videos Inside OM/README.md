@@ -26,7 +26,11 @@ The following list contains the endpoints (links) to the live sessions recording
 
     - **Week 6.2** - https://arweave.net/9IFjtUIyZO9-Nyjs6k5M6N7Cm1y2l9WARMqhi2LjuXU
 
-- **Week 7: Gaming NFTs** - https://arweave.net/RbjXLOUD8ij_WiCNYz-meHW51RCQBhATMkq09fOyFj0
+- **Week 7: Gaming NFTs**
+
+    - **Week 7.1** - https://arweave.net/RbjXLOUD8ij_WiCNYz-meHW51RCQBhATMkq09fOyFj0
+
+    - **Week 7.2** - https://arweave.net/FefMYPjpqu102I6LG7km4NNGrvyR_YDGLi44HZTCeP0
 
 - **Week 8: What is the Metaverse?** - https://arweave.net/LgqQMxVJP8QWvl-jSMmyn5b67OcHuJKBI-9mfTVMoEw
 
