@@ -86,3 +86,9 @@ Inside this directory you may find the transcripts of the live sessions, were -w
         - .txt - https://arweave.net/k25sq5txKF5nVy7w98JbLOUvpX6WzUCYN7Oas_q26Ws
         - .srt - https://arweave.net/vl3PKZkrsoUCH1OoRzmQJm5HFEYG0k1aqqw5Hulx03Q
         - .vtt - https://arweave.net/w75gEZBNcuJB3vPtJCjcIL3jzdr2bSDv1-AmcBiaBuI
+
+- **Week 11: Representing Off-chain Objects with NFTs**
+    - .txt - https://arweave.net/A6jKW63DPtdJsvKI8l5UcUsfXLM5Z1oqfRqO85KTwwk
+    - .srt - https://arweave.net/-KpYNxy5PDrQpp46G3Uj4LefOZ1ufFn7EejArJXM2Cw
+    - .vtt - https://arweave.net/wZ4aPOtfF5A9yJnh0QTtLbS89pRdvYbtZ_pFLp3-6d0
+
