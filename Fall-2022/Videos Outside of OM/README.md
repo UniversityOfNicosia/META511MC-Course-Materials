@@ -42,7 +42,7 @@ The following list contains the endpoints (links) to the live sessions recording
 
     - **Week 10.2** - https://arweave.net/mPnqQu8a3kreK4voAww_L0d7Xw930ylfCMxxqgeNPFU
 
-    
+- **Week 11: Representing Off-chain Objects with NFTs** - https://arweave.net/gWy8yWS5VlvUw-PJc00OnuV48g_-Mn-S7bPOGhm5pLM
     
 
 **TIP:** Have patience for the loading :D
