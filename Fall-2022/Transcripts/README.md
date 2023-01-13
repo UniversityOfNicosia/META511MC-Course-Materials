@@ -58,9 +58,14 @@ Inside this directory you may find the transcripts of the live sessions, were -w
         - .vtt - https://arweave.net/NitVkukOCHKRewS5S673mW_7u2UaJLAItISzGcumWTc
 
 - **Week 7: Gaming NFTs**
-    - .txt - https://arweave.net/tgDIpRwbo7XTu9Ad5TfLczvjnPJZsvc_ebOHXifsIKM
-    - .srt - https://arweave.net/pz4AGk0cn-UuTtxGS9h1qZqFQCR9psh2AHFxtok2MFI
-    - .vtt - https://arweave.net/tqudZR27JvBcMlcyet4EcYwKuKPa34KevwRte0ltb8o
+    - **Week 7.1**
+        - .txt - https://arweave.net/tgDIpRwbo7XTu9Ad5TfLczvjnPJZsvc_ebOHXifsIKM
+        - .srt - https://arweave.net/pz4AGk0cn-UuTtxGS9h1qZqFQCR9psh2AHFxtok2MFI
+        - .vtt - https://arweave.net/tqudZR27JvBcMlcyet4EcYwKuKPa34KevwRte0ltb8o
+    - **Week 7.2**
+        - .txt - https://arweave.net/8QD1VerRsiqlIe03tThqersYVqKxAnOFws_mkZt_lXY
+        - .srt - https://arweave.net/5UlwoZB5Bu6pz62SiKeWAwT2WGcGSrUOarH4qWj1Y7c
+        - .vtt - https://arweave.net/UYkWW2OvwLaxVeMvdXJm3-3RhMXCiArPj0Rt5US-ezg
 
 - **Week 8: What is a Metaverse?**
     - .txt - https://arweave.net/qLAwrAudhmjVdzMRitEtmPkYzQSvDbh6GzYizKkSIow
