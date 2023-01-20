@@ -43,5 +43,7 @@ The following list contains the endpoints (links) to the live sessions recording
 
 - **Week 11: Representing Off-chain Objects with NFTs** - https://arweave.net/NNZnY30vPJR-joOZnCTpV14ivbx6ID7p2DOLAYNX98U
 
+- **Week 12: Metaverse 2030** - https://arweave.net/dBU9aLT5ZJTRrdik3r_sojOTu8M-5jwQYo6HFXbSXiM
+
 
 NOTE: the video files are stored in a peer-to-peer visual content database. For more : https://ardrive.io/ 
