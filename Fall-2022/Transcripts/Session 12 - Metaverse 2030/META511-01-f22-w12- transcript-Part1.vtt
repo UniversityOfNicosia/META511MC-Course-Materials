@@ -1,0 +1,3827 @@
+WEBVTT
+
+00:00.000 --> 00:22.600
+Hello everyone!
+
+00:22.600 --> 00:29.600
+So welcome to this 12th week of the University of Nicosias
+
+00:29.600 --> 00:33.600
+framework on NFTs and the metaverse.
+
+00:33.600 --> 00:37.600
+I'm Jody Agles and I'm honored and privileged to be joined by
+
+00:37.600 --> 00:42.600
+56529 as always.
+
+00:42.600 --> 00:45.600
+This is an important session today.
+
+00:45.600 --> 00:50.600
+It's not the last one in the course, as I will be explaining
+
+00:50.600 --> 00:53.600
+about the last couple of weeks.
+
+00:53.600 --> 01:00.600
+But today is the last of the, let's call them main or core
+
+01:00.600 --> 01:03.600
+sessions of this course.
+
+01:03.600 --> 01:09.600
+It's the 12th week of this program that 659 and I designed a few
+
+01:09.600 --> 01:17.600
+months ago to provide people with a holistic overview of the
+
+01:17.600 --> 01:22.600
+NFT and metaverse and web3 space.
+
+01:22.600 --> 01:27.600
+And you will be the judges of whether we've done a good job on
+
+01:27.600 --> 01:29.600
+that or not.
+
+01:29.600 --> 01:34.600
+I would like to take this opportunity to once again thank
+
+01:34.600 --> 01:40.600
+659 both for his great insights in designing the course and
+
+01:40.600 --> 01:45.600
+delivering this material, but also for his whole presence in
+
+01:45.600 --> 01:47.600
+this space.
+
+01:47.600 --> 01:52.600
+I think I'm not exaggerating if I say that he has been the
+
+01:52.600 --> 01:58.600
+person that has influenced our thinking on decentralization and
+
+01:58.600 --> 02:02.600
+the need for openness in web3 more than probably anyone else in
+
+02:02.600 --> 02:03.600
+this space.
+
+02:03.600 --> 02:07.600
+Anyway, I would like to, the topic of today's metaverse 2030,
+
+02:07.600 --> 02:13.600
+so it's going to be really interesting to hear 659 views on
+
+02:13.600 --> 02:18.600
+the future of the internet and how it fits with the history of
+
+02:18.600 --> 02:21.600
+its development so far.
+
+02:21.600 --> 02:26.600
+But before doing that, I would like to start by giving you an
+
+02:26.600 --> 02:32.600
+update on course logistics since this is the last course session
+
+02:32.600 --> 02:36.600
+of the course and I know that many of you will have questions
+
+02:36.600 --> 02:41.600
+related to the final exam and how we're going to schedule the next
+
+02:41.600 --> 02:44.600
+few weeks from here.
+
+02:44.600 --> 02:49.600
+Before I start, let me say that as always this is a work in
+
+02:49.600 --> 02:52.600
+progress, this is an experiment that is happening live, we are
+
+02:52.600 --> 02:58.600
+experimenting on how to do a fully on-chain in the metaverse
+
+02:58.600 --> 02:59.600
+course.
+
+02:59.600 --> 03:04.600
+So I know that I'm not going to answer all your questions related
+
+03:04.600 --> 03:06.600
+to the exams today.
+
+03:06.600 --> 03:09.600
+There are some things that we're still thinking about and we will
+
+03:09.600 --> 03:14.600
+finalize in the coming weeks, but I'm going to give you our
+
+03:14.600 --> 03:17.600
+thinking as it is now.
+
+03:17.600 --> 03:21.600
+I'm going to announce a few things that you need to know in
+
+03:21.600 --> 03:24.600
+order to prepare and take the final exams.
+
+03:24.600 --> 03:28.600
+But if you have additional questions, please post them on
+
+03:28.600 --> 03:35.600
+Twitter, on Discord and in the OM today and in the next weeks.
+
+03:35.600 --> 03:41.600
+So even those questions that we will not answer today, we are
+
+03:41.600 --> 03:46.600
+creating an FAQ section both on the course website and on this
+
+03:46.600 --> 03:50.600
+court as a pinned message in the course channel.
+
+03:50.600 --> 03:54.600
+So we will be adding answers to your questions as they come
+
+03:54.600 --> 03:57.600
+along in the next few days and weeks.
+
+03:57.600 --> 04:03.600
+So let me start by addressing a little bit the final exam.
+
+04:03.600 --> 04:08.600
+First of all, I guess everyone will want to know when and where
+
+04:08.600 --> 04:12.600
+will the exams take place.
+
+04:12.600 --> 04:18.600
+We are, as I said, we have a couple of, not a couple, quite a few
+
+04:18.600 --> 04:22.600
+guest sessions following up in the next couple of weeks.
+
+04:22.600 --> 04:27.600
+So we are scheduling the exams for the second half of February.
+
+04:27.600 --> 04:32.600
+So between the 15th and the 28th of February, we will announce
+
+04:32.600 --> 04:36.600
+the exact date and time soon.
+
+04:36.600 --> 04:40.600
+What we do in other MOOCs, those of you that have taken one of
+
+04:40.600 --> 04:44.600
+University of Megosea's other MOOCs will know it, is that we
+
+04:44.600 --> 04:49.600
+usually keep the exam open for a full 24-hour period.
+
+04:49.600 --> 04:53.600
+So you will have like two hours to finish the exam from the time
+
+04:53.600 --> 04:58.600
+you started, but you can start it at any time during the day that
+
+04:58.600 --> 04:59.600
+the exam is open.
+
+04:59.600 --> 05:03.600
+I think this is the model that we will be following this time as
+
+05:03.600 --> 05:07.600
+well, but we'll give you details as soon as we have them.
+
+05:07.600 --> 05:12.600
+What I can say at this stage is that as we do everything in this
+
+05:12.600 --> 05:16.600
+course, the exam will be held on say, and I will explain later
+
+05:16.600 --> 05:18.600
+on what this means.
+
+05:18.600 --> 05:20.600
+Who can participate in the exam?
+
+05:20.600 --> 05:23.600
+You will need the course access token in your wallet.
+
+05:23.600 --> 05:27.600
+So as you know, we don't know you by name.
+
+05:27.600 --> 05:32.600
+We have registered students in this course by having everyone
+
+05:32.600 --> 05:36.600
+mint a course access token.
+
+05:36.600 --> 05:41.600
+We didn't, we made the decision not to use this token to
+
+05:41.600 --> 05:44.600
+to gate and control access to the course material.
+
+05:44.600 --> 05:48.600
+We wanted to have all the material available to everyone because
+
+05:48.600 --> 05:52.600
+this is, you know, the model of free education that we
+
+05:52.600 --> 05:57.600
+believe in, but you will need the course access token to be able
+
+05:57.600 --> 05:58.600
+to access the final exam.
+
+05:58.600 --> 06:03.600
+So make sure that you do have the token and you know in which
+
+06:03.600 --> 06:07.600
+wallet, in which Ethereum address this is stored because this
+
+06:07.600 --> 06:12.600
+is the Ethereum address with which you will need to log in the
+
+06:12.600 --> 06:17.600
+exam website when the time comes to take the exam.
+
+06:17.600 --> 06:19.600
+What's the format of the exam?
+
+06:19.600 --> 06:23.600
+It's going to be a multiple choice quiz, most likely consisting
+
+06:23.600 --> 06:27.600
+of 50 multiple choice questions.
+
+06:27.600 --> 06:32.600
+Each question having up to four possible answers of which in
+
+06:32.600 --> 06:35.600
+some questions one answer will be correct.
+
+06:35.600 --> 06:39.600
+Other questions might have multiple correct answers and the
+
+06:39.600 --> 06:44.600
+different types of questions will be noted in the exam.
+
+06:44.600 --> 06:45.600
+What is the passing grade?
+
+06:45.600 --> 06:50.600
+You will need to score 60% or higher in the exam in order to
+
+06:50.600 --> 06:54.600
+pass it and if you pass the exam and you want to do so, you
+
+06:54.600 --> 07:00.600
+will be able to claim the certificate of completion NFT that
+
+07:00.600 --> 07:05.600
+we will give to students that pass the exam.
+
+07:05.600 --> 07:08.600
+How will this certificate be sent?
+
+07:08.600 --> 07:12.600
+Those of you that have passed the exam will be allowed listed to
+
+07:12.600 --> 07:16.600
+meet the certificate as an Ethereum NFT as we've said from
+
+07:16.600 --> 07:21.600
+the beginning the minting course will be 0.25 Ether plus the
+
+07:21.600 --> 07:27.600
+gas fees that you will need to pay depending on the on the
+
+07:27.600 --> 07:31.600
+gas on Ethereum at the time of minting.
+
+07:31.600 --> 07:36.600
+Again, I need to stress that this is not a mandatory step.
+
+07:36.600 --> 07:39.600
+You can take the exam, you can pass the exam and still not
+
+07:39.600 --> 07:43.600
+claim the NFT certificate of completion so everything will
+
+07:43.600 --> 07:48.600
+be 100% free for you.
+
+07:48.600 --> 07:49.600
+How do you prepare for the exam?
+
+07:49.600 --> 07:52.600
+What material you need to study?
+
+07:52.600 --> 07:56.600
+We will be basing the multiple choice questions on the material
+
+07:56.600 --> 07:59.600
+that is included in the main presentation slides.
+
+07:59.600 --> 08:04.600
+When I say main presentation slides, I mean the 12 decks that
+
+08:04.600 --> 08:09.600
+comprise the weeks 1 to 12 of this course.
+
+08:09.600 --> 08:13.600
+All these presentations are accessible in GitHub.
+
+08:13.600 --> 08:18.600
+You know the address and it's also linked in the course website.
+
+08:18.600 --> 08:24.600
+And you may want to watch the video sessions in which
+
+08:24.600 --> 08:29.600
+6529i and guests have been presenting the slides.
+
+08:29.600 --> 08:31.600
+I think this will help you prepare the exam.
+
+08:31.600 --> 08:36.600
+But you should be able to take the exam and prepare for it by
+
+08:36.600 --> 08:39.600
+reading through the presentation slides.
+
+08:39.600 --> 08:42.600
+The guest sessions are optional.
+
+08:42.600 --> 08:44.600
+I think they have been super interesting.
+
+08:44.600 --> 08:47.600
+I think the ones that are coming up are also super interesting.
+
+08:47.600 --> 08:52.600
+But we will not have any questions drawing from material that
+
+08:52.600 --> 08:56.600
+has not been addressed in the main presentations and has only
+
+08:56.600 --> 09:00.600
+been discussed in the optional session.
+
+09:00.600 --> 09:04.600
+Some of you will not have the access token because they joined
+
+09:04.600 --> 09:05.600
+the course later.
+
+09:05.600 --> 09:09.600
+As I said, we made a decision not to make this mandatory, but
+
+09:09.600 --> 09:12.600
+we still want to take the exam.
+
+09:12.600 --> 09:14.600
+I'm afraid this is not possible.
+
+09:14.600 --> 09:18.600
+So you will not be able to take the exam unless you have the
+
+09:18.600 --> 09:20.600
+course access token.
+
+09:20.600 --> 09:25.600
+At this point in time, your best bet is to go to the secondary
+
+09:25.600 --> 09:27.600
+market and acquire it.
+
+09:27.600 --> 09:30.600
+It is pretty cheap.
+
+09:30.600 --> 09:34.600
+I mean, I sacked this morning and the floor price for the
+
+09:34.600 --> 09:36.600
+unique access token on open C was less than $5.
+
+09:36.600 --> 09:41.600
+So I hope this would not be an obstacle for anyone that wants
+
+09:41.600 --> 09:42.600
+to take the exam.
+
+09:42.600 --> 09:47.600
+If for any reason you do not want, you cannot acquire the
+
+09:47.600 --> 09:51.600
+course access token, then your other option is obviously to wait
+
+09:51.600 --> 09:53.600
+until the next iteration of the course.
+
+09:53.600 --> 09:57.600
+I don't want to commit 65 to 9 to anything that we've been
+
+09:57.600 --> 10:01.600
+discussing how we are going to repeat this with updated material
+
+10:01.600 --> 10:03.600
+and new guests in the future.
+
+10:03.600 --> 10:08.600
+So those of you that for whatever reason do not want or cannot
+
+10:08.600 --> 10:12.600
+take the exam at this point in time, there will be opportunities
+
+10:12.600 --> 10:13.600
+in the future.
+
+10:13.600 --> 10:17.600
+Although, obviously, this is the genesis cohort of this class.
+
+10:17.600 --> 10:22.600
+So I guess receiving the NFT of completion might have a
+
+10:22.600 --> 10:27.600
+sentimental value for everyone in the future.
+
+10:27.600 --> 10:30.600
+You will be able to find more information on as always on
+
+10:30.600 --> 10:35.600
+our Twitter account, the unique metaverse, our Discord channel,
+
+10:35.600 --> 10:36.600
+join unique.
+
+10:36.600 --> 10:41.600
+We will be announcing the date and all details about the exam
+
+10:41.600 --> 10:42.600
+there.
+
+10:42.600 --> 10:47.600
+Some more technical information about how the exam will take
+
+10:47.600 --> 10:48.600
+place.
+
+10:48.600 --> 10:52.600
+You don't really need to know this, but just to give you a
+
+10:52.600 --> 10:56.600
+glimpse of what's happening under the hood as we are preparing
+
+10:56.600 --> 10:57.600
+for the exam.
+
+10:57.600 --> 11:02.600
+As I've said, we want to make the exam fully on saying so you
+
+11:02.600 --> 11:07.600
+will be able to access the exam through your browser.
+
+11:07.600 --> 11:12.600
+The exam itself, so the exam paper will be minted as an NFT
+
+11:12.600 --> 11:14.600
+token that will be encrypted.
+
+11:14.600 --> 11:19.600
+So unless you have the course access token, you will be able
+
+11:19.600 --> 11:26.600
+to see this NFT, you will be able to check its meta data, but
+
+11:26.600 --> 11:31.600
+you will not be able to access the actual content of the exam.
+
+11:31.600 --> 11:36.600
+Obviously, you will need to connect your meta mask or other
+
+11:36.600 --> 11:39.600
+Ethereum compatible wallet that contains the course access
+
+11:39.600 --> 11:43.600
+token, as I've said, to be able to access the exam.
+
+11:43.600 --> 11:47.600
+Once you do so, once you access the exam, your browser will be
+
+11:47.600 --> 11:51.600
+revealing the questions, whether this will be 50 or another
+
+11:51.600 --> 11:55.600
+number, we still haven't finalized, but the questions will be
+
+11:55.600 --> 11:57.600
+revealed to you one by one.
+
+11:57.600 --> 12:00.600
+You will be able to answer the question, each question, and
+
+12:00.600 --> 12:01.600
+move to the next.
+
+12:01.600 --> 12:05.600
+And at the end of the quiz, you will be asked by your wallet
+
+12:05.600 --> 12:10.600
+to sign your responses before sending them for validation.
+
+12:10.600 --> 12:15.600
+Once this happens, your responses will be recorded on the
+
+12:15.600 --> 12:18.600
+Ethereum blockchain, there will be a transaction that's going
+
+12:18.600 --> 12:21.600
+to be broadcasted on the network.
+
+12:21.600 --> 12:27.600
+We're working on a zero-no-letproof architecture that will
+
+12:27.600 --> 12:32.600
+preserve both your personal privacy and the privacy of your
+
+12:32.600 --> 12:34.600
+answers from everyone.
+
+12:34.600 --> 12:39.600
+So no one will be able to see your responses, but you will
+
+12:39.600 --> 12:43.600
+be able to validate that you have actually taken the exam
+
+12:43.600 --> 12:45.600
+and submitted these responses.
+
+12:45.600 --> 12:48.600
+Your final grade will be automatically computed.
+
+12:48.600 --> 12:53.600
+Our idea is that we will not grade the exams manually, but we
+
+12:53.600 --> 12:58.600
+will have the smart contract of the exam doing the computation
+
+12:58.600 --> 13:03.600
+and revealing your final grade to you, along with the
+
+13:03.600 --> 13:07.600
+cryptographic proof that verifying the whole process,
+
+13:07.600 --> 13:12.600
+and if you have passed, then your personal NFT certificate of
+
+13:12.600 --> 13:16.600
+completion will be minted, will be rendered on your screen,
+
+13:16.600 --> 13:21.600
+and if you want, you will be able to mint it as an NFT and store
+
+13:21.600 --> 13:25.600
+it in your personal wallet for perpetuity.
+
+13:25.600 --> 13:30.600
+At this point in time, we haven't decided on details regarding
+
+13:30.600 --> 13:35.600
+the look, feel, and characteristics of the completeness
+
+13:35.600 --> 13:37.600
+NFT.
+
+13:37.600 --> 13:41.600
+So for example, we're still debating whether this should be a
+
+13:41.600 --> 13:44.600
+sold-bound token or not, whether you should be able,
+
+13:44.600 --> 13:49.600
+obviously you won't be able to sell it, but we understand that
+
+13:49.600 --> 13:56.600
+people might want to transfer it to other wallets that they own.
+
+13:56.600 --> 14:02.600
+So we will be working on a design that preserves these first
+
+14:02.600 --> 14:05.600
+principles.
+
+14:05.600 --> 14:10.600
+Needless to say, if any of you have further questions, have ideas
+
+14:10.600 --> 14:15.600
+regarding how we should go about doing a fully on-site privacy
+
+14:15.600 --> 14:20.600
+preserving exam and how we should be designing the course
+
+14:20.600 --> 14:25.600
+completion certificate, please reach out to me via email or on
+
+14:25.600 --> 14:28.600
+Twitter or on Discord.
+
+14:28.600 --> 14:33.600
+I'll be more than happy to hear your ideas and discuss them with
+
+14:33.600 --> 14:36.600
+6.5 to 9.
+
+14:36.600 --> 14:42.600
+Now finally, before I give the floor to 6.5 to 9, I told you
+
+14:42.600 --> 14:47.600
+that although this is the final course session of the course,
+
+14:47.600 --> 14:51.600
+we have at least five very, very important sessions coming up
+
+14:51.600 --> 14:56.600
+with guests happening next week and the week after.
+
+14:56.600 --> 15:02.600
+So we will have a panel, four panel discussions, one about
+
+15:02.600 --> 15:07.600
+the metaverse, one on generative art, one on NFT photography,
+
+15:07.600 --> 15:10.600
+and one on crypto-art NFTs.
+
+15:10.600 --> 15:13.600
+As you see in this slide, I'm not going to go through the
+
+15:13.600 --> 15:15.600
+names.
+
+15:15.600 --> 15:20.600
+It's a super impressive list of people participating in this
+
+15:20.600 --> 15:24.600
+panel, so I would encourage you to attend all of them if you can
+
+15:24.600 --> 15:27.600
+attend the course of the course.
+
+15:27.600 --> 15:32.600
+And we will have a final discussion closing this course with
+
+15:32.600 --> 15:39.600
+none other than Balaji Srinivasan alongside
+
+15:39.600 --> 15:46.600
+Pangci 5 to 9, one of my top favorite thinkers in this space.
+
+15:46.600 --> 15:52.600
+The author of the network state, if you have missed his latest
+
+15:52.600 --> 15:56.600
+book, I strongly encourage you to read it.
+
+15:56.600 --> 16:00.600
+We were talking with Balaji and we're trying to fix a date for
+
+16:00.600 --> 16:05.600
+having him live in the course, so we will be announcing this soon.
+
+16:05.600 --> 16:09.600
+We should be finishing with all these panels in the first week
+
+16:09.600 --> 16:10.600
+of February.
+
+16:10.600 --> 16:15.600
+That's why I said second week or later will be the date of
+
+16:15.600 --> 16:16.600
+exam.
+
+16:16.600 --> 16:18.600
+So that's all from me.
+
+16:18.600 --> 16:23.600
+Once again, if you have questions regarding to the course
+
+16:23.600 --> 16:28.600
+logistics final exam or course certificate, please hit me up
+
+16:28.600 --> 16:35.600
+on Discord, Twitter or via email and monitor these channels as we
+
+16:35.600 --> 16:41.600
+will be updating our FAQs regarding this material.
+
+16:41.600 --> 16:45.600
+Without further ado, I'm going to give the floor to 6.5 to 9
+
+16:45.600 --> 16:50.600
+now to take us through the topic of the day, which is
+
+16:50.600 --> 16:53.600
+metaverse 23rd in the vision of the future of work theory.
+
+16:53.600 --> 16:54.600
+Thank you.
+
+16:54.600 --> 16:57.600
+Thank you, George.
+
+16:57.600 --> 17:00.600
+And I know it was just a good point.
+
+17:00.600 --> 17:03.600
+All of you might happen earlier than some of you, so you might not
+
+17:03.600 --> 17:07.600
+close with Balaji and I was talking to him today.
+
+17:07.600 --> 17:09.600
+And so that might happen in the next few days.
+
+17:09.600 --> 17:12.600
+Maybe depends on trying to schedule for the last few weeks.
+
+17:12.600 --> 17:18.600
+And it's possible we have a couple of other sessions between
+
+17:18.600 --> 17:25.600
+the panels and the, um, what's the word I'm looking for?
+
+17:25.600 --> 17:30.600
+And the examination, depending on when your team is ready with
+
+17:30.600 --> 17:31.600
+the exam.
+
+17:31.600 --> 17:39.600
+But I think as a general rule, we still have quite a few great
+
+17:39.600 --> 17:42.600
+speakers on panels coming.
+
+17:42.600 --> 17:49.600
+So I'm really excited about this and look forward to the last few
+
+17:49.600 --> 17:51.600
+weeks of the course.
+
+17:51.600 --> 17:52.600
+All right.
+
+17:52.600 --> 17:57.600
+Today's session is going to be highly conceptual.
+
+17:57.600 --> 18:03.600
+There are not, this is not something that has a lot of
+
+18:03.600 --> 18:07.600
+detailed material out in the world.
+
+18:07.600 --> 18:12.600
+I believe it is a topic that is generally poorly understood,
+
+18:12.600 --> 18:20.600
+underthought about, and definitely vastly under worried about,
+
+18:20.600 --> 18:25.600
+um, by not just the average person.
+
+18:25.600 --> 18:27.600
+It's not too surprising.
+
+18:27.600 --> 18:32.600
+But even by people who should know better, even by policymakers,
+
+18:32.600 --> 18:37.600
+even by advocates for democracy, even by advocates for
+
+18:37.600 --> 18:38.600
+constitutional rights.
+
+18:38.600 --> 18:46.600
+Um, there is a small number of us, biology as George mentioned,
+
+18:46.600 --> 18:53.600
+but also folks like John Rob would deeply worried about this.
+
+18:53.600 --> 19:01.600
+And like 99.999999% of the world who hasn't thought about the
+
+19:01.600 --> 19:06.600
+world, who hasn't thought about this at all, is not worried about
+
+19:06.600 --> 19:07.600
+it at all.
+
+19:07.600 --> 19:12.600
+And quite frankly, if you talk about it with them, they might think
+
+19:12.600 --> 19:15.600
+this is all a bit absurd.
+
+19:15.600 --> 19:17.600
+Um, but I'm sure it's not absurd.
+
+19:17.600 --> 19:21.600
+And I'll try and give a sense of what I'm worried about, what I
+
+19:21.600 --> 19:22.600
+think we can do.
+
+19:22.600 --> 19:26.600
+And in all cases, actually, it's quite challenging.
+
+19:26.600 --> 19:31.600
+So, oh, that slides wrong.
+
+19:31.600 --> 19:32.600
+Okay.
+
+19:32.600 --> 19:37.600
+Let's start with what is the Internet?
+
+19:37.600 --> 19:43.600
+And, you know, for someone who might be joining the Internet now,
+
+19:43.600 --> 19:55.600
+in 2020 or 2023 or 2010, as a mature system with large applications,
+
+19:55.600 --> 20:00.600
+it might not be exactly obvious what the Internet is or what it was
+
+20:00.600 --> 20:01.600
+designed to be.
+
+20:01.600 --> 20:04.600
+And what it was designed to be is very simple.
+
+20:04.600 --> 20:10.600
+It was designed to be a network of networks.
+
+20:10.600 --> 20:15.600
+The way to imagine it is to think that there was a time where people
+
+20:15.600 --> 20:22.600
+had a variety of their own networks within an office, within a
+
+20:22.600 --> 20:26.600
+government, within an academic institution.
+
+20:26.600 --> 20:30.600
+And those networks did not necessarily interoperate with each other,
+
+20:30.600 --> 20:33.600
+did not necessarily communicate with each other.
+
+20:33.600 --> 20:42.600
+And the idea behind the Internet wasn't to build the one top
+
+20:42.600 --> 20:47.600
+down network that everyone has to use.
+
+20:47.600 --> 20:55.600
+The idea was to allow people to make their networks interoperate
+
+20:55.600 --> 20:56.600
+with each other.
+
+20:56.600 --> 21:01.600
+A network of networks.
+
+21:01.600 --> 21:03.600
+Not a network.
+
+21:03.600 --> 21:10.600
+And if you go back to 1972, famously, the Internet was in some
+
+21:10.600 --> 21:12.600
+ways invented a DARPA.
+
+21:12.600 --> 21:16.600
+The Defense Advanced Research Project Agency of the United
+
+21:16.600 --> 21:18.600
+States government.
+
+21:18.600 --> 21:24.600
+And as the theory went back then, it was designed to create a
+
+21:24.600 --> 21:29.600
+communication network that would be resilient to a nuclear attack
+
+21:29.600 --> 21:33.600
+because it would be decentralized, because it would be one point
+
+21:33.600 --> 21:35.600
+of failure.
+
+21:35.600 --> 21:42.600
+And the original four concepts behind the Internet were these
+
+21:42.600 --> 21:46.600
+following, and it goes to the theory of a network of networks.
+
+21:46.600 --> 21:48.600
+So it was actually, we should actually read them, they're
+
+21:48.600 --> 21:51.600
+interesting.
+
+21:51.600 --> 21:55.600
+But each network had to stand on its own, and no internal changes
+
+21:55.600 --> 21:58.600
+could be required of each network before being connected to
+
+21:58.600 --> 21:59.600
+Internet.
+
+21:59.600 --> 22:04.600
+So this makes sense if you communicate among your devices
+
+22:04.600 --> 22:11.600
+within your own network, in your house or business.
+
+22:11.600 --> 22:15.600
+You don't have to change how you do that so long as you then
+
+22:15.600 --> 22:19.600
+communicate in the standard-based way once you connect to the
+
+22:19.600 --> 22:20.600
+Internet.
+
+22:20.600 --> 22:23.600
+Now in practice, most internal networks now are also
+
+22:23.600 --> 22:26.600
+communicating in a similar way as the Internet.
+
+22:26.600 --> 22:32.600
+But that was not and is not a design protocol.
+
+22:32.600 --> 22:37.600
+Second, communication is a best efforts exercise.
+
+22:37.600 --> 22:41.600
+So you try and move the packets forward.
+
+22:41.600 --> 22:44.600
+If it doesn't work, you retranslate, you try again.
+
+22:44.600 --> 22:49.600
+It gives redundancy resilience.
+
+22:49.600 --> 22:52.600
+Quote unquote black boxes, and it's funny because our black
+
+22:52.600 --> 22:57.600
+boxes have been, it's entered the vernacular for a whole
+
+22:57.600 --> 23:02.600
+variety of usages.
+
+23:02.600 --> 23:07.600
+But what we mean really are the routers in the gateways.
+
+23:07.600 --> 23:11.600
+Connect the networks and they don't.
+
+23:11.600 --> 23:13.600
+They're not content aware.
+
+23:13.600 --> 23:15.600
+They're a black box.
+
+23:15.600 --> 23:16.600
+They just move.
+
+23:16.600 --> 23:20.600
+They just move the data further down.
+
+23:20.600 --> 23:25.600
+And for our purposes, the last one is the most important,
+
+23:25.600 --> 23:31.600
+which is no global control at the operations level.
+
+23:31.600 --> 23:40.600
+There's no one place that is in charge of the Internet.
+
+23:40.600 --> 23:45.600
+There's no CEO of the Internet.
+
+23:45.600 --> 23:49.600
+There's no Internet incorporated.
+
+23:49.600 --> 23:58.600
+There's not one person or function or organization whose
+
+23:58.600 --> 24:05.600
+permission you need to ask to use the Internet.
+
+24:05.600 --> 24:06.600
+Why?
+
+24:06.600 --> 24:09.600
+Because the Internet is not a thing in and of itself.
+
+24:09.600 --> 24:12.600
+It's a way for people's individual networks to communicate
+
+24:12.600 --> 24:15.600
+with each other.
+
+24:15.600 --> 24:20.600
+It is perfectly possible that say the University of
+
+24:20.600 --> 24:24.600
+Macansea says, if you want to be on my internal network,
+
+24:24.600 --> 24:28.600
+you have to get the permission of the IT network.
+
+24:28.600 --> 24:29.600
+Makes sense.
+
+24:29.600 --> 24:32.600
+That's their network.
+
+24:32.600 --> 24:39.600
+But there's nobody whose permission you have to ask to
+
+24:39.600 --> 24:44.600
+start transmitting packets across the Internet.
+
+24:44.600 --> 24:46.600
+And this has two implications.
+
+24:46.600 --> 24:51.600
+The first implication is that everything we're going to
+
+24:51.600 --> 24:56.600
+talk about relating to decentralization is not some type
+
+24:56.600 --> 25:05.600
+of radical anarchist thing that nobody has ever done before.
+
+25:05.600 --> 25:09.600
+This is quite literally how the Internet works.
+
+25:09.600 --> 25:14.600
+And I'm pretty sure everyone agrees that the Internet has
+
+25:14.600 --> 25:18.600
+been an immense boon to global society.
+
+25:18.600 --> 25:22.600
+And the fact that we can communicate globally with each
+
+25:22.600 --> 25:26.600
+other in all types of ways is a huge plus for humanity.
+
+25:26.600 --> 25:33.600
+And then the second part is a huge reason the Internet has
+
+25:33.600 --> 25:39.600
+become, what the Internet has become, is because you do not
+
+25:39.600 --> 25:45.600
+need someone's permission to connect a server to the Internet
+
+25:45.600 --> 25:49.600
+and start serving data.
+
+25:49.600 --> 25:53.600
+If this was, and I know it might be hard for people to
+
+25:53.600 --> 26:03.600
+conceptualize, but there was a time where before the app stores,
+
+26:03.600 --> 26:05.600
+it's funny because the app stores are also permissioned,
+
+26:05.600 --> 26:08.600
+but it's even easier to think about this one, where the phone
+
+26:08.600 --> 26:14.600
+carriers decided what applications would run your phones.
+
+26:14.600 --> 26:20.600
+And so if you wanted to have, you made a new application,
+
+26:20.600 --> 26:25.600
+let's say you made WhatsApp.
+
+26:25.600 --> 26:38.600
+You have to go to AT&T and say, I would like to convince you
+
+26:38.600 --> 26:47.600
+to allow me to use WhatsApp to install WhatsApp on the
+
+26:47.600 --> 26:49.600
+devices of the network.
+
+26:49.600 --> 26:53.600
+In AT&T, I'm going to say, oh, what does WhatsApp do?
+
+26:53.600 --> 26:57.600
+Oh, it's free text messages, basically.
+
+26:57.600 --> 26:58.600
+Except it's better.
+
+26:58.600 --> 27:00.600
+It's better than text messages.
+
+27:00.600 --> 27:04.600
+You can do pictures, videos.
+
+27:04.600 --> 27:10.600
+But this is going to compete with my text messaging services.
+
+27:10.600 --> 27:11.600
+Oh, yeah, yeah, yeah.
+
+27:11.600 --> 27:12.600
+It's better than that.
+
+27:12.600 --> 27:14.600
+People are going to like it more.
+
+27:14.600 --> 27:20.600
+And AT&T is going to say, well, you want me to sign off and
+
+27:20.600 --> 27:28.600
+give you access to all of my brand and customers and
+
+27:28.600 --> 27:31.600
+installed base so you can compete with me.
+
+27:31.600 --> 27:34.600
+You're saying, oh, that sounds good, right?
+
+27:34.600 --> 27:35.600
+I'm going to jump in the lake.
+
+27:35.600 --> 27:39.600
+Of course, I'm not going to let you run in my network.
+
+27:39.600 --> 27:42.600
+Or let's say you're going to take the other end of the
+
+27:42.600 --> 27:43.600
+spectrum.
+
+27:43.600 --> 27:46.600
+You say, here's my application.
+
+27:46.600 --> 27:48.600
+Oh, what does your application do?
+
+27:48.600 --> 27:52.600
+And if you press the button in your application,
+
+27:52.600 --> 27:56.600
+it makes farting sounds.
+
+27:56.600 --> 27:59.600
+Excuse me, what do you mean it makes farting sounds?
+
+27:59.600 --> 28:03.600
+I mean, the phone will make a farting sound.
+
+28:03.600 --> 28:06.600
+You're now AT&T.
+
+28:06.600 --> 28:10.600
+Ma Bell, the glory of the American telecommunications
+
+28:10.600 --> 28:12.600
+industry.
+
+28:12.600 --> 28:21.600
+You say, you expect me, under the AT&T brand, to make available
+
+28:21.600 --> 28:25.600
+to my customers.
+
+28:25.600 --> 28:29.600
+The parents of America, the mothers and fathers of America,
+
+28:29.600 --> 28:35.600
+you want me to make available a farting up?
+
+28:35.600 --> 28:37.600
+I'll get fired.
+
+28:37.600 --> 28:40.600
+The board of directors will, someone will show a board
+
+28:40.600 --> 28:43.600
+and there will be shocked, horrified, and they'll fire me.
+
+28:43.600 --> 28:48.600
+Of course, you can't have a farting up.
+
+28:48.600 --> 28:54.600
+And you might say, oh, I don't know, the farting up
+
+28:54.600 --> 28:55.600
+existence.
+
+28:55.600 --> 28:57.600
+Maybe it should, maybe it shouldn't.
+
+28:57.600 --> 29:02.600
+But the important point is, once you build these choke points
+
+29:02.600 --> 29:12.600
+in, they will be used for the purposes of the organization.
+
+29:12.600 --> 29:16.600
+They will be used for the purposes and business objectives
+
+29:16.600 --> 29:19.600
+of the organization, whether they are very serious business
+
+29:19.600 --> 29:20.600
+objectives.
+
+29:20.600 --> 29:24.600
+They don't want someone to compete with their text message
+
+29:24.600 --> 29:26.600
+insurance.
+
+29:26.600 --> 29:29.600
+Or maybe their indirect business objectives.
+
+29:29.600 --> 29:33.600
+A brand manager of AT&T or the CEO of AT&T thinks the AT&T
+
+29:33.600 --> 29:37.600
+brand stands for something and that something doesn't include
+
+29:37.600 --> 29:41.600
+farts.
+
+29:41.600 --> 29:45.600
+The Internet is not like that.
+
+29:45.600 --> 29:48.600
+You can connect to the Internet.
+
+29:48.600 --> 29:51.600
+Make a website.
+
+29:51.600 --> 29:54.600
+Press a button on the website and your website can make
+
+29:54.600 --> 29:56.600
+farting sounds.
+
+29:56.600 --> 30:01.600
+No one can tell you, oh, this is very brand inappropriate for
+
+30:01.600 --> 30:02.600
+the Internet.
+
+30:02.600 --> 30:04.600
+We can't allow this.
+
+30:04.600 --> 30:06.600
+You're going to have to take this down because it's just a
+
+30:06.600 --> 30:07.600
+communication protocol.
+
+30:07.600 --> 30:09.600
+It's a way to connect the network.
+
+30:09.600 --> 30:10.600
+It's a network of networks.
+
+30:10.600 --> 30:13.600
+It's a way for networks to talk to each other.
+
+30:13.600 --> 30:20.600
+And the fact that we can do silly things, important things,
+
+30:20.600 --> 30:25.600
+things that seem silly but then turn out to be important,
+
+30:25.600 --> 30:28.600
+Twitter to me is the definitive example.
+
+30:28.600 --> 30:32.600
+Everyone thought Twitter was absurd at first.
+
+30:32.600 --> 30:34.600
+Not that important.
+
+30:34.600 --> 30:40.600
+And now it's a major communication platform for presidents
+
+30:40.600 --> 30:43.600
+and prime ministers.
+
+30:43.600 --> 30:46.600
+But this was also true of Facebook.
+
+30:46.600 --> 30:48.600
+You can read things from Facebook first started.
+
+30:48.600 --> 30:52.600
+Oh, what a terrible idea.
+
+30:52.600 --> 31:00.600
+It's a platform for college kids who have no money and have
+
+31:00.600 --> 31:04.600
+nothing better to do to chat with each other.
+
+31:04.600 --> 31:06.600
+This doesn't sound very serious.
+
+31:06.600 --> 31:11.600
+This was the public process at the beginning of Facebook.
+
+31:11.600 --> 31:12.600
+Why would this be worth anything?
+
+31:12.600 --> 31:14.600
+Why does this matter?
+
+31:14.600 --> 31:20.600
+And so societies are better when they allow you to
+
+31:20.600 --> 31:27.600
+permissionly innovate because there will be many bad ideas.
+
+31:27.600 --> 31:31.600
+Like Facebook and Twitter, you know, Facebook and Twitter
+
+31:31.600 --> 31:33.600
+have survivorship bias.
+
+31:33.600 --> 31:37.600
+There were many, many ideas tried on the Internet, most of
+
+31:37.600 --> 31:41.600
+which tried and failed.
+
+31:41.600 --> 31:45.600
+But the ones that succeeded changed the world.
+
+31:45.600 --> 31:49.600
+And those typically don't come from some central planning type
+
+31:49.600 --> 31:52.600
+function they come from.
+
+31:52.600 --> 31:54.600
+The marketplace of ideas.
+
+31:54.600 --> 31:59.600
+So one, I just made a utility based case for society society
+
+31:59.600 --> 32:02.600
+who have better products and services if you let people
+
+32:02.600 --> 32:06.740
+go to their own
+
+32:06.740 --> 32:10.740
+business.
+
+32:10.740 --> 32:16.740
+But there's also a human dignity, human expression, human freedom case.
+
+32:16.740 --> 32:22.740
+A world where you're allowed to make a farting application,
+
+32:22.740 --> 32:26.740
+a specific one, picking that type of example.
+
+32:26.740 --> 32:31.740
+Obviously I picked an example that says a world where you're allowed to make a website to teach
+
+32:31.740 --> 32:35.740
+mathematics.
+
+32:35.740 --> 32:39.740
+Of course our centralized services are going to allow you to make websites to teach mathematics.
+
+32:39.740 --> 32:43.740
+How free a society is, how many rights and how much
+
+32:43.740 --> 32:51.740
+do you have as a citizen of a society, is when you're allowed to do things that
+
+32:51.740 --> 32:55.740
+poke front of the people in the know.
+
+32:55.740 --> 32:59.740
+Or maybe not as desirable by the people in the know.
+
+32:59.740 --> 33:03.740
+Our view is possibly not having dignity.
+
+33:03.740 --> 33:07.740
+This is how a free society operates.
+
+33:07.740 --> 33:13.740
+So the internet, by its design, was a form of free society.
+
+33:13.740 --> 33:19.740
+Now that design was designed that way for resiliency.
+
+33:19.740 --> 33:23.740
+More so than, I think, permissionless innovation.
+
+33:23.740 --> 33:31.740
+But those design choices that built that resiliency were also the same design choices as gave us permissionless innovation.
+
+33:31.740 --> 33:35.740
+And they gave us the internet we have today.
+
+33:35.740 --> 33:39.740
+It's very, very important.
+
+33:39.740 --> 33:43.740
+And everything, this is the basis for everything else we're going to talk about.
+
+33:43.740 --> 33:47.740
+It's not as if none of these things have been done before.
+
+33:47.740 --> 33:51.740
+They've been done.
+
+33:51.740 --> 33:55.740
+And so, the internet is used on every day.
+
+33:55.740 --> 33:59.740
+It's called the internet.
+
+33:59.740 --> 34:01.740
+And it works great.
+
+34:01.740 --> 34:04.740
+Now, this is like the good news.
+
+34:04.740 --> 34:06.740
+What's the bad news?
+
+34:06.740 --> 34:11.740
+Well, the internet, I basically every level is centralized.
+
+34:11.740 --> 34:19.740
+And this comes from
+
+34:19.740 --> 34:27.740
+the internet, where the internet is, where the internet is, where the internet is, where the internet is, where the internet is.
+
+34:27.740 --> 34:33.740
+From bottom up, you start with internet service providers.
+
+34:33.740 --> 34:43.740
+Most countries, or most locations in most countries, have a monopoly, a duopoly, or an oligopoly of service providers.
+
+34:43.740 --> 34:55.740
+Since they're the ones who are transmitting the packets for most people, they're a two-point.
+
+34:55.740 --> 35:00.740
+If it's hard to imagine what the alternative is, I call you, but I got to get into it from somewhere, right?
+
+35:00.740 --> 35:07.740
+I'm going to get Comcast, or AT&T, or what have you, right?
+
+35:07.740 --> 35:09.740
+How could it work a different way?
+
+35:09.740 --> 35:13.740
+Well, a different way, and this is not mature yet, but a different way would be what's called,
+
+35:13.740 --> 35:22.740
+MASH Network, where even the physical communication is going peer to peer from device to device,
+
+35:22.740 --> 35:29.740
+that there is not one single point that says,
+
+35:29.740 --> 35:36.740
+this data can come to this point, and this data cannot.
+
+35:36.740 --> 35:43.740
+We don't feel this so much in the West, but ISPs are a problem.
+
+35:43.740 --> 35:55.740
+When Egypt was having its one of the various social movements, and people were coordinating through the internet,
+
+35:55.740 --> 36:05.740
+and Egypt has, I believe, and I can't say I'm an expert on Egyptian ISPs, but what I remember just reading the news there,
+
+36:05.740 --> 36:11.740
+the government at some point just shut down the internet for the whole country.
+
+36:11.740 --> 36:16.740
+It's just called Egypt Telecom, or whatever it's called, and I'm like, it just shut it down.
+
+36:16.740 --> 36:19.740
+No, this is a bad productivity, right?
+
+36:19.740 --> 36:26.740
+Sure, sure. It's right about the productivity, but on the other hand, we want the social movement to stop,
+
+36:26.740 --> 36:32.740
+so just turn off the internet, and because you had one service provider, you could turn off.
+
+36:32.740 --> 36:36.740
+It's one level, second level.
+
+36:36.740 --> 36:42.740
+Cloud hosting.
+
+36:42.740 --> 36:44.740
+Cloud hosting is fantastic, right?
+
+36:44.740 --> 36:47.740
+Our exam is on the web services for all types of things.
+
+36:47.740 --> 36:50.740
+It's convenient.
+
+36:50.740 --> 36:56.740
+It's fast, it's high-performance, it has all types of features, it's less work.
+
+36:56.740 --> 36:59.740
+That is a point of centralization.
+
+36:59.740 --> 37:04.740
+You see this sometimes when Amazon has data centers in different regions,
+
+37:04.740 --> 37:09.740
+and their big region is USA East, it's located in Northern Virginia,
+
+37:09.740 --> 37:14.740
+and if that region goes down, many of your favorite websites go down,
+
+37:14.740 --> 37:17.740
+because they're all hosted there.
+
+37:17.740 --> 37:21.740
+Content delivery networks, CDNs, what do CDNs do?
+
+37:21.740 --> 37:28.740
+They store files close to the end-user, so they download quickly,
+
+37:28.740 --> 37:31.740
+so they use your experiences better.
+
+37:31.740 --> 37:34.740
+There's a handful of them.
+
+37:34.740 --> 37:40.740
+They also, in some cases, protect against what are known as DDOS,
+
+37:40.740 --> 37:44.740
+as distributed denial of service attacks.
+
+37:44.740 --> 37:54.740
+Again, these are very useful services that make the internet better,
+
+37:54.740 --> 38:02.740
+but they are points of control, because all of these are companies, right?
+
+38:02.740 --> 38:09.740
+Anything that is a company ultimately has a human in charge,
+
+38:09.740 --> 38:15.740
+and that human can ultimately decide to take an action for their own reasons
+
+38:15.740 --> 38:19.740
+or be compelled to buy a government.
+
+38:19.740 --> 38:25.740
+And the only honest answer is that when compelled to a company will follow
+
+38:25.740 --> 38:29.740
+what a government asks them to do, if they don't have a choice.
+
+38:29.740 --> 38:32.740
+These are kind of the architectural level.
+
+38:32.740 --> 38:36.740
+Let's go step up to applications.
+
+38:36.740 --> 38:44.740
+Discovery was now known as Search, but used to be Discovery.
+
+38:44.740 --> 38:46.740
+It's highly centralized.
+
+38:46.740 --> 38:55.740
+In most countries, Google has a very high market share.
+
+38:55.740 --> 38:57.740
+Is that good? Is that bad?
+
+38:57.740 --> 39:00.740
+I don't know. Google's useful. I use it.
+
+39:00.740 --> 39:09.740
+The price of Google, the penalty of Google, is the things you don't see.
+
+39:09.740 --> 39:13.740
+If Google has a certain algorithm, and for whatever reason,
+
+39:13.740 --> 39:19.740
+the algorithm doesn't like a certain website, topic, etc.
+
+39:19.740 --> 39:23.740
+It won't appear. Or it won't appear on the first page,
+
+39:23.740 --> 39:26.740
+or it won't appear in the first few pages.
+
+39:26.740 --> 39:29.740
+Right, frankly, if it doesn't appear in the first page,
+
+39:29.740 --> 39:31.740
+it's mostly like it doesn't exist.
+
+39:31.740 --> 39:35.740
+If it doesn't appear in the first few pages of Google Search results,
+
+39:35.740 --> 39:38.740
+it definitely doesn't exist.
+
+39:38.740 --> 39:42.740
+So you could be there, you could be on the internet.
+
+39:42.740 --> 39:51.740
+But if an algorithm you have nothing to do with decides it doesn't like your website,
+
+39:51.740 --> 39:54.740
+it effectively does not exist for most people.
+
+39:54.740 --> 39:59.740
+Now, there's good reasons why the algorithm does these types of things.
+
+39:59.740 --> 40:02.740
+People try to spam Google search engine optimization,
+
+40:02.740 --> 40:07.740
+and it's a cat and mouse game with the search engines.
+
+40:07.740 --> 40:13.740
+But as you've gotten to centralized large market share providers,
+
+40:13.740 --> 40:16.740
+you get algorithmic risk.
+
+40:16.740 --> 40:24.740
+Like one, if you had, if search happened through 200 different algorithms,
+
+40:24.740 --> 40:29.740
+each with 0.5% market share.
+
+40:29.740 --> 40:34.740
+It wouldn't matter if one of them didn't like your website.
+
+40:34.740 --> 40:37.740
+It was probably a good reason.
+
+40:37.740 --> 40:39.740
+I don't know what's said about that.
+
+40:39.740 --> 40:41.740
+Interesting to people, right?
+
+40:41.740 --> 40:45.740
+And it's correct that you're, but when there's one,
+
+40:45.740 --> 40:56.740
+first diversified, it's more likely something will go wrong for non-substantive reasons.
+
+40:56.740 --> 41:02.740
+Communication platforms, communication platforms have huge network defects.
+
+41:02.740 --> 41:07.740
+You want to go on Twitter because everyone else is on Twitter.
+
+41:07.740 --> 41:10.740
+You don't go on Twitter because it has 140 characters,
+
+41:10.740 --> 41:13.740
+280 characters or what have you.
+
+41:13.740 --> 41:15.740
+That's truly replicable.
+
+41:15.740 --> 41:19.740
+What's not replicable is that everyone else is on Twitter.
+
+41:19.740 --> 41:27.740
+And so, you know, Facebook is like the network for short form communication,
+
+41:27.740 --> 41:33.740
+medium form communication, LinkedIn for job seeking professional communication,
+
+41:33.740 --> 41:37.740
+Twitter for short form communication.
+
+41:37.740 --> 41:43.740
+All of them with very high market shares, all of them fairly centralized.
+
+41:43.740 --> 41:49.740
+And unlike the Internet,
+
+41:49.740 --> 41:54.740
+you need Twitter's permission to be on Twitter.
+
+41:54.740 --> 42:01.740
+All of this endless, endless, endless arguing
+
+42:01.740 --> 42:06.740
+about which accounts should be banned, which accounts should be boosted,
+
+42:06.740 --> 42:11.740
+which accounts should appear in the search results on Twitter,
+
+42:11.740 --> 42:14.740
+is a failure of architecture.
+
+42:14.740 --> 42:18.740
+We don't have this discussion about websites.
+
+42:18.740 --> 42:23.740
+We don't have it about email because those are not centralized
+
+42:23.740 --> 42:27.740
+in the same way.
+
+42:27.740 --> 42:35.740
+Whereas on Twitter, whether you have an account or not depends on who the C.L. is.
+
+42:35.740 --> 42:41.740
+And it doesn't matter who.
+
+42:41.740 --> 42:48.740
+You think is right.
+
+42:48.740 --> 42:50.740
+Maybe Parab was making the right decisions.
+
+42:50.740 --> 42:54.740
+Maybe Elon's making the right decisions.
+
+42:54.740 --> 43:01.740
+And the fact that there's a specific person whose views on content moderation
+
+43:01.740 --> 43:06.740
+you have to take into account is already the failure.
+
+43:06.740 --> 43:11.740
+It's irrelevant to me if Elon is more or less right than Parab.
+
+43:11.740 --> 43:14.740
+Totally irrelevant.
+
+43:14.740 --> 43:15.740
+There's no CEO of email.
+
+43:15.740 --> 43:17.740
+There's no CEO of the Internet.
+
+43:17.740 --> 43:21.740
+But there is a CEO of our short messaging protocol.
+
+43:21.740 --> 43:27.740
+And that is a form of failure case.
+
+43:27.740 --> 43:29.740
+E-commerce is similar.
+
+43:29.740 --> 43:35.740
+Amazon has reasonable market share in E-commerce, eBay, and its sector.
+
+43:35.740 --> 43:40.740
+Network effects are not quite as strong as it's not as bad.
+
+43:40.740 --> 43:48.740
+Payments is tragic.
+
+43:48.740 --> 43:52.740
+Payments still effectively run through the fiat system.
+
+43:52.740 --> 43:58.740
+And they effectively run through a couple of payment processors.
+
+43:58.740 --> 44:04.740
+Internet native payments are crypto currencies.
+
+44:04.740 --> 44:10.740
+And they're there and they exist.
+
+44:10.740 --> 44:12.740
+And they're very, very important.
+
+44:12.740 --> 44:24.740
+And they're under constant some form of attack by the non-crypto ecosystem.
+
+44:24.740 --> 44:31.740
+And this is not to say that things don't go wrong in crypto, but there has yet to be.
+
+44:31.740 --> 44:39.740
+I think a major stakeholder in the non-crypto world to come out and say,
+
+44:39.740 --> 44:47.740
+a government of an important country to say, well, this is important for decentralization purposes.
+
+44:47.740 --> 44:52.740
+In fact, most of the governments think this is a downside of crypto.
+
+44:52.740 --> 44:58.740
+They would like to keep payments under their control.
+
+44:58.740 --> 45:04.740
+So you look at this in aggregate and we're kind of coasting.
+
+45:04.740 --> 45:08.740
+Things have been getting worse.
+
+45:08.740 --> 45:18.740
+The Internet of Today is substantially more centralized than the Internet of 1990 was.
+
+45:18.740 --> 45:20.740
+But it's gradual.
+
+45:20.740 --> 45:24.740
+It's one step at a time.
+
+45:24.740 --> 45:28.740
+Along the way, it gets more convenient.
+
+45:28.740 --> 45:30.740
+Along the way, it gets easier to use.
+
+45:30.740 --> 45:32.740
+Things load faster.
+
+45:32.740 --> 45:36.740
+You have more features and functionality, etc, etc.
+
+45:36.740 --> 45:44.740
+So nobody rebels because it's day to day on day to day activity is getting better,
+
+45:44.740 --> 45:50.740
+while on for existential reasons getting worse.
+
+45:50.740 --> 46:00.740
+I found an interesting draft paper from the IETF in their network working group on centralization
+
+46:00.740 --> 46:03.740
+and Internet standards.
+
+46:03.740 --> 46:06.740
+Actually, it's a draft paper.
+
+46:06.740 --> 46:10.740
+It's not official.
+
+46:10.740 --> 46:18.740
+But I liked a couple of things that wrote so much that I just copy-pasted them right into here.
+
+46:18.740 --> 46:20.740
+And I'm going to read them.
+
+46:20.740 --> 46:26.740
+So the Internet's very nature is incompatible with the centralization of its functions.
+
+46:26.740 --> 46:31.740
+As a large heterogeneous collection of interconnected systems,
+
+46:31.740 --> 46:35.740
+the Internet is often characterized as a network of networks.
+
+46:35.740 --> 46:45.740
+These network related peers who agree to facilitate communication rather than having a relationship of subservience
+
+46:45.740 --> 46:48.740
+to others' requirements and coarsionally.
+
+46:48.740 --> 46:54.740
+This focus on independence of action carries through the way the network is architect,
+
+46:54.740 --> 46:57.740
+for example, in the concept of an autonomous system.
+
+46:57.740 --> 47:05.740
+Second, the Internet's first duty is to the end user.
+
+47:05.740 --> 47:10.740
+Allowing such power to be concentrated into few hands is counter to the IETF submission
+
+47:10.740 --> 47:15.740
+of creating an Internet that will help us build a better human society.
+
+47:15.740 --> 47:19.740
+When a third party has unavoidable access to communications,
+
+47:19.740 --> 47:22.740
+we quote informational and positional advantages,
+
+47:22.740 --> 47:27.740
+gain can be used to observe behavior of an optical effect,
+
+47:27.740 --> 47:31.740
+and shape or even deny behavior, the choke point effect,
+
+47:31.740 --> 47:37.740
+which can be used by those parties or the states that have authority over them for coercive ends.
+
+47:37.740 --> 47:40.740
+I have nothing to add to this.
+
+47:40.740 --> 47:45.740
+This is, I couldn't agree with this one.
+
+47:45.740 --> 47:57.740
+And then the paper goes on and lists five negative parts of the negative aspects of the concentration of power,
+
+47:57.740 --> 48:00.740
+limiting innovation, which we discussed.
+
+48:00.740 --> 48:09.740
+Constraining competition, which is similar, the first and the second, often go together.
+
+48:09.740 --> 48:15.740
+Reducing availability means that you're not building resilience and redundancy,
+
+48:15.740 --> 48:18.740
+and this could be because of unintended effects.
+
+48:18.740 --> 48:23.740
+So if you have one ISP and something happens in their facility,
+
+48:23.740 --> 48:27.740
+and the whole Internet for your country goes down inadvertently,
+
+48:27.740 --> 48:32.740
+that is a reduction of availability accidentally.
+
+48:32.740 --> 48:37.740
+But sometimes you have a reduction of availability,
+
+48:37.740 --> 48:44.740
+reduction of availability,
+
+48:46.740 --> 48:49.740
+intentional, the Egypt Telecom example,
+
+48:49.740 --> 48:52.740
+was an intentional reduction of availability.
+
+48:52.740 --> 48:56.740
+Creating monoculture,
+
+48:56.740 --> 49:02.740
+this is a limiting innovation point, but at the intellectual level.
+
+49:02.740 --> 49:09.740
+So this is, if there's a certain set of values or principles that are acceptable to Facebook,
+
+49:09.740 --> 49:15.740
+but not to others, and Facebook gets a dominant position on the Internet,
+
+49:15.740 --> 49:22.740
+then we all have to go along with those sets of values, principles, forms of speech, what have you.
+
+49:22.740 --> 49:33.740
+So the world is a huge diverse heterogeneous place.
+
+49:33.740 --> 49:41.740
+We are not all alike at the individual interest group,
+
+49:41.740 --> 49:45.740
+regional, national level.
+
+49:45.740 --> 49:48.740
+We should not all be alike.
+
+49:48.740 --> 49:58.740
+We should not all have to be in a certain way.
+
+49:58.740 --> 50:03.740
+But if we then have to run through a specific corporation,
+
+50:03.740 --> 50:07.740
+that corporation may, for a variety of reasons,
+
+50:07.740 --> 50:15.740
+on purpose or accidentally, voluntarily or coerced by others,
+
+50:15.740 --> 50:25.740
+to flatten out squash that human diversity to fit it into a specific standard acceptable black corporation.
+
+50:25.740 --> 50:32.740
+And it's very, very hard to say, I'm going to have a corporation
+
+50:32.740 --> 50:39.740
+that fully allows all of these differences to exist.
+
+50:39.740 --> 50:52.740
+For one, some of the differences are long-standing national disputes among nation states where
+
+50:52.740 --> 50:56.740
+certain countries will say, well, you have to say this,
+
+50:56.740 --> 51:01.740
+and you're not allowed to say that, and their neighbor will say the opposite.
+
+51:01.740 --> 51:10.740
+And since no company is in a position, social media company is not in a position to solve all world conflicts,
+
+51:10.740 --> 51:13.740
+they have to take a position on the topic.
+
+51:13.740 --> 51:16.740
+And sometimes they're taking three different positions, right?
+
+51:16.740 --> 51:20.740
+Their position in country X and their position in country Y
+
+51:20.740 --> 51:23.740
+and their position in third countries, and all of them might be different,
+
+51:23.740 --> 51:25.740
+and they're trying to balance all these things.
+
+51:25.740 --> 51:30.740
+And the only reason they have to try and balance all these things is their is centralized support.
+
+51:30.740 --> 51:36.740
+And then the last one is self-reinforcement.
+
+51:36.740 --> 51:40.740
+And this is the advantages.
+
+51:40.740 --> 51:52.740
+These are the advantages that a certain service has by being in a dominant position.
+
+51:52.740 --> 51:54.740
+You see this in search.
+
+51:54.740 --> 52:00.740
+If you see all of people search queries and then what they then click on,
+
+52:00.740 --> 52:05.740
+you're in a better position to build a better search engine than someone who doesn't.
+
+52:05.740 --> 52:09.740
+This is considered a big risk in artificial intelligence or machine learning,
+
+52:09.740 --> 52:11.740
+the use of technical term.
+
+52:11.740 --> 52:13.740
+But the more data you have, the better your model is.
+
+52:13.740 --> 52:16.740
+If your model is better, more people are going to want to use it.
+
+52:16.740 --> 52:19.740
+If more people use it, they'll give you more data.
+
+52:19.740 --> 52:27.740
+And it spirals.
+
+52:27.740 --> 52:33.740
+So these are each of these pretty bad.
+
+52:33.740 --> 52:39.740
+And I don't even think these are the bad things.
+
+52:39.740 --> 52:42.740
+My greatest worry is democracy itself.
+
+52:42.740 --> 52:46.740
+And again, I'm going to sound strange.
+
+52:46.740 --> 52:48.740
+I grant you.
+
+52:48.740 --> 52:52.740
+I grant you, I'm in a deep minority position here.
+
+52:52.740 --> 52:59.740
+I grant you that most people, and I think, remember who I discussed this one.
+
+52:59.740 --> 53:01.740
+I think Kristiksi.
+
+53:01.740 --> 53:10.740
+This is like an interesting divide in the world is between people for who the digital world is real
+
+53:10.740 --> 53:15.740
+and people for whom it's not.
+
+53:15.740 --> 53:27.740
+A lot of people, if I had this discussion with them, might say, well, I mean, what difference does it make what happens on Facebook?
+
+53:27.740 --> 53:30.740
+That's not real life, in fact, I could just close my Facebook account.
+
+53:30.740 --> 53:38.740
+My real life was my car, my house, my physical goods.
+
+53:38.740 --> 53:49.740
+And I deeply disagree with that both today and in the future because I don't know about you,
+
+53:49.740 --> 53:57.740
+but I spent the vast majority of my working hours looking at a computer screen.
+
+53:57.740 --> 54:01.740
+Your phone also being, you know, a fairly powerful computer.
+
+54:01.740 --> 54:14.740
+So between my phone screen and my laptop screen and my desktop screen, I spent the large majority of my waking hours looking at this.
+
+54:14.740 --> 54:28.740
+And then sometimes all rare occasions take a break and I don't know, watch a movie on Netflix on my TV, which is also a computer.
+
+54:28.740 --> 54:32.740
+Any modern TV is also a computer as well.
+
+54:32.740 --> 54:44.740
+That is operating through those same internet service providers who are in content delivery networks and centralized firms who are delivering your whatever you're seeing in your computer screen.
+
+54:44.740 --> 54:54.740
+And so my view is I already spent the majority of my life in the digital world and quite frankly the important things in my life.
+
+54:54.740 --> 55:22.740
+All of the things that I can afford in the physical world are downstream from my professional activities, which are all intermediate by the digital world.
+
+55:22.740 --> 55:27.740
+And I don't know if this has happened to you recently. It happened to me once a few years ago.
+
+55:27.740 --> 55:35.740
+Pre-COVID when I was in an office, or even after the office, and the internet went out.
+
+55:35.740 --> 55:48.740
+And then we called our internet provider and the internet provider said, yeah, it's going to be out all day.
+
+55:48.740 --> 55:59.740
+We spent a few minutes in New York. We spent a few minutes thinking about what to do.
+
+55:59.740 --> 56:07.740
+And we realized there was basically nothing we could do.
+
+56:07.740 --> 56:18.740
+It was basically we were worthless in the office letter, totally and completely worthless.
+
+56:18.740 --> 56:19.740
+It was shocking.
+
+56:19.740 --> 56:36.740
+And it was shocking to think about that, you know, about 25 years ago, something in that range, most offices did not have internet.
+
+56:36.740 --> 56:46.740
+And so people would go to work and do whatever they were doing and whatever they were doing did not include the internet.
+
+56:46.740 --> 56:50.740
+You know, 30 years ago, effectively done it.
+
+56:50.740 --> 56:54.740
+And you were thinking about this.
+
+56:54.740 --> 56:59.740
+What actually can you do in an office without an internet?
+
+56:59.740 --> 57:07.740
+You couldn't send an email. It couldn't browse the web.
+
+57:07.740 --> 57:21.740
+Theoretically, you could make some calls, but our CRM was online, our customer relationship management system was online.
+
+57:21.740 --> 57:30.740
+So you couldn't record the calls or in fact find the people we were supposed to call because that was also online.
+
+57:30.740 --> 57:35.740
+We were literally worthless with other.
+
+57:35.740 --> 57:47.740
+So we picked up and went home and this was pre-COVID times, pre-remo work times, but we went and figured, well, whatever the downside is from working from home,
+
+57:47.740 --> 57:51.740
+it's a thousand times better than being here with that together with other.
+
+57:51.740 --> 57:55.740
+And I've went a few days and it was bracing.
+
+57:55.740 --> 57:58.740
+It was shocking.
+
+57:58.740 --> 58:02.740
+And they think basically everything is that way now.
+
+58:02.740 --> 58:11.740
+The large majority of people are dependent in some capacity on the internet to do anything.
+
+58:11.740 --> 58:22.740
+In which case we're in the living digital world and how we interact in a digital world and what is our governance and our architecture in the digital world.
+
+58:22.740 --> 58:25.740
+Super important.
+
+58:25.740 --> 58:33.740
+And it's super important that we preserve the same models of governance that we have in the physical world in the world.
+
+58:33.740 --> 58:44.740
+Or come to that and say, there.
+
+58:44.740 --> 58:51.740
+Then introduce a concept that I have stolen from John Rob.
+
+58:51.740 --> 59:11.740
+John Rob is a systems slash networks thinker he came out of the military sphere and thinks about networks, tribes and oodle loops and all of these types of things.
+
+59:11.740 --> 59:21.740
+But he is concerned about the concept of the long night.
+
+59:21.740 --> 59:26.740
+And these are a couple of the streets in order and it's going to read them.
+
+59:26.740 --> 59:34.740
+There's disruption, although potentially painful in the short term doesn't last more as a crude a damaging over the long term.
+
+59:34.740 --> 59:40.740
+In fact, the true danger posed by an internet work world is opposite of the structure.
+
+59:40.740 --> 59:44.740
+The danger is an all encompassing online.
+
+59:44.740 --> 59:53.740
+Or thought, as same as a thought and approach reinforced reinforced by hundreds of millions of socially internet work corporations.
+
+59:53.740 --> 59:56.740
+A global or thought exceed the ruthless.
+
+59:56.740 --> 01:00:02.740
+The narrows public thought down to a single baron ideological framework.
+
+01:00:02.740 --> 01:00:05.740
+A ruling network that prevents dissent.
+
+01:00:05.740 --> 01:00:15.740
+And locks us into stagnation and an inevitable failure as it runs a foul of reality and human nature is ruling network already exists.
+
+01:00:15.740 --> 01:00:18.740
+This concern, which is not dissimilar for mine.
+
+01:00:18.740 --> 01:00:22.740
+It's framed differently, but it's not dissimilar.
+
+01:00:22.740 --> 01:00:38.740
+Is that as we network more and more across centralized services.
+
+01:00:38.740 --> 01:00:53.740
+It becomes much easier to enforce a certain way of thinking.
+
+01:00:53.740 --> 01:00:59.740
+A certain way of prescribed and allowed thought.
+
+01:00:59.740 --> 01:01:09.740
+And what I think we know historically.
+
+01:01:09.740 --> 01:01:13.740
+That allow freedom of speech that allow freedom of action.
+
+01:01:13.740 --> 01:01:30.740
+That are more human centric, less.
+
+01:01:30.740 --> 01:01:35.740
+Out perform in every way.
+
+01:01:35.740 --> 01:01:45.740
+Quality of life for their citizens.
+
+01:01:45.740 --> 01:01:52.740
+And they outperform in human freedom and dignity.
+
+01:01:52.740 --> 01:02:11.740
+And I think that if you assume a way that intentions which you should not make people in power.
+
+01:02:11.740 --> 01:02:20.940
+prefer to stay in power. But even if you assume away bad intentions and assume that the people
+
+01:02:20.940 --> 01:02:29.340
+at the top selflessly want to manage the economy, the country, the society for its benefit,
+
+01:02:31.980 --> 01:02:38.460
+it is simply impossible for a small group of people at the top of any complex society to make
+
+01:02:38.460 --> 01:02:43.580
+all the right decisions on every single topic for everyone across the country. It is impossible.
+
+01:02:46.540 --> 01:02:51.900
+It is why as humans went from smaller societies to larger societies
+
+01:02:53.740 --> 01:02:57.020
+and simpler societies to more complex advanced societies,
+
+01:02:57.020 --> 01:03:07.820
+we have decentralized power to let people operate. To let people look around in their
+
+01:03:08.620 --> 01:03:12.380
+take the simplest example. You are in Washington, D.C.
+
+01:03:14.140 --> 01:03:24.460
+Would it be logical for you to know if in Santa Fe, New Mexico someone should open an organic grocery
+
+01:03:24.460 --> 01:03:31.420
+store. If you look at Soviet era's central planning five years plan, they were trying to do this
+
+01:03:31.420 --> 01:03:37.820
+across all 11 time zones of the Soviet Union. Turned out, you can't do it effectively,
+
+01:03:37.820 --> 01:03:43.420
+it doesn't mean you're not smart, it just means there's too much information for a small group
+
+01:03:43.420 --> 01:03:50.460
+of people to talk to process. You need to let information process across everyone's brains.
+
+01:03:50.460 --> 01:03:58.780
+And ultimately, some combination of the people in Santa Fe seeing what's happening in Santa Fe
+
+01:03:58.780 --> 01:04:04.140
+and some price signals from organic food expensive or inexpensive available or not available
+
+01:04:05.660 --> 01:04:12.300
+will naturally, it's a somewhat opening or not opening an organic food shop. And it's like this
+
+01:04:12.300 --> 01:04:21.500
+for everyone. Systems that are centralized information processing systems break down under a certain
+
+01:04:21.500 --> 01:04:31.260
+level of complexity. And so when he means a single baron ideological framework that runs a foul
+
+01:04:31.260 --> 01:04:37.660
+of reality in human nature, I believe, I'm going to try and get him on the course in the spring.
+
+01:04:37.660 --> 01:04:49.820
+I believe to catch that charge, I might have committed for the spring. I believe, this is what he means,
+
+01:04:49.820 --> 01:05:00.780
+that if you lose diversity of thought, including people who are quote unquote wrong,
+
+01:05:00.780 --> 01:05:08.460
+you end up with a less successful society, a successful society lets people disagree,
+
+01:05:09.020 --> 01:05:14.380
+a successful society lets people think wrong things because sometimes it turns out, you know,
+
+01:05:14.380 --> 01:05:18.700
+most times when people are thinking wrong things, they're actually wrong. But
+
+01:05:20.620 --> 01:05:25.900
+sometimes when people are thinking wrong things, they're actually very, very, very right and they
+
+01:05:25.900 --> 01:05:33.420
+help society move forward. And a mature confident society allows this.
+
+01:05:35.900 --> 01:05:44.300
+And a top down driven monarchy of the whatever century doesn't.
+
+01:05:44.300 --> 01:05:46.780
+And so,
+
+01:05:54.140 --> 01:05:56.220
+hold this thought as we're looking next couple slides.
+
+01:06:00.540 --> 01:06:07.660
+My concern is that we're about to invent a tremendous amount of awesome technology.
+
+01:06:07.660 --> 01:06:16.220
+Awesome. That is the correct word. I'm not embarrassed to say it. I think over the next five,
+
+01:06:16.220 --> 01:06:22.060
+10 and 20 years, we quote unquote fourth industrial revolution technologies.
+
+01:06:24.780 --> 01:06:29.340
+We'll hit some type of sci-fi level of capability.
+
+01:06:29.340 --> 01:06:36.460
+And input them all here, you know, biotech belongs on this maybe quantum computing
+
+01:06:37.660 --> 01:06:41.420
+genetic type of things. But I don't think they're as relevant for this discussion.
+
+01:06:42.060 --> 01:06:46.860
+The ones that I think are relevant are these. So AI, machine learning.
+
+01:06:49.020 --> 01:06:52.700
+We've been talking about this for a very long time. On the whole, it has been
+
+01:06:52.700 --> 01:07:02.300
+generally less exciting than people have expected. But we are not far away from the timeline that
+
+01:07:02.300 --> 01:07:11.420
+some of the big AI thinkers, none of that, you'll start seeing big leaps in the 2020s. And what
+
+01:07:11.420 --> 01:07:19.420
+we're seeing from AI platforms like stable diffusion for creating images, opening AI and chat GPT,
+
+01:07:19.420 --> 01:07:24.940
+GPT, we may decide that, I mean, you know, Google search results are a form of AI, right?
+
+01:07:24.940 --> 01:07:30.220
+Patch.com's feed is a form of AI, adds your big serves as a form of AI. We have those
+
+01:07:30.220 --> 01:07:40.060
+aside. And they're already forms of AI. We are starting to see the beginning of AI that works
+
+01:07:40.060 --> 01:07:47.100
+for practical human things, that writes essays, that drives cars reasonably well in some conditions
+
+01:07:47.100 --> 01:07:58.060
+that can generate poems and photos. And you can look at them now and say, oh, this here is an error.
+
+01:07:58.060 --> 01:08:03.740
+And here's another error. And here's this thing that's going wrong. And I think for the purpose of
+
+01:08:03.740 --> 01:08:11.260
+this analysis, it doesn't matter because all those things are getting better every month.
+
+01:08:11.260 --> 01:08:20.620
+So, pick whatever time frame you want. You think it's three years, you think it's seven years,
+
+01:08:20.620 --> 01:08:29.260
+you think it's 17 years, it's not 353 years. Within the lifetime of almost everyone
+
+01:08:30.700 --> 01:08:37.420
+in the audience there, we will see extremely capable AI's. A, B.
+
+01:08:37.420 --> 01:08:46.380
+Most major countries are heading towards some form of central bank digital currency.
+
+01:08:47.980 --> 01:08:54.380
+Central bank digital currencies are natively digital currencies, like Bitcoin and Ethereum,
+
+01:08:55.660 --> 01:09:02.060
+but permission with central points of control, central points of programmability. This is viewed
+
+01:09:02.060 --> 01:09:12.220
+as a feature, not as a bug. It is viewed as a feature that will allow governments to implement
+
+01:09:12.220 --> 01:09:22.460
+automated rules from at the most basic level, antibody laundering and no-year customer rules to
+
+01:09:22.460 --> 01:09:30.940
+make sure that you have a very low level of control, negative interest rates to socially desirable spending rules.
+
+01:09:30.940 --> 01:09:41.180
+You can only spend this much on carbon or meats or what have you this month,
+
+01:09:41.180 --> 01:09:49.340
+like you've passed your limit. So, these are payment systems and they are payment systems
+
+01:09:49.340 --> 01:09:59.340
+that, as described by some of their proponents, are much more directive than the payment systems of
+
+01:09:59.340 --> 01:10:06.220
+our whole lives that ultimately have allowed for most of our lives to be a practical degree,
+
+01:10:06.220 --> 01:10:15.020
+also the possibility of cash. It is fascinating to me how the social construction over the course
+
+01:10:15.020 --> 01:10:27.420
+of my lifetime has taken cash from being a perfectly normal wholesome thing. When I was a little kid,
+
+01:10:27.420 --> 01:10:34.220
+I said, oh, look, you've got your allowance, cash, it's normal. Here's a five dollar bill.
+
+01:10:36.220 --> 01:10:42.860
+When I was at university, I operated as far as I could remember primarily in cash. I'd go to the ATM,
+
+01:10:42.860 --> 01:10:51.260
+take up cash for the week, and everyone thought this was perfectly normal. Of course, everyone's aware
+
+01:10:51.260 --> 01:10:58.620
+that there is some percentage of tax evasion from cash, there is some percentage of money laundering,
+
+01:10:58.620 --> 01:11:07.340
+drug dealing, as well as all true things, and it is correct that law enforcement authorities
+
+01:11:07.340 --> 01:11:17.180
+chase these things around, which they should do. But we have gone from a presumption that cash is
+
+01:11:18.060 --> 01:11:26.540
+default normal, even wholesome, don't say, to a presumption that cash is default suspicious
+
+01:11:27.660 --> 01:11:33.260
+and should be eliminated, the quote unquote, death of cash. Many countries
+
+01:11:33.260 --> 01:11:41.020
+here in Europe have now put limits on how much cash you can take out. Israel's done something
+
+01:11:41.020 --> 01:11:49.020
+somewhere. And within the European Union, there is an absolute strong push to keep producing those
+
+01:11:49.020 --> 01:11:57.180
+loans. So we will, it is viewed as socially desirable by many parties to eliminate cash.
+
+01:11:57.180 --> 01:12:05.020
+And then you'll have a fully permissioned system for spending, which will be
+
+01:12:06.300 --> 01:12:13.580
+solved as done. We will prevent spending on inappropriate things.
+
+01:12:15.820 --> 01:12:24.060
+So then the next one, mixed reality. Mixed reality, as we saw earlier in this course is
+
+01:12:24.060 --> 01:12:30.860
+augmented and virtual reality. Once again, over a practical timeframe, it's going to be awesome.
+
+01:12:32.220 --> 01:12:38.140
+Our glasses are contact lenses, maybe in the fullness of time or neural implants, but I don't know how
+
+01:12:38.140 --> 01:12:41.820
+that one seems like it has a ways ahead of it. But our glasses, we're sure,
+
+01:12:44.540 --> 01:12:53.420
+will overlay Google Maps in your field division. They will bring fiddensas into common fields of
+
+01:12:53.420 --> 01:13:00.220
+vision. They will remind you who the person was at the conference. They will allow you to
+
+01:13:00.220 --> 01:13:09.740
+transform your working space both aesthetically, but also for productive purposes. Why am I limited to
+
+01:13:10.860 --> 01:13:19.500
+25 inch screens? Don't worry, you won't be. We will work, we will be able to work and move through
+
+01:13:19.500 --> 01:13:28.380
+arbitrarily large digital and mixed reality spaces. It's wonderful. It will lead to better
+
+01:13:28.380 --> 01:13:34.860
+productivity. It will lead to more immersive gaming. It will lead to more human level communication.
+
+01:13:36.860 --> 01:13:42.300
+Your friends, family, loved ones, romantic partners who are not living near you.
+
+01:13:42.300 --> 01:13:50.140
+You will see them full size in your field of vision. It's an improvement. It's an improvement
+
+01:13:50.140 --> 01:13:56.140
+in the quality of human life. It's great. But again, hold that thought.
+
+01:14:00.460 --> 01:14:06.060
+Big data capture, capturing of all the data, the amount of data that the first three
+
+01:14:06.060 --> 01:14:17.100
+are going to create will be staggering. And interestingly, the third, you know,
+
+01:14:17.100 --> 01:14:20.220
+on the ground, he will start picking up by a metric data.
+
+01:14:22.780 --> 01:14:24.380
+On the reality has
+
+01:14:27.580 --> 01:14:30.780
+cameras in your field of vision. It might have,
+
+01:14:30.780 --> 01:14:40.380
+in time, cameras looking at dry. It has much more intrusive data than even the most intrusive
+
+01:14:41.260 --> 01:14:49.980
+ads you see on life. They'll be able to know in time, are you scared? Are you happy?
+
+01:14:51.900 --> 01:14:52.540
+Are you lying?
+
+01:14:52.540 --> 01:15:01.420
+Are you feeling pleasure from whatever it is that you're watching?
+
+01:15:05.420 --> 01:15:12.940
+Are you socially compliant? Are you a socially compliant?
+
+01:15:12.940 --> 01:15:20.380
+No, these things are not in a far sci-fi future, they are within a practical future.
+
+01:15:22.380 --> 01:15:26.700
+They're not today, we're not there yet. But they're also not 100 years away.
+
+01:15:28.460 --> 01:15:31.340
+And so you will have these gigantic data streams that
+
+01:15:34.060 --> 01:15:37.020
+are being driven from the first three. And then, you know,
+
+01:15:37.020 --> 01:15:38.720
+on Metaverse, which was the name of this course,
+
+01:15:38.720 --> 01:15:42.420
+which I had said earlier in the course,
+
+01:15:42.420 --> 01:15:44.620
+and I stand by my definition, it's the internet,
+
+01:15:46.140 --> 01:15:49.300
+but with better visualization and persistent visual objects.
+
+01:15:50.220 --> 01:15:52.540
+And so you put these together,
+
+01:15:52.540 --> 01:15:57.540
+and the good part is our digital experience
+
+01:15:57.660 --> 01:15:59.580
+is about to get much, much better.
+
+01:15:59.580 --> 01:16:04.580
+In 10 to 20 years, I'm looking at my computer screens now,
+
+01:16:09.500 --> 01:16:13.900
+they're basically the same user experience
+
+01:16:13.900 --> 01:16:18.900
+as the early browsers with slightly better graphics.
+
+01:16:21.860 --> 01:16:26.860
+The early Netscape was not an order of magnitude different,
+
+01:16:26.860 --> 01:16:31.860
+and I don't know if there's no doubt in 10 or 20 years,
+
+01:16:31.860 --> 01:16:34.860
+we're gonna look at this and it's gonna look antiquated.
+
+01:16:34.860 --> 01:16:37.860
+It was like, gosh, how did people even live that way?
+
+01:16:37.860 --> 01:16:39.860
+How did people even work that way?
+
+01:16:39.860 --> 01:16:43.860
+Can you believe the old people used to use the internet
+
+01:16:43.860 --> 01:16:48.860
+like this, because it's going to become much more realistic,
+
+01:16:48.860 --> 01:16:51.860
+much more interactive, it will be a blended space
+
+01:16:51.860 --> 01:16:54.860
+of humans and aliens, and it's going to be
+
+01:16:54.860 --> 01:16:56.860
+a blended space of humans and AIs.
+
+01:16:58.860 --> 01:17:02.860
+There will be AIs to help with anything,
+
+01:17:02.860 --> 01:17:07.860
+not just driving, not just walking you through the Oof EZ,
+
+01:17:07.860 --> 01:17:12.860
+but I'm pretty sure our education's gonna change,
+
+01:17:12.860 --> 01:17:15.860
+and pretty sure the current model of education
+
+01:17:15.860 --> 01:17:19.860
+is going to get completely rescaled by AIs.
+
+01:17:19.860 --> 01:17:21.860
+It's all of us gonna be wonderful,
+
+01:17:21.860 --> 01:17:26.860
+and we'll have a lot of features, but there's a dark side too,
+
+01:17:27.860 --> 01:17:30.860
+and the dark side looks something like the following.
+
+01:17:33.860 --> 01:17:38.860
+You will have basically the ability for a company
+
+01:17:38.860 --> 01:17:42.860
+or a government to have permanent,
+
+01:17:42.860 --> 01:17:47.860
+holistic surveillance of everyone's environment.
+
+01:17:51.860 --> 01:17:54.860
+We have already made great leaps in this area.
+
+01:17:58.860 --> 01:18:02.860
+All of us carry around with us a microphone, at all times.
+
+01:18:03.860 --> 01:18:07.860
+Which, for most phones and most jurisdictions and most cars,
+
+01:18:07.860 --> 01:18:12.860
+can also be switched on remotely without you knowing.
+
+01:18:12.860 --> 01:18:14.860
+If you have told someone in, I don't know,
+
+01:18:14.860 --> 01:18:19.860
+the 1980s in East Germany under the quite interest of Stasi,
+
+01:18:20.860 --> 01:18:24.860
+that in the future, people in free countries
+
+01:18:25.860 --> 01:18:28.860
+will make sure they jam a microphone in their pocket
+
+01:18:28.860 --> 01:18:30.860
+wherever they go.
+
+01:18:31.860 --> 01:18:34.860
+People might be surprised, but yet we did,
+
+01:18:34.860 --> 01:18:37.860
+because it's convenient and useful, and it's nice to have cell phones,
+
+01:18:37.860 --> 01:18:39.860
+and cell phones now have all these features,
+
+01:18:39.860 --> 01:18:42.860
+and they have microphones and cameras, and they're pretty useful.
+
+01:18:43.860 --> 01:18:46.860
+But it's gonna be much more in them, right?
+
+01:18:46.860 --> 01:18:48.860
+Like our glasses will be seeing our environment.
+
+01:18:50.860 --> 01:18:52.860
+We'll be tracking our biometric data.
+
+01:18:55.860 --> 01:18:57.860
+We'll be tracking our biometric data, even through words, right?
+
+01:18:57.860 --> 01:18:59.860
+It'll be good for health.
+
+01:18:59.860 --> 01:19:03.860
+I have a watch on that tells me my heart rate and my steps.
+
+01:19:03.860 --> 01:19:05.860
+It's cool. It's useful.
+
+01:19:05.860 --> 01:19:07.860
+I want to know my heart rate and my steps.
+
+01:19:08.860 --> 01:19:14.860
+But I'm pretty sure the same song, and maybe Google, or whatever.
+
+01:19:15.860 --> 01:19:19.860
+And maybe along the transmittal path, maybe many other people,
+
+01:19:19.860 --> 01:19:21.860
+maybe national security agencies.
+
+01:19:21.860 --> 01:19:24.860
+And the national security agencies have any particular interest
+
+01:19:24.860 --> 01:19:25.860
+in how many steps it is.
+
+01:19:25.860 --> 01:19:26.860
+You know, of course not.
+
+01:19:26.860 --> 01:19:34.860
+I am not that, you know, one of the things with the big data is less
+
+01:19:34.860 --> 01:19:37.860
+that someone is sitting there at the NSA,
+
+01:19:37.860 --> 01:19:39.860
+being like, oh, wow, six, five, seven, nine,
+
+01:19:39.860 --> 01:19:41.860
+it's not really getting his cardio in today.
+
+01:19:41.860 --> 01:19:43.860
+I have no idea it's time for that.
+
+01:19:43.860 --> 01:19:45.860
+There's billions of people in the world.
+
+01:19:46.860 --> 01:19:50.860
+But these things are valuable and interesting at the societal level,
+
+01:19:50.860 --> 01:19:52.860
+at the aggregate level.
+
+01:19:52.860 --> 01:19:58.860
+And so what you can do if you have this full environment
+
+01:19:58.860 --> 01:20:04.860
+and you have a centralized metaverse and the internet with better visualization,
+
+01:20:04.860 --> 01:20:11.860
+you can influence behavior both positively and negatively,
+
+01:20:11.860 --> 01:20:15.860
+basically at the subconscious level.
+
+01:20:15.860 --> 01:20:19.860
+One of my favorite
+
+01:20:19.860 --> 01:20:26.860
+analogies is machines are already breeding humans.
+
+01:20:26.860 --> 01:20:28.860
+What if that's supposed to mean?
+
+01:20:28.860 --> 01:20:31.860
+Well, I think in the United States, something like 50% of marriages
+
+01:20:31.860 --> 01:20:33.860
+come from dating applications.
+
+01:20:33.860 --> 01:20:38.860
+And dating applications you are presented a feed.
+
+01:20:38.860 --> 01:20:44.860
+And that feed is trying to somehow predict who you'd like to see.
+
+01:20:44.860 --> 01:20:48.860
+Or better for worse.
+
+01:20:48.860 --> 01:20:50.860
+I'm not saying the feed has any negative attention,
+
+01:20:50.860 --> 01:20:53.860
+but it's good attention.
+
+01:20:53.860 --> 01:20:58.860
+But it's some machine algorithm that's trying to find you a partner.
+
+01:20:58.860 --> 01:21:01.860
+And sometimes that turns out to be a spouse and sometimes that to be the
+
+01:21:01.860 --> 01:21:04.860
+parent of the children you have together.
+
+01:21:04.860 --> 01:21:10.860
+And in some weird way, a machine has put you together
+
+01:21:10.860 --> 01:21:16.860
+and the biases of that machine algorithm might change how people match up.
+
+01:21:16.860 --> 01:21:19.860
+If they change how people match up, they might even, like,
+
+01:21:19.860 --> 01:21:23.860
+in effect, be changing the gene code, which is weird.
+
+01:21:23.860 --> 01:21:24.860
+By weird to think about.
+
+01:21:24.860 --> 01:21:27.860
+But I think it's kind of true.
+
+01:21:27.860 --> 01:21:39.860
+And can I mention that, but more granular, more immersive, more subconscious
+
+01:21:39.860 --> 01:21:49.860
+If you are given little dumping hits for doing things in
+
+01:21:49.860 --> 01:21:57.860
+society approved ways, and it can be done at scale,
+
+01:21:57.860 --> 01:22:06.860
+it doesn't matter if there isn't someone at the NSA checking in on me.
+
+01:22:06.860 --> 01:22:15.860
+Personally, in fact, all this stuff doesn't need to be 100% effective.
+
+01:22:15.860 --> 01:22:21.860
+I'm going to say 80% effective, but it doesn't need to be 80% effective either.
+
+01:22:21.860 --> 01:22:28.860
+In most countries, the difference between who wins an election is a few percentage points.
+
+01:22:28.860 --> 01:22:32.860
+Take the United States, you have these famous swing voters.
+
+01:22:32.860 --> 01:22:38.860
+There's a bunch of people who are always in the vote Republican, a bunch of people who are always in the vote Democrat,
+
+01:22:38.860 --> 01:22:45.860
+who becomes the president, or who controls the House and the Senate, is some swing voters.
+
+01:22:45.860 --> 01:22:50.860
+All you need to do is subconsciously influence 5 or 10% of the population.
+
+01:22:50.860 --> 01:22:51.860
+Move them a little bit.
+
+01:22:51.860 --> 01:22:59.860
+Move everyone's views 5% in one direction, and you are
+
+01:22:59.860 --> 01:23:02.860
+in the vote.
+
+01:23:02.860 --> 01:23:05.860
+That's not a good question.
+
+01:23:05.860 --> 01:23:10.860
+The tougher version throws in some automated compliance.
+
+01:23:10.860 --> 01:23:15.860
+And compliance is going to come through the payment system.
+
+01:23:15.860 --> 01:23:21.860
+That's why I keep harassing everyone about this freedom to transact concept.
+
+01:23:21.860 --> 01:23:30.860
+The carrot is going to be the dopamine hits.
+
+01:23:30.860 --> 01:23:35.860
+The stick is a transaction we'll go through.
+
+01:23:35.860 --> 01:23:40.860
+You're not allowed to do that.
+
+01:23:40.860 --> 01:23:44.860
+I'm sorry, our scoring says you can't make this payment.
+
+01:23:44.860 --> 01:23:52.860
+It's going to happen.
+
+01:23:52.860 --> 01:23:59.860
+Even I wonder if I'm at times overestimating the rest of the land.
+
+01:23:59.860 --> 01:24:04.860
+This is where what happened in Canada with the truckers was about, how are you telling?
+
+01:24:04.860 --> 01:24:11.860
+And I say this, even though I almost certainly, from what I can tell, have the opposite political views of the truckers.
+
+01:24:11.860 --> 01:24:15.860
+They're actually sound like kind of a bunch of jerks, to be honest.
+
+01:24:15.860 --> 01:24:24.860
+But what was interesting to me is that the way that protest was resolved wasn't through kind of normal law enforcement mechanisms,
+
+01:24:24.860 --> 01:24:31.860
+but by cutting off their money and then to their families.
+
+01:24:31.860 --> 01:24:39.860
+God, that was really interesting because that's Canada, and Canada is nobody's idea of some callous dictatorship.
+
+01:24:39.860 --> 01:24:43.860
+And Canada is like absurdly friendly place.
+
+01:24:43.860 --> 01:24:44.860
+Liberal democracy.
+
+01:24:44.860 --> 01:24:47.860
+In the actual liberal democracy.
+
+01:24:47.860 --> 01:24:49.860
+Objectively else, they are.
+
+01:24:49.860 --> 01:25:01.860
+And yet, Canada discovered the power of the payment system to end the protest.
+
+01:25:01.860 --> 01:25:08.860
+And you know, I'm concerned because a lot of people who should be concerned about this thing are concerned because I don't like those guys.
+
+01:25:08.860 --> 01:25:10.860
+I'm glad they did it.
+
+01:25:10.860 --> 01:25:12.860
+Most truckers had bad intentions.
+
+01:25:12.860 --> 01:25:14.860
+Maybe they did.
+
+01:25:14.860 --> 01:25:24.860
+The problem is people will use it sometime against your preferred speech.
+
+01:25:24.860 --> 01:25:30.860
+Against your preferred organization and protest or religion.
+
+01:25:30.860 --> 01:25:41.860
+Because once you can end the social movement, not by winning in the marketplace of ideas, not by winning in elections,
+
+01:25:41.860 --> 01:25:47.860
+not by charging them with a crime that they have actually committed.
+
+01:25:47.860 --> 01:25:53.860
+But by just saying, okay, you can't pay for stuff.
+
+01:25:53.860 --> 01:26:01.860
+There's no exit.
+
+01:26:01.860 --> 01:26:06.860
+My credit card won't process this payment, but I can go to cash.
+
+01:26:06.860 --> 01:26:09.860
+Cash is gone in this world.
+
+01:26:09.860 --> 01:26:11.860
+So you can't go to cash.
+
+01:26:11.860 --> 01:26:15.860
+This is a world where I suspect.
+
+01:26:15.860 --> 01:26:22.860
+There's at least sectors of this world that consider quote unquote self-hosted quote unquote non-custodial wallets,
+
+01:26:22.860 --> 01:26:23.860
+but it's a wallet.
+
+01:26:23.860 --> 01:26:26.860
+It's where you have your money in your pocket.
+
+01:26:26.860 --> 01:26:33.860
+They want them to go away for custodial wallets and custodial wallets are not wallets at all.
+
+01:26:33.860 --> 01:26:34.860
+They're accounts.
+
+01:26:34.860 --> 01:26:37.860
+They want people to have accounts, not wallets.
+
+01:26:37.860 --> 01:26:48.860
+I put this in here, but there's for sure a sector of the regulatory state that believes it's deserve.
+
+01:26:48.860 --> 01:26:51.860
+And they might be well intentioned.
+
+01:26:51.860 --> 01:27:02.860
+But what this will mean is you will have given people in power an immensely powerful set of tools.
+
+01:27:02.860 --> 01:27:05.860
+And here I'm going to go a little bit abstract.
+
+01:27:05.860 --> 01:27:07.860
+This isn't all trying its proper.
+
+01:27:07.860 --> 01:27:11.860
+Heaven is high and the emperor is far away.
+
+01:27:11.860 --> 01:27:17.860
+And what it means, particularly pre-internet days, pre-industrialized days,
+
+01:27:17.860 --> 01:27:21.860
+then, the emperor might be envisioning and has a certain view that you should enter this,
+
+01:27:21.860 --> 01:27:28.860
+or you shouldn't say that, but you're in, I don't know, the social law and profits.
+
+01:27:28.860 --> 01:27:31.860
+And, okay, I mean, fine.
+
+01:27:31.860 --> 01:27:33.860
+The emperor thinks that.
+
+01:27:33.860 --> 01:27:37.860
+But I'm going to say there's other things to my friend.
+
+01:27:37.860 --> 01:27:40.860
+I'm going to do this other thing here.
+
+01:27:40.860 --> 01:27:47.860
+There were practical limits on their ability to enforce their power and they're good,
+
+01:27:47.860 --> 01:27:50.860
+but more importantly, bad ideas.
+
+01:27:50.860 --> 01:27:55.860
+They were practically limited.
+
+01:27:55.860 --> 01:28:08.860
+What is scary about these technologies is not that they allow something that wasn't previously possible.
+
+01:28:08.860 --> 01:28:16.860
+It's that they allow it on superhuman scale, and in fact, it will be run on superhuman scale.
+
+01:28:16.860 --> 01:28:19.860
+It will be run by AI.
+
+01:28:19.860 --> 01:28:27.860
+And this is a set of power we've never given to anyone before.
+
+01:28:27.860 --> 01:28:33.860
+And it's going to be sold as socially desirable.
+
+01:28:33.860 --> 01:28:43.860
+And the question that needs to be asked, that I have yet to see good answers to,
+
+01:28:43.860 --> 01:28:46.860
+is who watches the watchmen?
+
+01:28:46.860 --> 01:28:49.860
+Who guards the guards?
+
+01:28:49.860 --> 01:29:02.860
+When someone says, oh, we have the Sydney DC and the nice thing about it, it can only do transactions that are good.
+
+01:29:02.860 --> 01:29:04.860
+Sounds great.
+
+01:29:04.860 --> 01:29:09.860
+I prefer a society where people only do good transactions and don't do bad transactions.
+
+01:29:09.860 --> 01:29:12.860
+It sounds actually socially desirable.
+
+01:29:12.860 --> 01:29:17.860
+But who gets to choose them?
+
+01:29:17.860 --> 01:29:24.860
+There is usually, I've read a lot about these things, and I've spoken to people about these things.
+
+01:29:24.860 --> 01:29:26.860
+I've been called to advise on these things.
+
+01:29:26.860 --> 01:29:31.860
+And there's usually very little talk about who gets to decide.
+
+01:29:31.860 --> 01:29:35.860
+And what is the democratic governance of those decisions?
+
+01:29:35.860 --> 01:29:37.860
+And what is the review process of those decisions?
+
+01:29:37.860 --> 01:29:39.860
+What's the transparency of those decisions?
+
+01:29:39.860 --> 01:29:41.860
+How can those decisions be challenged?
+
+01:29:41.860 --> 01:29:43.860
+There's close to none of that.
+
+01:29:43.860 --> 01:29:48.860
+It is assumed that the people in power can make good decisions.
+
+01:29:48.860 --> 01:29:52.860
+And then the people not in power will, of course, follow them because they're good decisions.
+
+01:29:52.860 --> 01:29:54.860
+But we've passed this.
+
+01:29:54.860 --> 01:29:57.860
+We've passed this phase in human development, right?
+
+01:29:57.860 --> 01:30:01.860
+This was a phase of pre-constitutional rights.
+
+01:30:01.860 --> 01:30:07.860
+Constitutional rights start off by saying the sovereignty is with the individual, not the state.
+
+01:30:07.860 --> 01:30:10.860
+You have to follow us, of course.
+
+01:30:10.860 --> 01:30:12.860
+But are you default free?
+
+01:30:12.860 --> 01:30:13.860
+Yes.
+
+01:30:13.860 --> 01:30:15.860
+Are you default allowed to do things?
+
+01:30:15.860 --> 01:30:16.860
+Yes.
+
+01:30:16.860 --> 01:30:18.860
+Are you default allowed to own things?
+
+01:30:18.860 --> 01:30:19.860
+Own things?
+
+01:30:19.860 --> 01:30:20.860
+Yes.
+
+01:30:20.860 --> 01:30:24.860
+Can the state deprive you of your rights, your freedom, your freedom of speech, your freedom of movement, your property?
+
+01:30:24.860 --> 01:30:29.860
+Not without due process.
+
+01:30:29.860 --> 01:30:31.860
+The state has to say you did something wrong.
+
+01:30:31.860 --> 01:30:33.860
+The thing you did wrong is this.
+
+01:30:33.860 --> 01:30:36.860
+The penalty is that you have a jury of your peers.
+
+01:30:36.860 --> 01:30:37.860
+You have a lawyer.
+
+01:30:37.860 --> 01:30:39.860
+You have, there's a set.
+
+01:30:39.860 --> 01:30:43.860
+The hurdle is significant for the state to do it.
+
+01:30:43.860 --> 01:30:53.860
+And that creates a version of a level of check on state power.
+
+01:30:53.860 --> 01:31:10.860
+If we move all over this to an automated system running on private infrastructure, you know, you don't have any constitutional rights on Facebook's servers.
+
+01:31:10.860 --> 01:31:12.860
+They're not yours.
+
+01:31:12.860 --> 01:31:13.860
+They're Facebook's.
+
+01:31:13.860 --> 01:31:20.860
+Just like you don't have any constitutional right to come into Mark Zuckerberg's house and lecture him in his lover room.
+
+01:31:20.860 --> 01:31:30.860
+And this is correct because if you get out of a constitutional right to go in his servers and go in his living rooms, you'd have to assume a coercive state that would force him to let you in.
+
+01:31:30.860 --> 01:31:33.860
+So it's correct that you don't have any rights there.
+
+01:31:33.860 --> 01:31:49.860
+But if it turns out that we build our whole infrastructure on this type of underlying architecture, all types of policies will be implemented.
+
+01:31:49.860 --> 01:31:53.860
+They will be effectively I was unreviewable.
+
+01:31:53.860 --> 01:31:57.860
+They will be implemented at scale.
+
+01:31:57.860 --> 01:32:02.860
+And they will be abused.
+
+01:32:02.860 --> 01:32:07.860
+People keep talking about the state, but the state also means people.
+
+01:32:07.860 --> 01:32:10.860
+There is someone in charge of the state.
+
+01:32:10.860 --> 01:32:13.860
+The United States, the executive was a president.
+
+01:32:13.860 --> 01:32:17.860
+And the president has a lot of power, Congress also has power.
+
+01:32:17.860 --> 01:32:21.860
+And those are individual people that just people just like you and me.
+
+01:32:21.860 --> 01:32:25.860
+And they're not infallible.
+
+01:32:25.860 --> 01:32:31.860
+And in fact, their objectives are unlikely to be wholly pure, some of them likely.
+
+01:32:31.860 --> 01:32:34.860
+But they're likely all of them to be wholly pure.
+
+01:32:34.860 --> 01:32:38.860
+And so every time you sub here, the word state is a substitute person.
+
+01:32:38.860 --> 01:32:43.860
+Should a person have this amount of power?
+
+01:32:43.860 --> 01:32:47.860
+Often to me, the answer is no.
+
+01:32:47.860 --> 01:32:54.860
+It's not like I think George shouldn't have this amount of power, but I should.
+
+01:32:54.860 --> 01:32:57.860
+I don't think I should either.
+
+01:32:57.860 --> 01:33:03.860
+But I also don't think any other arbitrary person should either.
+
+01:33:03.860 --> 01:33:07.860
+And this is what the nature of a constitutional democracy is.
+
+01:33:07.860 --> 01:33:15.860
+The nature of a constitutional democracy puts significant limits on the government's power
+
+01:33:15.860 --> 01:33:18.860
+versus what it used to be before with it.
+
+01:33:18.860 --> 01:33:26.860
+And if we lose this indirectly in the digital world, in this highly immersive digital world,
+
+01:33:26.860 --> 01:33:28.860
+it can be very problematic.
+
+01:33:28.860 --> 01:33:30.860
+Now, okay, so this is all, you know, mostly scary.
+
+01:33:30.860 --> 01:33:32.860
+And I think it is mostly scary.
+
+01:33:32.860 --> 01:33:38.860
+And one of the basis of everything I've been running on the open metaverse,
+
+01:33:38.860 --> 01:33:39.860
+what can we do?
+
+01:33:39.860 --> 01:33:41.860
+I actually don't think it's much.
+
+01:33:41.860 --> 01:33:42.860
+Right.
+
+01:33:42.860 --> 01:33:43.860
+And it's difficult.
+
+01:33:43.860 --> 01:33:46.860
+And it's very high level.
+
+01:33:46.860 --> 01:33:59.860
+And at the first approximation is the first level of abstraction is well,
+
+01:33:59.860 --> 01:34:07.460
+Do we have the same rights digitally as we do in the physical world?
+
+01:34:07.460 --> 01:34:11.060
+Do we have a default right to privacy online?
+
+01:34:11.060 --> 01:34:17.460
+Do we have a default right to ownership online?
+
+01:34:17.460 --> 01:34:18.500
+Can you own something?
+
+01:34:18.500 --> 01:34:21.380
+Can you own a piece of art?
+
+01:34:21.380 --> 01:34:24.420
+Because to own it, you need that quote, unquote, non-custodial
+
+01:34:24.420 --> 01:34:24.920
+walk.
+
+01:34:24.920 --> 01:34:33.400
+If it has to be held in custody by Coinbase or Kraken or BitStamp or JP Morgan Chase,
+
+01:34:33.400 --> 01:34:41.320
+well, no, then we're saying we trust our citizens to own a piece of art in their living room,
+
+01:34:41.320 --> 01:34:44.440
+but we don't trust our citizens to own a piece of art in the inner.
+
+01:34:47.000 --> 01:34:52.600
+Which my view is that's an incorrect decision for society, right?
+
+01:34:52.600 --> 01:34:56.120
+In any case, my view is meaning to have the discussions with society.
+
+01:34:57.720 --> 01:35:05.960
+As the world becomes more digital, there needs to be a genuine discussion among policy makers
+
+01:35:05.960 --> 01:35:14.840
+and the people of what we think the right balance of power is between the state and its citizens
+
+01:35:14.840 --> 01:35:17.640
+of the world, noting that everything is a tradeoff.
+
+01:35:17.640 --> 01:35:20.920
+Of course, fighting crime is easier when you don't have any rights.
+
+01:35:20.920 --> 01:35:29.000
+Of course, but we have decided in at least most constitutional democracies that fighting
+
+01:35:29.000 --> 01:35:32.600
+crime is very important, but it's not the only thing that matters.
+
+01:35:33.320 --> 01:35:36.600
+Because if it was the only thing that matters, then a cop could walk into your house anytime
+
+01:35:36.600 --> 01:35:37.720
+to just check the suit you're in.
+
+01:35:38.440 --> 01:35:42.120
+And generally not, if I didn't get a warrant, then I'd go to court, then I'd go through some
+
+01:35:42.120 --> 01:35:43.640
+process, right?
+
+01:35:43.640 --> 01:35:46.680
+Because you start off with the right suit, then first level is the constitutional.
+
+01:35:46.680 --> 01:35:51.640
+The second level is, again, what I keep.
+
+01:35:51.640 --> 01:35:57.880
+I'm asking everyone about what I call freedom to transact, which it is a model of
+
+01:35:58.760 --> 01:36:01.320
+there needs to still exist some
+
+01:36:05.080 --> 01:36:08.520
+default allowed system of transactions.
+
+01:36:09.960 --> 01:36:10.920
+We still have one today.
+
+01:36:10.920 --> 01:36:11.640
+It's called cash.
+
+01:36:11.640 --> 01:36:15.720
+You are default allowed to pay someone with cash.
+
+01:36:17.640 --> 01:36:18.760
+Credit cards are not like that, right?
+
+01:36:18.760 --> 01:36:21.400
+The credit card goes and goes for an impressing.
+
+01:36:21.400 --> 01:36:24.920
+It says yes or no, a third party says yes or no to the transaction.
+
+01:36:26.760 --> 01:36:27.800
+But cash is not.
+
+01:36:27.800 --> 01:36:31.560
+If I take $20 and I give it to someone and buy a burger and a beer,
+
+01:36:32.440 --> 01:36:34.760
+there's no third party in that transaction.
+
+01:36:35.720 --> 01:36:38.760
+I believe we need to maintain a default allowed payment system.
+
+01:36:38.760 --> 01:36:46.120
+And I believe digitally, because I don't think the CVDC is the right thing would have been
+
+01:36:46.120 --> 01:36:50.760
+for the CVDC's to become default permissions, just like cash is.
+
+01:36:50.760 --> 01:36:52.040
+But I don't think I'm going to do that.
+
+01:36:53.960 --> 01:36:57.480
+I've been having discussions with the Federal Reserve for a long time.
+
+01:36:57.480 --> 01:36:58.280
+I don't do it.
+
+01:36:58.280 --> 01:37:07.240
+And so that means being allowed to hold crypto assets in your own world.
+
+01:37:08.760 --> 01:37:10.920
+I think that's what the choice is going to build out to.
+
+01:37:12.040 --> 01:37:17.720
+And then the last thing, which is also part of my thesis of the one that I think I can
+
+01:37:19.000 --> 01:37:25.560
+add the most influence on, is this metaverse with persistent digital objects needs to
+
+01:37:25.560 --> 01:37:32.760
+database to store those objects. And that database can be one or several big companies.
+
+01:37:33.640 --> 01:37:35.320
+Or it can be a public blockchain.
+
+01:37:36.120 --> 01:37:41.160
+And if it's a public blockchain, we have a system to store an arbitrary digital object.
+
+01:37:41.160 --> 01:37:42.120
+It's called an NFT.
+
+01:37:44.040 --> 01:37:51.080
+And if people can own their NFTs and then companies, organizations,
+
+01:37:51.080 --> 01:37:54.600
+governments build applications to use them, that's fantastic.
+
+01:37:54.600 --> 01:37:57.160
+Some of those applications can be large and centralized.
+
+01:37:57.160 --> 01:37:58.120
+It's also fantastic.
+
+01:37:59.320 --> 01:38:01.960
+But they should not control the database of record.
+
+01:38:02.600 --> 01:38:05.800
+Because that database of record is a database for our world.
+
+01:38:06.760 --> 01:38:13.640
+And so to me, these are, we're at a very interesting path in the road.
+
+01:38:15.640 --> 01:38:16.600
+We're fork in the road.
+
+01:38:16.600 --> 01:38:24.760
+I think the decisions that are made in the 2020s, over the next four years,
+
+01:38:26.760 --> 01:38:35.160
+will determine what the architecture and ultimately the human rights architecture of our life will be
+
+01:38:35.720 --> 01:38:37.160
+in the 2030s and afters.
+
+01:38:38.840 --> 01:38:44.680
+I think because of the network effects and the kind of monopolistic effects or all
+
+01:38:44.680 --> 01:38:50.040
+monopolistic effects of the internet, whatever system gets established in the next few years will
+
+01:38:50.040 --> 01:38:51.240
+become the system that wins.
+
+01:38:53.640 --> 01:38:57.720
+Just like it's hard to get off Twitter, if everyone stores their,
+
+01:38:57.720 --> 01:39:03.400
+take a simple example, digital art is an NFT, then artists will be making digital art as NFT
+
+01:39:03.400 --> 01:39:04.040
+in the 2030s.
+
+01:39:04.040 --> 01:39:09.960
+If everyone stores it on Facebook art service, that's what's going to work.
+
+01:39:09.960 --> 01:39:13.080
+We'll find out which one it is over these few years.
+
+01:39:13.080 --> 01:39:18.440
+I think it is, there are things we can do.
+
+01:39:19.960 --> 01:39:22.280
+I don't think it's clear which way it's going to go.
+
+01:39:24.360 --> 01:39:28.200
+In some countries, it is clear that it's going to go on the permission side.
+
+01:39:29.160 --> 01:39:31.640
+I guess you should probably state this in reverse.
+
+01:39:32.600 --> 01:39:35.960
+In many countries, they've already decided they're going to permission route.
+
+01:39:35.960 --> 01:39:40.680
+China seems to be building out and permission block shame.
+
+01:39:40.680 --> 01:39:41.880
+Architecture.
+
+01:39:41.880 --> 01:39:46.280
+And then the question is, if the other countries, if there will be countries,
+
+01:39:46.280 --> 01:39:49.240
+that run an open architecture.
+
+01:39:50.760 --> 01:39:51.800
+I hope they do.
+
+01:39:51.800 --> 01:39:53.560
+I think it's going to be better for the world that they do.
+
+01:39:54.200 --> 01:39:55.720
+I don't think it will happen automatically.
+
+01:39:56.360 --> 01:40:00.680
+I don't think it will happen without people, you know,
+
+01:40:02.200 --> 01:40:09.000
+having a discussion about what they think they deserve from as a citizen in a digital world.
+
+01:40:09.000 --> 01:40:13.320
+And I'm hoping we can help stimulate some of that discussion.
+
+01:40:13.320 --> 01:40:16.200
+So I'm going to stop here.
+
+01:40:16.200 --> 01:40:20.600
+This is probably the most personal of the presentations on the other ones.
+
+01:40:20.600 --> 01:40:22.280
+I tried to be somehow neutral.
+
+01:40:23.960 --> 01:40:25.880
+I am not neutral here.
+
+01:40:26.920 --> 01:40:28.360
+I think that's probably fair to say.
+
+01:40:29.160 --> 01:40:34.840
+I do not think it is 50 50, if we should have a completely permission.
+
+01:40:34.840 --> 01:40:38.840
+And digital architecture versus a permissionless one.
+
+01:40:39.640 --> 01:40:43.000
+And it's equally good for society if we have either one.
+
+01:40:44.120 --> 01:40:44.520
+I am.
+
+01:40:45.880 --> 01:40:48.680
+I have a point of view or a bias, if you want to call it.
+
+01:40:50.520 --> 01:40:54.680
+But that's what I'm sharing in this presentation.
+
+01:40:54.680 --> 01:40:56.760
+So I am going to stop here.
+
+01:40:57.960 --> 01:41:01.640
+George of it, if I can maybe look at some questions.
+
+01:41:01.640 --> 01:41:11.000
+And I'll maybe for another 15 minutes or so.
+
+01:41:31.640 --> 01:41:41.560
+I'm trying to get into the score where the questions are.
+
+01:41:41.560 --> 01:41:43.640
+Oh my gosh, it's not yelling at me.
+
+01:41:43.640 --> 01:42:06.280
+Okay.
+
+01:42:13.640 --> 01:42:26.640
+Okay, I think I'm in.
+
+01:42:26.640 --> 01:42:30.640
+So, it's more glitch.
+
+01:42:30.640 --> 01:42:39.640
+Okay, there are a few questions regarding the exam. I will take this and then there are a couple of questions for six five to nine.
+
+01:42:39.640 --> 01:42:51.640
+So, first question, will completing this course count toward course credit for unique and assist students that we can share is no.
+
+01:42:51.640 --> 01:43:08.640
+In the future, we plan to have a for credit version of this course, as you might remember from our initial lectures, the university of negotiated in the process of accrediting a new master's degree, the master's in metaverse systems we hope to.
+
+01:43:08.640 --> 01:43:16.640
+To be able to launch this in the coming couple of months and the first class will start in September 2023.
+
+01:43:16.640 --> 01:43:31.640
+So, if this happens, this course will be made into a credit course, it will have a different form of assessment, obviously, for the students that are taking it for credit.
+
+01:43:31.640 --> 01:43:47.640
+So, the short answer is that this particular course with this particular assessment that I mentioned the multiple choice quiz for the end will not count towards towards course credit for our students.
+
+01:43:47.640 --> 01:43:56.640
+Another question is the certificate generative art, as I've said, we don't have all the details yet so I cannot commit, but most likely.
+
+01:43:56.640 --> 01:43:58.640
+Yes.
+
+01:43:58.640 --> 01:44:05.640
+Another question, is there a way to do the full course to obtain the certification.
+
+01:44:05.640 --> 01:44:09.640
+I'm not sure what exactly the student means here.
+
+01:44:09.640 --> 01:44:22.640
+I mean, this is the full course. So, if you take the exam and score 60% or higher as I've said, you will get the certificate of completion as an NFT on Ethereum.
+
+01:44:22.640 --> 01:44:35.640
+If you would like to do so. So, yeah, I don't know if you meant something else, please let us know.
+
+01:44:35.640 --> 01:44:41.640
+6'5 to 9", I don't know if you have access to the questions or do you want me to read them for you because I think they're.
+
+01:44:41.640 --> 01:44:55.640
+I have them, I see three of them here. The first one I'm laughing, I don't mean.
+
+01:44:55.640 --> 01:45:16.640
+Yeah. Both, I guess. I'm going to go with both. I don't know, usually these things do start for pleasure, don't be George. So, I'm going to say both, but if that's wrong, it's probably pleasure first in business afterwards.
+
+01:45:16.640 --> 01:45:27.640
+That pleasure is a business, isn't it? So, yeah, it might be pleasure for the end user, but it might be a business application for the ones who develop some markets.
+
+01:45:27.640 --> 01:45:55.640
+Yep, yep, yep. All right, is the network state a new hybrid global structure, or does it become an alternative pseudo digital government place? So, this is very
+
+01:45:55.640 --> 01:46:09.640
+difficult and interesting question. I've spoken about it with biology and we'll discuss this with him on his session because he's the expert on it.
+
+01:46:09.640 --> 01:46:26.640
+And he has a more ambitious view of it, that makes sense of his concept. But he thinks of it even taking on indirectly physical space.
+
+01:46:26.640 --> 01:46:40.640
+And I'm going to say his view.
+
+01:46:40.640 --> 01:46:59.640
+And he controls physical space, it's like this.
+
+01:46:59.640 --> 01:47:13.640
+Very long time, if ever, give up default control of societal governance.
+
+01:47:13.640 --> 01:47:32.640
+And so what this, what I think these are going to be, are groups of people who operate in parallel to this. I mean, is the Catholic Church a network state.
+
+01:47:32.640 --> 01:47:56.640
+And so, it's a very valuable, yes, right, like there's many people around the world who share a set of values, who contribute economically to those values, who have shared physical facilities around the world.
+
+01:47:56.640 --> 01:48:12.640
+And in some countries, universities, the Vatican also has a very small nation state, but I don't think that's the important part. I mean, the Catholic Church, I think, by biology is a network state.
+
+01:48:12.640 --> 01:48:31.640
+In mature nation states, people are fine with this, right, in some nation states they are, it was all they want to like control it, but like in my current nation states, like the Catholic Church and share your beliefs with others and that's fine.
+
+01:48:31.640 --> 01:48:56.640
+And so I think it's conceptually for me it's conceptually like that. It's something like, and I'm not saying it's like a religion, from that perspective, but it's something like a religion in how it can be, it's a different layer of people's lives organized in parallel to the nation state.
+
+01:48:56.640 --> 01:49:02.640
+So, I think that's how it ends up.
+
+01:49:02.640 --> 01:49:21.640
+Okay, can you comment on feudalistic state, web 3 appears to be from a societal evolution perspective, or if you disagree with this view, do you think the development of space will follow a parallel path to societal evolution but it's sped up right?
+
+01:49:21.640 --> 01:49:26.640
+I don't think I understand the question to be honest.
+
+01:49:26.640 --> 01:49:30.640
+I think web 2 is more feudalistic right now than web 3.
+
+01:49:30.640 --> 01:49:37.640
+I think web 2 is almost, almost completely feudalistic.
+
+01:49:37.640 --> 01:50:01.640
+So, if you work, if you make a large part of your life on Facebook, well, you don't really have any rights at all there, right? They can just end your account at any time for any reason.
+
+01:50:01.640 --> 01:50:10.640
+That's it, I don't really anything. And that seems to me to be a feudal type relationship.
+
+01:50:10.640 --> 01:50:19.640
+Web 3 I don't think is that way, necessarily, and definitely not as bad.
+
+01:50:19.640 --> 01:50:33.640
+I think we have an opportunity to have self sovereign actions in web 3 that perhaps we don't do web 2.
+
+01:50:33.640 --> 01:50:41.640
+That's how I understand the question list.
+
+01:50:41.640 --> 01:50:49.640
+Do you have any other ones or have I bored everyone to death already on the stop?
+
+01:50:49.640 --> 01:50:55.640
+I don't see any other questions, no, I think this covers it all.
+
+01:50:55.640 --> 01:51:06.640
+I guess we can renew our appointment for next Wednesday unless we amount something earlier than that which I don't think so at this stage.
+
+01:51:06.640 --> 01:51:10.640
+It's only Baladji that is missing, correct?
+
+01:51:10.640 --> 01:51:12.640
+Yeah, we'll see.
+
+01:51:12.640 --> 01:51:15.640
+We don't have any concerns now, but we will.
+
+01:51:15.640 --> 01:51:36.640
+For Baladji, nobody in the next panel discussion is next Wednesday with regarding the metaverse and it's with Ryan from Momsiber, Charlie Cohen and Maxxin Perumal, correct?
+
+01:51:36.640 --> 01:51:42.640
+That one's going to be wild. We have Ryan and Maxxin and Charlie, it's going to be wild.
+
+01:51:42.640 --> 01:51:49.640
+A lot of different and exciting viewpoints in that one.
+
+01:51:49.640 --> 01:51:51.640
+I'm really looking forward to it.
+
+01:51:51.640 --> 01:51:57.640
+Okay, we all are and you're going to be moderating it, so I'm sure it's going to be fine.
+
+01:51:57.640 --> 01:52:01.640
+Great, so I'll see you next week then, everyone.
+
+01:52:01.640 --> 01:52:02.640
+All right.
+
+01:52:02.640 --> 01:52:04.640
+Bye bye for now.
+
+01:52:04.640 --> 01:52:05.640
+Bye bye.
+
+01:52:05.640 --> 01:52:07.640
+Bye bye.
+

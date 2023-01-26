@@ -92,3 +92,8 @@ Inside this directory you may find the transcripts of the live sessions, were -w
     - .srt - https://arweave.net/-KpYNxy5PDrQpp46G3Uj4LefOZ1ufFn7EejArJXM2Cw
     - .vtt - https://arweave.net/wZ4aPOtfF5A9yJnh0QTtLbS89pRdvYbtZ_pFLp3-6d0
 
+- **Week 12: Metaverse 2030**
+    - .txt - https://arweave.net/Vp_y9xe-3kEsY2KthKGZ1quWiIjwNZXRKAnAxA-q4ao
+    - .srt - https://arweave.net/AGYcXrOgMRuSE3mL4ECOqMUM3BEo9Xi5MdFPoKxn2TY
+    - .vtt - https://arweave.net/qcpEDT565nQG5wAAL3Wj4UBE9IEM9QG2YgNuidonrEo
+
