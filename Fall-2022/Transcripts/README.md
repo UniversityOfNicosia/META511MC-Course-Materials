@@ -43,9 +43,9 @@ Inside this directory you may find the transcripts of the live sessions, were -w
         - .vtt - https://arweave.net/-Wj-iRodMCJs6vO7UFqACFzms7NUFylkjrgaC1tSJKI
 
     - **Week 4.4: CryptoArt NFTs 1/1 Panel**
-        - .txt - https://arweave.net/
-        - .srt - https://arweave.net/
-        - .vtt - https://arweave.net/
+        - .txt - https://arweave.net/tdixYymay0oPnoR_UseAUupEwJ6XoBhqOOPSo1nBcS8
+        - .srt - https://arweave.net/yT1O2JBzQMV4GOY_fWJMDk6-7b0D1Q4-jyHtvfvc9Vc
+        - .vtt - https://arweave.net/3O9DvGyu1R_8GPGz5YVRnsyx1YaJlLBEMth4XzcMWxA
 
 
 - **Week 5: Art NFTs (Generative Art)**

@@ -1,0 +1,2990 @@
+WEBVTT
+
+00:00.000 --> 00:22.800
+All right.
+
+00:22.800 --> 00:25.000
+Hey, GM, GM, everybody.
+
+00:25.000 --> 00:28.980
+Thank you for joining us and welcome to Meta 511, an NFT
+
+00:28.980 --> 00:33.520
+panel discussion on crypto art and one of ones.
+
+00:33.520 --> 00:36.960
+A huge thank you to our host, Yoonik, for including the session
+
+00:36.960 --> 00:39.120
+in their ongoing series on web 3.
+
+00:39.120 --> 00:43.040
+I'm pleased to be joined by Sasha Styles, Claire Silver, Ina
+
+00:43.040 --> 00:45.080
+Moja, and Sam Strad.
+
+00:45.080 --> 00:51.240
+But before we get started, OK, there's a bit of lag here,
+
+00:51.240 --> 00:55.200
+but we're going to try laboring on.
+
+00:55.200 --> 01:00.520
+So first of all, a reminder.
+
+01:00.520 --> 01:01.520
+OK.
+
+01:01.520 --> 01:04.000
+All right, let's give this a shot again.
+
+01:04.000 --> 01:07.240
+So reminder, if you're attending,
+
+01:07.240 --> 01:10.000
+you can ask questions in the on chat or on Twitter
+
+01:10.000 --> 01:15.120
+using hashtag NFT Q&A. So the topic of today
+
+01:15.120 --> 01:18.600
+is really around crypto art and one of ones.
+
+01:18.600 --> 01:20.840
+And why is this topic important?
+
+01:20.840 --> 01:23.120
+And one of ones are the NFT equivalent
+
+01:23.120 --> 01:25.400
+of a unique painting or photograph.
+
+01:25.400 --> 01:28.240
+They're usually owned by a single individual.
+
+01:28.240 --> 01:30.440
+Placing of one of one with a notable collector
+
+01:30.440 --> 01:32.920
+institution or fund in the NFT world
+
+01:32.920 --> 01:34.680
+is as important as it is with works
+
+01:34.680 --> 01:36.240
+in the traditional art world.
+
+01:36.240 --> 01:38.320
+So provenance and provability often
+
+01:38.320 --> 01:40.760
+become a very important aspect.
+
+01:40.760 --> 01:43.880
+And especially when you play that to the digital world,
+
+01:43.880 --> 01:46.360
+you have provability and you also
+
+01:46.360 --> 01:48.560
+have the provable scarcity aspect.
+
+01:48.560 --> 01:50.640
+And a classic case in the traditional world
+
+01:50.640 --> 01:54.600
+would be the Salva Carmundi by Leonardo da Vinci,
+
+01:54.600 --> 01:58.560
+supposedly by Leonardo, which sold as high as $450 million.
+
+01:58.560 --> 02:00.360
+But if you look at the initial certification,
+
+02:00.360 --> 02:02.640
+it was done by a world-renowned gallery.
+
+02:02.640 --> 02:07.240
+But again, it shows you that it is an imprecise art at best.
+
+02:07.240 --> 02:09.400
+And that's where the blockchain comes into be.
+
+02:09.400 --> 02:11.680
+So I'm very, very happy and thrilled to be here
+
+02:11.680 --> 02:14.960
+with four tremendous guests.
+
+02:14.960 --> 02:19.480
+Sam Spratt, Sasha Styles, Claire Silver, Inamoja.
+
+02:19.480 --> 02:23.000
+And we're going to get into a little bit of the discussion
+
+02:23.000 --> 02:25.480
+on why one of one art is relevant.
+
+02:25.480 --> 02:27.320
+But before we do that, I'd like each of them
+
+02:27.320 --> 02:30.440
+to introduce themselves and maybe spend two to three minutes
+
+02:30.440 --> 02:33.800
+kind of introducing a little bit about who they are.
+
+02:33.800 --> 02:36.200
+So I'm going to start with Claire.
+
+02:36.200 --> 02:39.320
+Claire, why don't you start and kick us off here.
+
+02:39.320 --> 02:40.200
+Hey, good morning.
+
+02:40.200 --> 02:43.400
+I will do my best to do that.
+
+02:43.400 --> 02:45.080
+Hope everybody is having a great day.
+
+02:45.080 --> 02:46.120
+I'm Claire Silver.
+
+02:46.120 --> 02:49.040
+I'm an AI collaborative artist.
+
+02:49.040 --> 02:53.000
+And I do a lot of work with exhibitions
+
+02:53.000 --> 02:56.560
+and sort of curating contests for AI art
+
+02:56.560 --> 02:58.520
+and hoping people sort of push the boundaries
+
+02:58.520 --> 03:01.840
+into other mediums, like film, video games, music, et cetera.
+
+03:01.840 --> 03:05.880
+Very exciting time to be working with AI as an artist.
+
+03:05.880 --> 03:07.960
+And I'm also a co-founder of A2, which
+
+03:07.960 --> 03:11.160
+is a collective for emerging artists
+
+03:11.160 --> 03:12.600
+to help get them some visibility.
+
+03:12.600 --> 03:16.280
+We did an exhibition of their work at Basel last year
+
+03:16.280 --> 03:17.480
+and won in New York as well.
+
+03:17.480 --> 03:19.800
+So that's me.
+
+03:19.800 --> 03:20.960
+Hey, thanks, Claire.
+
+03:20.960 --> 03:23.800
+You know, over to you.
+
+03:23.800 --> 03:25.600
+I'm with the one.
+
+03:25.600 --> 03:26.640
+I'm Ina Moja.
+
+03:26.640 --> 03:32.160
+I'm a visual cook-green, which is a three-for-good organization.
+
+03:32.160 --> 03:33.360
+Thanks, Ina.
+
+03:33.360 --> 03:35.720
+Sasha, over to you.
+
+03:35.720 --> 03:36.400
+Hi.
+
+03:36.400 --> 03:38.000
+I'm actually going to break the trend
+
+03:38.000 --> 03:41.120
+and put my camera on to say hi to everyone.
+
+03:41.120 --> 03:42.680
+Thanks so much for having all of us here.
+
+03:42.680 --> 03:44.320
+This is a really wonderful group.
+
+03:44.320 --> 03:47.200
+So just by way of a quick introduction,
+
+03:47.200 --> 03:48.600
+again, my name is Sasha.
+
+03:48.600 --> 03:52.320
+I'm a first-generation, comic, Mongolian-American poet,
+
+03:52.320 --> 03:54.800
+an artist, as well as an AI researcher.
+
+03:54.800 --> 03:57.480
+And I work mainly at the intersection of text and technology.
+
+03:57.480 --> 03:59.480
+I'm a lifelong writer and poet.
+
+03:59.480 --> 04:01.600
+And really, my main areas of focus these days
+
+04:01.600 --> 04:03.880
+are generative literature and language art,
+
+04:03.880 --> 04:07.000
+and, of course, blockchain and poetics.
+
+04:07.000 --> 04:09.000
+I'm particularly interested in the resonances
+
+04:09.000 --> 04:13.800
+between poetry and technology and considering poetry as code.
+
+04:13.800 --> 04:17.160
+Poetry is a kind of ancient data storage system.
+
+04:17.160 --> 04:19.240
+Along with all the conceptual implications
+
+04:19.240 --> 04:22.960
+that poetry can bring into this web3 world of digital ownership
+
+04:22.960 --> 04:26.600
+and provenance and preservation.
+
+04:26.600 --> 04:30.600
+In 2021, I actually published my first book, which
+
+04:30.600 --> 04:32.840
+is a collection of hybrid poetry and artwork.
+
+04:32.840 --> 04:34.000
+And it's called technology.
+
+04:34.000 --> 04:36.200
+And I actually have it right here.
+
+04:36.200 --> 04:40.760
+And it's all about what it means to be human in a nearly post-human era.
+
+04:40.760 --> 04:44.680
+And I wrote this book with a non-human co-author, an AI-powered
+
+04:44.680 --> 04:50.680
+alter-ego, a text generator, rooted in GPT-2 and GPT-3,
+
+04:50.680 --> 04:52.800
+just an ancestor of chat GPT, who's
+
+04:52.800 --> 04:55.000
+been getting a lot of attention lately.
+
+04:55.000 --> 04:57.200
+And I've been working with this text generator
+
+04:57.200 --> 05:00.720
+and customizing it since 2018.
+
+05:00.720 --> 05:04.320
+I am very grateful to say that technology, my book,
+
+05:04.320 --> 05:06.760
+has been praised and welcomed not just by poets,
+
+05:06.760 --> 05:09.440
+but also by the tech community and the AI world
+
+05:09.440 --> 05:12.760
+and by futurists and visionaries, such as Ray Kurtzpile, which
+
+05:12.760 --> 05:15.440
+has really meant a lot to me.
+
+05:15.440 --> 05:21.240
+I am very wedded to physical books as a lifelong writer.
+
+05:21.240 --> 05:22.560
+Books are very near and dear to me.
+
+05:22.560 --> 05:26.440
+But I'm also very interested in publishing innovations,
+
+05:26.440 --> 05:32.200
+and especially what web3 promises for writers like myself, not
+
+05:32.200 --> 05:34.720
+just artists, but writers and poets.
+
+05:34.720 --> 05:36.360
+And I'm very interested in looking
+
+05:36.360 --> 05:41.040
+at how I can use blockchain, protocol, and different mediums
+
+05:41.040 --> 05:43.480
+to manifest my poetry in different ways.
+
+05:43.480 --> 05:46.400
+And I've had a lot of fun over the past few years
+
+05:46.400 --> 05:49.600
+getting to publish my poems in various experimental formats
+
+05:49.600 --> 05:54.040
+by places like FXHASH and PONTOM and 50 Gateway,
+
+05:54.040 --> 05:54.880
+and objects.
+
+05:54.880 --> 05:59.280
+And I even sold an AI-powered poem last year at Christie's,
+
+05:59.280 --> 06:02.360
+which still is sort of unbelievable to me.
+
+06:02.360 --> 06:04.720
+And last but not least, I wanted to just say that I am also
+
+06:04.720 --> 06:07.400
+co-founder of a group called Diverseverse, which
+
+06:07.400 --> 06:12.440
+is a literary gallery dedicated to crypto poetry and really
+
+06:12.440 --> 06:14.480
+NFT literature at large.
+
+06:14.480 --> 06:18.920
+We are dedicated to exploring the ideas that poetry is art,
+
+06:18.920 --> 06:22.440
+that poetry is also a technology.
+
+06:22.440 --> 06:24.800
+And that language really shouldn't have any limits
+
+06:24.800 --> 06:25.640
+or any boundaries.
+
+06:25.640 --> 06:28.760
+And we've been working on a lot of really exciting projects
+
+06:28.760 --> 06:33.520
+that are coming up this year, which I'm excited to share.
+
+06:33.520 --> 06:34.360
+Thanks.
+
+06:34.360 --> 06:35.520
+Thank you, Sasha.
+
+06:35.520 --> 06:38.760
+Sam, last but not least.
+
+06:38.760 --> 06:41.080
+Hey, good morning, everyone.
+
+06:41.080 --> 06:42.520
+Man, thank you for having us.
+
+06:42.520 --> 06:43.800
+This is really special.
+
+06:43.800 --> 06:45.400
+Bharat, really good to be with you.
+
+06:45.400 --> 06:49.520
+And all three of you are just extremely talented and thoughtful
+
+06:49.520 --> 06:50.600
+women.
+
+06:50.600 --> 06:54.840
+It's an honor to be alongside you.
+
+06:54.840 --> 06:57.080
+I started out as an oil painter.
+
+06:57.080 --> 07:00.840
+And I would study the technique of the old master's
+
+07:00.840 --> 07:02.120
+feet of horror Rubens.
+
+07:02.120 --> 07:04.840
+But around 12 years ago, I discovered
+
+07:04.840 --> 07:06.640
+a digital tablet.
+
+07:06.640 --> 07:10.120
+And then I pretty much spent the rest of the time from then
+
+07:10.120 --> 07:12.520
+until now, trying to figure out how
+
+07:12.520 --> 07:18.520
+I take the warmth, the flaws, the attempt of the medium
+
+07:18.520 --> 07:21.600
+that I started with, and how to translate it
+
+07:21.600 --> 07:25.640
+into this space that we actually use and operate
+
+07:25.640 --> 07:28.080
+primarily today.
+
+07:28.080 --> 07:32.560
+My early gigs were a staff illustrator for tech blogs.
+
+07:32.560 --> 07:34.960
+I was making 20 bucks in illustration.
+
+07:34.960 --> 07:37.840
+I transitioned that into a pretty solid career
+
+07:37.840 --> 07:41.680
+doing album covers for Kid Cudi, You've Done a Glover,
+
+07:41.680 --> 07:45.680
+Logic, working on games like Borderlands and Red Dead
+
+07:45.680 --> 07:47.240
+Redemption.
+
+07:47.240 --> 07:51.160
+But in that arc, in that 10 years that I
+
+07:51.160 --> 07:57.120
+was spent building this, I was creating other people's worlds.
+
+07:57.120 --> 08:02.600
+And a few years ago, I had this very fascinating,
+
+08:02.600 --> 08:05.880
+but honestly, rather brutal series of events
+
+08:05.880 --> 08:11.000
+kind of unseat me, untether me from that process.
+
+08:11.000 --> 08:14.520
+I noticed that in creating all of this and stacking
+
+08:14.520 --> 08:18.600
+a client list and chasing the commissions from each of them,
+
+08:18.600 --> 08:20.800
+that I had become rather abstracted
+
+08:20.800 --> 08:24.480
+from the idea of what an artist is supposed to be.
+
+08:24.480 --> 08:29.760
+And there is this strange sense of decay
+
+08:29.760 --> 08:34.720
+in that of this prior iteration that I had spent and dedicated
+
+08:34.720 --> 08:36.160
+my whole life to.
+
+08:36.160 --> 08:40.240
+And there was something a few years ago
+
+08:40.240 --> 08:43.920
+that in me, I felt I got to make my own world.
+
+08:43.920 --> 08:45.440
+I have to say my own thing.
+
+08:45.440 --> 08:50.240
+I had lived this path of a mimic, almost,
+
+08:50.240 --> 08:56.520
+of being the kind of person or artist I needed to be for every job
+
+08:56.520 --> 08:59.200
+or project or artist that came my way.
+
+08:59.200 --> 09:02.800
+And something about this space when I started creating
+
+09:02.800 --> 09:09.560
+my series, Lucy, felt like, oh my god, everyone else
+
+09:09.560 --> 09:11.800
+is doing this too.
+
+09:11.800 --> 09:13.160
+They all have their own version of it,
+
+09:13.160 --> 09:14.520
+whatever kind of person they are.
+
+09:14.520 --> 09:17.400
+It doesn't matter if they're an artist or a collector
+
+09:17.400 --> 09:20.600
+or a platform builder or an engineer.
+
+09:20.600 --> 09:25.760
+There's a lot of people here who felt that sense of decay.
+
+09:25.760 --> 09:29.040
+Like they were missing the growth part of life.
+
+09:29.040 --> 09:31.240
+They were in the dissociative part of it.
+
+09:31.240 --> 09:34.400
+And Lucy, the series of episodic paintings
+
+09:34.400 --> 09:37.040
+that I've created is about that.
+
+09:37.040 --> 09:41.520
+It's about taking our first steps again of trying anew.
+
+09:41.520 --> 09:46.720
+And within this, I think there's something
+
+09:46.720 --> 09:54.720
+about 101 art in particular that I feel
+
+09:54.720 --> 09:58.880
+I spent my whole life trying to make covers and facades
+
+09:58.880 --> 10:01.800
+and advertisements that would pop off the shelf
+
+10:01.800 --> 10:05.920
+to try to grab as many people as possible through their noise.
+
+10:05.920 --> 10:10.280
+And in that process, I was very alone, very isolated,
+
+10:10.280 --> 10:11.520
+trying to do that.
+
+10:11.520 --> 10:14.720
+And here, there's none of that during this year
+
+10:14.720 --> 10:16.000
+that I studied this space.
+
+10:16.000 --> 10:17.680
+I've just been creating.
+
+10:17.680 --> 10:21.760
+We get to kind of just do as we please make what we feel.
+
+10:21.760 --> 10:29.040
+And these feelings, no matter how over earnest or melodramatic,
+
+10:29.040 --> 10:32.600
+only a single person needs to see it.
+
+10:32.600 --> 10:34.000
+That's one of one.
+
+10:34.000 --> 10:36.240
+It's person to person.
+
+10:36.240 --> 10:39.240
+Only a single individual needs to feel the frequency
+
+10:39.240 --> 10:41.080
+that you're on.
+
+10:41.080 --> 10:45.080
+From my 10 years of a career, that is such a powerful seismic
+
+10:45.080 --> 10:49.080
+shift in how I create and how I deliver art.
+
+10:49.080 --> 10:53.360
+Where a 101 piece of art is capable of holding a rather sacred
+
+10:53.360 --> 10:56.880
+bond that this individual story and the source of it
+
+10:56.880 --> 11:00.560
+can kind of stack or multiply across the ledger
+
+11:00.560 --> 11:04.080
+as other people bid on it and gets eventually collected
+
+11:04.080 --> 11:05.720
+by another individual.
+
+11:05.720 --> 11:07.520
+There's a story right in that.
+
+11:07.520 --> 11:10.360
+But it's once that individual thing
+
+11:10.360 --> 11:18.720
+has transferred that the soloed-off atomized portion of it
+
+11:18.720 --> 11:20.720
+starts becoming collective.
+
+11:20.720 --> 11:23.640
+That the collector can kind of breathe new life through it,
+
+11:23.640 --> 11:27.040
+evangelize it, spread it, meme it, elevate it in a way,
+
+11:27.040 --> 11:30.200
+far beyond the source of its own creation.
+
+11:30.200 --> 11:33.520
+Your work starts to collide and curate alongside other artists,
+
+11:33.520 --> 11:35.600
+like everyone here on the stage.
+
+11:35.600 --> 11:38.680
+The medium starts to blend and overlap.
+
+11:38.680 --> 11:41.200
+And yet, we as individuals are still
+
+11:41.200 --> 11:45.800
+like codified on chain back to our origin points.
+
+11:45.800 --> 11:47.680
+I love that.
+
+11:47.680 --> 11:51.240
+I can't really begin to express how powerful that has been
+
+11:51.240 --> 11:54.080
+over the last year of creating this project.
+
+11:54.080 --> 11:56.600
+That freedom of movement to remove
+
+11:56.600 --> 12:00.600
+these increments that separate what I think in the past
+
+12:00.600 --> 12:06.040
+maybe seemed disparate elements of humanity.
+
+12:06.040 --> 12:09.360
+Just don't feel like that here.
+
+12:09.360 --> 12:13.480
+It's a playground to kind of tap into who you are,
+
+12:13.480 --> 12:17.920
+but also see what you can become when you start playing together.
+
+12:17.920 --> 12:21.640
+It's amazing.
+
+12:21.640 --> 12:22.920
+Hey, thanks, Sam.
+
+12:22.920 --> 12:25.120
+Hey, I want to stick with you for a second, right?
+
+12:25.120 --> 12:27.880
+Could you tell us a little bit more about Lucy's backstory
+
+12:27.880 --> 12:29.800
+or the origin story, if you would,
+
+12:29.800 --> 12:33.360
+and how alternate reality shaped the body of work?
+
+12:33.360 --> 12:36.480
+Maybe give us a little bit more of that sort of parallel universe
+
+12:36.480 --> 12:40.840
+as you see it and how that sort of plays a part in your artwork.
+
+12:40.840 --> 12:42.760
+Yeah, absolutely.
+
+12:42.760 --> 12:47.880
+So Lucy was really born from this catalytic series
+
+12:47.880 --> 12:51.840
+of events in my own life that all kind of happened simultaneously
+
+12:51.840 --> 12:53.040
+three or four years ago.
+
+12:53.040 --> 12:57.240
+This was in depth, some relationships ending
+
+12:57.240 --> 13:00.720
+that distasteed my own path as an artist that I mentioned,
+
+13:00.720 --> 13:06.000
+that feeling of waking up from a haze of something
+
+13:06.000 --> 13:10.480
+that maybe barely rhymes with life,
+
+13:10.480 --> 13:15.200
+both in art and itself.
+
+13:15.200 --> 13:19.720
+I discussed about as many aspects as you could imagine
+
+13:19.720 --> 13:23.760
+in my work, in my actions, in my knowledge, in my appearance.
+
+13:23.760 --> 13:27.480
+I was a very sad stack at this point in time,
+
+13:27.480 --> 13:28.800
+had a lot of feelings.
+
+13:28.800 --> 13:31.360
+But I think I needed that violence.
+
+13:31.360 --> 13:34.720
+And as I began regaining my footing,
+
+13:34.720 --> 13:39.120
+I was looking for answers and that came in the form of reading
+
+13:39.120 --> 13:43.280
+as many great stories and novels as possible.
+
+13:43.280 --> 13:45.480
+Seeing how these things connected to each other,
+
+13:45.480 --> 13:49.240
+going back in time and starting to see truths in the most recent ones
+
+13:49.240 --> 13:52.600
+that were found and older ones that were found in the most ancient ones,
+
+13:52.600 --> 13:55.560
+these questions that I'd been asking myself now,
+
+13:55.560 --> 14:00.120
+after everything unraveled, were asked and answered like millions of times
+
+14:00.120 --> 14:02.080
+over thousands of years.
+
+14:02.080 --> 14:05.840
+And so I would be journaling my own wanders, my own lives,
+
+14:05.840 --> 14:11.120
+and I would see the same thing happening in books,
+
+14:11.120 --> 14:16.160
+rhyming patterns of both my successes, but also my failures.
+
+14:16.160 --> 14:21.200
+And the thing that got me stuck in a more dissociative cycle for a while,
+
+14:21.200 --> 14:26.520
+that I started to see this space really unlocked to when you put discipline
+
+14:26.520 --> 14:33.440
+towards bending your own arc, to taking ownership agency over your own actions,
+
+14:33.440 --> 14:35.600
+it starts to pull you out of it.
+
+14:35.600 --> 14:40.800
+And Lucy making these paintings,
+
+14:40.800 --> 14:44.560
+they are markers.
+
+14:44.560 --> 14:49.280
+They're like markers of progress about the discovery of not being alone
+
+14:49.280 --> 14:51.200
+as you try to regain your footing.
+
+14:51.200 --> 14:56.640
+And I guess just as much so, they're like markers of our narrative of progress,
+
+14:56.640 --> 15:02.120
+of the moments and the story that were like right for ourselves,
+
+15:02.120 --> 15:06.720
+if I had managed to live my whole life and absolutely miss so many things,
+
+15:06.720 --> 15:10.720
+maybe I'm a little bit of a dishonest narrator for myself,
+
+15:10.720 --> 15:17.280
+and that it might be rather interesting if reality starts being
+
+15:17.280 --> 15:23.360
+others around us reflecting back at us to make something that feels more solid.
+
+15:23.360 --> 15:28.720
+And that feeling that I think Lucy came from is what I've witnessed
+
+15:28.720 --> 15:34.720
+across pretty much every person I've come to meet and know and even love
+
+15:34.720 --> 15:38.720
+and appreciate in this space, like Lucy, each one of these paintings
+
+15:38.720 --> 15:44.120
+is like a carefully crafted joke at my own expense.
+
+15:44.120 --> 15:49.320
+And they pull from prominent origin, salamat of teachings, modern day New York,
+
+15:49.320 --> 15:55.480
+but it's mostly just when you start alone, it's not real.
+
+15:55.480 --> 16:00.680
+It only gets real when you start bouncing off everyone else.
+
+16:00.680 --> 16:01.680
+I love that Sam.
+
+16:01.680 --> 16:05.000
+So art imitating life at its truest sense.
+
+16:05.000 --> 16:07.040
+Hey, Claire, let me shift over to you.
+
+16:07.040 --> 16:11.480
+You've described yourself as a collaborative AI artist.
+
+16:11.480 --> 16:14.040
+Tell us about the impact of AI on your work.
+
+16:14.040 --> 16:16.000
+I know you've got a tremendous body of work.
+
+16:16.000 --> 16:20.800
+You've been an evangelist for AI art for as long as I can remember,
+
+16:20.800 --> 16:23.800
+but would love to get your point of view and perspective.
+
+16:23.800 --> 16:25.360
+Yeah, totally.
+
+16:25.360 --> 16:31.440
+Well, so the impact of AI on my work, gosh, there's a lot.
+
+16:31.440 --> 16:34.720
+One of the first things it did was it inspired me with questions
+
+16:34.720 --> 16:37.960
+of what it means to be human and what art is.
+
+16:37.960 --> 16:39.560
+Those were sort of the first.
+
+16:39.560 --> 16:43.880
+And also, this is pretty common knowledge, but I have a chronic illness.
+
+16:43.880 --> 16:50.080
+And so thinking about AI solving for some of those issues that humanities had forever,
+
+16:50.080 --> 16:55.280
+like chronic illnesses, et cetera, and what we might celebrate when those parts of the
+
+16:55.280 --> 17:00.360
+hero's journey are overcome, so to speak, what other things we might find to tell stories
+
+17:00.360 --> 17:03.720
+about and celebrate fascinated me.
+
+17:03.720 --> 17:07.440
+So I've been able to use AI to explore those questions in a way that I don't think I would
+
+17:07.440 --> 17:11.000
+have necessarily been able to do alone.
+
+17:11.000 --> 17:15.760
+And then it also augments skill, which allows me to better represent those ideas in questions,
+
+17:15.760 --> 17:17.360
+I think, feel a lot freer.
+
+17:17.360 --> 17:23.760
+So it's a lot like, feels like play in a way, feels like freedom of exploration, like when
+
+17:23.760 --> 17:27.560
+you were a kid, you know, it's something I haven't experienced since then outside of
+
+17:27.560 --> 17:28.560
+this.
+
+17:28.560 --> 17:31.880
+So maybe why I'm such an evangelist.
+
+17:31.880 --> 17:36.840
+I also think, you know, speaking of collaborative, it reflects what you ask for.
+
+17:36.840 --> 17:40.440
+So if you ask for something very simple and generic, that's what it'll give you.
+
+17:40.440 --> 17:47.400
+I try to ask it for kind of abstract notions of connection, and it gives that to me.
+
+17:47.400 --> 17:53.480
+So it feels a lot like talking to a friend for me, collaborative, right?
+
+17:53.480 --> 17:56.800
+Feels like talking to a friend that never gets tired of talking to you and learns you
+
+17:56.800 --> 17:59.560
+better with every word that you speak to it.
+
+17:59.560 --> 18:01.040
+So it does feel collaborative.
+
+18:01.040 --> 18:07.600
+And it also encourages me to learn more because my prompting utilizes a lot of art terminology
+
+18:07.600 --> 18:09.440
+and art history.
+
+18:09.440 --> 18:13.760
+For example, using luminism as an art movement in the work will change the aesthetic.
+
+18:13.760 --> 18:17.480
+If you mix up a bunch of other prompts, you can combine all of these disparate ideas into
+
+18:17.480 --> 18:20.280
+something that feels really new.
+
+18:20.280 --> 18:22.160
+And so I've had to learn a lot more of that.
+
+18:22.160 --> 18:27.280
+And then photography, learning lenses and apertures and shutter speeds and lighting conditions and
+
+18:27.280 --> 18:29.600
+then mixing all of those into a prompt.
+
+18:29.600 --> 18:32.760
+It's really encouraged me to go deeper.
+
+18:32.760 --> 18:39.160
+And then, yeah, lastly, I'd say it's helped me know myself a lot better too because with
+
+18:39.160 --> 18:43.200
+AI, as you know, you can iterate a huge body of work very quickly.
+
+18:43.200 --> 18:48.600
+So I've created hundreds of thousands of pieces over the course of, let's say a year.
+
+18:48.600 --> 18:53.440
+I've been doing this for a few years, but I'll curate it down to five or so to share
+
+18:53.440 --> 18:57.920
+and maybe one to mint every three months or less.
+
+18:57.920 --> 19:01.720
+And so you really develop your taste, you really develop your aesthetic, your motifs,
+
+19:01.720 --> 19:05.640
+your patterns, your symbols, you figure yourself out with it.
+
+19:05.640 --> 19:10.080
+And I don't think that I would have done that either without using AI in my work.
+
+19:10.080 --> 19:17.880
+So I think it's made me a better NFT artist as well because the ones you resonate with
+
+19:17.880 --> 19:21.960
+most and it's hard when you have a huge body of work to know what you're going to do with
+
+19:21.960 --> 19:23.600
+that scarce opportunity.
+
+19:23.600 --> 19:28.880
+So I feel like it's helped me know myself more as well.
+
+19:28.880 --> 19:30.880
+Thank you, Claire.
+
+19:30.880 --> 19:34.320
+For those of you who don't know, Claire is my AI whisperer.
+
+19:34.320 --> 19:42.320
+So when I'm trying to create with my two left-thumbs prompt-generated art, she is someone
+
+19:42.320 --> 19:44.040
+I bounce my ideas off of.
+
+19:44.040 --> 19:45.920
+But hey, let's shift over to you.
+
+19:45.920 --> 19:50.400
+Your work is at the intersection of societal consciousness and digital art, which I think
+
+19:50.400 --> 19:54.520
+is a very interesting sort of crossover area.
+
+19:54.520 --> 19:59.440
+Could you tell us a bit more about Code Green and how that impacts your work as an artist?
+
+19:59.440 --> 20:02.120
+Yes, absolutely.
+
+20:02.120 --> 20:04.840
+So we funded Code Green.
+
+20:04.840 --> 20:10.000
+We started working on it in early 2021 and it took us a whole year before we launched
+
+20:10.000 --> 20:14.480
+it because I'm a traditional activist.
+
+20:14.480 --> 20:22.640
+And so I wanted, I saw the blockchain as this incredible way to disrupt traditional philanthropy.
+
+20:22.640 --> 20:29.280
+And our aim is to use the power of art and, you know, what, and tech to engage people
+
+20:29.280 --> 20:34.280
+in taking actions for either the planet or having an impact.
+
+20:34.280 --> 20:39.480
+And so for me as an artist, I've been using my voice for social gender and climate justice
+
+20:39.480 --> 20:45.040
+for the past 15 years and my art has always been intertwined with my activism.
+
+20:45.040 --> 20:53.400
+And either my photography, my films or my music, I always try to share messages that
+
+20:53.400 --> 21:00.400
+to be a messenger, to speak for people who doesn't, whose voice doesn't resonate as far
+
+21:00.400 --> 21:02.280
+as mine could.
+
+21:02.280 --> 21:12.160
+And so when we started this, as an artist, I saw the space as something remarkably innovative
+
+21:12.160 --> 21:19.320
+and giving the power to artists is giving the power to the space to create an incredible
+
+21:19.320 --> 21:26.440
+shift because our artists have always been tied to the biggest revolutions and evolution
+
+21:26.440 --> 21:27.720
+of humanity.
+
+21:27.720 --> 21:34.360
+And so for me, I felt like, okay, I have two hats and what I'm going to be doing in here
+
+21:34.360 --> 21:40.000
+because as an artist, I can share my art and experiment with the technology.
+
+21:40.000 --> 21:48.840
+But as an activist and a builder, I could really create a movement that goes beyond the space
+
+21:48.840 --> 21:57.240
+and that bridges a gap with the digital community and real life community all over, around the
+
+21:57.240 --> 21:58.240
+world.
+
+21:58.240 --> 22:07.280
+So what we do is we create a link between collectors, communities, artists and builders
+
+22:07.280 --> 22:11.920
+with different SDGs action.
+
+22:11.920 --> 22:20.640
+So we partnered with the UN SDG to do that and support the 17 SDGs and just try to make
+
+22:20.640 --> 22:22.280
+the world a better space.
+
+22:22.280 --> 22:29.960
+This is something that is not rooted in naivete or, you know, I'm not naive from where I
+
+22:29.960 --> 22:30.960
+come from.
+
+22:30.960 --> 22:39.480
+I know that working in some type of way can get you some places and that there is hope
+
+22:39.480 --> 22:44.440
+if you build and build and believe in what you're doing.
+
+22:44.440 --> 22:53.200
+And so it took me a whole year before sharing my minting, my first artwork because I was
+
+22:53.200 --> 22:59.080
+busy building this good green and trying to create something that was not really in the
+
+22:59.080 --> 23:03.480
+space and was not really what I was doing outside of the space.
+
+23:03.480 --> 23:06.760
+So I had to find a balance experiment with different things.
+
+23:06.760 --> 23:14.840
+And after a year we donated over two million dollars to organizations and people and really
+
+23:14.840 --> 23:22.840
+making an impact but also bringing awareness and showing people in the web three space
+
+23:22.840 --> 23:30.160
+that your voice count and that you can as an individual make a strong impact and have a
+
+23:30.160 --> 23:38.960
+say in what is happening in the world and also that's what the shift in governance means
+
+23:38.960 --> 23:40.440
+to me.
+
+23:40.440 --> 23:50.080
+And so yeah, it has been a very exciting and rewarding experience and learning as well.
+
+23:50.080 --> 23:51.080
+Thank you, you know.
+
+23:51.080 --> 23:52.880
+I love the tagline from your website, right?
+
+23:52.880 --> 23:55.520
+So the digital revolution for social evolution.
+
+23:55.520 --> 23:57.520
+I think that's super powerful.
+
+23:57.520 --> 23:58.800
+So thanks for that.
+
+23:58.800 --> 24:00.520
+And hey, Sasha, over to you.
+
+24:00.520 --> 24:04.480
+You've been described as a transhuman artist and an AI empowered poet, right?
+
+24:04.480 --> 24:08.200
+Can you tell us and double click on Metapoetry?
+
+24:08.200 --> 24:10.120
+Yeah, absolutely.
+
+24:10.120 --> 24:14.360
+And by the way, I'm just sitting here so fascinated by what everyone's been saying.
+
+24:14.360 --> 24:20.400
+I feel so grateful to get to hear more about the really beautiful practices and thought
+
+24:20.400 --> 24:23.400
+processes behind what you're all doing.
+
+24:23.400 --> 24:25.240
+So yes, my Metapoetry.
+
+24:25.240 --> 24:31.000
+Well, as I said before, I've been writing my entire life and I started writing in a little
+
+24:31.000 --> 24:35.880
+bit more of a traditional sense, but I think that's evolved really over time.
+
+24:35.880 --> 24:40.320
+I've always been really interested, I think, fundamentally in the idea of something called
+
+24:40.320 --> 24:42.400
+the R's Poetica.
+
+24:42.400 --> 24:45.880
+So literally R's Poetica translates to the art of poetry.
+
+24:45.880 --> 24:49.160
+It's this consideration of poetry as an art form.
+
+24:49.160 --> 24:56.200
+And in terms of genre, R's Poetica is actually formally about poems that are exploring the
+
+24:56.200 --> 24:59.480
+role of poetry and poets in society.
+
+24:59.480 --> 25:03.880
+They're poems that are really about the poet's relationship to language, the poet's relationship
+
+25:03.880 --> 25:05.520
+to the act of writing.
+
+25:05.520 --> 25:10.200
+And to me, I just find this so deeply, deeply fascinating from a conceptual point of view.
+
+25:10.200 --> 25:16.640
+And it's just fun for me to think about the idea of poetry that is self-aware or poetry
+
+25:16.640 --> 25:17.680
+that is about poetry.
+
+25:17.680 --> 25:24.360
+I think there's a lot that really intrigues me about that and relates to meta in a way
+
+25:24.360 --> 25:25.560
+that I'll get to in a second.
+
+25:25.560 --> 25:30.960
+But my first sustained project in this area was actually something called R's Poetica
+
+25:30.960 --> 25:32.080
+Cybernetica.
+
+25:32.080 --> 25:37.440
+So looking at poetry not just as an art form, but as a technological invention, kind of
+
+25:37.440 --> 25:41.720
+like bringing together R's Poetica and R's Technica in the way.
+
+25:41.720 --> 25:46.760
+And thinking through the poetics of networked imagination, kind of like Sam was referring
+
+25:46.760 --> 25:52.360
+to before, thinking about the poetics of intelligence systems and the poetics of technology and
+
+25:52.360 --> 25:55.280
+communications in a larger sense.
+
+25:55.280 --> 25:59.800
+So I think a lot of that is really baked into much of what I do.
+
+25:59.800 --> 26:05.880
+And it's just always propelled me to think of poetry not just in the conventional sense
+
+26:05.880 --> 26:11.160
+of poems that you read off a piece of paper or that you read in the New Yorker or whatever,
+
+26:11.160 --> 26:18.400
+but poems in a more expansive sense, poetry in a more experimental and conceptual understanding
+
+26:18.400 --> 26:19.960
+of that term.
+
+26:19.960 --> 26:25.680
+So when I say things like meta poetry, I'm really thinking of meta within the history
+
+26:25.680 --> 26:33.080
+of poetry, the poetic tradition and thinking of it more in the sense of the Greek understanding
+
+26:33.080 --> 26:40.960
+of meta as after, beyond, above, something that's kind of bigger and more all-encompassing.
+
+26:40.960 --> 26:47.320
+And again, that kind of refers back to this notion of poetry as really being something
+
+26:47.320 --> 26:52.200
+that is self-aware and something that helps us kind of understand ourselves and that activates
+
+26:52.200 --> 26:53.200
+something.
+
+26:53.200 --> 27:01.000
+It's not just storytelling, it's not just words on a page or words spoken into the air.
+
+27:01.000 --> 27:06.200
+It's actually kind of a software program that when it's deployed is actually making something
+
+27:06.200 --> 27:07.200
+happen.
+
+27:07.200 --> 27:12.200
+It's very interested in kind of the mechanisms that surround the context by which these things
+
+27:12.200 --> 27:14.080
+can happen.
+
+27:14.080 --> 27:19.800
+And when I use terms like transhumanism or if I'm described as a transhuman poet, that
+
+27:19.800 --> 27:27.520
+really I think has to do with the idea of transhumanism as a consideration of how advanced
+
+27:27.520 --> 27:30.240
+technologies can really enhance the human condition.
+
+27:30.240 --> 27:34.920
+And I mentioned before my first book and a lot of my practice is really about this.
+
+27:34.920 --> 27:41.800
+It's about what it means to be human in an age that is really dominated by machines and
+
+27:41.800 --> 27:45.480
+non-human intelligences in lots of ways.
+
+27:45.480 --> 27:50.240
+And so within that context, I'm thinking a lot about poetry as a technology that has
+
+27:50.240 --> 27:55.720
+enhanced our human experience and our human condition for more than thousands of years
+
+27:55.720 --> 28:02.000
+and kind of creating a through line and thinking about how advancing and speculative technologies
+
+28:02.000 --> 28:09.840
+like artificial intelligence, large language models like GPT-3 and soon GPT-4 and how things
+
+28:09.840 --> 28:16.200
+like text to image tools can continue to expand and enhance our imagination and empower us
+
+28:16.200 --> 28:18.760
+as human beings to understand ourselves in new ways.
+
+28:18.760 --> 28:25.920
+So yeah, that's I think that probably is a pretty good summation of all that and also
+
+28:25.920 --> 28:30.920
+explains why I'm really happy to be here in the web 3 space because a lot of these considerations
+
+28:30.920 --> 28:39.240
+are very, I think are very fringe still in the world of poetry in the literary establishment
+
+28:39.240 --> 28:43.040
+in the kind of more conventional writing communities.
+
+28:43.040 --> 28:49.720
+The idea of something like bringing in an AI to co-author a piece of text is still anathema
+
+28:49.720 --> 28:50.720
+in a lot of ways.
+
+28:50.720 --> 28:56.640
+So I think it's been really important and really, you know, it's been very essential,
+
+28:56.640 --> 29:02.640
+I think, to a lot of my practice to be able to explore some of these ideas and experiment
+
+29:02.640 --> 29:10.160
+with these tools in the kind of very experimental and open-minded community that we have here
+
+29:10.160 --> 29:14.240
+that's been, you know, fundamental, I think, to a lot of what I'm doing.
+
+29:14.240 --> 29:17.200
+So I'm grateful for that.
+
+29:17.200 --> 29:18.200
+Thanks, Asha, for that.
+
+29:18.200 --> 29:25.920
+I love how you're all kind of linking together, you know, in your own way, AI, blockchain technology
+
+29:25.920 --> 29:27.080
+and humanism, right?
+
+29:27.080 --> 29:31.440
+I mean, it's all imbued in everything that each and every one of you have been describing
+
+29:31.440 --> 29:33.480
+up to this point, which is pretty impressive.
+
+29:33.480 --> 29:37.080
+I want to go to some general questions now for the panel, right?
+
+29:37.080 --> 29:39.080
+And we'll start with you, Sam.
+
+29:39.080 --> 29:43.200
+We have, we've been hearing and seeing a lot about open editions of late, right?
+
+29:43.200 --> 29:44.920
+Almost drowning out one of one art.
+
+29:44.920 --> 29:49.880
+Do you see this as a positive and something that's a sustainable trend or is it something
+
+29:49.880 --> 29:52.720
+that we should be alarmed about?
+
+29:52.720 --> 29:53.720
+Yeah.
+
+29:53.720 --> 29:58.000
+Yeah.
+
+29:58.000 --> 30:03.320
+There are some undeniable, beautiful upsides, right?
+
+30:03.320 --> 30:08.280
+It's great to see many people enter into an artist's ecosystem affordably.
+
+30:08.280 --> 30:14.960
+It's great to see artists make great payouts when the individual high-level 101 collectors
+
+30:14.960 --> 30:19.400
+have either honed their taste to the point that they're kind of just after a few specific
+
+30:19.400 --> 30:24.840
+artists or are just more price sensitive than they were back in the bull market.
+
+30:24.840 --> 30:28.800
+And it's also just kind of a nice way to support artists.
+
+30:28.800 --> 30:31.280
+These things are obvious, right?
+
+30:31.280 --> 30:37.840
+There is the downsides that are just as obvious, flooding your own supply, these burn and redeem
+
+30:37.840 --> 30:43.200
+games that may or not have exactly a follow-up plan.
+
+30:43.200 --> 30:51.640
+But I don't really look at any of these new meadows rather with scorn or praise.
+
+30:51.640 --> 30:54.440
+I do them as things to be studied.
+
+30:54.440 --> 30:58.640
+You can either learn from them through participation or through studying.
+
+30:58.640 --> 31:04.280
+And for this particular one, I've chosen to learn from observation mostly because I already
+
+31:04.280 --> 31:07.880
+know where I'm going and it doesn't include this, right?
+
+31:07.880 --> 31:09.400
+Lucy is an episodic story.
+
+31:09.400 --> 31:15.840
+I've been working on it and it's arc for a long time.
+
+31:15.840 --> 31:19.680
+The next piece in this arc is a couple weeks away.
+
+31:19.680 --> 31:24.120
+The project after that is coming later this spring.
+
+31:24.120 --> 31:30.840
+Doing that kind of puts me away from being reactive to whatever the game at the moment
+
+31:30.840 --> 31:35.600
+is sometimes even at my own expense, right?
+
+31:35.600 --> 31:45.720
+So to try to create work, I learned something in the creation process that usually demands
+
+31:45.720 --> 31:47.880
+time out of me.
+
+31:47.880 --> 31:51.520
+Time is something that I think about a lot.
+
+31:51.520 --> 31:58.040
+The potential rewards for engaging in this particular wave, the risks of derailing design
+
+31:58.040 --> 32:01.960
+that I put in motion for the next year, is just a little too high for me.
+
+32:01.960 --> 32:07.880
+It feels like something that could maybe fill some coffers now, have under maybe the branding
+
+32:07.880 --> 32:10.280
+or guys of accessibility.
+
+32:10.280 --> 32:18.920
+But if I'm being very honest, it feels too disposable and interchangeable in this iteration.
+
+32:18.920 --> 32:21.520
+There's something missing in it.
+
+32:21.520 --> 32:25.240
+Creating work to be discarded for other work to be discarded.
+
+32:25.240 --> 32:29.520
+Conceptually, this just honestly just does not align with my own value.
+
+32:29.520 --> 32:33.600
+I don't fault anyone for participating in it.
+
+32:33.600 --> 32:35.440
+That might be my own weakness, right?
+
+32:35.440 --> 32:40.800
+Perhaps I hold art as too sacred because releasing this work with Lucy, it's changed my life
+
+32:40.800 --> 32:43.440
+so drastically.
+
+32:43.440 --> 32:47.880
+I hope every artist in this wave will take these drips and roll it into creating great
+
+32:47.880 --> 32:52.600
+work, have a mess of new supporters that it dilutes nothing and it only opens each of
+
+32:52.600 --> 32:54.880
+them to a bigger world.
+
+32:54.880 --> 33:00.760
+But for my own goals, which are perhaps outside of that, I think time will agree with this
+
+33:00.760 --> 33:02.840
+instinct.
+
+33:02.840 --> 33:08.040
+In either direction, and maybe this is more important than anything, both in my desire
+
+33:08.040 --> 33:12.360
+to skip it and what could be lost in that, and in others who participate in it, either
+
+33:12.360 --> 33:16.600
+as an artist or as a collector.
+
+33:16.600 --> 33:21.400
+Above all, I just think it's very important that everyone remember to take personal responsibility
+
+33:21.400 --> 33:23.400
+for whatever may come.
+
+33:23.400 --> 33:26.480
+Thanks, Sam.
+
+33:26.480 --> 33:28.840
+Be thoughtful is what I pick up, right?
+
+33:28.840 --> 33:30.760
+Be very thoughtful about what you do here.
+
+33:30.760 --> 33:32.840
+You know, yeah, you know, over to you.
+
+33:32.840 --> 33:35.360
+Same question.
+
+33:35.360 --> 33:40.520
+I think that open edition can be great ways for artists to give an affordable access to
+
+33:40.520 --> 33:43.280
+their work to anyone who'd like to own it.
+
+33:43.280 --> 33:50.040
+I think people can experiment and play around because this industry is really young, so it's
+
+33:50.040 --> 33:57.240
+good to play an experiment as long as the expectations are reasonable on both sides.
+
+33:57.240 --> 33:58.400
+And it's art.
+
+33:58.400 --> 33:59.920
+There's no road map there.
+
+33:59.920 --> 34:03.160
+It's art and it's enough.
+
+34:03.160 --> 34:07.120
+So it depends on why you do it.
+
+34:07.120 --> 34:09.040
+It's important to be intentional.
+
+34:09.040 --> 34:17.200
+Like Sam said, it's important to be thoughtful in both ways for either the artist and the
+
+34:17.200 --> 34:18.200
+collectors.
+
+34:18.200 --> 34:22.520
+And I haven't even done an edition yet.
+
+34:22.520 --> 34:30.560
+I'm currently working on my first edition, so I don't picture open editions for myself,
+
+34:30.560 --> 34:34.320
+but I can see why some artists do it.
+
+34:34.320 --> 34:40.760
+I've bought some open editions because I really love the art and I've always wanted to own
+
+34:40.760 --> 34:44.360
+one of the art from a specific artist.
+
+34:44.360 --> 34:50.920
+But I've never sold an NFT, except from what I created any NFT that I bought.
+
+34:50.920 --> 34:53.400
+I've never sold any ever yet.
+
+34:53.400 --> 34:55.080
+So I'm not a flavor.
+
+34:55.080 --> 34:57.600
+I'm not an investor.
+
+34:57.600 --> 35:02.320
+An art lover, so my perspective comes from that stance.
+
+35:02.320 --> 35:04.600
+Love that, love that, Ina.
+
+35:04.600 --> 35:05.840
+Clear over to you.
+
+35:05.840 --> 35:06.840
+Same question.
+
+35:06.840 --> 35:07.840
+Yeah, sorry.
+
+35:07.840 --> 35:10.840
+I had to find the unmute button there.
+
+35:10.840 --> 35:11.840
+Yeah.
+
+35:11.840 --> 35:13.480
+So this is a tough one.
+
+35:13.480 --> 35:19.600
+Open editions are a scary thing, I think, for a lot of artists because of scarcity, right?
+
+35:19.600 --> 35:24.720
+And worries that collectors will be hurt by doing that.
+
+35:24.720 --> 35:30.560
+I thought about it a long time and I actually did an open edition myself.
+
+35:30.560 --> 35:32.600
+But it was in a very specific context.
+
+35:32.600 --> 35:37.560
+It was after I'd been getting a lot of comments that people were lamenting that they couldn't
+
+35:37.560 --> 35:42.720
+collect a piece because my one of one floor went so out of range for most people and my
+
+35:42.720 --> 35:45.720
+collections were also moving out of range.
+
+35:45.720 --> 35:50.080
+Around the same time, NFT gateway reached out and offered to do a solo drop for an open
+
+35:50.080 --> 35:51.080
+edition.
+
+35:51.080 --> 35:56.360
+So I agreed, but what I did was I structured the drop to reward my collection holders and
+
+35:56.360 --> 35:58.440
+my one of one holders.
+
+35:58.440 --> 36:02.160
+And I also made it the shortest time window that you could with NFT gateway.
+
+36:02.160 --> 36:06.000
+So that would be a 10 minute drop.
+
+36:06.000 --> 36:08.320
+And I also sold a one of one sort of in conjunction.
+
+36:08.320 --> 36:12.920
+So there was still a tier of that sort of game theory of scarcity involved.
+
+36:12.920 --> 36:16.120
+So I think thoughtful is the good word for that.
+
+36:16.120 --> 36:22.360
+I will say that open editions do build a broad community, which is always good.
+
+36:22.360 --> 36:27.960
+And a broad community also means more opportunities for you as your audience grows and your reach
+
+36:27.960 --> 36:30.240
+grows.
+
+36:30.240 --> 36:35.240
+Theoretically more value to your scarce one of one work as well as long as you follow
+
+36:35.240 --> 36:40.720
+an open edition with scarcity and as long as you don't do them repeatedly or for an
+
+36:40.720 --> 36:43.480
+hour or a day or whatever long time window.
+
+36:43.480 --> 36:49.560
+I think that there is a way to structure them so that it won't harm you and can be a good
+
+36:49.560 --> 36:54.600
+thing, but you have to be very, very intentional about it.
+
+36:54.600 --> 36:55.600
+Thanks, Claire.
+
+36:55.600 --> 36:59.160
+So be thoughtful and use it as a leverage point for building community.
+
+36:59.160 --> 37:00.160
+Great points.
+
+37:00.160 --> 37:02.600
+Sasha, last but not least.
+
+37:02.600 --> 37:11.840
+Yeah, so I actually really am interested in open editions as they kind of relate to the
+
+37:11.840 --> 37:13.680
+history of literature and publishing.
+
+37:13.680 --> 37:19.280
+I kind of mentioned before I am very intrigued in sort of thinking about blockchain within
+
+37:19.280 --> 37:23.920
+the context of historical publishing innovations.
+
+37:23.920 --> 37:28.880
+And open editions actually have a really important role in the history of literature in the
+
+37:28.880 --> 37:32.280
+form of broadsides.
+
+37:32.280 --> 37:41.160
+So when we were kind of moving away from handwritten literature during the advent of
+
+37:41.160 --> 37:46.920
+printing press after Gutenberg's invention of movable type and all that, poetry broadsides
+
+37:46.920 --> 37:53.080
+actually became a very important medium for cultural transmission.
+
+37:53.080 --> 37:58.960
+Broad size in general, which are basically just kind of cheap readily, printable readily
+
+37:58.960 --> 38:06.000
+available pieces of paper with text written on them, became a really essential way for
+
+38:06.000 --> 38:11.040
+public announcements to be made and for poets to share their work and actually for songwriters
+
+38:11.040 --> 38:13.480
+and lyricists to share ballads.
+
+38:13.480 --> 38:17.320
+And there's just hundreds of years ago, so obviously quite different than what we're
+
+38:17.320 --> 38:21.800
+talking about here, but I can't help thinking about open editions and editions in general
+
+38:21.800 --> 38:24.720
+kind of in that context of the broadside.
+
+38:24.720 --> 38:30.560
+And in fact, I've done quite a few projects that really invoke using blockchain as sort
+
+38:30.560 --> 38:36.560
+of a bespoke printing press in homage to someone like Gutenberg in which we can create
+
+38:36.560 --> 38:38.080
+many editions.
+
+38:38.080 --> 38:43.480
+Sometimes they're all the same, sometimes they are algorithmically generated to be
+
+38:43.480 --> 38:49.840
+slightly different, but this idea of being able to print something in multiple copies
+
+38:49.840 --> 38:54.520
+and then share it with a broad audience I think is really instrumental in the history
+
+38:54.520 --> 39:00.400
+of the dissemination of information and in turn the empowerment of the public and of
+
+39:00.400 --> 39:04.320
+readers through that technological step forward.
+
+39:04.320 --> 39:09.680
+So I think from that sense, I really like playing with the idea of what an open edition
+
+39:09.680 --> 39:10.680
+represents.
+
+39:10.680 --> 39:17.240
+I actually have an open edition right now with super chief Nifty Gateway, which is up
+
+39:17.240 --> 39:23.560
+for another day or so, and I'm kind of interested in how it's being received and how people
+
+39:23.560 --> 39:24.880
+are kind of engaging with it.
+
+39:24.880 --> 39:27.280
+That's all very interesting to me.
+
+39:27.280 --> 39:33.680
+And again, really like thinking about what it means to have a piece of work available
+
+39:33.680 --> 39:38.120
+in that sense and at the same time have a whole roster of one of ones that do something
+
+39:38.120 --> 39:39.120
+very different.
+
+39:39.120 --> 39:46.880
+And I think one of the reasons I'm in this space is because I do see the potential for
+
+39:46.880 --> 39:54.520
+web3 and for all the technologies that we're discussing to really help writers stand up
+
+39:54.520 --> 39:57.280
+for the value of their work in a way that we haven't been able to before.
+
+39:57.280 --> 40:02.800
+I think there is sort of an implicit understanding that writing, that literature, because it
+
+40:02.800 --> 40:10.160
+can be easily reproduced and printed, that it's worth less than fine art, for example.
+
+40:10.160 --> 40:14.360
+And one of the things that I'm very interested in personally and that I'm also working for
+
+40:14.360 --> 40:20.360
+at the verse verse, which I mentioned earlier, is this idea that poems really have intrinsic
+
+40:20.360 --> 40:26.920
+value and deserved to sort of be considered as inherently valuable alongside art in a
+
+40:26.920 --> 40:28.360
+way that they haven't in the past.
+
+40:28.360 --> 40:34.040
+And I think that that, in that sense, the role of one of ones is really critical.
+
+40:34.040 --> 40:39.640
+Thinking about the ability of a poet to take a single poem and not just distributed as
+
+40:39.640 --> 40:44.600
+a broadside or not just distributed within a printed collection of other poems, not just
+
+40:44.600 --> 40:50.160
+distributed within a literary journal or within another magazine where that poem is packaged
+
+40:50.160 --> 40:54.480
+together with hundreds of other pages of material.
+
+40:54.480 --> 40:59.080
+But for that poem to be able to stand on its own, and especially for a poem like that to
+
+40:59.080 --> 41:04.720
+stand on its own, liberated from between the covers of a book and stand as a one of one,
+
+41:04.720 --> 41:12.800
+is also very, I think, sort of a new way of thinking about poetry.
+
+41:12.800 --> 41:15.440
+So I see both the value for open editions.
+
+41:15.440 --> 41:19.880
+I think, again, conceptually they're incredibly interesting and I think they can be very empowering
+
+41:19.880 --> 41:26.320
+for poets as far as a way to actually make money from writing in a very novel approach.
+
+41:26.320 --> 41:32.800
+But I also see the incredible value of one of ones for really kind of planting a flag
+
+41:32.800 --> 41:36.880
+for the idea of poems as one of one artworks in their own right.
+
+41:36.880 --> 41:42.720
+And again, that's something that I think is very different than the way poems have been
+
+41:42.720 --> 41:46.080
+sort of treated in the course of human history.
+
+41:46.080 --> 41:47.080
+Thanks, Ash.
+
+41:47.080 --> 41:50.160
+I love the way you drew the analogy back to broadside, right?
+
+41:50.160 --> 41:58.680
+I mean, effectively what was in many ways means and connecting with the people through
+
+41:58.680 --> 42:03.320
+a means of communication and how you link that back to open editions.
+
+42:03.320 --> 42:04.560
+That was pretty powerful.
+
+42:04.560 --> 42:07.200
+Good stuff from the panel here.
+
+42:07.200 --> 42:11.200
+All right, let's move on to our next question here.
+
+42:11.200 --> 42:12.600
+This is an interesting one.
+
+42:12.600 --> 42:20.480
+You hear, oftentimes, people describe the current art scene, whether it's digital art
+
+42:20.480 --> 42:26.280
+photography, whether it's generative, as a little bit of a circle jerk or an echo chamber,
+
+42:26.280 --> 42:27.280
+right?
+
+42:27.280 --> 42:31.240
+And then what advice would you have for new artists and also collectors that are entering
+
+42:31.240 --> 42:32.560
+the space, right?
+
+42:32.560 --> 42:37.120
+What would be some effective approaches for them to engage in the community?
+
+42:37.120 --> 42:41.920
+And how do we sort of expand and broaden the list of participants?
+
+42:41.920 --> 42:44.600
+But Claire, I'll start with you on this one.
+
+42:44.600 --> 42:45.880
+Yeah, sure.
+
+42:45.880 --> 42:50.520
+So my advice for new artists and maybe collectors too, I hadn't thought about it as much.
+
+42:50.520 --> 42:57.680
+But I would say lean into your art, obviously, but then when that starts to slow down, either
+
+42:57.680 --> 43:04.480
+by your own kind of drive and inspiration kind of cycling or just by lack of engagement,
+
+43:04.480 --> 43:09.080
+I would say lean into community building, Twitter spaces, education, that kind of thing.
+
+43:09.080 --> 43:11.480
+So it's kind of like a pendulum.
+
+43:11.480 --> 43:16.160
+You lean into the interior world and then you lean into engaging with others and helping
+
+43:16.160 --> 43:17.520
+them where you can.
+
+43:17.520 --> 43:21.480
+And then you lean back into your interior world and you just sort of repeat this pendulum
+
+43:21.480 --> 43:23.360
+sort of motion.
+
+43:23.360 --> 43:28.360
+And doing that, I think, replenishes your inspiration, but it also builds a following
+
+43:28.360 --> 43:32.760
+of friends that are naturally interested in your work, naturally interested in wanting
+
+43:32.760 --> 43:37.160
+to support you and be involved in the projects that you'd like to see succeed.
+
+43:37.160 --> 43:42.040
+I think that, yeah, swinging sort of back and forth slowly has been very useful for me.
+
+43:42.040 --> 43:44.320
+And that's what I would recommend.
+
+43:44.320 --> 43:45.840
+Thanks, Claire.
+
+43:45.840 --> 43:47.840
+Sam?
+
+43:47.840 --> 43:54.640
+Yeah, I mean, look, it's an amazing time to be a digital artist right now.
+
+43:54.640 --> 43:57.880
+Best time ever I've been doing this for a while.
+
+43:57.880 --> 44:03.800
+Maybe it's a little bit harder because the tools are so accessible, sophisticated and
+
+44:03.800 --> 44:05.600
+powerful, but I don't know.
+
+44:05.600 --> 44:10.120
+I just think that's even better because it kind of puts a fire under your ass to pull
+
+44:10.120 --> 44:11.920
+something real out of you.
+
+44:11.920 --> 44:22.000
+As far as advice, man, I would definitely focus on the hard angle personally rather
+
+44:22.000 --> 44:28.960
+than anything web-free specific because, I mean, you as an individual are a tiny little
+
+44:28.960 --> 44:29.960
+spark, right?
+
+44:29.960 --> 44:36.080
+You've got to nurture it with kindling care, knowledge and resources to make that sucker
+
+44:36.080 --> 44:38.200
+grow.
+
+44:38.200 --> 44:41.200
+Then you can attract the community to it, right?
+
+44:41.200 --> 44:47.600
+You got to start close in to bring a little David White into the conversation.
+
+44:47.600 --> 44:51.520
+Get your own house in order before worrying about others.
+
+44:51.520 --> 44:56.960
+And for me, that is identify the areas that you struggle with the most.
+
+44:56.960 --> 45:02.560
+Talking about being a painter here, that might be anatomy, color, light, or cocktail of any
+
+45:02.560 --> 45:03.560
+of these.
+
+45:03.560 --> 45:10.720
+Just any tension point where you find limiting the kinds of art that you are able to make,
+
+45:10.720 --> 45:16.640
+in doing the hard work to learn what it takes to get what's in your head out on the canvas,
+
+45:16.640 --> 45:20.000
+or whatever your medium is as fluidly as possible.
+
+45:20.000 --> 45:23.480
+It just never shy away from things that you're bad at.
+
+45:23.480 --> 45:29.720
+You can go infinitely into absolutely everything to find even one small thing to get good at
+
+45:29.720 --> 45:33.560
+is a beautiful gift and you should feel no shame in struggling.
+
+45:33.560 --> 45:41.240
+So long as you're putting time, energy, love, and humility into truly learning it, don't
+
+45:41.240 --> 45:44.240
+mess around with pop culture too much.
+
+45:44.240 --> 45:47.720
+Find out who you are, be in your mind and body in this world.
+
+45:47.720 --> 45:53.400
+Best way to do that is to learn a lot of different things, as much as you possibly can, and to
+
+45:53.400 --> 45:59.080
+start feeling your own gravity in one direction or another.
+
+45:59.080 --> 46:03.160
+Because when you do feel that pull, and it can take a long time to get there, but when
+
+46:03.160 --> 46:06.600
+you feel it, that's that time.
+
+46:06.600 --> 46:12.280
+You've got to seize that and start going infinitely into building out that universe of that feeling
+
+46:12.280 --> 46:18.440
+to go down every single little rabbit hole within it to see what does your mind look like when
+
+46:18.440 --> 46:20.320
+you've extracted it out of you.
+
+46:20.320 --> 46:24.120
+Don't dabble around and little one-offs here and there.
+
+46:24.120 --> 46:27.120
+You're saying it doesn't matter how silly it is.
+
+46:27.120 --> 46:28.840
+I paint monkeys, right?
+
+46:28.840 --> 46:33.840
+But I really mean it, I really mean it when I make them.
+
+46:33.840 --> 46:40.200
+I think just try to grow, stay with other artists, be vulnerable with them while being
+
+46:40.200 --> 46:45.400
+hungry, share the struggles that you're having as an artist.
+
+46:45.400 --> 46:49.600
+You're going to get a lot of vulnerability and return from others.
+
+46:49.600 --> 46:52.440
+You mentioned circle jerk.
+
+46:52.440 --> 46:57.560
+It's a great term for this because this is not about just being like two people being
+
+46:57.560 --> 46:59.320
+sad artists together.
+
+46:59.320 --> 47:00.320
+That's a nightmare.
+
+47:00.320 --> 47:03.320
+You don't want to be in that little cycle.
+
+47:03.320 --> 47:05.800
+You both have to have growth in mind.
+
+47:05.800 --> 47:11.000
+These bonds that form from people helping each other push you.
+
+47:11.000 --> 47:14.640
+It makes you learn together faster, better, more efficiently.
+
+47:14.640 --> 47:20.040
+And in my view personally, most importantly, competitively.
+
+47:20.040 --> 47:23.800
+Like that push and pull of different people learning at different paces trying to catch
+
+47:23.800 --> 47:24.920
+each other.
+
+47:24.920 --> 47:31.440
+It's like we're all just little wolves in the forest playing around with each other.
+
+47:31.440 --> 47:35.440
+And it lights this fire in you, this soul to play the game.
+
+47:35.440 --> 47:42.760
+Like two of my closest friends, a photographer named Jo-El and Victor Phoosius.
+
+47:42.760 --> 47:46.560
+These are friendships that are not just for fun, right?
+
+47:46.560 --> 47:48.280
+They're not just, oh, I like you.
+
+47:48.280 --> 47:49.280
+How are you feeling?
+
+47:49.280 --> 47:50.280
+How did you sleep?
+
+47:50.280 --> 47:56.120
+We're here to push each other to help each other grow.
+
+47:56.120 --> 47:57.120
+I love that.
+
+47:57.120 --> 48:03.440
+So focus on the art and build the network and really challenge yourselves.
+
+48:03.440 --> 48:04.440
+Nice one.
+
+48:04.440 --> 48:07.720
+Over to you.
+
+48:07.720 --> 48:13.680
+So I think that we have amazing tools to push the boundaries of visual storytelling in poetry
+
+48:13.680 --> 48:18.880
+and whatever form of art that you want to share.
+
+48:18.880 --> 48:23.280
+And the decentralized nature of this makes it accessible to everyone.
+
+48:23.280 --> 48:29.040
+So I think that art is coming into this should experiment, try new things and not be scared
+
+48:29.040 --> 48:30.440
+to fail.
+
+48:30.440 --> 48:35.560
+And art has the power to transform your dreams into reality and reality into dreams.
+
+48:35.560 --> 48:37.600
+So dream bigger and bigger.
+
+48:37.600 --> 48:41.960
+Share your work, connect with people, make friends.
+
+48:41.960 --> 48:45.760
+You will probably have people who will also hate your work.
+
+48:45.760 --> 48:53.320
+Deal with that and really, I think that this is a great time to be an artist because there
+
+48:53.320 --> 48:59.520
+is so much empowerment and there is so much things that you can do from your room.
+
+48:59.520 --> 49:02.400
+You don't need to be in an art gallery.
+
+49:02.400 --> 49:04.000
+You don't need to be chosen.
+
+49:04.000 --> 49:09.440
+You have to choose yourself and you have to choose to put yourself out there and share
+
+49:09.440 --> 49:14.760
+what the art that you created for the whole world.
+
+49:14.760 --> 49:18.520
+There is a huge potential of connecting with people.
+
+49:18.520 --> 49:25.480
+And so I think that the fact that there is kind of no limit is super exciting.
+
+49:25.480 --> 49:31.880
+And it's a moment where more and more artists can share different types of works.
+
+49:31.880 --> 49:33.640
+And we're open to it.
+
+49:33.640 --> 49:35.680
+We're open to receiving it.
+
+49:35.680 --> 49:42.400
+And we're in this together because it's such a young space that the technology and art
+
+49:42.400 --> 49:43.400
+coming together.
+
+49:43.400 --> 49:45.640
+And we're all experimenting at the same time.
+
+49:45.640 --> 49:55.560
+So there's no bad ways because we are kind of learning on the way.
+
+49:55.560 --> 50:05.080
+And for collectors, I think the same really by what you want, by what speaks to you, by
+
+50:05.080 --> 50:12.760
+what means something to you and do research and connect with artists and create links.
+
+50:12.760 --> 50:19.440
+The human links that we are making right now is something that is so, so, so important
+
+50:19.440 --> 50:22.120
+and that I cherish every day.
+
+50:22.120 --> 50:24.120
+Thanks, Ena.
+
+50:24.120 --> 50:25.640
+So really zoom out, right?
+
+50:25.640 --> 50:29.280
+I mean, as you said, we're super early and it's about the connections.
+
+50:29.280 --> 50:30.280
+Love that.
+
+50:30.280 --> 50:32.840
+Hey, Sasha, last but not least again.
+
+50:32.840 --> 50:37.760
+Yeah, I'm loving all of this.
+
+50:37.760 --> 50:41.960
+I guess two things that I would highlight that have been really important for me.
+
+50:41.960 --> 50:46.520
+One is that I really think it's important, even though we're in this space that tends
+
+50:46.520 --> 50:51.800
+to be so trend driven, I think it's really important to just really follow your own interests
+
+50:51.800 --> 50:56.120
+and your own obsessions and go where they lead you.
+
+50:56.120 --> 51:02.360
+I've been working with AI language since about 2018 in earnest.
+
+51:02.360 --> 51:11.920
+And when I started doing it, nobody was using GPT to write real poetry or anything like that.
+
+51:11.920 --> 51:18.160
+And I was definitely trying to take things into workshops and show my friends and got
+
+51:18.160 --> 51:20.120
+a lot of very weird reactions.
+
+51:20.120 --> 51:23.240
+And I kept doing it because it was really interesting to me.
+
+51:23.240 --> 51:27.600
+I just thought it was fascinating and I was personally inspired and just exhilarated by
+
+51:27.600 --> 51:28.600
+what I was discovering.
+
+51:28.600 --> 51:35.640
+And lo and behold, fast forward a few years and now chat GPT is taken off and every time
+
+51:35.640 --> 51:40.400
+I open a newspaper or listen to a podcast, people are talking about AI language and it's
+
+51:40.400 --> 51:42.000
+just astonishing.
+
+51:42.000 --> 51:45.560
+And I'm really grateful that I stuck to it and I didn't get discouraged in the beginning
+
+51:45.560 --> 51:51.320
+by the fact that I was starting to share things and was sort of hearing crickets.
+
+51:51.320 --> 51:57.120
+I think that it's very tempting, especially because the space is so quick and so fast
+
+51:57.120 --> 52:00.440
+paced and can sometimes feel like a popularity contest.
+
+52:00.440 --> 52:04.760
+It does feel like you want to do what seems to be successful.
+
+52:04.760 --> 52:10.520
+And I would just say just remember that that's not necessarily going to work out well.
+
+52:10.520 --> 52:16.160
+I think it's really important that artists go deep into their own fascinations and obsessions
+
+52:16.160 --> 52:20.200
+and really just chase them wherever they can go.
+
+52:20.200 --> 52:25.680
+And the other thing is that I think participating in the ecosystem is incredibly important.
+
+52:25.680 --> 52:31.160
+When I first started minting, I took some time before my first mint to really get to
+
+52:31.160 --> 52:35.720
+know some of the different ecosystems and the different platforms and to understand
+
+52:35.720 --> 52:40.520
+what kinds of art was being minted where and to see where I felt at home.
+
+52:40.520 --> 52:45.400
+And to really go where I felt like I had genuine relationships with people and I wasn't just
+
+52:45.400 --> 52:49.280
+kind of dropping into something unprepared.
+
+52:49.280 --> 52:54.800
+And I think over time what's really served me best has been actively and genuinely participating
+
+52:54.800 --> 52:59.840
+in the ecosystems where I really feel that I belong and that I'm inspired by.
+
+52:59.840 --> 53:06.560
+And that means not just dropping into mint and to show my work but to actively be involved
+
+53:06.560 --> 53:10.400
+in the community to sort of look at what can be done to help build the community, to be
+
+53:10.400 --> 53:15.860
+an active participant in collecting works by the artists that I admire, to help onboard
+
+53:15.860 --> 53:21.080
+new people to the ecosystem, to actively kind of reach out and see if there's people who
+
+53:21.080 --> 53:23.440
+are struggling and who want to be part of it.
+
+53:23.440 --> 53:27.760
+All those things are really essential to the health of the overall ecosystem.
+
+53:27.760 --> 53:30.720
+And ultimately will be beneficial to us all.
+
+53:30.720 --> 53:35.600
+So I think that's really just kind of like a fundamental thing.
+
+53:35.600 --> 53:41.720
+It's like table stakes to be part of this is that you really need to be engaged in a really
+
+53:41.720 --> 53:43.760
+authentic and meaningful way.
+
+53:43.760 --> 53:48.560
+So I think those are the two things that are sort of first and foremost in my mind these
+
+53:48.560 --> 53:49.560
+days.
+
+53:49.560 --> 53:50.560
+Thanks, Sasha.
+
+53:50.560 --> 53:54.680
+Be authentic, engage, go deep, right?
+
+53:54.680 --> 53:58.520
+And build a community and a network and expand from there.
+
+53:58.520 --> 53:59.520
+Love it.
+
+53:59.520 --> 54:00.520
+All right.
+
+54:00.520 --> 54:02.160
+So we're going to move on to our final question.
+
+54:02.160 --> 54:05.440
+And you know, Ina, I'm going to start with you on this one.
+
+54:05.440 --> 54:10.280
+So if you could play Nostradamus for a moment and prognosticate, right?
+
+54:10.280 --> 54:15.600
+Where do you see one of one digital art five years from now?
+
+54:15.600 --> 54:22.200
+I think that there is no limit because art is the voice and expression of people.
+
+54:22.200 --> 54:27.520
+And honestly, I think that it will just be considered art.
+
+54:27.520 --> 54:34.920
+I'm not even sure that we're going to be using it as digital because in my shilling, many
+
+54:34.920 --> 54:41.920
+people have been using digital art as to it's not like real art, but it is.
+
+54:41.920 --> 54:48.000
+I think that it will the mediums where art are shared will change and will give access
+
+54:48.000 --> 54:53.080
+to digital art into places where they don't exist for now.
+
+54:53.080 --> 54:57.040
+And I'm very excited about this because this is a change.
+
+54:57.040 --> 54:59.720
+It's a big change and change drives history.
+
+54:59.720 --> 55:02.240
+And right now we're living through change so profound.
+
+55:02.240 --> 55:06.840
+I feel like we're a moment where what we're doing right now will ship the culture.
+
+55:06.840 --> 55:08.400
+And I'm super excited about it.
+
+55:08.400 --> 55:14.240
+And art has always been used in the past to disrupt the status quo or support humanist
+
+55:14.240 --> 55:18.560
+communities because revolution or evolution.
+
+55:18.560 --> 55:26.880
+I can't wait to see where we will be in five years, but I think that we just started to
+
+55:26.880 --> 55:35.600
+scratch the surface and it's going so fast that five years and our time is such a whole
+
+55:35.600 --> 55:36.600
+world.
+
+55:36.600 --> 55:39.960
+So I'm pretty excited to see where we'll be at.
+
+55:39.960 --> 55:40.960
+Thanks, Ina.
+
+55:40.960 --> 55:41.960
+Sasha.
+
+55:41.960 --> 55:45.400
+Oh, goodness.
+
+55:45.400 --> 55:50.760
+Well, I'm obviously thinking quite a lot about language.
+
+55:50.760 --> 55:55.600
+And I think we're seeing things change almost on a daily basis when it comes to what's possible
+
+55:55.600 --> 55:57.640
+with AI powered large language models.
+
+55:57.640 --> 56:01.160
+So it's pretty wild even in the short time span.
+
+56:01.160 --> 56:04.920
+So to think about where we might be in five years is mind boggling.
+
+56:04.920 --> 56:10.960
+I do feel like when I take a step back, we are on the cusp of something more profound
+
+56:10.960 --> 56:13.440
+and more pivotal than I think most of us realize.
+
+56:13.440 --> 56:18.440
+When I think about the work that I'm doing with AI language, I tend to kind of consider
+
+56:18.440 --> 56:25.040
+it in this larger frame of the history of human language from the development of the
+
+56:25.040 --> 56:28.760
+oral tradition to the advent of written language.
+
+56:28.760 --> 56:33.680
+And now it kind of feels like we're on the cusp of quite like on the right terminology
+
+56:33.680 --> 56:39.480
+for it yet, but it's this new kind of generative literature that really embodies all the things
+
+56:39.480 --> 56:43.680
+we've been talking about today, but literature and language that's powered by networked imagination
+
+56:43.680 --> 56:48.240
+and collective consciousness and powered by community.
+
+56:48.240 --> 56:54.880
+And I think that that is something that has so much potential to really shift not just
+
+56:54.880 --> 56:59.320
+the way, for example, books are made and distributed or anything like that, but really to change
+
+56:59.320 --> 57:03.400
+the way that humans think and how we share stories and how we understand ourselves and
+
+57:03.400 --> 57:04.480
+our place in the world.
+
+57:04.480 --> 57:10.720
+So I'm constantly trying to wrap my mind around it.
+
+57:10.720 --> 57:15.640
+And related to that, I think that this is the reason I'm so excited about working particularly
+
+57:15.640 --> 57:18.920
+with poetry and with language on the blockchain.
+
+57:18.920 --> 57:26.200
+I think that the rise of poetry and FTS kind of nods to this larger shift towards this
+
+57:26.200 --> 57:32.840
+new way of communicating and this new kind of understanding ourselves and the rise of
+
+57:32.840 --> 57:37.120
+machine code as a new kind of universal language.
+
+57:37.120 --> 57:41.480
+I think all of that is sort of that play when we're thinking about poetry and generative
+
+57:41.480 --> 57:46.480
+text and the ability to preserve ideas via blockchain.
+
+57:46.480 --> 57:52.480
+It's like all part and parcel of sort of the same general idea.
+
+57:52.480 --> 57:56.400
+And I think more concretely, like in five years, I really think that we'll have seen
+
+57:56.400 --> 58:04.320
+the rise of a poetry market, the rise of a new group of poetry collectors who are really
+
+58:04.320 --> 58:07.400
+paying attention to poetry in ways that they haven't done before.
+
+58:07.400 --> 58:11.400
+I think that we have this very established art market that's been in place for a long
+
+58:11.400 --> 58:12.400
+time.
+
+58:12.400 --> 58:18.640
+And I think as all of this new attention is kind of being shifted towards the role of
+
+58:18.640 --> 58:24.160
+language in daily human life, not just in poetry, but in text to image generators and
+
+58:24.160 --> 58:29.440
+using chat GPT and businesses and all this kind of stuff, I think that language is really
+
+58:29.440 --> 58:34.760
+going to take on a very different role that cultural, you know, the cultural appreciation
+
+58:34.760 --> 58:36.480
+of language will take on a different role.
+
+58:36.480 --> 58:43.080
+So I think for that reason, no, it's going to be very exciting to watch the increase,
+
+58:43.080 --> 58:45.560
+the influx of writers into the web three space.
+
+58:45.560 --> 58:50.960
+And I think we're going to see a huge shift and a huge paradigm change there very soon.
+
+58:50.960 --> 58:51.960
+Thank you, Sasha.
+
+58:51.960 --> 58:52.960
+Clear.
+
+58:52.960 --> 59:00.720
+Hey, yeah, so I will go ahead and warn you, I am quote unquote bullish on futuristic
+
+59:00.720 --> 59:01.960
+predictions in general.
+
+59:01.960 --> 59:05.920
+So this is probably going to be a little beyond what most people would envision, but I think
+
+59:05.920 --> 59:08.440
+I'm probably right.
+
+59:08.440 --> 59:09.440
+Five years.
+
+59:09.440 --> 59:16.680
+So in the last year with AI specifically, we've come a universe, right, in terms of
+
+59:16.680 --> 59:21.120
+space from where we were to where we are five years.
+
+59:21.120 --> 59:29.200
+I see AI assisted creation of personalized metaverse worlds that that probably will be
+
+59:29.200 --> 59:34.760
+the component that actually allows the metaverse to take hold like it should as a concept,
+
+59:34.760 --> 59:39.080
+particularly using AR or VR, which is not developed enough yet.
+
+59:39.080 --> 59:44.000
+But I know next year, Apple will be dropping some AR glasses that are lightweight and not
+
+59:44.000 --> 59:45.080
+particularly ugly.
+
+59:45.080 --> 59:49.840
+So I imagine we'll have more of a mass adoption moment there and VR will follow.
+
+59:49.840 --> 59:54.760
+There is a creator named Cuddly salmon, which is a great Twitter handle who I love.
+
+59:54.760 --> 01:00:02.400
+And she is using AI right now to create environments in virtual reality and project them live.
+
+01:00:02.400 --> 01:00:06.360
+And so basically she puts on her headset and she's in the location that she just created
+
+01:00:06.360 --> 01:00:07.840
+with staple diffusion.
+
+01:00:07.840 --> 01:00:14.840
+I know there are also programs that now let you project AI images onto 3D environments.
+
+01:00:14.840 --> 01:00:20.760
+So there's like a use case for texturing live, even theoretically, where you could type in
+
+01:00:20.760 --> 01:00:22.960
+and texture live around you.
+
+01:00:22.960 --> 01:00:25.080
+So anyway, that's sort of the zoomed in version.
+
+01:00:25.080 --> 01:00:31.040
+The zoomed out version is I think that personalized independent media creation, exactly to your
+
+01:00:31.040 --> 01:00:35.040
+taste from your bedroom is going to be the trend in five years.
+
+01:00:35.040 --> 01:00:41.080
+And that will go for general NFT and art creation and with AI as well.
+
+01:00:41.080 --> 01:00:48.400
+So art literature, films, video games, music, worlds, experiences, all by individuals or
+
+01:00:48.400 --> 01:00:51.720
+by small groups working together with open source tools.
+
+01:00:51.720 --> 01:00:57.280
+So I think we're going to see the death of some of these larger IP studios when that
+
+01:00:57.280 --> 01:01:02.120
+happens, but in their place, I think we'll see the rise of creative collectives and independent
+
+01:01:02.120 --> 01:01:03.120
+artists.
+
+01:01:03.120 --> 01:01:08.600
+And that's going to be empowered by blockchain technology because it establishes provenance.
+
+01:01:08.600 --> 01:01:14.520
+It sort of sorts out a lot of these scary, you know, financial and legal gray areas around
+
+01:01:14.520 --> 01:01:19.840
+selling your work and establishing when it was made and how and all of that automatically.
+
+01:01:19.840 --> 01:01:23.680
+So I would say start exploring the tools that are out there now and in five years, you'll
+
+01:01:23.680 --> 01:01:27.280
+be very happy that you did.
+
+01:01:27.280 --> 01:01:29.440
+Quite bullish.
+
+01:01:29.440 --> 01:01:30.440
+Thank you, Clara.
+
+01:01:30.440 --> 01:01:31.440
+Sam.
+
+01:01:31.440 --> 01:01:39.800
+Damn, Clara, that was a hell of an answer and I agree with so much of that.
+
+01:01:39.800 --> 01:01:44.240
+You know, I'm kind of in an interesting position, right?
+
+01:01:44.240 --> 01:01:52.480
+There is this understandable, but maybe naive battle happening right now around AI art and
+
+01:01:52.480 --> 01:01:56.360
+of what's authentic of what's human of what has sold.
+
+01:01:56.360 --> 01:01:59.160
+For me, I'm on the other side of this, right?
+
+01:01:59.160 --> 01:02:01.280
+My art is extractions.
+
+01:02:01.280 --> 01:02:06.360
+Every single one of these things takes so much time and effort and crafted to make
+
+01:02:06.360 --> 01:02:08.280
+them sing.
+
+01:02:08.280 --> 01:02:15.280
+They're filled with detail, but the art in what I do is not found in perfect imagery.
+
+01:02:15.280 --> 01:02:17.840
+It's found in the flawed attempt to create it.
+
+01:02:17.840 --> 01:02:23.240
+And it's in that attempt where you will see my weaknesses, my fixation.
+
+01:02:23.240 --> 01:02:27.080
+The areas where my mind has closed and my vision has narrowed.
+
+01:02:27.080 --> 01:02:32.880
+So in my art is labor, like man hours poured into making singular images.
+
+01:02:32.880 --> 01:02:37.840
+And because of these things, many, many that I speak to assume that I would be an enemy
+
+01:02:37.840 --> 01:02:43.340
+of AI art, that I would either add to the moral panic of it or plant my feet in and
+
+01:02:43.340 --> 01:02:45.440
+be scared that it will replace me.
+
+01:02:45.440 --> 01:02:51.000
+But I am much more in the Claire School of Thought than that.
+
+01:02:51.000 --> 01:02:55.280
+I am neither of these things because to me art is not about image making.
+
+01:02:55.280 --> 01:02:57.760
+It is really about growth.
+
+01:02:57.760 --> 01:03:03.920
+I see a multi-generational upheaval towards the creation of art at a massive magnitude.
+
+01:03:03.920 --> 01:03:12.120
+AI is spreading this attempt of image making to everyone, all age ranges, socioeconomic
+
+01:03:12.120 --> 01:03:17.760
+statuses, image making, and eventually art as we know it is about to become something
+
+01:03:17.760 --> 01:03:23.480
+that every person in the world is capable of and in time will have access to writers
+
+01:03:23.480 --> 01:03:27.080
+as Sasha suggested will become very powerful for a time.
+
+01:03:27.080 --> 01:03:31.840
+Thinkers, scholars will become even more powerful as the line blurs further in our thoughts
+
+01:03:31.840 --> 01:03:38.360
+alone serve as inputs for the generation of these world's self-generator worlds that
+
+01:03:38.360 --> 01:03:39.360
+Claire suggested.
+
+01:03:39.360 --> 01:03:45.720
+And I see this divide that may be existing right now, like do we preserve our individual
+
+01:03:45.720 --> 01:03:50.920
+humanity or are we going to become part of a collective high mind?
+
+01:03:50.920 --> 01:03:51.920
+It's neither, right?
+
+01:03:51.920 --> 01:03:54.040
+They are dialectically coherent.
+
+01:03:54.040 --> 01:03:55.040
+They overlap.
+
+01:03:55.040 --> 01:03:56.200
+It's both.
+
+01:03:56.200 --> 01:03:59.040
+It's just what we've talked about with one of one art.
+
+01:03:59.040 --> 01:04:04.680
+You are able to document the source of yourself and your energy and you are also able to engage
+
+01:04:04.680 --> 01:04:06.960
+in a broader community and world of art.
+
+01:04:06.960 --> 01:04:14.160
+I view these things as very linked and I think that quite frankly, this conversation and
+
+01:04:14.160 --> 01:04:20.640
+some of the people are in it are going to be leaders and trying to connect the philosophical
+
+01:04:20.640 --> 01:04:28.840
+story and lore of humanity as an individual connecting to the larger unit without losing
+
+01:04:28.840 --> 01:04:34.160
+yourself than just about any other artist I know in this space.
+
+01:04:34.160 --> 01:04:37.040
+I'm very grateful to be up here with you.
+
+01:04:37.040 --> 01:04:44.960
+And to be honest, I'm actually most curious about what Barack would say to this question.
+
+01:04:44.960 --> 01:04:47.720
+If you're going to go Nostradamus, where do you see this?
+
+01:04:47.720 --> 01:04:48.720
+Wow.
+
+01:04:48.720 --> 01:04:51.160
+It's hard for me to follow big brains like y'all, right?
+
+01:04:51.160 --> 01:04:54.680
+But I will say I'm very, very bullish.
+
+01:04:54.680 --> 01:05:01.600
+I think what you've all shared, which is the human aspect of how we intersect across this
+
+01:05:01.600 --> 01:05:07.240
+pyramid, if you will, the human aspect, the AI aspect, the art aspect, all coming together.
+
+01:05:07.240 --> 01:05:12.520
+I think there's a perfect intersection of all of the disruption that will happen.
+
+01:05:12.520 --> 01:05:16.720
+And I love the fact that it's putting power in the hands of the creator, right?
+
+01:05:16.720 --> 01:05:26.120
+The creatives versus centralized organizations and big technology companies and studios,
+
+01:05:26.120 --> 01:05:27.120
+right?
+
+01:05:27.120 --> 01:05:35.280
+So, Claire's point on disrupting media, disrupting studios, disrupting big tech.
+
+01:05:35.280 --> 01:05:36.280
+It's powerful.
+
+01:05:36.280 --> 01:05:44.600
+It's the ultimate decentralization, open source movement and transformation so that anybody
+
+01:05:44.600 --> 01:05:50.040
+back to a point that you made, Sam, that even little kids, right, are going to start being
+
+01:05:50.040 --> 01:05:51.480
+very disruptive.
+
+01:05:51.480 --> 01:05:57.640
+But I think what we're seeing with GPT-3 and with GPT-4 that's going to be out here shortly
+
+01:05:57.640 --> 01:06:11.400
+is the absolute disruption and really foundational base set of language and prompt that's going
+
+01:06:11.400 --> 01:06:17.000
+to allow for more complex primitives to be built or meadows as Sasha was saying, right?
+
+01:06:17.000 --> 01:06:18.000
+So, I'm super excited.
+
+01:06:18.000 --> 01:06:19.520
+I'm super thrilled.
+
+01:06:19.520 --> 01:06:24.680
+And I just want to thank all of you for an amazing panel today and bullish on the next
+
+01:06:24.680 --> 01:06:25.680
+five years.
+
+01:06:25.680 --> 01:06:28.200
+I think we're going to continue to do really great things.
+
+01:06:28.200 --> 01:06:32.200
+There's going to be a lot of noise as always, but I just want to thank each and every one
+
+01:06:32.200 --> 01:06:37.400
+of you, Claire, Ina, Sasha and Sam, amazing session.
+
+01:06:37.400 --> 01:06:39.680
+Thank you for joining and to all of the attendees, right?
+
+01:06:39.680 --> 01:06:44.840
+A big, big, big, thank you for all of you who have stayed with us for the full hour and
+
+01:06:44.840 --> 01:06:48.400
+have been a part of this and to UNIC for hosting us today.
+
+01:06:48.400 --> 01:06:49.400
+Thanks, everybody.
+
+01:06:49.400 --> 01:06:51.800
+Thank you so much.
+
+01:06:51.800 --> 01:06:52.800
+Thank you so much.
+
+01:06:52.800 --> 01:06:54.880
+This was really great.
+
+01:06:54.880 --> 01:06:55.880
+Thank you so much.
+
+01:06:55.880 --> 01:07:09.960
+Thank you for having me.
+
+01:07:09.960 --> 01:07:27.960
+Thank you.
+
