@@ -46,6 +46,10 @@ Inside this directory you may find the transcripts of the live sessions, were -w
         - .txt - https://arweave.net/s53CDS39UX4457_Kio2NtlB4o7jkIwFUYuHj_owdV24
         - .srt - https://arweave.net/h1Jl3gSRowafd00v9nwFRhunaUcAkWo_yRO7L9arPzs
         - .vtt - https://arweave.net/thvh2uLv5xaEUOI1DbmM6Nujx5hsyr21F-w9sn03n5s
+    - **Week 5.3**
+        - .txt - https://arweave.net/
+        - .srt - https://arweave.net/
+        - .vtt - https://arweave.net/
 
 - **Week 6: Key Considerations in the NFT Space**
     - **Week 6.1**
