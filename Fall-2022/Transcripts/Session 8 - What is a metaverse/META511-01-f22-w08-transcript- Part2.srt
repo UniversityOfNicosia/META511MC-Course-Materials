@@ -1,0 +1,6092 @@
+1
+00:00:00,000 --> 00:00:20,720
+All right.
+
+2
+00:00:20,720 --> 00:00:27,240
+Hello everyone and welcome back for today's Metaverse Panel.
+
+3
+00:00:27,240 --> 00:00:30,160
+As you learn, it is hopefully people have found the right location.
+
+4
+00:00:30,160 --> 00:00:33,080
+We are not in quote unquote sector zero today.
+
+5
+00:00:33,080 --> 00:00:36,400
+We're on the very very beginnings of the Metaverse camp.
+
+6
+00:00:36,400 --> 00:00:42,600
+There's a big amphitheater and an outdoor park course that people jump around on.
+
+7
+00:00:42,600 --> 00:00:47,600
+We don't have classrooms or auditoriums or other things yet.
+
+8
+00:00:47,600 --> 00:00:51,600
+We do have a nice place to pick around.
+
+9
+00:00:51,600 --> 00:01:01,400
+Today we're joined with three important builders broadly, or I would call in the Metaverse ecosystem.
+
+10
+00:01:01,400 --> 00:01:08,840
+What we're going to do today is learn what they're doing, ask them easier or harder questions
+
+11
+00:01:08,840 --> 00:01:15,440
+as they know, and then find out what our future is going to look like.
+
+12
+00:01:15,440 --> 00:01:20,200
+As it's not just what's going to happen this year, I'd like to know what's going to happen
+
+13
+00:01:20,200 --> 00:01:30,200
+in 2035 so I can get mentally prepared for launching myself into the Metaverse.
+
+14
+00:01:30,200 --> 00:01:35,720
+The interesting here are the points of view of this week.
+
+15
+00:01:35,720 --> 00:01:42,680
+Then as always, at the end we will have some time for questions from the audience.
+
+16
+00:01:42,680 --> 00:01:52,680
+By all means keep track of what you'd like to ask and we'll cover it at the end.
+
+17
+00:01:52,680 --> 00:01:59,280
+Before we get into specifics, I think it is important that we give our guests the opportunity
+
+18
+00:01:59,280 --> 00:02:01,280
+to properly introduce themselves.
+
+19
+00:02:01,280 --> 00:02:04,520
+They are all three very interesting people.
+
+20
+00:02:04,520 --> 00:02:08,040
+The backgrounds and they are working on interesting projects.
+
+21
+00:02:08,040 --> 00:02:14,280
+We're going to go through one by one, learn a little bit about how they ended up here
+
+22
+00:02:14,280 --> 00:02:20,200
+working on these cutting edge topics and what specifically they're working on right now.
+
+23
+00:02:20,200 --> 00:02:22,960
+We'll do that and we'll get to the questions.
+
+24
+00:02:22,960 --> 00:02:25,120
+Let's start with the first.
+
+25
+00:02:25,120 --> 00:02:27,440
+Great to be here.
+
+26
+00:02:27,440 --> 00:02:29,440
+Thanks for having me.
+
+27
+00:02:29,440 --> 00:02:30,520
+A little on my background.
+
+28
+00:02:30,520 --> 00:02:31,520
+I'm Charlie.
+
+29
+00:02:31,520 --> 00:02:35,440
+I'm the founder of Restless and Charlie Cohen fashion brand.
+
+30
+00:02:35,440 --> 00:02:40,720
+I started the Charlie Cohen brand back in 2012.
+
+31
+00:02:40,720 --> 00:02:45,960
+Although it was a physical fashion brand, everything was very much based around internet
+
+32
+00:02:45,960 --> 00:02:46,960
+culture.
+
+33
+00:02:46,960 --> 00:02:54,880
+Throughout my fashion degree, which had been the prior four years, I was very involved
+
+34
+00:02:54,880 --> 00:03:01,640
+as a blogger and involved in a lot of digital discourse.
+
+35
+00:03:01,640 --> 00:03:06,800
+I was well aware by that time that my digital identity was as valuable, if not more valuable,
+
+36
+00:03:06,800 --> 00:03:09,120
+to me than my physical identity.
+
+37
+00:03:09,120 --> 00:03:13,760
+It was something that I really wanted to bring into physical collections.
+
+38
+00:03:13,760 --> 00:03:18,360
+Whether that was certain activations around each collection, what kind of platforms we
+
+39
+00:03:18,360 --> 00:03:23,480
+could build for having a conversation around the themes for each collection, plugging into
+
+40
+00:03:23,480 --> 00:03:25,960
+meme culture and so on.
+
+41
+00:03:25,960 --> 00:03:30,480
+Then after a couple of years, I'd say around 2015, we started getting to experiment with
+
+42
+00:03:30,480 --> 00:03:36,960
+AR and BR as well and being able to take this digital storytelling to another level and
+
+43
+00:03:36,960 --> 00:03:42,600
+really start creating alternative experiences to traditional fashion events like fashion
+
+44
+00:03:42,600 --> 00:03:45,360
+weeks, like typical lookbook shoots and so on.
+
+45
+00:03:45,360 --> 00:03:50,320
+It was a much more interesting way to connect with our community, who very much weren't
+
+46
+00:03:50,320 --> 00:03:53,360
+at these shows on the traditional fashion calendar.
+
+47
+00:03:53,360 --> 00:03:56,920
+2019, we started getting to work with the gaming industry.
+
+48
+00:03:56,920 --> 00:04:04,440
+That was really the first time I got deep into designing digital wearables and having
+
+49
+00:04:04,440 --> 00:04:07,240
+digital physical crossover.
+
+50
+00:04:07,240 --> 00:04:11,520
+Going into 2020, we were in a great position for the pandemic where we could create these
+
+51
+00:04:11,520 --> 00:04:17,080
+virtual immersive story worlds and retail experiences and digital collections as well.
+
+52
+00:04:17,080 --> 00:04:23,600
+Off the back of that, we ended up working with a lot of big brands like Pokemon, Hello Kitty,
+
+53
+00:04:23,600 --> 00:04:29,120
+Assassin's Creed, Reebok and started getting to do all of these proof of concept experiments
+
+54
+00:04:29,120 --> 00:04:32,760
+around digital and interoperability.
+
+55
+00:04:32,760 --> 00:04:38,360
+We weren't tackling interoperability from a blockchain perspective at that time.
+
+56
+00:04:38,360 --> 00:04:43,080
+We were just integrating with lots of different virtual social environments and game environments
+
+57
+00:04:43,080 --> 00:04:48,560
+where there'd be a version of an asset that was available in each of those spaces.
+
+58
+00:04:48,560 --> 00:04:55,600
+It helped to prove out the interest in interoperable identity, but it was still a pretty convoluted
+
+59
+00:04:55,600 --> 00:04:57,440
+experience.
+
+60
+00:04:57,440 --> 00:05:01,800
+As a user, you'd have to go into each of these individual environments, go through a separate
+
+61
+00:05:01,800 --> 00:05:06,800
+checkout flow, and then from a licensing side, everything would have to be contracted out
+
+62
+00:05:06,800 --> 00:05:09,040
+separately as well.
+
+63
+00:05:09,040 --> 00:05:12,920
+It was a nice idea, but certainly not scalable.
+
+64
+00:05:12,920 --> 00:05:18,240
+I went down the NFT rabbit hole as I was searching for some kind of tech solution to streamline
+
+65
+00:05:18,240 --> 00:05:22,880
+things, because the goal was to be able to have one central hub.
+
+66
+00:05:22,880 --> 00:05:27,760
+You could buy something once and then be able to take it into you as many places as you wanted.
+
+67
+00:05:27,760 --> 00:05:33,400
+As I got more and more involved in that space and that community, one, I realized that this
+
+68
+00:05:33,400 --> 00:05:38,120
+was a huge issue that everybody was talking about and trying to figure out.
+
+69
+00:05:38,120 --> 00:05:44,600
+Two, the ethos of Web3 and decentralization really resonated with me.
+
+70
+00:05:44,600 --> 00:05:50,080
+My own challenges about being involved in traditional fashion industry, traditional creative industry,
+
+71
+00:05:50,080 --> 00:05:52,120
+the ethical implications of that.
+
+72
+00:05:52,120 --> 00:05:59,760
+I really liked the idea of being able to be part of building something that could kickstart
+
+73
+00:05:59,760 --> 00:06:03,600
+a new generation of creatives and designers.
+
+74
+00:06:03,600 --> 00:06:11,120
+I shifted my focus from the brand and started building Restless at the beginning of 2021.
+
+75
+00:06:11,120 --> 00:06:18,920
+The main premise of Restless is it's an easy way for any creator or brand to easily build
+
+76
+00:06:18,920 --> 00:06:24,000
+and customize interoperable wearables that can plug into both open metaverse and traditional
+
+77
+00:06:24,000 --> 00:06:28,240
+game environments as well as have physical counterparts.
+
+78
+00:06:28,240 --> 00:06:29,240
+Excellent.
+
+79
+00:06:29,240 --> 00:06:35,800
+Matsu, do you want to tell us a little bit about your background?
+
+80
+00:06:35,800 --> 00:06:36,800
+Sure.
+
+81
+00:06:36,800 --> 00:06:41,800
+Thank you for having me.
+
+82
+00:06:41,800 --> 00:06:46,800
+I'm super happy to be here.
+
+83
+00:06:46,800 --> 00:06:51,880
+I'll tell you a little bit about myself and then it will just make sense what the company
+
+84
+00:06:51,880 --> 00:06:54,240
+that I'm building is.
+
+85
+00:06:54,240 --> 00:07:00,880
+I've been into VR now for something like the past seven years probably.
+
+86
+00:07:00,880 --> 00:07:08,120
+A little bit about myself, I grew up in the countryside of friends in the middle of nowhere.
+
+87
+00:07:08,120 --> 00:07:10,800
+I was the only teenager in my village.
+
+88
+00:07:10,800 --> 00:07:18,760
+So mostly I grew up with books and computers and they made most of my friends online.
+
+89
+00:07:18,760 --> 00:07:25,120
+When I was probably around 14 years old, the Oculus from Palmer Locky came out.
+
+90
+00:07:25,120 --> 00:07:27,720
+That was a very big deal back then.
+
+91
+00:07:27,720 --> 00:07:31,080
+My first thought was this is amazing.
+
+92
+00:07:31,080 --> 00:07:35,720
+If I could have this device, I could hang out with my own layer friends.
+
+93
+00:07:35,720 --> 00:07:39,760
+Problem is I was a teenager so I couldn't afford to buy a VR headset.
+
+94
+00:07:39,760 --> 00:07:44,720
+If you imagine it was like a thousand bucks at the time.
+
+95
+00:07:44,720 --> 00:07:50,200
+So I thought maybe I can build one by myself and I spend a more year building this VR headset
+
+96
+00:07:50,200 --> 00:07:57,320
+from scratch and basically ended up building the same thing as an Oculus but much cheaper.
+
+97
+00:07:57,320 --> 00:07:59,240
+I got super lucky.
+
+98
+00:07:59,240 --> 00:08:03,800
+There was at the time no resources on how to build a VR headset so I sort of had to figure
+
+99
+00:08:03,800 --> 00:08:05,800
+all of that by myself.
+
+100
+00:08:05,800 --> 00:08:10,200
+And in doing so I did things slightly differently.
+
+101
+00:08:10,200 --> 00:08:15,880
+And you might even say in some very specific aspects slightly better than Oculus.
+
+102
+00:08:15,880 --> 00:08:17,880
+So I did that at the time.
+
+103
+00:08:17,880 --> 00:08:19,680
+Facebook heard about it.
+
+104
+00:08:19,680 --> 00:08:22,520
+They flew me over to the US.
+
+105
+00:08:22,520 --> 00:08:27,000
+I got to spend time with the executive team.
+
+106
+00:08:27,000 --> 00:08:32,160
+Batman Binstow, their chief architect, loved their engineering team, loved the passionate
+
+107
+00:08:32,160 --> 00:08:33,800
+those people were about the VR.
+
+108
+00:08:33,800 --> 00:08:40,440
+But realized the leadership was in my opinion I felt like those people were coolest about
+
+109
+00:08:40,440 --> 00:08:43,440
+the VR and about where VR was headed.
+
+110
+00:08:43,440 --> 00:08:49,960
+And so I decided to take everything I'd built and open source it all.
+
+111
+00:08:49,960 --> 00:08:56,440
+The hardware, the firmware, the software, the algorithm, pretty much everything.
+
+112
+00:08:56,440 --> 00:08:57,560
+And dropped out of high school.
+
+113
+00:08:57,560 --> 00:09:01,160
+I was something like 15 years old at the time.
+
+114
+00:09:01,160 --> 00:09:08,840
+And dedicated the following four years, retrink to work on the edge of research in the VR.
+
+115
+00:09:08,840 --> 00:09:14,240
+Both from the hardware and software perspective and game engines and graphics and art.
+
+116
+00:09:14,240 --> 00:09:18,000
+And as many things we can talk about later.
+
+117
+00:09:18,000 --> 00:09:26,400
+And as a side note, if some of you are familiar with it back then I wrote one of the first
+
+118
+00:09:26,400 --> 00:09:29,520
+rendering plugin for Unity.
+
+119
+00:09:29,520 --> 00:09:33,480
+Which is used to make up half of the video games in the world.
+
+120
+00:09:33,480 --> 00:09:39,600
+And so I created some stuff that are still being used by people today in terms of like
+
+121
+00:09:39,600 --> 00:09:42,680
+the actual engine of how VR works.
+
+122
+00:09:42,680 --> 00:09:44,160
+So that was pretty nice.
+
+123
+00:09:44,160 --> 00:09:49,920
+And we have a fantastic relationship with Unity people in general.
+
+124
+00:09:49,920 --> 00:09:55,040
+And the turning point came, I'm sorry maybe I'm taking a little bit.
+
+125
+00:09:55,040 --> 00:09:56,280
+Here's a point to this story.
+
+126
+00:09:56,280 --> 00:09:58,120
+The turning point came.
+
+127
+00:09:58,120 --> 00:10:03,960
+That was the Quest 2, the VR headset that I'm sure you're all familiar with.
+
+128
+00:10:03,960 --> 00:10:08,680
+And that VR headset was, it was a before and after.
+
+129
+00:10:08,680 --> 00:10:10,720
+Everyone bought that VR headset.
+
+130
+00:10:10,720 --> 00:10:14,520
+They all played with it for about a week, right.
+
+131
+00:10:14,520 --> 00:10:19,280
+Trying to beat my score at bit saver or whatever that is.
+
+132
+00:10:19,280 --> 00:10:24,280
+And usually what you'll find is that after one week.
+
+133
+00:10:24,280 --> 00:10:26,000
+People just stop using it.
+
+134
+00:10:26,000 --> 00:10:29,720
+And they take it and they put it on a shelf behind them.
+
+135
+00:10:29,720 --> 00:10:33,560
+And just collecting dust and they just stop using it, right.
+
+136
+00:10:33,560 --> 00:10:38,760
+And the truth is the VR biggest use case is people are going to be using it for a week
+
+137
+00:10:38,760 --> 00:10:41,000
+and they're going to put it on a shelf.
+
+138
+00:10:41,000 --> 00:10:46,760
+And then maybe once or twice a year a friends visit or family visit and they're going to
+
+139
+00:10:46,760 --> 00:10:50,440
+be like, oh yeah, you want to try it out and you're going to take it out and have your
+
+140
+00:10:50,440 --> 00:10:51,720
+friends try it.
+
+141
+00:10:51,720 --> 00:10:53,280
+And that's pretty much it.
+
+142
+00:10:53,280 --> 00:10:57,480
+Okay, so that was VR back then.
+
+143
+00:10:57,480 --> 00:11:00,720
+To this day VR still has suffered from those problems.
+
+144
+00:11:00,720 --> 00:11:06,800
+And it turns out that I have very strong conviction as far as why there is the case.
+
+145
+00:11:06,800 --> 00:11:09,320
+And we can go very deep into that.
+
+146
+00:11:09,320 --> 00:11:14,800
+But I'm essentially convinced that as of right now the technology is already there to make
+
+147
+00:11:14,800 --> 00:11:17,280
+a VR headset that people use every day.
+
+148
+00:11:17,280 --> 00:11:19,040
+The designers are already there.
+
+149
+00:11:19,040 --> 00:11:23,560
+They're storytelling the marketing, all of those things could be made.
+
+150
+00:11:23,560 --> 00:11:26,680
+I just think that meta is not the right company to do it.
+
+151
+00:11:26,680 --> 00:11:34,160
+And so I went out there, explained exactly how to do it to other companies.
+
+152
+00:11:34,160 --> 00:11:36,840
+You know, for instance, Unity, right.
+
+153
+00:11:36,840 --> 00:11:39,440
+I love to make people from Unity.
+
+154
+00:11:39,440 --> 00:11:42,600
+I went to them and explained to them, hey, this is how you make VR so that it does not
+
+155
+00:11:42,600 --> 00:11:44,800
+make people sick anymore.
+
+156
+00:11:44,800 --> 00:11:50,240
+And Unity said, that sounds awesome, go and ask someone else to build it.
+
+157
+00:11:50,240 --> 00:11:51,760
+I was like, okay, sure.
+
+158
+00:11:51,760 --> 00:11:56,160
+So then I go and ask NVIDIA because they use some of my stuff as well.
+
+159
+00:11:56,160 --> 00:11:57,760
+And NVIDIA says, that sounds awesome.
+
+160
+00:11:57,760 --> 00:11:58,760
+Go and ask Qualcomm.
+
+161
+00:11:58,760 --> 00:12:03,440
+So I go and talk to Qualcomm and you just did basically no one wanted to build it.
+
+162
+00:12:03,440 --> 00:12:09,400
+And so at the time I reached out to a novel, a revicant, which might be familiar with
+
+163
+00:12:09,400 --> 00:12:14,800
+is an investor in crypto and metaverse and many stuff.
+
+164
+00:12:14,800 --> 00:12:18,040
+And novel convinced me to build my own company.
+
+165
+00:12:18,040 --> 00:12:21,800
+And so I just started this company and said, if no one wants to build it, I'm going to
+
+166
+00:12:21,800 --> 00:12:25,080
+build it myself.
+
+167
+00:12:25,080 --> 00:12:29,840
+And we started off really focused on software, then started expanding into the hardware part
+
+168
+00:12:29,840 --> 00:12:30,840
+of it.
+
+169
+00:12:30,840 --> 00:12:35,960
+And now we're starting to go deep into the design and marketing of that whole thing.
+
+170
+00:12:35,960 --> 00:12:39,320
+Nothing that we've done is public yet, but I'm super happy to talk about it.
+
+171
+00:12:39,320 --> 00:12:41,320
+So we've been very stealthy.
+
+172
+00:12:41,320 --> 00:12:44,800
+And just so you have an understanding of where the company is at.
+
+173
+00:12:44,800 --> 00:12:49,800
+So we were based in Mountain View, California.
+
+174
+00:12:49,800 --> 00:12:51,680
+We've raised quite some money.
+
+175
+00:12:51,680 --> 00:12:59,000
+We're actually the best funded company in VR hardware currently.
+
+176
+00:12:59,000 --> 00:13:04,480
+And we're a super nice team that I'm very proud of, people from Apple, people from Sony
+
+177
+00:13:04,480 --> 00:13:06,560
+and people from metal.
+
+178
+00:13:06,560 --> 00:13:10,200
+And some of those people that worked on stuff that you've seen before, some of those people
+
+179
+00:13:10,200 --> 00:13:17,840
+you've even seen on stage before, as those people were on stage during Apple's keynotes.
+
+180
+00:13:17,840 --> 00:13:19,200
+And so yeah, that's what we do today.
+
+181
+00:13:19,200 --> 00:13:20,880
+That's what I work on.
+
+182
+00:13:20,880 --> 00:13:29,800
+And I guess as a tiny bit more piece of a context, I come very much from hardware, but
+
+183
+00:13:29,800 --> 00:13:33,360
+sort of then graduated into trying to become much better at software.
+
+184
+00:13:33,360 --> 00:13:37,640
+And the past, I would say here, also, has been really about design and marketing.
+
+185
+00:13:37,640 --> 00:13:43,320
+And so I guess where my perspective might be interesting for a question is, I have a pretty
+
+186
+00:13:43,320 --> 00:13:49,280
+good understanding of what it takes for VR to go mainstream, but also the history of
+
+187
+00:13:49,280 --> 00:13:51,600
+host of goes mainstream.
+
+188
+00:13:51,600 --> 00:13:57,120
+And it might be interesting to talk about some of my perspective on why is it that some
+
+189
+00:13:57,120 --> 00:14:03,360
+things like crypto or VR might seem like they are experiencing what some people might call
+
+190
+00:14:03,360 --> 00:14:04,680
+the winter.
+
+191
+00:14:04,680 --> 00:14:06,480
+And how do you get through that?
+
+192
+00:14:06,480 --> 00:14:09,040
+And maybe I can bring some historical perspective on that.
+
+193
+00:14:09,040 --> 00:14:11,640
+So that's me in a nutshell.
+
+194
+00:14:11,640 --> 00:14:12,640
+Fantastic.
+
+195
+00:14:12,640 --> 00:14:17,920
+And Brian, you're talking about yourself and on the shoulder.
+
+196
+00:14:17,920 --> 00:14:24,120
+After this introduction is pretty hard for me to be able to tell myself.
+
+197
+00:14:24,120 --> 00:14:30,440
+Yeah, I mean, the story of On-Samper and myself is really the story of a kid who wanted to
+
+198
+00:14:30,440 --> 00:14:32,440
+do something useful in VR3.
+
+199
+00:14:32,440 --> 00:14:37,680
+I think I started getting interested in 2krypto when I was about 12 or 13.
+
+200
+00:14:37,680 --> 00:14:41,080
+A long time ago.
+
+201
+00:14:41,080 --> 00:14:47,000
+And I didn't directly get into crypto, but got into really admired the tech.
+
+202
+00:14:47,000 --> 00:14:50,960
+Took me about 10 years to finally get him and build a product in it.
+
+203
+00:14:50,960 --> 00:14:55,120
+In the meantime, I was building product and I left a program and such.
+
+204
+00:14:55,120 --> 00:14:56,760
+My dad is in the art world.
+
+205
+00:14:56,760 --> 00:15:01,120
+So I had been around art creation and art and contacts with artists, et cetera, for my
+
+206
+00:15:01,120 --> 00:15:02,440
+whole life.
+
+207
+00:15:02,440 --> 00:15:07,400
+When mid 2020, I find out about NFTs and directly it clicks.
+
+208
+00:15:07,400 --> 00:15:12,560
+I directly noticed what it can do for creatives, what it can do for the relations that creatives
+
+209
+00:15:12,560 --> 00:15:14,920
+have with their collectors.
+
+210
+00:15:14,920 --> 00:15:19,800
+Where in the art world, there's a very central assistant for people to go and get the approval
+
+211
+00:15:19,800 --> 00:15:22,480
+of dealers and galleries and whatnot.
+
+212
+00:15:22,480 --> 00:15:28,120
+I thought Web3 and NFTs could come into free up creatives all around the world.
+
+213
+00:15:28,120 --> 00:15:33,520
+Any kid like myself from Morocco and I know so many examples would be able to go and sell
+
+214
+00:15:33,520 --> 00:15:38,480
+stuff on foundation and whatnot and make money without ever having to kiss the hand
+
+215
+00:15:38,480 --> 00:15:40,600
+of a random art dealer in Morocco.
+
+216
+00:15:40,600 --> 00:15:42,880
+So I thought that was pretty interesting.
+
+217
+00:15:42,880 --> 00:15:47,600
+But at the time when I started to look at this, there were very few platforms that would
+
+218
+00:15:47,600 --> 00:15:49,480
+allow people to story tell with art.
+
+219
+00:15:49,480 --> 00:15:54,800
+I think at the time the biggest platforms were Decentraland and CryptoVoxels in the immersive
+
+220
+00:15:54,800 --> 00:15:59,120
+space and then the other options for curation would be in 2D.
+
+221
+00:15:59,120 --> 00:16:04,320
+Of course, adding a dimension makes it easier for people to curate art and to enjoy art.
+
+222
+00:16:04,320 --> 00:16:09,920
+So we needed a proper immersive experience or immersive experience platform for people
+
+223
+00:16:09,920 --> 00:16:17,560
+to showcase and discover art and to visualize Web3, the culture in Web3 in a sense.
+
+224
+00:16:17,560 --> 00:16:22,440
+But there were none and the only way to get into curation in Web3 at the time was to go
+
+225
+00:16:22,440 --> 00:16:29,160
+buy a lamp on Decentraland and hire an architect and do a bunch of very redundant actions just
+
+226
+00:16:29,160 --> 00:16:30,640
+to be able to exhibit art.
+
+227
+00:16:30,640 --> 00:16:33,720
+Most people were actually going and buying a lamp on these platforms to do exactly those
+
+228
+00:16:33,720 --> 00:16:35,400
+functions.
+
+229
+00:16:35,400 --> 00:16:40,600
+And so I went and thought, hey, there is definitely a use case somewhere here where people want
+
+230
+00:16:40,600 --> 00:16:46,560
+to showcase their assets in immersive spaces and connect around immersive spaces.
+
+231
+00:16:46,560 --> 00:16:49,440
+I do not know what this metaverse is ever going to be.
+
+232
+00:16:49,440 --> 00:16:53,960
+I do not know what exactly people are going to want to do, but I know I can have a link
+
+233
+00:16:53,960 --> 00:16:58,680
+with a bunch of people right now that are early adopters that want to experience with
+
+234
+00:16:58,680 --> 00:17:00,160
+these technologies.
+
+235
+00:17:00,160 --> 00:17:04,000
+And so the idea was we're going to go and build this simplest product for people to
+
+236
+00:17:04,000 --> 00:17:07,720
+place and discover assets in immersive spaces.
+
+237
+00:17:07,720 --> 00:17:13,440
+And from there, try to listen as much as possible for the community's feedback and what people
+
+238
+00:17:13,440 --> 00:17:18,040
+want to do in these immersive spaces to just build layer after layer after layer for something
+
+239
+00:17:18,040 --> 00:17:19,760
+that makes sense.
+
+240
+00:17:19,760 --> 00:17:20,760
+What we're doing today.
+
+241
+00:17:20,760 --> 00:17:25,840
+And in OM, for example, like I would have never guessed when I was in this very same
+
+242
+00:17:25,840 --> 00:17:30,760
+bedroom at my parents house in Morocco when I started the company two years ago.
+
+243
+00:17:30,760 --> 00:17:35,040
+But again, I think the one thing that we've had within the team is that we've always been
+
+244
+00:17:35,040 --> 00:17:39,400
+very open as to what this could be, what the metaverse landscape is going to be, what
+
+245
+00:17:39,400 --> 00:17:42,040
+the immersive web should be.
+
+246
+00:17:42,040 --> 00:17:47,240
+And we just kept on listening to our community, building another layer and building another
+
+247
+00:17:47,240 --> 00:17:48,240
+functionality.
+
+248
+00:17:48,240 --> 00:17:55,160
+So I think the story of a one-siber as a company that's fully bottomed up, that listens to
+
+249
+00:17:55,160 --> 00:18:01,480
+people, that will always go in and find the latest piece of feedback that our users want
+
+250
+00:18:01,480 --> 00:18:06,520
+and will go in and implement that so that we end up having a product that truly resonates
+
+251
+00:18:06,520 --> 00:18:12,560
+with real humans rather than just having ideas about what an immersive world should be and
+
+252
+00:18:12,560 --> 00:18:15,800
+just developing it from the ground up until it's ready.
+
+253
+00:18:15,800 --> 00:18:19,560
+So yeah, that's pretty much me and my story.
+
+254
+00:18:19,560 --> 00:18:22,400
+Okay, this was fantastic.
+
+255
+00:18:22,400 --> 00:18:25,160
+And I'll have about 11 million questions.
+
+256
+00:18:25,160 --> 00:18:30,200
+Let me start with some specific questions addressed to specific people.
+
+257
+00:18:30,200 --> 00:18:33,000
+And then later we'll do the more integrative ones.
+
+258
+00:18:33,000 --> 00:18:35,120
+And again, I want to start with Charlie.
+
+259
+00:18:35,120 --> 00:18:40,920
+I want to give you the opportunity to address the following thing that I have heard one
+
+260
+00:18:40,920 --> 00:18:43,800
+billion times.
+
+261
+00:18:43,800 --> 00:18:45,640
+I don't want digital wearables.
+
+262
+00:18:45,640 --> 00:18:47,280
+Why do I need digital wearables?
+
+263
+00:18:47,280 --> 00:18:49,520
+I want real clothes.
+
+264
+00:18:49,520 --> 00:18:51,600
+I want a real purse.
+
+265
+00:18:51,600 --> 00:18:53,920
+Why would I spend money on that stuff?
+
+266
+00:18:53,920 --> 00:18:58,000
+Obviously, this is not NFT people.
+
+267
+00:18:58,000 --> 00:18:59,560
+Let's call it normal people.
+
+268
+00:18:59,560 --> 00:19:00,560
+Right?
+
+269
+00:19:00,560 --> 00:19:03,440
+So when I've had this discussion, what are NFTs good for?
+
+270
+00:19:03,440 --> 00:19:07,760
+Not saying different things, but one of the things I always say is digital wearables.
+
+271
+00:19:07,760 --> 00:19:11,040
+And like 80% of the time, this is the answer.
+
+272
+00:19:11,040 --> 00:19:13,800
+Can I give my response with my guesses?
+
+273
+00:19:13,800 --> 00:19:16,480
+You probably have a better, more nuanced thought than this.
+
+274
+00:19:16,480 --> 00:19:19,200
+So the floor is yours.
+
+275
+00:19:19,200 --> 00:19:20,440
+Sure.
+
+276
+00:19:20,440 --> 00:19:28,320
+So I think usually my first question in response to that mentality is, have you ever used a
+
+277
+00:19:28,320 --> 00:19:29,320
+profile picture?
+
+278
+00:19:29,320 --> 00:19:31,760
+Have you ever curated an Instagram feed?
+
+279
+00:19:31,760 --> 00:19:36,040
+Have you ever used a filter on social media?
+
+280
+00:19:36,040 --> 00:19:40,360
+Generally the answer to at least one of those things, if not all three of them, is yes.
+
+281
+00:19:40,360 --> 00:19:45,280
+And then we can start digging into, well, clearly you care about your digital identity
+
+282
+00:19:45,280 --> 00:19:47,560
+to some extent.
+
+283
+00:19:47,560 --> 00:19:55,920
+And as technology develops and your digital identity is represented increasingly in 3D
+
+284
+00:19:55,920 --> 00:20:03,880
+spaces and as an avatar, then wearables are going to be the equivalent to changing your
+
+285
+00:20:03,880 --> 00:20:07,480
+profile picture or curating your Instagram feed.
+
+286
+00:20:07,480 --> 00:20:16,520
+And then also is always nice to point out the $60 billion skins industry within traditional
+
+287
+00:20:16,520 --> 00:20:18,800
+gaming as well.
+
+288
+00:20:18,800 --> 00:20:28,640
+There is a complete precedent for a whole generation, two generations, the value that
+
+289
+00:20:28,640 --> 00:20:33,880
+digital identity enough to be investing heavily in game wearables.
+
+290
+00:20:33,880 --> 00:20:39,360
+And this doesn't even have the functionality of NFTs where you own it, where you can take
+
+291
+00:20:39,360 --> 00:20:47,560
+it into other spaces, where it's, you know, often you can't resell it for actual money.
+
+292
+00:20:47,560 --> 00:20:53,440
+And NFT wearables are taking something that is already a massive industry and making it
+
+293
+00:20:53,440 --> 00:20:57,320
+even more valuable and even more scalable.
+
+294
+00:20:57,320 --> 00:21:04,880
+But I think usually the key is just like focusing in on digital identity, which is something
+
+295
+00:21:04,880 --> 00:21:10,440
+that most people have been participating in for the last couple of decades.
+
+296
+00:21:10,440 --> 00:21:15,040
+And then it starts to click a little bit more why sometime in the future they might
+
+297
+00:21:15,040 --> 00:21:17,840
+be investing in that in a slightly different way.
+
+298
+00:21:17,840 --> 00:21:18,840
+Okay.
+
+299
+00:21:18,840 --> 00:21:22,160
+So I agree with everything you said, obviously.
+
+300
+00:21:22,160 --> 00:21:24,280
+Now what if someone says that's fine.
+
+301
+00:21:24,280 --> 00:21:32,120
+Of course I have a profile picture on Instagram or LinkedIn or Twitter and they might even
+
+302
+00:21:32,120 --> 00:21:33,120
+be different.
+
+303
+00:21:33,120 --> 00:21:39,760
+But I didn't spend money on it and I put one once to like I'm changing it all the time.
+
+304
+00:21:39,760 --> 00:21:45,600
+Is this something in gaming, I hear you on gaming, but that's like I don't know if people
+
+305
+00:21:45,600 --> 00:21:46,960
+will play a lot of games.
+
+306
+00:21:46,960 --> 00:21:48,920
+Is this just something for people with games?
+
+307
+00:21:48,920 --> 00:21:51,720
+I'm a normal person.
+
+308
+00:21:51,720 --> 00:21:54,480
+I have a social media presence.
+
+309
+00:21:54,480 --> 00:21:56,520
+I'm not a big gamer.
+
+310
+00:21:56,520 --> 00:22:00,400
+Is this just something that's not for me or is it going to be different?
+
+311
+00:22:00,400 --> 00:22:10,800
+Well, I guess then it comes to the concept of fashion and subculture and community full
+
+312
+00:22:10,800 --> 00:22:11,800
+stops.
+
+313
+00:22:11,800 --> 00:22:16,680
+It's like, have you ever done anything within the physical world, made a physical purchase
+
+314
+00:22:16,680 --> 00:22:20,080
+because in some way it connected you more to a community.
+
+315
+00:22:20,080 --> 00:22:21,680
+In some way it was a flex.
+
+316
+00:22:21,680 --> 00:22:24,960
+Have you ever bought a pair of limited edition sneakers?
+
+317
+00:22:24,960 --> 00:22:28,200
+What was the reason behind that?
+
+318
+00:22:28,200 --> 00:22:35,800
+And then it's sort of taking that and like, okay, well, if the only place or the primary
+
+319
+00:22:35,800 --> 00:22:41,760
+place that you're going to be connecting with that community or showcasing that flex is
+
+320
+00:22:41,760 --> 00:22:46,920
+in digital, then isn't the digital version of that asset actually more valuable?
+
+321
+00:22:46,920 --> 00:22:57,000
+I think the first thing, why are you buying some combination of why you buy a limited edition
+
+322
+00:22:57,000 --> 00:23:01,400
+sneaker and what your profile pictures and why it changes and the skins somewhere in
+
+323
+00:23:01,400 --> 00:23:04,200
+there is the reality.
+
+324
+00:23:04,200 --> 00:23:16,600
+I think there is probably some room for us as a community to find a shorter, piffier way
+
+325
+00:23:16,600 --> 00:23:19,600
+to get this across.
+
+326
+00:23:19,600 --> 00:23:25,320
+I don't know why the team Bitcoin figured this out right now to talk about Bitcoin.
+
+327
+00:23:25,320 --> 00:23:27,920
+You're holding it, digital gold or what have you.
+
+328
+00:23:27,920 --> 00:23:35,720
+There's probably something there because it's a very common response on this topic.
+
+329
+00:23:35,720 --> 00:23:38,280
+Practically it'll probably just happen naturally.
+
+330
+00:23:38,280 --> 00:23:40,280
+Maybe we can accelerate.
+
+331
+00:23:40,280 --> 00:23:45,640
+Anything you want to add there, should I go to McSee?
+
+332
+00:23:45,640 --> 00:23:47,640
+I think we can go over to my team.
+
+333
+00:23:47,640 --> 00:23:48,640
+Hi, McSee.
+
+334
+00:23:48,640 --> 00:23:50,840
+Let me make sure I understood this correctly.
+
+335
+00:23:50,840 --> 00:23:56,400
+You went around to all the biggest technology companies in the world all like multiple tens
+
+336
+00:23:56,400 --> 00:24:01,040
+or hundreds of billions of dollars or trillions and you have concluded none of them know how
+
+337
+00:24:01,040 --> 00:24:03,240
+to build a concept so you're going to build your own.
+
+338
+00:24:03,240 --> 00:24:05,240
+Did I understand this correctly?
+
+339
+00:24:05,240 --> 00:24:08,040
+You can say that way.
+
+340
+00:24:08,040 --> 00:24:10,840
+I'm summarizing it the way I understood it.
+
+341
+00:24:10,840 --> 00:24:13,480
+You were going to build a better headset.
+
+342
+00:24:13,480 --> 00:24:15,400
+This is the takeaway.
+
+343
+00:24:15,400 --> 00:24:22,200
+I think we at the company, it's not many people.
+
+344
+00:24:22,200 --> 00:24:26,080
+I think we have a shot at building a better headset.
+
+345
+00:24:26,080 --> 00:24:29,720
+I mean that's in the very holistic sense.
+
+346
+00:24:29,720 --> 00:24:37,200
+I think one critical aspect of, as I'm sure you realize actually being in crypto, is it's
+
+347
+00:24:37,200 --> 00:24:41,400
+certainly about the product, it's also about the messaging of the product and your ability
+
+348
+00:24:41,400 --> 00:24:45,800
+to convey that and to educate people about it.
+
+349
+00:24:45,800 --> 00:24:52,280
+And yeah, I'm happy to be more specific but I think the way you broke it down is it would
+
+350
+00:24:52,280 --> 00:24:54,880
+be accurate, although we don't say it like that.
+
+351
+00:24:54,880 --> 00:25:00,760
+Right, of course not because you're modest and appropriate.
+
+352
+00:25:00,760 --> 00:25:04,960
+What does a better headset mean?
+
+353
+00:25:04,960 --> 00:25:11,760
+Facebook has put, I don't know how many billions of dollars into a headset.
+
+354
+00:25:11,760 --> 00:25:12,760
+Okay, well that's cool.
+
+355
+00:25:12,760 --> 00:25:13,760
+I'm a smart guy.
+
+356
+00:25:13,760 --> 00:25:14,760
+Mine's going to be better.
+
+357
+00:25:14,760 --> 00:25:16,960
+Why is it going to be better?
+
+358
+00:25:16,960 --> 00:25:17,960
+How is it going to be better?
+
+359
+00:25:17,960 --> 00:25:23,760
+What's missing today that when your headset comes out, will be much happier?
+
+360
+00:25:23,760 --> 00:25:24,760
+Sure.
+
+361
+00:25:24,760 --> 00:25:34,800
+I think that's a fascinating question and one way I'll try to answer is rather than going
+
+362
+00:25:34,800 --> 00:25:42,400
+into the very specific difference between my headset and their headset, maybe what I
+
+363
+00:25:42,400 --> 00:25:48,680
+can try doing and if it's interesting, we can keep pulling on that thread, is talk a
+
+364
+00:25:48,680 --> 00:25:54,200
+little bit about the cultural differences between the people making decisions at the
+
+365
+00:25:54,200 --> 00:26:03,120
+Metap or Apple and the people that I'm a part of and that most people in this sort of metaverse
+
+366
+00:26:03,120 --> 00:26:08,840
+movement are part of and where are the cultural differences between them.
+
+367
+00:26:08,840 --> 00:26:13,880
+And the reason for that is one of my belief is, you know, if you look at a company like
+
+368
+00:26:13,880 --> 00:26:22,480
+Google, Google has tried many times to compete with Apple in the smartphone market and Google
+
+369
+00:26:22,480 --> 00:26:27,400
+has infinite amount of money and yet they're not able to compete with Apple, right?
+
+370
+00:26:27,400 --> 00:26:33,160
+Like their phone are setting much less units than the iPhone.
+
+371
+00:26:33,160 --> 00:26:37,160
+So they're not able to compete with the iPhone despite having infinite amount of money.
+
+372
+00:26:37,160 --> 00:26:42,920
+So it means that there's something else that Apple has that Google does not have and that
+
+373
+00:26:42,920 --> 00:26:49,320
+thing is a set of belief and that thing is essentially culture.
+
+374
+00:26:49,320 --> 00:26:53,880
+And so rather than telling you exactly the specs in terms of difference, I think it's
+
+375
+00:26:53,880 --> 00:26:58,720
+worth it to talk about the cultural differences between Metap or Apple and those companies
+
+376
+00:26:58,720 --> 00:27:00,200
+and us.
+
+377
+00:27:00,200 --> 00:27:10,600
+And if I try to break down the cultural difference, the most important point and I think that
+
+378
+00:27:10,600 --> 00:27:18,120
+if you have one thing to take away from me, it would be that it's the fact that to those
+
+379
+00:27:18,120 --> 00:27:28,160
+people, virtual worlds have a zero sum game relationship with the real world.
+
+380
+00:27:28,160 --> 00:27:34,400
+So it essentially means is that to those people, the time you spend in a virtual world is time
+
+381
+00:27:34,400 --> 00:27:35,840
+lost in real life.
+
+382
+00:27:35,840 --> 00:27:40,480
+It's like minus one hour spent in that virtual world.
+
+383
+00:27:40,480 --> 00:27:44,040
+It's like one hour that you're not spending in real life and it's like this idea of like
+
+384
+00:27:44,040 --> 00:27:45,880
+wasted time.
+
+385
+00:27:45,880 --> 00:27:51,280
+And I think it's pretty deep into the psyche of those people.
+
+386
+00:27:51,280 --> 00:27:56,360
+And so one of the consequences of that is in the way they designed the headset and the
+
+387
+00:27:56,360 --> 00:28:00,480
+way they designed the experiences and the marketing of it, basically what they try to
+
+388
+00:28:00,480 --> 00:28:07,400
+convince you of is take your life and move your entire life to the metaverse.
+
+389
+00:28:07,400 --> 00:28:11,720
+And then the reaction that people have to that is, well, this is going to take away
+
+390
+00:28:11,720 --> 00:28:17,320
+stuff from my real life that I would rather not do in VR, right?
+
+391
+00:28:17,320 --> 00:28:22,000
+The predict perception of VR is pretty dystopian because people think that, no, I want to make
+
+392
+00:28:22,000 --> 00:28:23,880
+friends in real life, not only in VR.
+
+393
+00:28:23,880 --> 00:28:29,120
+And so the mental framework of those people is always trying to put in opposition the
+
+394
+00:28:29,120 --> 00:28:31,400
+real life in VR.
+
+395
+00:28:31,400 --> 00:28:38,680
+Whereas what I find with my friends and myself, instead of the people either from my generation
+
+396
+00:28:38,680 --> 00:28:45,960
+or with the same kind of interest is that they really think of virtual worlds in their
+
+397
+00:28:45,960 --> 00:28:53,680
+daily life as sort of this balanced relationship where some of the most valuable time in their
+
+398
+00:28:53,680 --> 00:29:01,120
+real life came as a result of the time they spent in virtual worlds.
+
+399
+00:29:01,120 --> 00:29:08,120
+And so in that sense, I would say the core difference is meta is trying to think about
+
+400
+00:29:08,120 --> 00:29:11,800
+how to keep you inside the VR headset as long as possible.
+
+401
+00:29:11,800 --> 00:29:17,680
+I'm trying hard to think about how can I make you very happy when you take the VR headset
+
+402
+00:29:17,680 --> 00:29:18,680
+off?
+
+403
+00:29:18,680 --> 00:29:23,520
+It's like, what do you get away from the experience?
+
+404
+00:29:23,520 --> 00:29:30,760
+And so I realized it's a little bit abstract, so let me make that, let me get into more specific
+
+405
+00:29:30,760 --> 00:29:33,400
+examples.
+
+406
+00:29:33,400 --> 00:29:40,360
+Let me try to think of a great one.
+
+407
+00:29:40,360 --> 00:29:45,240
+All right.
+
+408
+00:29:45,240 --> 00:29:49,160
+I'm sure most of you are familiar with the art chat.
+
+409
+00:29:49,160 --> 00:29:55,360
+And I'm sure as many of you are familiar with Facebook Horizon, which is the competitor
+
+410
+00:29:55,360 --> 00:29:57,080
+to the art chat.
+
+411
+00:29:57,080 --> 00:30:02,920
+And it seems as though regardless of how much money meta is pouring into Horizon, Horizon
+
+412
+00:30:02,920 --> 00:30:05,520
+is not able to compete with VR chats.
+
+413
+00:30:05,520 --> 00:30:09,200
+VR chat is just swinging whereas Horizon is not.
+
+414
+00:30:09,200 --> 00:30:11,400
+And if you try to think, how is that possible?
+
+415
+00:30:11,400 --> 00:30:14,720
+Why can't they just copy VR chat into the exact same thing?
+
+416
+00:30:14,720 --> 00:30:21,640
+The reason why that is not possible is that as much as the people using VR chat every
+
+417
+00:30:21,640 --> 00:30:27,760
+day and I've used VR chat a lot, love the time they spent inside VR chat, the most valuable
+
+418
+00:30:27,760 --> 00:30:31,840
+thing they get out of VR chat actually happens outside of VR.
+
+419
+00:30:31,840 --> 00:30:36,000
+It's the fact that those friends that you've made in VR chat, they just become friends
+
+420
+00:30:36,000 --> 00:30:39,760
+as a whole in your daily life, the rest of your life.
+
+421
+00:30:39,760 --> 00:30:43,200
+And you might even try to meet them in real life.
+
+422
+00:30:43,200 --> 00:30:46,560
+It's the ability to be able to go inside VR chat.
+
+423
+00:30:46,560 --> 00:30:52,040
+And after you've had maybe a long or stressful day, took to people and sort of have them
+
+424
+00:30:52,040 --> 00:30:55,760
+and have like those sort of deep emotional meaningful conversation, and then you get
+
+425
+00:30:55,760 --> 00:30:57,640
+out of VR and you feel better.
+
+426
+00:30:57,640 --> 00:31:02,240
+It's like all those things that happen in VR and directly reflect back to your real
+
+427
+00:31:02,240 --> 00:31:03,400
+life.
+
+428
+00:31:03,400 --> 00:31:09,080
+And somehow every time something has that characteristic, it happens in VR but reflects
+
+429
+00:31:09,080 --> 00:31:12,760
+in real life, meta is just not able to do it right.
+
+430
+00:31:12,760 --> 00:31:17,640
+And instead what they offer you is, instead we're going to take, we're just going to
+
+431
+00:31:17,640 --> 00:31:20,400
+increase the amount of time you can spend in VR.
+
+432
+00:31:20,400 --> 00:31:27,520
+So if you look at the feature list of Horizon, they prioritize stuff like bring your laptop
+
+433
+00:31:27,520 --> 00:31:28,520
+to Horizon.
+
+434
+00:31:28,520 --> 00:31:32,760
+Because that's the way to sort of day thing that's going to like try to keep you longer
+
+435
+00:31:32,760 --> 00:31:40,760
+in Horizon as opposed to how do we increase the ratio of meaningful conversation in Horizon
+
+436
+00:31:40,760 --> 00:31:43,600
+as opposed to non meaningful conversation.
+
+437
+00:31:43,600 --> 00:31:48,560
+And like the way you design that changes, like the way you think about it changes widely
+
+438
+00:31:48,560 --> 00:31:52,200
+the design of like this from that form.
+
+439
+00:31:52,200 --> 00:31:58,320
+So that would be like my very, very high strike high level answer that like I'm happy to dive
+
+440
+00:31:58,320 --> 00:32:02,480
+into it, but I'm also realizing you might want something a little more specific.
+
+441
+00:32:02,480 --> 00:32:07,960
+So I also share some specific details about my headset in terms of the philosophy of the
+
+442
+00:32:07,960 --> 00:32:08,960
+headset itself.
+
+443
+00:32:08,960 --> 00:32:14,840
+Yeah, I'm trying to be mindful of the time at the same time, but I also want to give
+
+444
+00:32:14,840 --> 00:32:16,560
+you a little bit of a nuggets about the headset.
+
+445
+00:32:16,560 --> 00:32:20,000
+So I'll choose one vertical and then I'm happy to talk about one.
+
+446
+00:32:20,000 --> 00:32:25,480
+One vertical would be how do we think about comfort?
+
+447
+00:32:25,480 --> 00:32:30,280
+And for that, I have to tell you a little bit more about again, how does company design
+
+448
+00:32:30,280 --> 00:32:31,880
+their VR headset?
+
+449
+00:32:31,880 --> 00:32:36,720
+The way VR headset is usually designed is you have a team that's going to come up with
+
+450
+00:32:36,720 --> 00:32:39,120
+a list of features.
+
+451
+00:32:39,120 --> 00:32:40,840
+Some of them are going to be hard requirements.
+
+452
+00:32:40,840 --> 00:32:45,600
+Some of them are not stuff like facial tracking or body tracking or whatever.
+
+453
+00:32:45,600 --> 00:32:49,680
+Once you have those features, you define what you need to achieve those features and then
+
+454
+00:32:49,680 --> 00:32:54,920
+you build those gigantic prototypes like the one you saw in maybe Zercoverer's video.
+
+455
+00:32:54,920 --> 00:33:00,080
+And once you have the gigantic prototypes, you try to make them smaller and then you send
+
+456
+00:33:00,080 --> 00:33:04,880
+that to a factory, try to make it as small as possible without it breaking and then you
+
+457
+00:33:04,880 --> 00:33:06,560
+have a headset and then you put that to market.
+
+458
+00:33:06,560 --> 00:33:09,760
+That's how VR headsets is traditionally designed.
+
+459
+00:33:09,760 --> 00:33:14,760
+One of the things we've decided to do at UNIGAT is to absolutely refuse to do that.
+
+460
+00:33:14,760 --> 00:33:16,400
+And we start the other way.
+
+461
+00:33:16,400 --> 00:33:21,800
+We try to make VR headsets just made out of plastic and we just try to make them as comfortable
+
+462
+00:33:21,800 --> 00:33:23,320
+as possible.
+
+463
+00:33:23,320 --> 00:33:27,840
+And then we put them on a ton of people, we put weights inside and we try to see when
+
+464
+00:33:27,840 --> 00:33:30,080
+they stop being comfortable.
+
+465
+00:33:30,080 --> 00:33:34,320
+And we find those threshold and we spend a lot of time trying to find what is comfortable
+
+466
+00:33:34,320 --> 00:33:39,840
+or what is not and then we work it backwards and we say, okay, what features can we fit
+
+467
+00:33:39,840 --> 00:33:44,840
+inside the headset without it being stopping to be comfortable.
+
+468
+00:33:44,840 --> 00:33:49,480
+And what we find is that there's a lot of features out there that you might not have
+
+469
+00:33:49,480 --> 00:33:51,360
+in the UNIVR headset.
+
+470
+00:33:51,360 --> 00:33:56,320
+But that's because we started from this perspective of comfortable, maybe I had to remove a few
+
+471
+00:33:56,320 --> 00:34:01,680
+features and our criteria when we looked at that feature is does that feature and that's
+
+472
+00:34:01,680 --> 00:34:06,320
+how it ties back to the beginning of my story, does that feature benefits you once you take
+
+473
+00:34:06,320 --> 00:34:08,360
+off the headset, yes or no.
+
+474
+00:34:08,360 --> 00:34:12,360
+And does it make a significant difference?
+
+475
+00:34:12,360 --> 00:34:18,200
+So for instance, a VR headset that you might have heard of, the PyMax, it's like this one
+
+476
+00:34:18,200 --> 00:34:23,960
+kilogram gigantic thing that I'm not making this up is like this large.
+
+477
+00:34:23,960 --> 00:34:33,160
+And the PyMax, I don't know if I can say this publicly, but the difference in resolution
+
+478
+00:34:33,160 --> 00:34:37,920
+between our headset and the PyMax, which is the headset with the highest resolution of
+
+479
+00:34:37,920 --> 00:34:43,040
+all time, it's like, again, this one kilogram gigantic big thing on your face.
+
+480
+00:34:43,040 --> 00:34:50,720
+The percentage of like more resolution that they have is in the single digit branch.
+
+481
+00:34:50,720 --> 00:34:53,240
+That's like, well, I'll share for now.
+
+482
+00:34:53,240 --> 00:34:58,400
+But for that single digit, it's so hard to increase resolution that it results in this
+
+483
+00:34:58,400 --> 00:35:04,200
+like gigantic system that is incredibly heavy with like two big cables plugged at the back
+
+484
+00:35:04,200 --> 00:35:05,360
+of it.
+
+485
+00:35:05,360 --> 00:35:09,800
+And that system is indeed like, I don't know, like four times higher resolution than a
+
+486
+00:35:09,800 --> 00:35:10,800
+Quest.
+
+487
+00:35:10,800 --> 00:35:12,880
+But the price of it is like being so huge.
+
+488
+00:35:12,880 --> 00:35:21,400
+In our case, we're not quite to that resolution, but we've been so hot core about ergonomics
+
+489
+00:35:21,400 --> 00:35:27,360
+that like it fits into something that is about a tenth of the weight of that thing.
+
+490
+00:35:27,360 --> 00:35:32,120
+So this is probably one of the most ergonomic VR headset out there.
+
+491
+00:35:32,120 --> 00:35:40,920
+And again, that's because we ask ourselves at the end of the day, if the resolution was
+
+492
+00:35:40,920 --> 00:35:45,560
+like even twice as much when you take off the headset, what are the chances that you're
+
+493
+00:35:45,560 --> 00:35:50,400
+like, oh, yeah, like this is really making my day much better that the resolution was
+
+494
+00:35:50,400 --> 00:35:52,800
+like twice as much.
+
+495
+00:35:52,800 --> 00:35:56,560
+It matters, but not as much as people think.
+
+496
+00:35:56,560 --> 00:36:00,240
+And thus it shouldn't be, it shouldn't have that big of an influence on the design.
+
+497
+00:36:00,240 --> 00:36:06,520
+So anyway, there's a long answer, but that's sort of how we approach things.
+
+498
+00:36:06,520 --> 00:36:10,240
+Long answer and still did not reveal any trade secrets.
+
+499
+00:36:10,240 --> 00:36:16,600
+We did not manage to, you know, yeah, I'll find out.
+
+500
+00:36:16,600 --> 00:36:18,600
+All right, let's go to Ryan.
+
+501
+00:36:18,600 --> 00:36:21,400
+I don't know if Ryan's on the very specific.
+
+502
+00:36:21,400 --> 00:36:25,760
+Yes, it started art focus now it's doing many things, but for me, what it always attracted
+
+503
+00:36:25,760 --> 00:36:36,960
+me to on cyber and I've spent an infinity amount of time working on on cyber is grand
+
+504
+00:36:36,960 --> 00:36:48,880
+of those is your role objective of it being open and built on open standards.
+
+505
+00:36:48,880 --> 00:36:50,400
+What does that mean?
+
+506
+00:36:50,400 --> 00:36:51,400
+What does open mean?
+
+507
+00:36:51,400 --> 00:36:52,400
+What does close mean?
+
+508
+00:36:52,400 --> 00:36:57,680
+How does it different what are the opportunities challenges, et cetera?
+
+509
+00:36:57,680 --> 00:37:05,080
+Yeah, I mean, like, so one thing is we on on cyber is a child of the work through space.
+
+510
+00:37:05,080 --> 00:37:10,000
+So, so like we started because we wanted to like fulfill the need within the work space,
+
+511
+00:37:10,000 --> 00:37:14,840
+not necessarily because we wanted to build general immersive experiences or whatnot.
+
+512
+00:37:14,840 --> 00:37:20,280
+So the whole point has been that we have been building with very strong foundations for
+
+513
+00:37:20,280 --> 00:37:21,840
+a progressive decentralization.
+
+514
+00:37:21,840 --> 00:37:28,040
+I think there's a lot of companies in this space that like are built within with different
+
+515
+00:37:28,040 --> 00:37:30,320
+principles and want to be open.
+
+516
+00:37:30,320 --> 00:37:34,840
+But at some point, like when your foundations are aren't able to be open, like it's very
+
+517
+00:37:34,840 --> 00:37:39,680
+hard for you to ever be part of a lot of space.
+
+518
+00:37:39,680 --> 00:37:44,560
+What that means in our case is that from the ground up, we built on cyber on free opens
+
+519
+00:37:44,560 --> 00:37:45,560
+or software.
+
+520
+00:37:45,560 --> 00:37:49,800
+So there's no proprietary engine involved and we've never we're never going to have to
+
+521
+00:37:49,800 --> 00:37:56,880
+answer to a big corporation that would own the proprietary engine or have a say in what's
+
+522
+00:37:56,880 --> 00:38:00,400
+happening with their engine, which is not the case for everyone.
+
+523
+00:38:00,400 --> 00:38:04,640
+And it's it's hard to do because like you have to rebuild a lot of things from the ground
+
+524
+00:38:04,640 --> 00:38:05,640
+up.
+
+525
+00:38:05,640 --> 00:38:10,480
+But I think it's the way that you can truly be free long term and have your users and
+
+526
+00:38:10,480 --> 00:38:12,120
+community free.
+
+527
+00:38:12,120 --> 00:38:16,360
+Number two is that we make sure that all assets are stored in the open.
+
+528
+00:38:16,360 --> 00:38:20,400
+So there's like the whole principle of Web3 is your content and you can take it whatever
+
+529
+00:38:20,400 --> 00:38:21,840
+you want.
+
+530
+00:38:21,840 --> 00:38:25,960
+There is nothing within on Saber that isn't stored in the open.
+
+531
+00:38:25,960 --> 00:38:31,840
+Of course, like there's different storage is not necessarily always the most efficient
+
+532
+00:38:31,840 --> 00:38:37,640
+or faster performance type of solution for first storage, which is why we have always
+
+533
+00:38:37,640 --> 00:38:43,480
+have like surfacing CDNs and different services that do things faster.
+
+534
+00:38:43,480 --> 00:38:49,640
+But at the end of the day, all data is stored in the open and can be taken and taken from
+
+535
+00:38:49,640 --> 00:38:54,720
+like, let's take the example of all spaces built with on Saber or this space metacampus
+
+536
+00:38:54,720 --> 00:38:55,720
+that we're on right now.
+
+537
+00:38:55,720 --> 00:38:59,880
+It is yes, stored on CDN, but also stored on IPFS.
+
+538
+00:38:59,880 --> 00:39:05,280
+And if need be if ever tomorrow something happened and on Saber wasn't working anymore,
+
+539
+00:39:05,280 --> 00:39:10,360
+you could totally take this space taken to another platform that uses the same standard
+
+540
+00:39:10,360 --> 00:39:18,160
+we do, which is a pretty common standard in the web called GLTF, which is like what I
+
+541
+00:39:18,160 --> 00:39:24,040
+would say is the equivalent of an HTML in the immersive web.
+
+542
+00:39:24,040 --> 00:39:29,840
+And you would be able to run exactly the same space, exactly the same architecture and completely
+
+543
+00:39:29,840 --> 00:39:30,840
+different platform.
+
+544
+00:39:30,840 --> 00:39:35,840
+So for me, what open means is number one, you can restrict access to it and everyone can
+
+545
+00:39:35,840 --> 00:39:40,320
+participate, which is why we don't have Google login or anything similar.
+
+546
+00:39:40,320 --> 00:39:45,240
+But you can just log in with any type of wallet and soon enough can log in without a wallet
+
+547
+00:39:45,240 --> 00:39:46,240
+even.
+
+548
+00:39:46,240 --> 00:39:52,800
+Number two, I think that I spoke about it before, you cannot have a proprietary tech
+
+549
+00:39:52,800 --> 00:39:54,760
+at the basis of the tech.
+
+550
+00:39:54,760 --> 00:40:00,280
+And so we have chosen not to go with anything proprietary or a proprietary engine.
+
+551
+00:40:00,280 --> 00:40:03,640
+And that there is very low, low cost to switching.
+
+552
+00:40:03,640 --> 00:40:08,640
+So you don't want to make it so that people come in and are locked into it.
+
+553
+00:40:08,640 --> 00:40:13,200
+Like most web two platforms do, like Instagram does or whatnot, like there's no way to go
+
+554
+00:40:13,200 --> 00:40:15,320
+port your content easily.
+
+555
+00:40:15,320 --> 00:40:21,560
+But with us, the idea is to have all those principles and follow them very, very closely.
+
+556
+00:40:21,560 --> 00:40:27,280
+Of course, we don't know what, like, as I said, On Saber is a work in progress.
+
+557
+00:40:27,280 --> 00:40:28,720
+It's a bottom up type of product.
+
+558
+00:40:28,720 --> 00:40:35,000
+And we cannot know everything we need to do to do to everything we need to decentralize
+
+559
+00:40:35,000 --> 00:40:38,280
+in order to be truly open from the ground up.
+
+560
+00:40:38,280 --> 00:40:41,440
+But all our foundations are very open.
+
+561
+00:40:41,440 --> 00:40:46,240
+And as we go without losing too much time on, oh, I think this should be decentralized
+
+562
+00:40:46,240 --> 00:40:51,800
+or stored on chain or off chain or whatnot, we can go pretty fast while having a clear
+
+563
+00:40:51,800 --> 00:40:57,080
+avenue for decentralization whenever we know exactly what that means and how that can be
+
+564
+00:40:57,080 --> 00:40:59,600
+done efficiently.
+
+565
+00:40:59,600 --> 00:41:07,000
+So yeah, that's pretty much like what I think we are doing right now to be able to be part
+
+566
+00:41:07,000 --> 00:41:09,800
+of the open metaverse.
+
+567
+00:41:09,800 --> 00:41:10,800
+Yeah.
+
+568
+00:41:10,800 --> 00:41:11,800
+Okay.
+
+569
+00:41:11,800 --> 00:41:18,960
+Usually, I mean, this is the story of many things.
+
+570
+00:41:18,960 --> 00:41:26,640
+Usually centralized solutions at a minimum start with some advantages, right?
+
+571
+00:41:26,640 --> 00:41:30,880
+They usually tend to, you know, they're more convenient or they're more easily packaged
+
+572
+00:41:30,880 --> 00:41:37,400
+up or they come with more prepackaged features or what have you.
+
+573
+00:41:37,400 --> 00:41:45,480
+And sometimes it has worked out that open standards have taken a hold of HTML, not the
+
+574
+00:41:45,480 --> 00:41:47,440
+information superhighway.
+
+575
+00:41:47,440 --> 00:41:53,520
+Other times, you know, Linux for the desktop never really happened, but Linux eventually
+
+576
+00:41:53,520 --> 00:41:57,080
+over decades when the server market.
+
+577
+00:41:57,080 --> 00:42:04,080
+How do you view the strategic landscape here between a wide variety of closed or semi-closed
+
+578
+00:42:04,080 --> 00:42:08,960
+platforms, you know, using quite mature game engines in most cases, right?
+
+579
+00:42:08,960 --> 00:42:16,520
+You know, Unreal Engine or Unity who don't have to worry about any types of don't have
+
+580
+00:42:16,520 --> 00:42:21,160
+to spend any cycles, development cycles or feature cycles and performance cycles trying
+
+581
+00:42:21,160 --> 00:42:23,160
+to keep it decentralized and so on.
+
+582
+00:42:23,160 --> 00:42:24,160
+Whatever it is going to deliver.
+
+583
+00:42:24,160 --> 00:42:26,520
+We're going to deliver end user experience.
+
+584
+00:42:26,520 --> 00:42:30,000
+How do you see this?
+
+585
+00:42:30,000 --> 00:42:31,440
+It's a very interesting question.
+
+586
+00:42:31,440 --> 00:42:37,800
+And I think we have to go back to our text text to try to start answering this question.
+
+587
+00:42:37,800 --> 00:42:41,440
+Whenever we, when I started on Saber, there were, of course, like many choices we had
+
+588
+00:42:41,440 --> 00:42:42,440
+to make.
+
+589
+00:42:42,440 --> 00:42:47,360
+Like, what do we want to, what's the target for the build on Saber?
+
+590
+00:42:47,360 --> 00:42:49,000
+What, how people are going to access it?
+
+591
+00:42:49,000 --> 00:42:50,720
+Like, what's going to happen there?
+
+592
+00:42:50,720 --> 00:42:56,480
+We chose the browser because to me, today is the most open type of distribution channel
+
+593
+00:42:56,480 --> 00:42:58,560
+to go and reach people with apps.
+
+594
+00:42:58,560 --> 00:43:04,200
+Like, web apps are very hard to be censored and can be distributed as you want if people
+
+595
+00:43:04,200 --> 00:43:05,200
+have a link.
+
+596
+00:43:05,200 --> 00:43:07,200
+So we decided to go with that.
+
+597
+00:43:07,200 --> 00:43:13,960
+And with that, chose 3.js as a technology for like the basis of our tech.
+
+598
+00:43:13,960 --> 00:43:21,320
+So the Linux in this case would be 3.js slash web.gls slash web.gpu, I guess.
+
+599
+00:43:21,320 --> 00:43:27,560
+And then our focus is to make sure that we can build the best possible experience for
+
+600
+00:43:27,560 --> 00:43:32,440
+our users and build the best possible UX for people to come in and enjoy being in those
+
+601
+00:43:32,440 --> 00:43:40,880
+immersive worlds, which are themselves like run by web.gls, web.gpu soon and free open
+
+602
+00:43:40,880 --> 00:43:41,880
+source software.
+
+603
+00:43:41,880 --> 00:43:42,880
+Okay.
+
+604
+00:43:42,880 --> 00:43:51,520
+Let's do another round on kind of state of today in adoption.
+
+605
+00:43:51,520 --> 00:43:55,920
+I'm going to go back to Charlie.
+
+606
+00:43:55,920 --> 00:43:59,240
+How many, where are digital wearables now?
+
+607
+00:43:59,240 --> 00:44:00,240
+Right?
+
+608
+00:44:00,240 --> 00:44:01,240
+Where are people using them?
+
+609
+00:44:01,240 --> 00:44:02,880
+How many are the using them?
+
+610
+00:44:02,880 --> 00:44:08,560
+What types of things are you seeing developing in the background that, you know, our average
+
+611
+00:44:08,560 --> 00:44:11,400
+person today might not know about?
+
+612
+00:44:11,400 --> 00:44:16,840
+And how do you expect this to change over the next one, two, three years?
+
+613
+00:44:16,840 --> 00:44:17,840
+Sure.
+
+614
+00:44:17,840 --> 00:44:24,840
+So I think like the key use cases for digital wearables right now are either in-game and
+
+615
+00:44:24,840 --> 00:44:29,400
+like thinking more traditional gaming industry, whether it's like the daily active user base,
+
+616
+00:44:29,400 --> 00:44:32,920
+generally a younger audience as collectibles.
+
+617
+00:44:32,920 --> 00:44:38,760
+So I guess you're more like typical web three speculative NFT investment.
+
+618
+00:44:38,760 --> 00:44:48,120
+Or as a way to unlock either physical redeemables, so like physical wearable utility, or more
+
+619
+00:44:48,120 --> 00:44:50,560
+as like ticketing to events.
+
+620
+00:44:50,560 --> 00:44:56,480
+So a lot of traditional fashion brands that have tried to enter the NFT space have based
+
+621
+00:44:56,480 --> 00:45:02,920
+the utility around like access to fashion shows, like, yeah, special, like VIP access
+
+622
+00:45:02,920 --> 00:45:06,120
+within their flagship stores and so on.
+
+623
+00:45:06,120 --> 00:45:13,520
+So everything is quite heavily focused around existing fashion use cases, like you're, you
+
+624
+00:45:13,520 --> 00:45:20,280
+know, you're literally wearing it in the physical world in a game, or it's giving you some kind
+
+625
+00:45:20,280 --> 00:45:23,240
+of status.
+
+626
+00:45:23,240 --> 00:45:32,960
+And I think right now, like the best web three use case for digital identity is the PFP.
+
+627
+00:45:32,960 --> 00:45:36,520
+And you know, you wouldn't necessarily think of that as fashion, but it's doing very much
+
+628
+00:45:36,520 --> 00:45:37,520
+the same thing.
+
+629
+00:45:37,520 --> 00:45:42,080
+It's like signaling you as part of a community.
+
+630
+00:45:42,080 --> 00:45:44,840
+It's saying something about your status.
+
+631
+00:45:44,840 --> 00:45:49,400
+It's saying something about how early you are into the web three space.
+
+632
+00:45:49,400 --> 00:45:53,480
+You know, it's communicating a lot in the same way that the passion does.
+
+633
+00:45:53,480 --> 00:46:00,760
+So I see the evolution of wearables, like what does the PFP mean as we start to socialize
+
+634
+00:46:00,760 --> 00:46:08,920
+more in 3D spaces as interoperable identity in open metaverse actually becomes something
+
+635
+00:46:08,920 --> 00:46:12,400
+that there is like clear use case for.
+
+636
+00:46:12,400 --> 00:46:20,600
+So, you know, it relies a lot, I think initially on a move from like text based social media
+
+637
+00:46:20,600 --> 00:46:28,560
+like Twitter and Discord into social media happening within 3D spaces, which, you know,
+
+638
+00:46:28,560 --> 00:46:35,200
+there are lots of amazing builders very proactively working on at the moment.
+
+639
+00:46:35,200 --> 00:46:43,520
+The like the gaming use case isn't going to go away, but we are, you know, away off traditional
+
+640
+00:46:43,520 --> 00:46:47,840
+game developers allowing external assets into their games.
+
+641
+00:46:47,840 --> 00:46:56,560
+There's definitely an intent from like big game developers like Epic Ubisoft roadblocks
+
+642
+00:46:56,560 --> 00:47:01,440
+to start, you know, exploring how they integrate with web three.
+
+643
+00:47:01,440 --> 00:47:04,160
+Nobody really wants to be a first mover.
+
+644
+00:47:04,160 --> 00:47:09,480
+There's a lot of pushback from the gaming community as well.
+
+645
+00:47:09,480 --> 00:47:15,600
+So I guess one of the first things that needs to happen there is like just entirely abstracting
+
+646
+00:47:15,600 --> 00:47:21,640
+away from talking about web three and NFTs and just, you know, creating new language
+
+647
+00:47:21,640 --> 00:47:22,640
+around it.
+
+648
+00:47:22,640 --> 00:47:27,720
+There's visceral reaction from their existing player bases.
+
+649
+00:47:27,720 --> 00:47:35,880
+I think one of the first things that we'll see around interoperability within game developers
+
+650
+00:47:35,880 --> 00:47:41,240
+is just within properties that that developer owns.
+
+651
+00:47:41,240 --> 00:47:46,400
+So like for example, Epic opening up wearables and assets.
+
+652
+00:47:46,400 --> 00:47:52,160
+So it could be used across like full guys, Rocket League Fortnite and so on.
+
+653
+00:47:52,160 --> 00:48:00,200
+And I think we will start to see specific partnerships with these game developers where
+
+654
+00:48:00,200 --> 00:48:05,680
+they are exploring a level of interoperability, but it's still going to be extremely pleased
+
+655
+00:48:05,680 --> 00:48:12,080
+and sort of, you know, very narrow in terms of the partners that they work with.
+
+656
+00:48:12,080 --> 00:48:18,840
+In terms of traditional fashion industry coming in, I think it's a less interesting proposition
+
+657
+00:48:18,840 --> 00:48:23,480
+than new gen brands that are web three native starting up.
+
+658
+00:48:23,480 --> 00:48:28,840
+I think there's a, as we kind of touched on with the first question you asked me, there's
+
+659
+00:48:28,840 --> 00:48:35,200
+a whole lot of convincing for a, you know, a large subset of people of the value of digital
+
+660
+00:48:35,200 --> 00:48:36,840
+wearables.
+
+661
+00:48:36,840 --> 00:48:42,320
+I think the luxury fashion brands that came into the space over the last couple of years
+
+662
+00:48:42,320 --> 00:48:47,640
+and by consulting for some of them were extremely surprised to find that none of their existing
+
+663
+00:48:47,640 --> 00:48:55,360
+customer base were interested in adopting a web theory or buying NFTs and that actually
+
+664
+00:48:55,360 --> 00:49:03,600
+their entire web three business needed to be contingent on their involvement in the web
+
+665
+00:49:03,600 --> 00:49:06,600
+three community.
+
+666
+00:49:06,600 --> 00:49:15,280
+So there's still like a huge division, I think, between like Jen Alpha, Gen Z who are used
+
+667
+00:49:15,280 --> 00:49:21,560
+to the idea of digital wearable utility, a more traditional, I guess, as he said, like
+
+668
+00:49:21,560 --> 00:49:29,280
+normal demographic where you need some kind of physical utility to make it make sense
+
+669
+00:49:29,280 --> 00:49:36,280
+and web three audience where there's the understanding, like collecting something and having value
+
+670
+00:49:36,280 --> 00:49:38,800
+over time.
+
+671
+00:49:38,800 --> 00:49:46,840
+But I think, yeah, the main, the main first big step for adoption is social media in 3D
+
+672
+00:49:46,840 --> 00:49:50,000
+spaces being the norm.
+
+673
+00:49:50,000 --> 00:49:54,720
+So this is fascinating what you said because I think it matches what we see for the most
+
+674
+00:49:54,720 --> 00:49:55,720
+part in art.
+
+675
+00:49:55,720 --> 00:50:02,400
+So the major NFT art collectors are not on the whole, there's some famous exceptions,
+
+676
+00:50:02,400 --> 00:50:07,240
+but like on the whole, they are not big traditional art collectors.
+
+677
+00:50:07,240 --> 00:50:14,240
+They are people who grew up in the web three space and then found that NFT art varies types,
+
+678
+00:50:14,240 --> 00:50:17,480
+represents their values and culture and what have you.
+
+679
+00:50:17,480 --> 00:50:20,680
+You're saying the same thing is happening in fashion?
+
+680
+00:50:20,680 --> 00:50:22,320
+Yes, exactly.
+
+681
+00:50:22,320 --> 00:50:30,440
+You have very divided demographics and it's, you know, it's completely based on how do
+
+682
+00:50:30,440 --> 00:50:35,520
+you value your identity and if your identity is born of internet culture, like most of
+
+683
+00:50:35,520 --> 00:50:40,040
+us in this space, that's where you're going to pin more value is where you're going to
+
+684
+00:50:40,040 --> 00:50:45,440
+be willing to spend more time, more money, like whatever investment looks like to you.
+
+685
+00:50:45,440 --> 00:50:52,840
+Whereas if status or identity has always been rooted in your physical world or physical
+
+686
+00:50:52,840 --> 00:50:59,600
+community, it's yet very difficult to imagine that switch.
+
+687
+00:50:59,600 --> 00:51:07,880
+And so my parents and family are in the traditional art space, like art dealers and tea dealers.
+
+688
+00:51:07,880 --> 00:51:16,880
+So I've seen like that side of what status looks like and the challenge in explaining
+
+689
+00:51:16,880 --> 00:51:21,600
+the value of what a digital collectible looks like to somebody who's in Thai business is
+
+690
+00:51:21,600 --> 00:51:26,160
+dealing in physical, and I can see like Ryan is smiling.
+
+691
+00:51:26,160 --> 00:51:27,160
+Same situation.
+
+692
+00:51:27,160 --> 00:51:33,600
+I mean, I say that my mum was signed up to this university course and it's like fully
+
+693
+00:51:33,600 --> 00:51:41,440
+degenerated into web theory, but certainly it's like a big learning curve.
+
+694
+00:51:41,440 --> 00:51:52,240
+Whereas I'd say especially my younger friends and also younger team members, absolutely
+
+695
+00:51:52,240 --> 00:51:59,240
+normal to them that they would be spending more time worrying about what their digital
+
+696
+00:51:59,240 --> 00:52:05,120
+identity, digital community and online friends are up to you.
+
+697
+00:52:05,120 --> 00:52:06,120
+This is fascinating.
+
+698
+00:52:06,120 --> 00:52:07,120
+I think it's right.
+
+699
+00:52:07,120 --> 00:52:09,320
+I think we're going to have a generational shift.
+
+700
+00:52:09,320 --> 00:52:12,400
+It'll be massive, but it'll take time because it's generational.
+
+701
+00:52:12,400 --> 00:52:16,600
+Where do you think the, I mean, nobody knows for sure.
+
+702
+00:52:16,600 --> 00:52:19,600
+And there's of course huge examples on the other side, right?
+
+703
+00:52:19,600 --> 00:52:22,960
+There's some more digital native older people.
+
+704
+00:52:22,960 --> 00:52:24,960
+There's some boomerish younger people.
+
+705
+00:52:24,960 --> 00:52:31,840
+We know that's the case, but broadly, if you had to like pick a number, what age or what
+
+706
+00:52:31,840 --> 00:52:36,040
+year of birth or where does the internet native generation start?
+
+707
+00:52:36,040 --> 00:52:37,040
+Who are they?
+
+708
+00:52:37,040 --> 00:52:45,360
+I would say it's Jen Alpha, internet native in terms of that, like it's just the standard
+
+709
+00:52:45,360 --> 00:52:53,280
+for them that all of their socializing takes place in like avatar based virtual environments.
+
+710
+00:52:53,280 --> 00:52:56,880
+They already understand the idea of trading in digital identity.
+
+711
+00:52:56,880 --> 00:53:01,600
+Like it's the eight to 12 year olds right now who are already doing that in roadblocks
+
+712
+00:53:01,600 --> 00:53:03,840
+and Minecraft.
+
+713
+00:53:03,840 --> 00:53:15,120
+I think with Gen Z and this is just like speculative based on like my guess my own observations.
+
+714
+00:53:15,120 --> 00:53:30,880
+I think there is a little bit more seriousness in that generation where the idea of, I guess,
+
+715
+00:53:30,880 --> 00:53:36,120
+like, you know, exploring identity, like starting a business, trading within the digital world,
+
+716
+00:53:36,120 --> 00:53:44,240
+like those feel, I guess, not as comfortable compared to like the younger like siblings
+
+717
+00:53:44,240 --> 00:53:48,920
+and cousins in my family who are this like younger roadblocks generation.
+
+718
+00:53:48,920 --> 00:53:53,520
+So you know, we pin like so much hope on Gen Z is like, okay, this is going to be the
+
+719
+00:53:53,520 --> 00:53:55,840
+metaverse future.
+
+720
+00:53:55,840 --> 00:53:59,760
+But I think there's actually a lot more resistance there.
+
+721
+00:53:59,760 --> 00:54:06,480
+And if you spend any time on TikTok and have ever looked at posts around NFTs, the like
+
+722
+00:54:06,480 --> 00:54:13,600
+the vitriol from that generation around NFTs and Web3 is probably the highest of any generation.
+
+723
+00:54:13,600 --> 00:54:16,480
+So Gen Z is going to let us down again.
+
+724
+00:54:16,480 --> 00:54:19,040
+I mean, sorry Gen Z.
+
+725
+00:54:19,040 --> 00:54:21,040
+Very interesting.
+
+726
+00:54:21,040 --> 00:54:22,040
+All right.
+
+727
+00:54:22,040 --> 00:54:24,040
+Let's switch to let's see.
+
+728
+00:54:24,040 --> 00:54:25,040
+Let's see.
+
+729
+00:54:25,040 --> 00:54:32,560
+You said something in your initial remarks and I laughed because I went back in 2013.
+
+730
+00:54:32,560 --> 00:54:34,120
+I think it was 2013.
+
+731
+00:54:34,120 --> 00:54:35,920
+It was Christmas of 2013.
+
+732
+00:54:35,920 --> 00:54:41,800
+It was in New York and the first Samsung gear VR device came out.
+
+733
+00:54:41,800 --> 00:54:44,200
+It wasn't 13, it was 12.
+
+734
+00:54:44,200 --> 00:54:45,200
+So I bought it.
+
+735
+00:54:45,200 --> 00:54:53,160
+I have this general who I'm for sure the oldest person in this panel.
+
+736
+00:54:53,160 --> 00:54:57,440
+But I have a general and I will share it with everyone.
+
+737
+00:54:57,440 --> 00:55:01,800
+It's a good way to try and not become outdated.
+
+738
+00:55:01,800 --> 00:55:06,920
+Anytime a new technological thing happens, I just do it without thinking about if it makes
+
+739
+00:55:06,920 --> 00:55:08,920
+sense or not.
+
+740
+00:55:08,920 --> 00:55:14,200
+Because if you think about if it makes sense, as you pass, I don't know, the age of 25 or
+
+741
+00:55:14,200 --> 00:55:18,080
+30 somewhere in there, you suddenly think like nothing actually makes sense.
+
+742
+00:55:18,080 --> 00:55:24,720
+Oh no, that's not the things that, who wrote it, Douglas Adams wrote it.
+
+743
+00:55:24,720 --> 00:55:29,560
+Things that happened before you were 25 are natural state of the world, right?
+
+744
+00:55:29,560 --> 00:55:33,800
+Things that when you're 25 to 40 are an exciting career opportunity and things that are invented
+
+745
+00:55:33,800 --> 00:55:37,560
+after 40 are terrible and against the natural order of things, right?
+
+746
+00:55:37,560 --> 00:55:42,760
+This is how you will, this is how humans default work and you should assume you'll be a default
+
+747
+00:55:42,760 --> 00:55:43,760
+human.
+
+748
+00:55:43,760 --> 00:55:48,560
+And so you should assume your bias is going to be against new things once you get passed
+
+749
+00:55:48,560 --> 00:55:50,640
+on in 25 or 27 or 30.
+
+750
+00:55:50,640 --> 00:55:55,360
+So I have this general who now, once I started in a very American, whatever, whatever happens,
+
+751
+00:55:55,360 --> 00:55:57,720
+anything new, I just do it.
+
+752
+00:55:57,720 --> 00:56:03,080
+I take away from myself the decision of should I spend money on a VR set?
+
+753
+00:56:03,080 --> 00:56:04,080
+There's a VR set I'm gonna buy it.
+
+754
+00:56:04,080 --> 00:56:05,080
+And then I do my Virgo.
+
+755
+00:56:05,080 --> 00:56:06,080
+I put it on.
+
+756
+00:56:06,080 --> 00:56:10,800
+I hang it at like that helicopter and Iceland scene or something.
+
+757
+00:56:10,800 --> 00:56:16,440
+I was like, holy, I'm not gonna say this was a university course, but this is the most
+
+758
+00:56:16,440 --> 00:56:18,200
+incredible thing I've ever seen.
+
+759
+00:56:18,200 --> 00:56:24,480
+This is like, so I called my mom and my dad and everyone I know and I was like, you gotta
+
+760
+00:56:24,480 --> 00:56:26,680
+come over and everyone's like, you gotta be kidding me.
+
+761
+00:56:26,680 --> 00:56:27,680
+This is amazing, huh?
+
+762
+00:56:27,680 --> 00:56:33,640
+And a month later, I was sitting on the shelf gathering desk.
+
+763
+00:56:33,640 --> 00:56:39,200
+And I have the Oculus channel and it's more or less sitting on the shelf and I've gone
+
+764
+00:56:39,200 --> 00:56:41,840
+in to see all of it right like that.
+
+765
+00:56:41,840 --> 00:56:48,960
+But here I am actively building a platform that displays on the web and displays in VR.
+
+766
+00:56:48,960 --> 00:56:57,040
+And I would say 99% of the time I spend in that platform is on the web.
+
+767
+00:56:57,040 --> 00:56:59,640
+It's not in VR.
+
+768
+00:56:59,640 --> 00:57:06,520
+It's quite frankly, at least for me, I find it to be kind of a pain.
+
+769
+00:57:06,520 --> 00:57:12,120
+Yes, I want to check out something at home going through the browser is easy.
+
+770
+00:57:12,120 --> 00:57:15,680
+Going and finding their headset, putting it on, messing up my hair.
+
+771
+00:57:15,680 --> 00:57:17,480
+Oh, I forgot to charge it.
+
+772
+00:57:17,480 --> 00:57:19,960
+Oh, I had to plug it in all this stuff.
+
+773
+00:57:19,960 --> 00:57:21,800
+God forbid because someone comes sees you.
+
+774
+00:57:21,800 --> 00:57:23,560
+You look like a complete weirdo, right?
+
+775
+00:57:23,560 --> 00:57:26,040
+Like if someone comes in and likes it.
+
+776
+00:57:26,040 --> 00:57:28,640
+So what's going on there?
+
+777
+00:57:28,640 --> 00:57:31,120
+Like when are we actually going to adopt VR?
+
+778
+00:57:31,120 --> 00:57:32,760
+What needs to happen for us to adopt VR?
+
+779
+00:57:32,760 --> 00:57:34,440
+Does it matter if we adopt VR?
+
+780
+00:57:34,440 --> 00:57:39,160
+I assume it does given you're spending your life building VR headsets.
+
+781
+00:57:39,160 --> 00:57:41,520
+Tell us about this topic.
+
+782
+00:57:41,520 --> 00:57:42,520
+Sure.
+
+783
+00:57:42,520 --> 00:57:43,760
+That's a fantastic question.
+
+784
+00:57:43,760 --> 00:57:45,320
+I love it.
+
+785
+00:57:45,320 --> 00:57:48,480
+Let me give you the super short answer first.
+
+786
+00:57:48,480 --> 00:57:56,960
+The super short answer is interesting because it builds on what I used set before 6.5.2.9
+
+787
+00:57:56,960 --> 00:58:07,160
+in Charlie, which is if you look at the very, very young kids like I look at my cousins,
+
+788
+00:58:07,160 --> 00:58:09,560
+they are already using VR almost every day.
+
+789
+00:58:09,560 --> 00:58:15,920
+So you already have, in fact, millions of kids, the very, very young ones that are using VR,
+
+790
+00:58:15,920 --> 00:58:21,280
+that there is almost the only one using it very actively.
+
+791
+00:58:21,280 --> 00:58:26,280
+But still that does not answer your question of why do, like, why is it depending on the
+
+792
+00:58:26,280 --> 00:58:27,280
+process?
+
+793
+00:58:27,280 --> 00:58:28,680
+And I think you're right.
+
+794
+00:58:28,680 --> 00:58:31,400
+It absolutely is.
+
+795
+00:58:31,400 --> 00:58:35,160
+Some of you might have seen that Fred going on on Twitter.
+
+796
+00:58:35,160 --> 00:58:36,160
+It's a fascinating one.
+
+797
+00:58:36,160 --> 00:58:41,960
+It's like someone that basically explains that it took them about 35 minutes to get into
+
+798
+00:58:41,960 --> 00:58:46,040
+a multiplayer session with their brother in VR.
+
+799
+00:58:46,040 --> 00:58:48,880
+And so you describe the process pretty well.
+
+800
+00:58:48,880 --> 00:58:54,160
+Usually the way it goes is you grab the headset, you try turning it on.
+
+801
+00:58:54,160 --> 00:58:55,160
+Nothing happens.
+
+802
+00:58:55,160 --> 00:58:57,360
+You turn it down, press the button again.
+
+803
+00:58:57,360 --> 00:59:01,400
+Okay, because when it's turned off, you have to press for a little longer, actually.
+
+804
+00:59:01,400 --> 00:59:04,440
+Then it turns on and actually, no, there's no battery left.
+
+805
+00:59:04,440 --> 00:59:07,520
+So you have to charge it because the battery drains with sub plug.
+
+806
+00:59:07,520 --> 00:59:11,680
+So you charge it for about, as you end up, it's like two hours and a half.
+
+807
+00:59:11,680 --> 00:59:15,480
+You charge it for a while, then you take it, then you turn it on.
+
+808
+00:59:15,480 --> 00:59:19,800
+Then you have to, for some reason, sometimes you have to pair it again with your phone.
+
+809
+00:59:19,800 --> 00:59:20,800
+Not even really know why.
+
+810
+00:59:20,800 --> 00:59:23,400
+Turn on Bluetooth, 30 seconds.
+
+811
+00:59:23,400 --> 00:59:27,280
+That's like a, actually I shouldn't say that to you.
+
+812
+00:59:27,280 --> 00:59:30,080
+Actually, no hope when it happens.
+
+813
+00:59:30,080 --> 00:59:31,080
+The number is crazy.
+
+814
+00:59:31,080 --> 00:59:34,320
+It was a bug they tracked back at the middle.
+
+815
+00:59:34,320 --> 00:59:36,320
+And it's a crazy one.
+
+816
+00:59:36,320 --> 00:59:38,360
+Anyway, you pair it again.
+
+817
+00:59:38,360 --> 00:59:40,160
+Okay, it's spared.
+
+818
+00:59:40,160 --> 00:59:44,440
+Now you have to update your Facebook account or Oculus account.
+
+819
+00:59:44,440 --> 00:59:48,080
+Actually, if you have an Oculus account, because like you were from the early days, you have
+
+820
+00:59:48,080 --> 00:59:50,720
+to turn your close accounts to a Facebook account.
+
+821
+00:59:50,720 --> 00:59:53,440
+Then you get an AR message that does not work on mobile.
+
+822
+00:59:53,440 --> 00:59:57,040
+You have to go on your laptop, try to log in again, and then it tells you you have to
+
+823
+00:59:57,040 --> 00:59:59,160
+turn your Facebook account into a metal account.
+
+824
+00:59:59,160 --> 01:00:02,120
+I'm really, like I swear, I'm not making this up.
+
+825
+01:00:02,120 --> 01:00:06,960
+So you've converted to a metal account, you log in again from the headset, which by the
+
+826
+01:00:06,960 --> 01:00:11,080
+way, it's going to be the worst experience in your life if you use a password manager.
+
+827
+01:00:11,080 --> 01:00:14,880
+Because most likely you're going to be taking the headset and be like, everything on your
+
+828
+01:00:14,880 --> 01:00:18,560
+laptop like that, and with the controller trying to type the text.
+
+829
+01:00:18,560 --> 01:00:21,480
+Okay, you've gone through all of that, congrats.
+
+830
+01:00:21,480 --> 01:00:24,720
+Now you have to update the software on the headset.
+
+831
+01:00:24,720 --> 01:00:27,440
+So it's going to turn off and update and everything.
+
+832
+01:00:27,440 --> 01:00:32,800
+And then once you do that, you realize actually on the Quest, or some reason, the apps of the
+
+833
+01:00:32,800 --> 01:00:37,400
+OS and the OS itself are not like updated together.
+
+834
+01:00:37,400 --> 01:00:38,800
+So now you think, oh, I'm good.
+
+835
+01:00:38,800 --> 01:00:40,800
+I'm just going to log in with my friends.
+
+836
+01:00:40,800 --> 01:00:45,440
+And you click like the friend app, which is like the most basic operating system app you
+
+837
+01:00:45,440 --> 01:00:46,440
+could imagine.
+
+838
+01:00:46,440 --> 01:00:49,240
+Oh, no, that one needs to be updated separately.
+
+839
+01:00:49,240 --> 01:00:52,240
+You're going to update that one.
+
+840
+01:00:52,240 --> 01:00:55,960
+And then you're going to try to join with your friends and you're going to struggle so
+
+841
+01:00:55,960 --> 01:00:57,240
+hard to join with your friends.
+
+842
+01:00:57,240 --> 01:01:00,320
+Like I don't want to even describe that process to you because like then I'm just going to
+
+843
+01:01:00,320 --> 01:01:03,160
+like hijack the whole course.
+
+844
+01:01:03,160 --> 01:01:04,440
+Just talk about that.
+
+845
+01:01:04,440 --> 01:01:09,680
+And finally, when you're supposed to be in with your friend, you're all right.
+
+846
+01:01:09,680 --> 01:01:10,680
+That's it.
+
+847
+01:01:10,680 --> 01:01:12,080
+Like you can hear each other.
+
+848
+01:01:12,080 --> 01:01:15,360
+For some reason, just like a regular call, but at least you can hear each other.
+
+849
+01:01:15,360 --> 01:01:18,880
+So now maybe you're going to start, let's say one of my favorite game, show up to the
+
+850
+01:01:18,880 --> 01:01:21,880
+developers, Dimeo.
+
+851
+01:01:21,880 --> 01:01:25,640
+You start Dimeo, you can hear each other in the Oculus thing.
+
+852
+01:01:25,640 --> 01:01:30,960
+And then you realize actually, if you're in like a room together with the Oculus thing,
+
+853
+01:01:30,960 --> 01:01:36,880
+it's a different thing than the multiplayer inside the game, even though both of them use
+
+854
+01:01:36,880 --> 01:01:39,000
+the Oculus API.
+
+855
+01:01:39,000 --> 01:01:44,040
+So now you have to get out of the game, get out of the room that you are in the Oculus
+
+856
+01:01:44,040 --> 01:01:47,720
+sort of social thing, create a new one inside the game.
+
+857
+01:01:47,720 --> 01:01:52,000
+And then you're like, you have to send the secret code of that room to your friends.
+
+858
+01:01:52,000 --> 01:01:54,480
+So then you take off the headset and you try to WhatsApp them the good thing.
+
+859
+01:01:54,480 --> 01:01:56,480
+I'm getting some questions.
+
+860
+01:01:56,480 --> 01:01:57,480
+Yeah.
+
+861
+01:01:57,480 --> 01:02:00,400
+And this is why I use the browser.
+
+862
+01:02:00,400 --> 01:02:02,760
+So when is this going to go away?
+
+863
+01:02:02,760 --> 01:02:09,320
+When can we actually like get into VR without a PhD in computer science?
+
+864
+01:02:09,320 --> 01:02:10,320
+Exactly.
+
+865
+01:02:10,320 --> 01:02:13,800
+So when is that going to go away?
+
+866
+01:02:13,800 --> 01:02:15,680
+Well, that's what I'm trying to do.
+
+867
+01:02:15,680 --> 01:02:20,960
+And I think that some, here's my guess.
+
+868
+01:02:20,960 --> 01:02:24,680
+I would say I don't really trust meta to solve it.
+
+869
+01:02:24,680 --> 01:02:29,320
+I don't really trust HTC either or Valve.
+
+870
+01:02:29,320 --> 01:02:33,640
+I think their track record shows that they're not going to solve for it.
+
+871
+01:02:33,640 --> 01:02:37,520
+I would say Apple is one that might be able to solve it.
+
+872
+01:02:37,520 --> 01:02:40,400
+And then my company were trying to solve it.
+
+873
+01:02:40,400 --> 01:02:43,000
+And the answer is the most boring one.
+
+874
+01:02:43,000 --> 01:02:44,600
+It's going to be a very boring answer.
+
+875
+01:02:44,600 --> 01:02:49,400
+But the solution is just we have a bunch of developers and we're just trying it all day
+
+876
+01:02:49,400 --> 01:02:53,000
+long and we're just solving those pain points one by one.
+
+877
+01:02:53,000 --> 01:02:58,920
+And it's long and boring, but polishing the edges off and making it smooth is just long
+
+878
+01:02:58,920 --> 01:02:59,920
+and boring work.
+
+879
+01:02:59,920 --> 01:03:00,920
+And that's just what we do.
+
+880
+01:03:00,920 --> 01:03:03,480
+And there's not really any other around that.
+
+881
+01:03:03,480 --> 01:03:09,800
+So yeah, that's, and once this is solved, then yes, certainly once you can just grab
+
+882
+01:03:09,800 --> 01:03:13,720
+the headset, put it on the experience of anything in VR as opposed to like this 35
+
+883
+01:03:13,720 --> 01:03:15,560
+minutes long process.
+
+884
+01:03:15,560 --> 01:03:20,680
+Then yeah, I think it's going to brutally change the adoption curve.
+
+885
+01:03:20,680 --> 01:03:25,760
+And we can already see that because the very young ones are spending a lot of time in it.
+
+886
+01:03:25,760 --> 01:03:27,760
+So that would be my takeaway.
+
+887
+01:03:27,760 --> 01:03:34,200
+Okay, I want to ask a related question.
+
+888
+01:03:34,200 --> 01:03:37,200
+I have no insight information just where I read from.
+
+889
+01:03:37,200 --> 01:03:42,880
+I'm going to have a scoble which bring later into the course.
+
+890
+01:03:42,880 --> 01:03:46,560
+Apple, and I think it's now been delayed with what they were going to do.
+
+891
+01:03:46,560 --> 01:03:56,160
+But their big idea was or rumors were they were developing the super cool AR glasses.
+
+892
+01:03:56,160 --> 01:03:57,160
+And it's Apple.
+
+893
+01:03:57,160 --> 01:04:01,160
+So they're going to be awesome, but turns out they're not going to watch them this year.
+
+894
+01:04:01,160 --> 01:04:07,160
+But they were explicitly saying, you know, the way we get to make sure that we're going
+
+895
+01:04:07,160 --> 01:04:11,600
+to do the mass adoption is AR, not VR.
+
+896
+01:04:11,600 --> 01:04:15,600
+Because I guess you can still see your day, and I'll be more like a pair of glasses, not
+
+897
+01:04:15,600 --> 01:04:16,600
+a big book headset.
+
+898
+01:04:16,600 --> 01:04:19,320
+What do you think about that?
+
+899
+01:04:19,320 --> 01:04:20,800
+Yeah.
+
+900
+01:04:20,800 --> 01:04:32,720
+My sort of takeaway on that is, okay, so there's a few things.
+
+901
+01:04:32,720 --> 01:04:41,600
+The first one is I think people love to say that because AR is easier to understand.
+
+902
+01:04:41,600 --> 01:04:45,520
+They're looking for a compelling narrative.
+
+903
+01:04:45,520 --> 01:04:52,840
+And AR is not most of when people think of AR as kind of like a phone that's trapped
+
+904
+01:04:52,840 --> 01:04:53,840
+to your face.
+
+905
+01:04:53,840 --> 01:04:56,080
+So you can just see your phone open.
+
+906
+01:04:56,080 --> 01:05:02,640
+So you don't really have to sit down and think it through of like, what is it?
+
+907
+01:05:02,640 --> 01:05:08,680
+Is a radically new paradigm shift in the way we use computer to understand AR.
+
+908
+01:05:08,680 --> 01:05:10,480
+It's like pretty easy to understand.
+
+909
+01:05:10,480 --> 01:05:16,000
+So to me, I think the whole debate is actually kind of missing the point.
+
+910
+01:05:16,000 --> 01:05:20,600
+And I know people love to ask me that question, but to me, it feels a little bit like as if
+
+911
+01:05:20,600 --> 01:05:29,160
+in the early 80s, people would ask me, do you think?
+
+912
+01:05:29,160 --> 01:05:35,960
+Do you think, I don't know, like facts or cassettes are going to win?
+
+913
+01:05:35,960 --> 01:05:41,960
+Like do you think we're going to send each other data by printing it out from the computer
+
+914
+01:05:41,960 --> 01:05:47,040
+or do you think we'll keep it in a digital form and put it on a cassette and send it
+
+915
+01:05:47,040 --> 01:05:48,040
+to each other?
+
+916
+01:05:48,040 --> 01:05:51,080
+Like what do you think is going to be the best way to send data around?
+
+917
+01:05:51,080 --> 01:05:53,960
+And turn it out, none of those view would have been correct.
+
+918
+01:05:53,960 --> 01:05:59,960
+It's just that those views are easier to translate into what we already know in the real world.
+
+919
+01:05:59,960 --> 01:06:04,000
+But the one that turned out to be true, it turned out to be none of those.
+
+920
+01:06:04,000 --> 01:06:08,120
+And so I think here it's kind of like the same thing where when you go and actually
+
+921
+01:06:08,120 --> 01:06:16,400
+ask the people that use it every day, AR or VR, you realize that the line is very blurred.
+
+922
+01:06:16,400 --> 01:06:21,600
+And that's also my personal belief, which is very soon people are just going to kind
+
+923
+01:06:21,600 --> 01:06:25,320
+of forget that AR and VR are two different things anyway.
+
+924
+01:06:25,320 --> 01:06:28,920
+Because some of the things we need to improve the VR experience look a lot like AR.
+
+925
+01:06:28,920 --> 01:06:34,680
+Like for instance, here's one thing that you've certainly experienced.
+
+926
+01:06:34,680 --> 01:06:38,880
+When you put on the VR headset, like there's my laptop right now for me, the fact that
+
+927
+01:06:38,880 --> 01:06:44,080
+I can just like move and sort of bash into the laptop and break it, that's a big issue.
+
+928
+01:06:44,080 --> 01:06:49,920
+So the way to solve that is to actually be able to, when I get close to the laptop, I
+
+929
+01:06:49,920 --> 01:06:53,400
+can see that though, and I can see it exactly like in real life.
+
+930
+01:06:53,400 --> 01:06:54,960
+And there are many ways to that.
+
+931
+01:06:54,960 --> 01:07:00,480
+You have some displays that are transparent and they can turn on and off the transparency.
+
+932
+01:07:00,480 --> 01:07:04,160
+You have pass through where you have cameras that we project what happens in the real world
+
+933
+01:07:04,160 --> 01:07:05,560
+in the VR headset.
+
+934
+01:07:05,560 --> 01:07:15,040
+But my sort of, the TLDR is, I think it's a false dichotomy that people like to make
+
+935
+01:07:15,040 --> 01:07:20,720
+because they feel slightly disappointed by the adoption curve of VR.
+
+936
+01:07:20,720 --> 01:07:23,520
+And they say, no, no, no, but the field is interesting.
+
+937
+01:07:23,520 --> 01:07:26,680
+VR has not taken off as fast as we thought it would.
+
+938
+01:07:26,680 --> 01:07:30,400
+But actually the thing afterwards is going to take off really fast and that thing is AR.
+
+939
+01:07:30,400 --> 01:07:36,520
+My take is that lack nuance and the real IT is more nuanced and the real IT is actually
+
+940
+01:07:36,520 --> 01:07:40,960
+those things are going to become kind of the same thing.
+
+941
+01:07:40,960 --> 01:07:46,440
+And we want to really even think of them as separate stuff as time goes on and as adoption
+
+942
+01:07:46,440 --> 01:07:48,040
+continues to grow.
+
+943
+01:07:48,040 --> 01:07:49,040
+Okay.
+
+944
+01:07:49,040 --> 01:07:50,040
+Thank you.
+
+945
+01:07:50,040 --> 01:08:03,120
+All right, let's talk about present day adoption now in on cyber in for my view living in this
+
+946
+01:08:03,120 --> 01:08:12,360
+is the one that so far has the most of option.
+
+947
+01:08:12,360 --> 01:08:16,600
+Okay, people use it to show their NFTs, right?
+
+948
+01:08:16,600 --> 01:08:24,680
+So you can't imagine a more like native set of people than people who have NFTs or can
+
+949
+01:08:24,680 --> 01:08:30,680
+create NFTs and I said, oh, I would like to show my NFT and a matter of words, made out
+
+950
+01:08:30,680 --> 01:08:31,680
+of NFTs.
+
+951
+01:08:31,680 --> 01:08:40,960
+I would even say even within that, the what I've seen is the fastest to jump on it are
+
+952
+01:08:40,960 --> 01:08:46,400
+artists, creators like the most sophisticated NFT people are even the collectors, right?
+
+953
+01:08:46,400 --> 01:08:47,400
+They're the creators.
+
+954
+01:08:47,400 --> 01:08:53,200
+And so because I've had many discussions and people have to do this and I'm working
+
+955
+01:08:53,200 --> 01:08:54,200
+to do this.
+
+956
+01:08:54,200 --> 01:09:01,480
+I mean, the ones who say yes instantly require no convincing or NFT artists, which you know,
+
+957
+01:09:01,480 --> 01:09:04,160
+these are like the apex NFT naders.
+
+958
+01:09:04,160 --> 01:09:09,360
+So that part's going well, that seems clear.
+
+959
+01:09:09,360 --> 01:09:19,000
+Where do you see more adoption by less apex digital NFT naders?
+
+960
+01:09:19,000 --> 01:09:21,040
+What do you think comes next?
+
+961
+01:09:21,040 --> 01:09:26,680
+Yeah, I think that like one one thing that's very interesting about on saber and how it's
+
+962
+01:09:26,680 --> 01:09:32,040
+got an adoption across like this space specifically is that it's a tool that allows people to
+
+963
+01:09:32,040 --> 01:09:33,040
+build their own world.
+
+964
+01:09:33,040 --> 01:09:38,080
+And kind of like the analogy I have is like almost like when you were a kid and like you
+
+965
+01:09:38,080 --> 01:09:41,600
+were imagining these things and imagining yourself building castles at home out of like
+
+966
+01:09:41,600 --> 01:09:45,800
+pillows or whatnot, like this is kind of the same feeling that you have whenever you curate
+
+967
+01:09:45,800 --> 01:09:50,320
+the on-saber space, like the idea without saber is to make it as easy as possible for
+
+968
+01:09:50,320 --> 01:09:51,320
+anyone.
+
+969
+01:09:51,320 --> 01:09:57,440
+You really anyone from a newcomer into the space to a gamer maybe but definitely not
+
+970
+01:09:57,440 --> 01:10:00,520
+the 74 gamers to go and build worlds.
+
+971
+01:10:00,520 --> 01:10:05,760
+And I think that world building has been popularized by a bunch of labs like the like the sims,
+
+972
+01:10:05,760 --> 01:10:10,600
+for example, or of course, like within the more gamers type of spheres, roadblocks and
+
+973
+01:10:10,600 --> 01:10:12,520
+Minecraft and whatnot.
+
+974
+01:10:12,520 --> 01:10:16,280
+But it hasn't gone to my mother.
+
+975
+01:10:16,280 --> 01:10:18,280
+My mother hasn't done world building.
+
+976
+01:10:18,280 --> 01:10:24,440
+I think that on-saber and like what we're trying to achieve is a tool that allows anyone
+
+977
+01:10:24,440 --> 01:10:28,840
+to be able to build worlds and allows for 3D to be kind of democratized across the hands
+
+978
+01:10:28,840 --> 01:10:34,760
+of everyone, not just 3D modelers or gamers that have been able to like play around with
+
+979
+01:10:34,760 --> 01:10:38,200
+world building at 3D but really anyone at all.
+
+980
+01:10:38,200 --> 01:10:46,920
+So I think that sure like I think that the space, the web 3 space is a lot of early adopters.
+
+981
+01:10:46,920 --> 01:10:54,280
+I think that the fact that artists and collectors but artists even more impressively like a lot
+
+982
+01:10:54,280 --> 01:11:02,080
+of the artists we have in this space today are not like big like are not crypto G's or
+
+983
+01:11:02,080 --> 01:11:05,440
+I come from from like the Bitcoin days or whatnot.
+
+984
+01:11:05,440 --> 01:11:10,880
+They're not necessarily the biggest technology native people like or but they're able to
+
+985
+01:11:10,880 --> 01:11:16,880
+go and build with on-saber and curate their experiences.
+
+986
+01:11:16,880 --> 01:11:22,080
+So I think it's very encouraging that they are able to go and create more than it's a
+
+987
+01:11:22,080 --> 01:11:30,080
+worry that like we don't have enough people curating worlds or whatnot.
+
+988
+01:11:30,080 --> 01:11:34,960
+I think what's very interesting about the web 3 spaces that you have people from all
+
+989
+01:11:34,960 --> 01:11:41,200
+boards like you have people that are tech native, that are crypto native, that are not at all,
+
+990
+01:11:41,200 --> 01:11:45,880
+that have always been doing painting, have always been doing something else.
+
+991
+01:11:45,880 --> 01:11:52,400
+It's not like it's easy to pinpoint what kind of tech scales or capabilities like someone
+
+992
+01:11:52,400 --> 01:11:54,320
+web 3 has.
+
+993
+01:11:54,320 --> 01:11:59,520
+So I think that having adoption early and like that kind of a space just is very telling
+
+994
+01:11:59,520 --> 01:12:06,120
+of where this could go and I am very confident that the moment we are able to go and just
+
+995
+01:12:06,120 --> 01:12:11,760
+make it easier for people outside of web 3 to come in and use those tools and have 3D
+
+996
+01:12:11,760 --> 01:12:16,520
+democratized the way we have for artists and collectors in the web 3 space until now.
+
+997
+01:12:16,520 --> 01:12:20,680
+That's the moment where we are going to see like more adoption across people.
+
+998
+01:12:20,680 --> 01:12:23,680
+I think everyone wants to be a world builder.
+
+999
+01:12:23,680 --> 01:12:28,960
+And I don't know anyone that would answer a no to the question would you like to get back
+
+1000
+01:12:28,960 --> 01:12:33,400
+to the imagination you had whenever you were a kid and building these castles at home with
+
+1001
+01:12:33,400 --> 01:12:34,400
+pills.
+
+1002
+01:12:34,400 --> 01:12:40,200
+So I think that if we're able to give back this effect and this feeling to people all
+
+1003
+01:12:40,200 --> 01:12:45,320
+across the web 3 space, the moment we have easier tools to onboard other people outside
+
+1004
+01:12:45,320 --> 01:12:49,440
+of web 3, the moment is that we're going to have more adoption clearly.
+
+1005
+01:12:49,440 --> 01:12:56,360
+So I mean, I think it's up to us to number one, communicate better as to like what can
+
+1006
+01:12:56,360 --> 01:13:02,320
+be done with this tool and like these immersive tools on the web.
+
+1007
+01:13:02,320 --> 01:13:07,840
+Like that you can come in build your own world slash universe, share it with anyone with a
+
+1008
+01:13:07,840 --> 01:13:12,960
+link and anyone across the world can come and enjoy it in the same way.
+
+1009
+01:13:12,960 --> 01:13:17,520
+Now it's up to us to first communicate that and number two just build the right tooling
+
+1010
+01:13:17,520 --> 01:13:21,960
+for people to be able to come in obviously like we don't expect to be hidden behind a
+
+1011
+01:13:21,960 --> 01:13:27,720
+MetaMask connect forever like MetaMask is as much as they've been doing good stuff for
+
+1012
+01:13:27,720 --> 01:13:32,240
+this space like our is a very hard tool to use for most people.
+
+1013
+01:13:32,240 --> 01:13:36,160
+Web 3 browsers in general are pretty hard to use for most people and call it a wallet
+
+1014
+01:13:36,160 --> 01:13:41,200
+even is pretty confusing to like the people, my friends and the people who aren't in web
+
+1015
+01:13:41,200 --> 01:13:42,200
+3.
+
+1016
+01:13:42,200 --> 01:13:45,080
+So I think it's up to us to just build the right tooling.
+
+1017
+01:13:45,080 --> 01:13:53,080
+Okay, I'm going to switch now to the not the far future.
+
+1018
+01:13:53,080 --> 01:13:57,520
+I'm pretty sure the far future minimums know given the pace of technological development
+
+1019
+01:13:57,520 --> 01:13:58,520
+happening.
+
+1020
+01:13:58,520 --> 01:14:01,680
+I assume the AIs will have taken over by them.
+
+1021
+01:14:01,680 --> 01:14:04,240
+Let's go for the medium future.
+
+1022
+01:14:04,240 --> 01:14:05,240
+It's 2023.
+
+1023
+01:14:05,240 --> 01:14:06,720
+Let's say 2030.
+
+1024
+01:14:06,720 --> 01:14:15,880
+We'll again start with Charlie in broadly the field we're talking about.
+
+1025
+01:14:15,880 --> 01:14:18,440
+What does the world look like then?
+
+1026
+01:14:18,440 --> 01:14:21,240
+How different is it from today?
+
+1027
+01:14:21,240 --> 01:14:23,480
+How what should we expect?
+
+1028
+01:14:23,480 --> 01:14:28,720
+I'm well aware all of us are just guessing.
+
+1029
+01:14:28,720 --> 01:14:37,080
+But at least you're in the field working on real problems so your guesses are forged
+
+1030
+01:14:37,080 --> 01:14:41,680
+from some actual experiences as opposed to other people who are just guessing.
+
+1031
+01:14:41,680 --> 01:14:45,400
+So give us your view of 2030.
+
+1032
+01:14:45,400 --> 01:14:51,200
+So I think I was like going back to what Ryan was just saying about the tooling.
+
+1033
+01:14:51,200 --> 01:14:58,440
+Right now we are at the skeleton of infrastructure for Web 3 which you do need to be reasonably
+
+1034
+01:14:58,440 --> 01:15:02,320
+text savvy to make your way through.
+
+1035
+01:15:02,320 --> 01:15:04,880
+There's a lot of fleshing out to do.
+
+1036
+01:15:04,880 --> 01:15:12,160
+I think by the time we're hitting 2030 that's going to be done to a pretty significant degree.
+
+1037
+01:15:12,160 --> 01:15:20,260
+I mean the way that I think about metaverse is that it's like various digital layers on
+
+1038
+01:15:20,260 --> 01:15:23,360
+top of the physical world.
+
+1039
+01:15:23,360 --> 01:15:30,520
+And the first kind of key point that we need to move to is where it feels like there isn't
+
+1040
+01:15:30,520 --> 01:15:35,760
+really a division between physical identity and digital identity, your physical life experience,
+
+1041
+01:15:35,760 --> 01:15:38,080
+digital life experience.
+
+1042
+01:15:38,080 --> 01:15:46,040
+So I would see 2030 as being like we've reached a point where the technology is good enough,
+
+1043
+01:15:46,040 --> 01:15:53,400
+accessible enough where we're not thinking about the switch from physical into digital,
+
+1044
+01:15:53,400 --> 01:15:55,720
+especially when it comes to socializing.
+
+1045
+01:15:55,720 --> 01:16:02,480
+And I think again like going back to the eight to 12 year olds, this is already their reality.
+
+1046
+01:16:02,480 --> 01:16:08,480
+They come home from school and then they're in like audio based, audio based like social
+
+1047
+01:16:08,480 --> 01:16:11,400
+platform by Fortnite for example.
+
+1048
+01:16:11,400 --> 01:16:14,920
+And they're just like carrying on with their brands from their day at school.
+
+1049
+01:16:14,920 --> 01:16:20,760
+There's no consideration that like I'm switching from physical identity to digital identity.
+
+1050
+01:16:20,760 --> 01:16:27,040
+So I think it's getting to the point where that is really widespread.
+
+1051
+01:16:27,040 --> 01:16:33,440
+I think there'll be a lot of development still to do going back to what Maxime is working
+
+1052
+01:16:33,440 --> 01:16:39,760
+on about when you're in the virtual space, you want to leave it where that has actually
+
+1053
+01:16:39,760 --> 01:16:42,120
+improved your quality of life.
+
+1054
+01:16:42,120 --> 01:16:46,160
+I think that's going to be a lot of work to continue to do that.
+
+1055
+01:16:46,160 --> 01:16:52,800
+But I think the like the clear division will have gone or dissolved by that time.
+
+1056
+01:16:52,800 --> 01:16:54,800
+Yeah.
+
+1057
+01:16:54,800 --> 01:16:55,960
+Okay.
+
+1058
+01:16:55,960 --> 01:17:08,360
+So I agree it's always a hard to do this kind of prediction because you're kind of sitting
+
+1059
+01:17:08,360 --> 01:17:14,000
+yourself up in a way to look like an idiot because as always you know you miss some stuff
+
+1060
+01:17:14,000 --> 01:17:15,080
+and then people look back.
+
+1061
+01:17:15,080 --> 01:17:16,080
+But what I can do.
+
+1062
+01:17:16,080 --> 01:17:17,640
+It's seven years from now.
+
+1063
+01:17:17,640 --> 01:17:18,640
+We're safe.
+
+1064
+01:17:18,640 --> 01:17:19,640
+Yeah.
+
+1065
+01:17:19,640 --> 01:17:20,640
+Right.
+
+1066
+01:17:20,640 --> 01:17:26,080
+So but still like you know we have a company you and I and we're trying to we're investing
+
+1067
+01:17:26,080 --> 01:17:27,080
+our time and money.
+
+1068
+01:17:27,080 --> 01:17:32,760
+And so when I can answer is well where are we investing and how does like how are like
+
+1069
+01:17:32,760 --> 01:17:37,400
+what are some believe that for that where we have put some skin the game basically.
+
+1070
+01:17:37,400 --> 01:17:40,920
+And where do we put some skin in the game is.
+
+1071
+01:17:40,920 --> 01:17:53,320
+You know I was on a flight to the US recently and Stuart is started stuck with me and I
+
+1072
+01:17:53,320 --> 01:17:58,080
+told her I work in VR and told me how my little nephew is super young he's using that
+
+1073
+01:17:58,080 --> 01:17:59,320
+all day.
+
+1074
+01:17:59,320 --> 01:18:03,360
+And like that's like that's like a new kind of question that now I have very often with
+
+1075
+01:18:03,360 --> 01:18:09,280
+people where VR is the thing that someone very young in their family is using a lot.
+
+1076
+01:18:09,280 --> 01:18:12,280
+And it's almost like an alternative to using a console.
+
+1077
+01:18:12,280 --> 01:18:18,640
+And so in seven years from now those 12 to like 15 years old they're going to be old
+
+1078
+01:18:18,640 --> 01:18:25,320
+enough to make their own purchase and and and and buy their own content.
+
+1079
+01:18:25,320 --> 01:18:29,760
+And there's a few things that are going to change that are pretty fundamental.
+
+1080
+01:18:29,760 --> 01:18:33,800
+And so I think it's useful to share that because I think many people are ignoring that in the
+
+1081
+01:18:33,800 --> 01:18:34,800
+industry.
+
+1082
+01:18:34,800 --> 01:18:39,760
+As you know VR makes people sick you get motion sickness or people have a hard time
+
+1083
+01:18:39,760 --> 01:18:48,360
+understanding having like special awareness or that there is a social acceptance issue
+
+1084
+01:18:48,360 --> 01:18:51,040
+where you look weird if you are your headset.
+
+1085
+01:18:51,040 --> 01:18:54,960
+So what is interesting is all those young people that are going up with VR right now
+
+1086
+01:18:54,960 --> 01:18:57,480
+they won't suffer from those.
+
+1087
+01:18:57,480 --> 01:19:05,960
+And so in 2030 what I see is a generation of now very young adults that are looking for
+
+1088
+01:19:05,960 --> 01:19:10,000
+better hardware, better software, better experiences.
+
+1089
+01:19:10,000 --> 01:19:18,520
+And the other thing that I see is your the opportunity window in like traditional internet
+
+1090
+01:19:18,520 --> 01:19:20,640
+is closing very fast.
+
+1091
+01:19:20,640 --> 01:19:25,720
+Like if you're building a nap and putting it on the app store you're competing against
+
+1092
+01:19:25,720 --> 01:19:30,240
+so many people so much money so many momentum so much stuff.
+
+1093
+01:19:30,240 --> 01:19:35,200
+It's like you want to make it here's a company I recently invested in that does dating in
+
+1094
+01:19:35,200 --> 01:19:36,200
+VR.
+
+1095
+01:19:36,200 --> 01:19:42,360
+Well if you want to do dating in like the real world there is like 20 different apps and
+
+1096
+01:19:42,360 --> 01:19:47,160
+they're all owned by like a few gigantic billion dollar groups and it's like really hard to
+
+1097
+01:19:47,160 --> 01:19:49,440
+compete in the VR world.
+
+1098
+01:19:49,440 --> 01:19:54,720
+There's like a bunch of kids and and they're building a bunch of apps and like that's where
+
+1099
+01:19:54,720 --> 01:20:01,520
+the new space for opportunity is and so seven years more people opportunity are sort of
+
+1100
+01:20:01,520 --> 01:20:08,000
+clocked up in the traditional digital world and so VR becomes one where you can send those
+
+1101
+01:20:08,000 --> 01:20:09,000
+opportunities.
+
+1102
+01:20:09,000 --> 01:20:15,040
+Now our diet is back into crypto as a way to sort of finish this answer.
+
+1103
+01:20:15,040 --> 01:20:20,400
+This is where crypto and VR are hyper hyper like super relevant to each other where basically
+
+1104
+01:20:20,400 --> 01:20:33,840
+it's going to be super hard to convince Microsoft or EA or or any of those very large game
+
+1105
+01:20:33,840 --> 01:20:39,800
+publishers to switch to crypto for their games right because what like they have nothing
+
+1106
+01:20:39,800 --> 01:20:43,240
+like frankly they have nothing to they're already making pretty much as much money as
+
+1107
+01:20:43,240 --> 01:20:46,080
+they possibly can right.
+
+1108
+01:20:46,080 --> 01:20:52,640
+And and the premise of crypto is more so a threat to their business model than something
+
+1109
+01:20:52,640 --> 01:20:55,560
+that is going to help them.
+
+1110
+01:20:55,560 --> 01:21:01,840
+It's like Apple like Apple is never going to allow you to build a great great wallet
+
+1111
+01:21:01,840 --> 01:21:07,480
+on iOS like I'm strongly strongly doubt that because crypto to some extent is threatening
+
+1112
+01:21:07,480 --> 01:21:12,120
+some of what enables Apple to have built this manipulate over time.
+
+1113
+01:21:12,120 --> 01:21:17,080
+Now if you look at VR people like me where I have the opposite problem we like we've
+
+1114
+01:21:17,080 --> 01:21:20,760
+not built anything we're starting from complete scratch and we're looking for people that
+
+1115
+01:21:20,760 --> 01:21:23,720
+are super eager super excited.
+
+1116
+01:21:23,720 --> 01:21:29,240
+And if anything if we can find a way to align a large number of people to collaborate on
+
+1117
+01:21:29,240 --> 01:21:36,040
+stuff in a decentralized manner such that we can come up and try to sort of all group
+
+1118
+01:21:36,040 --> 01:21:40,320
+together against those gigantic monopolies of course we're going to welcome it with open
+
+1119
+01:21:40,320 --> 01:21:42,040
+arms right.
+
+1120
+01:21:42,040 --> 01:21:46,320
+And so the other thing that I see for VR is that all of those things that you see on
+
+1121
+01:21:46,320 --> 01:21:54,400
+the fringes of sort of society right where Apple might not have many much stuff to gain
+
+1122
+01:21:54,400 --> 01:21:59,360
+integrating crypto into the iPhone but I have a lot of things to gain integrating crypto
+
+1123
+01:21:59,360 --> 01:22:05,000
+for it because now all of a sudden I'm attracting users that prior to that I had not any access
+
+1124
+01:22:05,000 --> 01:22:12,400
+to I'm attracting content creators that perked that they had zero access to and and my closing
+
+1125
+01:22:12,400 --> 01:22:16,080
+thought on this will be the following.
+
+1126
+01:22:16,080 --> 01:22:22,960
+I believe that software paradigm are often enabled by new hardware and those things they
+
+1127
+01:22:22,960 --> 01:22:24,960
+come sort of hand in hand.
+
+1128
+01:22:24,960 --> 01:22:31,280
+One famous example would be the iMac which we tend to forget is called the iMac because
+
+1129
+01:22:31,280 --> 01:22:37,000
+it stands for internet Macintosh and you have to remember that back then it was the first
+
+1130
+01:22:37,000 --> 01:22:44,960
+computer that shipped with high speeds of modern ports web browser inside the OS it
+
+1131
+01:22:44,960 --> 01:22:51,320
+shipped with web browser inside a ship with an OS level SDK for connecting for writing
+
+1132
+01:22:51,320 --> 01:22:58,160
+apps that connects to the internet and so it helped their hardware right because it gave
+
+1133
+01:22:58,160 --> 01:23:03,920
+them access to a new growing market and it helped this new set of protocols because now
+
+1134
+01:23:03,920 --> 01:23:06,160
+they had a dedicated device that embraced them.
+
+1135
+01:23:06,160 --> 01:23:12,960
+In my case it's pretty similar I have a lot to gain by embracing those new standards and
+
+1136
+01:23:12,960 --> 01:23:17,160
+trying to accrue value with them over time and I think those standards are going to have
+
+1137
+01:23:17,160 --> 01:23:23,640
+a very hard time convincing team cook to make a great crypto experience on the iPhone
+
+1138
+01:23:23,640 --> 01:23:28,400
+and disrupt himself and his own app store but they're going to have a very easy time convincing
+
+1139
+01:23:28,400 --> 01:23:34,920
+me to make my VR headset deeply deeply integrated down to the OS level with crypto to those
+
+1140
+01:23:34,920 --> 01:23:36,920
+with the micro addictions.
+
+1141
+01:23:36,920 --> 01:23:38,920
+That's very interesting.
+
+1142
+01:23:38,920 --> 01:23:42,720
+Can I view for how you play 30?
+
+1143
+01:23:42,720 --> 01:23:49,920
+Yeah I think one thing that I would have never guessed is like how much beauty and culture
+
+1144
+01:23:49,920 --> 01:23:57,480
+and belonging would be democratizing I think that my prediction for 2030 is like we build
+
+1145
+01:23:57,480 --> 01:24:03,720
+this new space on the web where people can belong and live culture and find beauty every
+
+1146
+01:24:03,720 --> 01:24:04,720
+single day.
+
+1147
+01:24:04,720 --> 01:24:08,880
+I think it's important for us to just keep on focusing on making sure that it's open
+
+1148
+01:24:08,880 --> 01:24:15,720
+and that people can freely come in and leave and not be chained by any type of centralized
+
+1149
+01:24:15,720 --> 01:24:17,720
+power.
+
+1150
+01:24:17,720 --> 01:24:22,000
+My prediction is that we actually get there through the power of culture because now
+
+1151
+01:24:22,000 --> 01:24:27,200
+that all the creators are on our side I think it's going to be hard for the centralized
+
+1152
+01:24:27,200 --> 01:24:34,320
+systems to go and build as cool experiences or as beautiful experiences online as they
+
+1153
+01:24:34,320 --> 01:24:43,640
+can be by this army of decentralized collaboration this army of really really cool creators from
+
+1154
+01:24:43,640 --> 01:24:45,520
+all across the world.
+
+1155
+01:24:45,520 --> 01:24:50,440
+So my guess is it keeps on going and the decentralized web very soon is just the coolest
+
+1156
+01:24:50,440 --> 01:24:58,560
+place ever to discover content and to live like truly live experiences rather than just
+
+1157
+01:24:58,560 --> 01:25:00,360
+be consumed by them.
+
+1158
+01:25:00,360 --> 01:25:03,440
+So I do predict that we'll get there.
+
+1159
+01:25:03,440 --> 01:25:04,800
+There's a lot of people working on it.
+
+1160
+01:25:04,800 --> 01:25:06,360
+There's a lot of good intentions.
+
+1161
+01:25:06,360 --> 01:25:08,360
+So I believe.
+
+1162
+01:25:08,360 --> 01:25:18,920
+Okay, I'm going to ask the audience to start sending questions to the UNIC team which will
+
+1163
+01:25:18,920 --> 01:25:26,600
+feed them to me and I'll ask them of you and when you give your questions let us know if
+
+1164
+01:25:26,600 --> 01:25:30,520
+they are general or for a specific person.
+
+1165
+01:25:30,520 --> 01:25:34,520
+And if you'd like us to address them to someone specifically or just for the panel
+
+1166
+01:25:34,520 --> 01:25:35,520
+and what we want to answer.
+
+1167
+01:25:35,520 --> 01:25:38,840
+But I'll wait for those to come in.
+
+1168
+01:25:38,840 --> 01:25:41,320
+Like I'll stay with Ryan since we're talking.
+
+1169
+01:25:41,320 --> 01:25:51,280
+Like are we going to see ready player one type things in the next 15, 20 years where
+
+1170
+01:25:51,280 --> 01:25:53,720
+we're I mean genuinely living your way.
+
+1171
+01:25:53,720 --> 01:25:56,320
+I want to speak to a normal person.
+
+1172
+01:25:56,320 --> 01:25:59,320
+And I say oh none of us right.
+
+1173
+01:25:59,320 --> 01:26:13,040
+They imagine already player one a fully realistic fully immersive full VR economy.
+
+1174
+01:26:13,040 --> 01:26:15,040
+And then they look at what's happening.
+
+1175
+01:26:15,040 --> 01:26:17,880
+Obviously it doesn't exist right now.
+
+1176
+01:26:17,880 --> 01:26:21,680
+And then there's maybe some disappointed is actually what's happening.
+
+1177
+01:26:21,680 --> 01:26:22,680
+What's happening now?
+
+1178
+01:26:22,680 --> 01:26:23,680
+Is that going to happen?
+
+1179
+01:26:23,680 --> 01:26:25,800
+Is that even realistic to think about?
+
+1180
+01:26:25,800 --> 01:26:26,800
+Absolutely.
+
+1181
+01:26:26,800 --> 01:26:33,640
+I think that the hardest thing to get past is probably like culture and having people
+
+1182
+01:26:33,640 --> 01:26:41,400
+want to do or live experiences online rather than just like visit them or like be pretty
+
+1183
+01:26:41,400 --> 01:26:45,280
+much absent while experiencing them.
+
+1184
+01:26:45,280 --> 01:26:51,160
+I think that tech is going to get better at an exponential rate.
+
+1185
+01:26:51,160 --> 01:26:54,600
+And technically for sure I think there's going to be a way to do all these photo realistic
+
+1186
+01:26:54,600 --> 01:26:59,320
+experiences that I've seen examples of things that are pretty mind blowing today already.
+
+1187
+01:26:59,320 --> 01:27:06,080
+So I don't think it's going to be it's that far off or like that hard to do.
+
+1188
+01:27:06,080 --> 01:27:07,480
+Now how is it going to happen?
+
+1189
+01:27:07,480 --> 01:27:09,080
+I have no clue.
+
+1190
+01:27:09,080 --> 01:27:14,200
+I think that my position on this has always been to just wait and see what people want
+
+1191
+01:27:14,200 --> 01:27:16,320
+to do with these things.
+
+1192
+01:27:16,320 --> 01:27:21,960
+My perspective is that I'm going to keep on having very strong deep, deep like connection
+
+1193
+01:27:21,960 --> 01:27:27,600
+with the community and what people actually want to do and how they want to experience
+
+1194
+01:27:27,600 --> 01:27:31,320
+these immersive spaces online.
+
+1195
+01:27:31,320 --> 01:27:33,240
+And they should just keep on building from there.
+
+1196
+01:27:33,240 --> 01:27:38,320
+So I think that yeah, we could really play one.
+
+1197
+01:27:38,320 --> 01:27:43,000
+Something similar to really play one is something that's pretty much doable in a few years.
+
+1198
+01:27:43,000 --> 01:27:48,480
+But I don't know if it's what people really want to do.
+
+1199
+01:27:48,480 --> 01:27:51,640
+But I know it's how to ask for the next thing and the next thing.
+
+1200
+01:27:51,640 --> 01:27:52,640
+So we'll see.
+
+1201
+01:27:52,640 --> 01:27:58,040
+I'm going to ask you why we wait for the questions coming because I think this is partially a
+
+1202
+01:27:58,040 --> 01:28:04,080
+hard word topic because basically, and I'll say this for the audience, the most common
+
+1203
+01:28:04,080 --> 01:28:12,280
+thing that I have in my Discord DMs is Ryan yelling at me about how we're making our spaces
+
+1204
+01:28:12,280 --> 01:28:18,800
+to make performance better for normal people.
+
+1205
+01:28:18,800 --> 01:28:25,840
+And this is, I log in on with a fancy graphic card and a big desktop.
+
+1206
+01:28:25,840 --> 01:28:30,480
+And obviously, Ryan's correct because a lot of people are logging in on phones or on the
+
+1207
+01:28:30,480 --> 01:28:31,480
+computers.
+
+1208
+01:28:31,480 --> 01:28:36,160
+And that's what today's experience is that are nowhere close to being photo-rosed.
+
+1209
+01:28:36,160 --> 01:28:42,440
+They are not in the bad way, but sort of cartoonish, right?
+
+1210
+01:28:42,440 --> 01:28:43,440
+They're never on photo-rulism.
+
+1211
+01:28:43,440 --> 01:28:47,400
+They're never on what people see when they watch the movie.
+
+1212
+01:28:47,400 --> 01:28:53,000
+And we still struggle with performance.
+
+1213
+01:28:53,000 --> 01:29:01,360
+Is this something that GPUs will take care of it in a decade or are we waiting 30 years
+
+1214
+01:29:01,360 --> 01:29:02,360
+for this?
+
+1215
+01:29:02,360 --> 01:29:06,000
+Or what does the curve look like?
+
+1216
+01:29:06,000 --> 01:29:07,000
+Sure.
+
+1217
+01:29:07,000 --> 01:29:13,040
+Okay, that's an excellent question.
+
+1218
+01:29:13,040 --> 01:29:17,680
+All right, so the short answer is actually yes.
+
+1219
+01:29:17,680 --> 01:29:22,440
+If you just have to be like a little patient and actually we're going to go there and surprisingly
+
+1220
+01:29:22,440 --> 01:29:23,680
+fast.
+
+1221
+01:29:23,680 --> 01:29:30,560
+For the people that are interested in stuff like neural radiance fields, which are a type
+
+1222
+01:29:30,560 --> 01:29:36,600
+of neural networks for 3D rendering, those are showing incredible results and really fast
+
+1223
+01:29:36,600 --> 01:29:38,560
+and improving really quickly.
+
+1224
+01:29:38,560 --> 01:29:43,600
+And there are a lot of people in the field that like me believe that those might be a
+
+1225
+01:29:43,600 --> 01:29:45,800
+very short path toward photo-realism.
+
+1226
+01:29:45,800 --> 01:29:55,680
+Another thing to note is in general AI slash neural networks enable rendering as vastly,
+
+1227
+01:29:55,680 --> 01:30:02,560
+and improve the performance of rendering and GPUs are just kind of by themselves getting
+
+1228
+01:30:02,560 --> 01:30:05,680
+better and better.
+
+1229
+01:30:05,680 --> 01:30:11,000
+So the short answer is you are certainly getting there, that is for sure.
+
+1230
+01:30:11,000 --> 01:30:14,720
+How long is it going to take?
+
+1231
+01:30:14,720 --> 01:30:19,920
+I would say that within a decade it's going to be pretty wild, how different those things
+
+1232
+01:30:19,920 --> 01:30:22,080
+are going to look.
+
+1233
+01:30:22,080 --> 01:30:27,960
+Now sort of my, and I'll just, I'll give the short version of it, but my slightly longer
+
+1234
+01:30:27,960 --> 01:30:32,080
+answer is I would actually question the premise of the question.
+
+1235
+01:30:32,080 --> 01:30:36,400
+And I will actually say, well, do photo-realism really matter?
+
+1236
+01:30:36,400 --> 01:30:38,120
+And I would question that a lot.
+
+1237
+01:30:38,120 --> 01:30:44,480
+And I will say the following.
+
+1238
+01:30:44,480 --> 01:30:49,960
+Picsar is an incredible example of how you can convey emotion, meaning and beauty without
+
+1239
+01:30:49,960 --> 01:30:55,560
+photo-realism, if you just focus your effort on the right stuff.
+
+1240
+01:30:55,560 --> 01:30:59,600
+And there's a story, if people are familiar with me, I have to let's say a million times,
+
+1241
+01:30:59,600 --> 01:31:01,360
+so they may be super bored about it.
+
+1242
+01:31:01,360 --> 01:31:07,320
+But one simple story is when, it's a little more of a bit at the beginning, but when people
+
+1243
+01:31:07,320 --> 01:31:10,920
+die, the first thing that happens is that their eyes dry off.
+
+1244
+01:31:10,920 --> 01:31:15,040
+So when they're, because they are dried off, you don't have like any light reflection in
+
+1245
+01:31:15,040 --> 01:31:16,480
+your eyes.
+
+1246
+01:31:16,480 --> 01:31:22,600
+And as a result of that, the human brain evolved such that when you talk to someone, the first
+
+1247
+01:31:22,600 --> 01:31:28,040
+thing that your brain does is look for those light reflection in their eyes.
+
+1248
+01:31:28,040 --> 01:31:32,240
+Because if they are missing, it means the person is very, very sick or dying or maybe
+
+1249
+01:31:32,240 --> 01:31:33,240
+already dead.
+
+1250
+01:31:33,240 --> 01:31:37,600
+And so that's a kind of built deep inside of like the back of your brain.
+
+1251
+01:31:37,600 --> 01:31:42,640
+And thus, if I show you a 3D rendering of a world and you're talking with people, and
+
+1252
+01:31:42,640 --> 01:31:48,520
+I just remove the light reflections in their eyes, it's going to feel really uncanny and
+
+1253
+01:31:48,520 --> 01:31:50,120
+you're really not going to have a good time.
+
+1254
+01:31:50,120 --> 01:31:52,240
+If you're going to feel really weird.
+
+1255
+01:31:52,240 --> 01:31:59,480
+And those things, I think, are going to have quite a big impact knowing what details are
+
+1256
+01:31:59,480 --> 01:32:03,760
+needed for people to have this sort of comfortable feeling.
+
+1257
+01:32:03,760 --> 01:32:10,320
+But the overall look and photo-realism, I would strongly sort of push back and say that it's
+
+1258
+01:32:10,320 --> 01:32:13,480
+necessary and I think you are just a good example.
+
+1259
+01:32:13,480 --> 01:32:22,720
+So my overall takeaway is people in the industry, like people making anime or Pixar or to some
+
+1260
+01:32:22,720 --> 01:32:28,000
+extent VR chat, although I think we're still very far from a guru of Kuwaiti Nude, I think
+
+1261
+01:32:28,000 --> 01:32:34,720
+are kind of proof that photo-realism isn't really needed as much as people think it is
+
+1262
+01:32:34,720 --> 01:32:38,040
+as long as you nail the right details.
+
+1263
+01:32:38,040 --> 01:32:44,440
+And you might think that, yeah, but all the rooms, they look bad in VR.
+
+1264
+01:32:44,440 --> 01:32:49,400
+Like a virtual cafes, most of them VR, I can't feel good in them, I'm sure with photo-realism
+
+1265
+01:32:49,400 --> 01:32:51,000
+it would feel better.
+
+1266
+01:32:51,000 --> 01:32:56,160
+And again, I would, as I said, push back against that once more and say the following, must
+
+1267
+01:32:56,160 --> 01:32:58,760
+cafes that I've been to feel good.
+
+1268
+01:32:58,760 --> 01:33:05,960
+One of the reasons that I feel good in it is because it's built upon literally like hundreds
+
+1269
+01:33:05,960 --> 01:33:13,200
+of years of interior designers iterating on how to make a place feel comfortable.
+
+1270
+01:33:13,200 --> 01:33:16,720
+And it turns out what makes you comfortable in VR in the real world are two different
+
+1271
+01:33:16,720 --> 01:33:17,720
+things.
+
+1272
+01:33:17,720 --> 01:33:24,280
+And you don't have that kind of like care and experience and for VR where people have just
+
+1273
+01:33:24,280 --> 01:33:31,160
+spent like 20,000 hours trying to find how to make people comfortable in virtual spaces.
+
+1274
+01:33:31,160 --> 01:33:36,440
+And I think part of the revolution is not necessarily having it be photo-realistic, but
+
+1275
+01:33:36,440 --> 01:33:40,600
+just sort of as an industry learning how to make those spaces more comfortable.
+
+1276
+01:33:40,600 --> 01:33:45,680
+Yeah, no, I mean look for the foreseeable future.
+
+1277
+01:33:45,680 --> 01:33:48,960
+And I'm 24 by 24 pixel pump, right?
+
+1278
+01:33:48,960 --> 01:33:56,880
+So it works fine for emotion and identity and branding.
+
+1279
+01:33:56,880 --> 01:34:02,960
+But it's also, I want to call this to an objective truth.
+
+1280
+01:34:02,960 --> 01:34:06,920
+It's not like we tested the photo-realistic and decided to do the work, we just can't
+
+1281
+01:34:06,920 --> 01:34:07,920
+do it.
+
+1282
+01:34:07,920 --> 01:34:11,920
+So it's extremely convenient if we concluded the photo-realistic's not any good.
+
+1283
+01:34:11,920 --> 01:34:15,840
+This is like me concluding that thinking of basketball is a good thing.
+
+1284
+01:34:15,840 --> 01:34:19,880
+I think I was going to dunk a basketball anyway, so it's better that I concluded that
+
+1285
+01:34:19,880 --> 01:34:21,560
+it's not a good thing, right?
+
+1286
+01:34:21,560 --> 01:34:31,960
+So I do think people wonder about this, right?
+
+1287
+01:34:31,960 --> 01:34:38,520
+And you can say, I don't want to pick someone, I can watch Pixar, but I can also watch a
+
+1288
+01:34:38,520 --> 01:34:39,520
+regular movie.
+
+1289
+01:34:39,520 --> 01:34:43,720
+Right, we also have regular movies, we don't just have animated movies, right?
+
+1290
+01:34:43,720 --> 01:34:47,680
+I mean, I've question or asked why I'm before this session, as we started this session.
+
+1291
+01:34:47,680 --> 01:34:51,960
+I actually don't know the answer, I don't think anyone's know the answer.
+
+1292
+01:34:51,960 --> 01:34:56,440
+We could have done this on the campus as an avatar, with voice.
+
+1293
+01:34:56,440 --> 01:35:04,240
+You know, there'd be three avatars standing in campus talking, four of us, sorry.
+
+1294
+01:35:04,240 --> 01:35:05,240
+Is it better?
+
+1295
+01:35:05,240 --> 01:35:06,240
+Really worse.
+
+1296
+01:35:06,240 --> 01:35:15,200
+That we're projected on a two-dimensional screen and we can see your faces of this,
+
+1297
+01:35:15,200 --> 01:35:17,000
+I mean, in my mind, but yours.
+
+1298
+01:35:17,000 --> 01:35:19,000
+I don't know, I don't know the answer, right?
+
+1299
+01:35:19,000 --> 01:35:20,000
+I know which one's better.
+
+1300
+01:35:20,000 --> 01:35:22,520
+And I mean, I'm sure we'll do both, right?
+
+1301
+01:35:22,520 --> 01:35:24,960
+We'll try both over time.
+
+1302
+01:35:24,960 --> 01:35:31,320
+But it's a very interesting question to me.
+
+1303
+01:35:31,320 --> 01:35:36,320
+And I've thought about this the whole course.
+
+1304
+01:35:36,320 --> 01:35:41,760
+I sit in these sessions and these sessions are Zoom.
+
+1305
+01:35:41,760 --> 01:35:46,760
+And so we're projecting a Zoom into a 3D world.
+
+1306
+01:35:46,760 --> 01:35:51,880
+You're like, well, yeah, I'll add to that.
+
+1307
+01:35:51,880 --> 01:35:56,040
+I'll add one thing to that is that, yeah, we have been projected as a 2D on a speed.
+
+1308
+01:35:56,040 --> 01:36:00,200
+But I've been dancing with a bunch of people in the crowd for a while and like we did a
+
+1309
+01:36:00,200 --> 01:36:04,120
+bunch of different dances and the flash mode.
+
+1310
+01:36:04,120 --> 01:36:10,040
+So I think my answer to this is that it will only take trying things out with people and
+
+1311
+01:36:10,040 --> 01:36:12,240
+seeing what works and what doesn't work, et cetera.
+
+1312
+01:36:12,240 --> 01:36:21,280
+There's no way to go and get the magic recipe of what is better to do a university course
+
+1313
+01:36:21,280 --> 01:36:23,040
+in an immersive space.
+
+1314
+01:36:23,040 --> 01:36:27,000
+Maybe in the future, I will get back to this to feel the real emotions of people.
+
+1315
+01:36:27,000 --> 01:36:30,600
+Maybe we'll have face tracking technologies that do it well.
+
+1316
+01:36:30,600 --> 01:36:31,600
+I don't know.
+
+1317
+01:36:31,600 --> 01:36:37,280
+But I think that our goal and I think our mission of all the people experimenting in
+
+1318
+01:36:37,280 --> 01:36:41,840
+this is to actually experiment and try to see what does make sense, what does catch
+
+1319
+01:36:41,840 --> 01:36:47,200
+with people, what doesn't catch with people and try to navigate in that way.
+
+1320
+01:36:47,200 --> 01:36:49,000
+But yeah, if one thing I can say.
+
+1321
+01:36:49,000 --> 01:36:50,800
+I agree, we're going to expand.
+
+1322
+01:36:50,800 --> 01:36:56,960
+But literally in this box, there's one of us who is not photo-realistic and that works
+
+1323
+01:36:56,960 --> 01:36:58,440
+and three of you were photo-realistic.
+
+1324
+01:36:58,440 --> 01:37:01,440
+And I was wondering the whole time wondering, which one's better?
+
+1325
+01:37:01,440 --> 01:37:04,160
+I mean, if not, like I look at you and say, oh, really?
+
+1326
+01:37:04,160 --> 01:37:07,760
+I wish Maxine would disappear and become an avatar.
+
+1327
+01:37:07,760 --> 01:37:10,400
+I like seeing you.
+
+1328
+01:37:10,400 --> 01:37:14,560
+And so the interesting question, OK, we have a couple of questions that come in.
+
+1329
+01:37:14,560 --> 01:37:18,680
+The first one I'm sending to Charlie because I don't expect you to have an official answer
+
+1330
+01:37:18,680 --> 01:37:19,680
+to this.
+
+1331
+01:37:19,680 --> 01:37:20,680
+But I think it's a fair question.
+
+1332
+01:37:20,680 --> 01:37:24,880
+For the general panel, but since you had mentioned all your cousins, I'm going to go
+
+1333
+01:37:24,880 --> 01:37:29,680
+to you, what about the mental health aspects of eight to 10-year-olds or even 12-year-olds
+
+1334
+01:37:29,680 --> 01:37:35,360
+going directly into VR after school and not doing normal kid things like playing outside?
+
+1335
+01:37:35,360 --> 01:37:37,880
+Oh, I guess you're...
+
+1336
+01:37:37,880 --> 01:37:43,080
+I mean, yes, it's a big question.
+
+1337
+01:37:43,080 --> 01:37:50,720
+When you're thinking about what's happening in terms of brain chemistry, is there a reason
+
+1338
+01:37:50,720 --> 01:37:57,400
+that they're impacting their mental health negatively by feeling like they have a safe
+
+1339
+01:37:57,400 --> 01:38:01,160
+space to socially interact so they can be themselves, where they can fully explore their
+
+1340
+01:38:01,160 --> 01:38:06,200
+identity that maybe they might not have outside in a physical environment.
+
+1341
+01:38:06,200 --> 01:38:09,680
+It's like it's such a sweeping generalization.
+
+1342
+01:38:09,680 --> 01:38:16,080
+I think there's a lot that we've learned from Web2's social media about the impact of Web2
+
+1343
+01:38:16,080 --> 01:38:24,040
+on mental health, especially where your identity and how much people like your identity in
+
+1344
+01:38:24,040 --> 01:38:27,560
+the digital world becomes kind of currency for status.
+
+1345
+01:38:27,560 --> 01:38:29,560
+We've seen that that's a problem.
+
+1346
+01:38:29,560 --> 01:38:34,120
+We have the opportunity now where we can be building out Web3 with all of the learnings
+
+1347
+01:38:34,120 --> 01:38:39,880
+of Web2 severely fucked up when it comes to mental health and started to try to address
+
+1348
+01:38:39,880 --> 01:38:41,520
+those problems.
+
+1349
+01:38:41,520 --> 01:38:54,920
+But I think it's a very like a cliched question.
+
+1350
+01:38:54,920 --> 01:38:59,880
+It's going to be healthier for a child to be participating in X space versus Y space
+
+1351
+01:38:59,880 --> 01:39:02,360
+because that's how I grew up.
+
+1352
+01:39:02,360 --> 01:39:07,880
+We don't really have the data to support that that's the case.
+
+1353
+01:39:07,880 --> 01:39:15,480
+I certainly know a lot of people in the younger generation who have the opportunity to explore
+
+1354
+01:39:15,480 --> 01:39:22,320
+who they are via an alter ego where they aren't subject to the judgment of their peers, the
+
+1355
+01:39:22,320 --> 01:39:27,960
+fear of being documented and posted on Web2 social media by their peers.
+
+1356
+01:39:27,960 --> 01:39:35,720
+They can really start to experiment in a way that's become progressively harder with photo
+
+1357
+01:39:35,720 --> 01:39:38,440
+and video based social media.
+
+1358
+01:39:38,440 --> 01:39:46,880
+Arguably being avatar based in a VR space or within a game is healthier because they
+
+1359
+01:39:46,880 --> 01:39:53,040
+get to do all these things that have been becoming more and more socially restrictive
+
+1360
+01:39:53,040 --> 01:39:54,040
+over time.
+
+1361
+01:39:54,040 --> 01:39:59,760
+I think there's just so much nuance to this that gets missed when it's like, well, I
+
+1362
+01:39:59,760 --> 01:40:04,760
+grew up like this and I think it's bad that these kids aren't growing up the same way.
+
+1363
+01:40:04,760 --> 01:40:09,720
+Maxim, do you want to comment on this too?
+
+1364
+01:40:09,720 --> 01:40:13,480
+I think I have a very similar perspective.
+
+1365
+01:40:13,480 --> 01:40:21,720
+I will add, I think it's a great question to ask but even more importantly, so as you
+
+1366
+01:40:21,720 --> 01:40:26,080
+know, I'm sure a lot of you in the audience listening to this are considering going into
+
+1367
+01:40:26,080 --> 01:40:28,000
+crypto.
+
+1368
+01:40:28,000 --> 01:40:35,000
+I think the people prior to us, people building social media as we've been there in 2000 or
+
+1369
+01:40:35,000 --> 01:40:44,160
+computers in the 90s might have had a path, a path for not having built a very strong
+
+1370
+01:40:44,160 --> 01:40:50,440
+sort of answers to those questions because it was hard to prove that digital world could
+
+1371
+01:40:50,440 --> 01:40:51,960
+have an adverse effect.
+
+1372
+01:40:51,960 --> 01:40:59,040
+I think now that we've seen that actually they can have an adverse effect, no one is
+
+1373
+01:40:59,040 --> 01:41:02,480
+like, oh, I'm so happy I spent 20 hours on Instagram this week.
+
+1374
+01:41:02,480 --> 01:41:08,560
+Not only do we observe that, I think it's good to be critical and my pushback to being
+
+1375
+01:41:08,560 --> 01:41:16,760
+critical would be very smart to surely most of the greatest cool stuff I've learned and
+
+1376
+01:41:16,760 --> 01:41:21,560
+discovered about myself and that sort of became core part of who I am in my identity.
+
+1377
+01:41:21,560 --> 01:41:23,360
+That was through virtual worlds.
+
+1378
+01:41:23,360 --> 01:41:32,760
+So I do act as hard as I can to try to identify what could go wrong and try to fix it but
+
+1379
+01:41:32,760 --> 01:41:37,920
+I'm not to miss that actually we can fix all of the stuff that might go wrong.
+
+1380
+01:41:37,920 --> 01:41:42,360
+I'm going to also want to comment on this.
+
+1381
+01:41:42,360 --> 01:41:46,680
+I mean, like everything has been said, like they try to do a maxim, I don't know what
+
+1382
+01:41:46,680 --> 01:41:47,680
+I could have really.
+
+1383
+01:41:47,680 --> 01:41:52,240
+It's interesting because like I hear in my like natural reactions, only that sounds
+
+1384
+01:41:52,240 --> 01:41:58,720
+worrisome and then I also remember when I was a boy guy, there was like all types of anxiety
+
+1385
+01:41:58,720 --> 01:42:05,040
+about video games and I spent my teenage years like every afternoon like my friends
+
+1386
+01:42:05,040 --> 01:42:10,000
+and sometimes you play basketball or whatever and sometimes we just send out my video games
+
+1387
+01:42:10,000 --> 01:42:11,000
+all afternoon.
+
+1388
+01:42:11,000 --> 01:42:18,440
+And as far as I can tell, everyone grew up to be a responsible adult and like that was
+
+1389
+01:42:18,440 --> 01:42:19,440
+fine.
+
+1390
+01:42:19,440 --> 01:42:23,040
+Like I mean, but if you listen to what people were saying then, I don't know, it was going
+
+1391
+01:42:23,040 --> 01:42:28,200
+to be the end of the next generation of the total disaster and it was fine.
+
+1392
+01:42:28,200 --> 01:42:33,600
+Like everyone kind of grew up and had a perfectly real life and none of us seemed to have been
+
+1393
+01:42:33,600 --> 01:42:37,160
+negatively affected by video games and now of course the studies come out and say like
+
+1394
+01:42:37,160 --> 01:42:40,680
+maybe actually video games are good for you and you know who knows, not straight or but
+
+1395
+01:42:40,680 --> 01:42:48,320
+like it certainly wasn't anything resembling the panic that for some reason if you're playing
+
+1396
+01:42:48,320 --> 01:42:53,400
+say our PlayStation or what have you, things were going to go wildly wrong in your life
+
+1397
+01:42:53,400 --> 01:42:54,400
+like quite the opposite.
+
+1398
+01:42:54,400 --> 01:42:55,400
+It was a worst mutual.
+
+1399
+01:42:55,400 --> 01:43:04,440
+Okay, I have another quite general question which is hard but I think it's a good question.
+
+1400
+01:43:04,440 --> 01:43:07,920
+How do you see the metaverse, we can take this in reverse order and start with Ryan.
+
+1401
+01:43:07,920 --> 01:43:14,080
+How do you see the metaverse impacting society and specifically what steps should be taken
+
+1402
+01:43:14,080 --> 01:43:16,960
+to ensure it is inclusive and equitable for all?
+
+1403
+01:43:16,960 --> 01:43:20,480
+That's a very broad scope to play.
+
+1404
+01:43:20,480 --> 01:43:23,000
+Yeah, it's a very, very good question.
+
+1405
+01:43:23,000 --> 01:43:27,840
+I think to my point of my prediction within seven years, like I would have never guessed
+
+1406
+01:43:27,840 --> 01:43:30,600
+that online I would be able to see so much beauty every single day.
+
+1407
+01:43:30,600 --> 01:43:34,640
+I think by scrolling through my Twitter feed or going to on cyber like every single day
+
+1408
+01:43:34,640 --> 01:43:43,120
+I'm confronted with really, really cool stuff, new stuff I didn't know, art, creativity and
+
+1409
+01:43:43,120 --> 01:43:47,640
+I think if anything what the metaverse has managed to accomplish until now for like a
+
+1410
+01:43:47,640 --> 01:43:53,720
+short, a small group of people is to like democratize beauty and to make sure that people can access
+
+1411
+01:43:53,720 --> 01:43:56,040
+culture and art in a way that they couldn't before.
+
+1412
+01:43:56,040 --> 01:44:01,960
+I think I personally like would access art just once every month, every month and a half
+
+1413
+01:44:01,960 --> 01:44:07,280
+whenever I would go to a gallery or go to like I don't know a museum or whatnot.
+
+1414
+01:44:07,280 --> 01:44:13,760
+But nowadays like every single day like I see new creations being put on on on on on
+
+1415
+01:44:13,760 --> 01:44:15,080
+on Twitter being shared.
+
+1416
+01:44:15,080 --> 01:44:17,360
+They see news that new artists I didn't know.
+
+1417
+01:44:17,360 --> 01:44:23,840
+I get I get addicted to like certain art styles that I didn't know I liked.
+
+1418
+01:44:23,840 --> 01:44:28,040
+So I think that that's something that one positive that it managed to do.
+
+1419
+01:44:28,040 --> 01:44:31,600
+I think that one thing that we really have to do to make sure that this keeps on going
+
+1420
+01:44:31,600 --> 01:44:37,040
+is accessibility and to make sure that any creative from all across the world or any
+
+1421
+01:44:37,040 --> 01:44:41,760
+art and joy or any person in general because we are all creators by default.
+
+1422
+01:44:41,760 --> 01:44:42,840
+We are all board creators.
+
+1423
+01:44:42,840 --> 01:44:44,680
+We are all board collectors.
+
+1424
+01:44:44,680 --> 01:44:49,560
+We're all born art and joyers and like and and I think that the one thing we need to do
+
+1425
+01:44:49,560 --> 01:44:57,240
+is to make sure that the the platforms are as accessible as possible to everyone.
+
+1426
+01:44:57,240 --> 01:45:00,800
+And that those platforms don't become the exact same platforms we're using now that
+
+1427
+01:45:00,800 --> 01:45:06,680
+are not accessible to everyone and that can love people out of their own accounts, etc.
+
+1428
+01:45:06,680 --> 01:45:09,280
+So I think that's one thing we need to do.
+
+1429
+01:45:09,280 --> 01:45:13,280
+But overall I think that if we managed to do that through the principles of decentralization,
+
+1430
+01:45:13,280 --> 01:45:18,160
+we get to a really, really good result that we I start seeing every single day today.
+
+1431
+01:45:18,160 --> 01:45:23,440
+I know a lot of people around me as well are seeing which is the market sizing belonging,
+
+1432
+01:45:23,440 --> 01:45:26,480
+the market sizing culture, the market sizing beauty.
+
+1433
+01:45:26,480 --> 01:45:31,920
+And I think it's really important for humans to be able to to be confronted with that as
+
+1434
+01:45:31,920 --> 01:45:32,920
+well.
+
+1435
+01:45:32,920 --> 01:45:33,920
+Sorry.
+
+1436
+01:45:33,920 --> 01:45:43,600
+Anyone else want to thank you for that?
+
+1437
+01:45:43,600 --> 01:45:48,280
+Yeah, I can jump in on that.
+
+1438
+01:45:48,280 --> 01:45:53,960
+As I'm working specifically in digital identity, there's a huge way of responsibility when
+
+1439
+01:45:53,960 --> 01:45:56,760
+we're thinking about like diversity and representation.
+
+1440
+01:45:56,760 --> 01:46:02,960
+You know, anybody that's building in the like habitat space, identity space.
+
+1441
+01:46:02,960 --> 01:46:08,760
+You know, I think the first thing that's important, you know, where you know, building
+
+1442
+01:46:08,760 --> 01:46:15,400
+web three now, we already have a much more diverse cross section of builders than we
+
+1443
+01:46:15,400 --> 01:46:18,280
+had in the earlier stages of the internet.
+
+1444
+01:46:18,280 --> 01:46:22,720
+So the first thing that's important thing, especially if you're creating around identity
+
+1445
+01:46:22,720 --> 01:46:27,440
+is making sure that everybody who is contributing to how that builds out and how you're representing
+
+1446
+01:46:27,440 --> 01:46:33,840
+people that you haven't, you know, you have a very diverse cross section of opinions and
+
+1447
+01:46:33,840 --> 01:46:37,120
+cultures that are coming into the mix when you, you know, figure out how you're building
+
+1448
+01:46:37,120 --> 01:46:39,600
+that out.
+
+1449
+01:46:39,600 --> 01:46:45,640
+And then the other piece, as Ryan said, you know, everybody is fundamentally creative.
+
+1450
+01:46:45,640 --> 01:46:52,320
+I mean, we've just seen over the last year how AI has started to democratize creativity,
+
+1451
+01:46:52,320 --> 01:46:53,320
+right?
+
+1452
+01:46:53,320 --> 01:46:59,440
+You don't need to be amazing at drawing to become an artist or become a creator.
+
+1453
+01:46:59,440 --> 01:47:06,160
+So I think, you know, for you as a human to like, you know, fulfill the full joy of the
+
+1454
+01:47:06,160 --> 01:47:10,000
+human experience, you need to be able to create stuff.
+
+1455
+01:47:10,000 --> 01:47:15,960
+So there is also a responsibility to democratize access to creation and technology is making
+
+1456
+01:47:15,960 --> 01:47:19,200
+that increasingly easy.
+
+1457
+01:47:19,200 --> 01:47:23,680
+So I guess those are the two pieces that I'm focused on given that we're building for
+
+1458
+01:47:23,680 --> 01:47:29,280
+identity and we're building for allowing people to easily create and customize their identity.
+
+1459
+01:47:29,280 --> 01:47:34,920
+Yeah, if I can just finish this stuff, like there's a, there's a quote I read in Rick Ruben's
+
+1460
+01:47:34,920 --> 01:47:42,040
+book, lately, Rick Ruben is a big, very famous music producer who's worked with people like
+
+1461
+01:47:42,040 --> 01:47:46,520
+it was was that the inception of Dev Jam in the 90s and worked with every single artist
+
+1462
+01:47:46,520 --> 01:47:47,520
+you can think of.
+
+1463
+01:47:47,520 --> 01:47:52,960
+And like there's one quote of his that really, really struck by me and like my mission on
+
+1464
+01:47:52,960 --> 01:47:56,360
+with on saver and I'll read it now.
+
+1465
+01:47:56,360 --> 01:48:00,280
+Regardless of whether or not we're formally making art, we're all living as artists.
+
+1466
+01:48:00,280 --> 01:48:04,840
+We perceive, perceive filter and collect data, then curate and experience for ourselves and
+
+1467
+01:48:04,840 --> 01:48:07,320
+others based on this information set.
+
+1468
+01:48:07,320 --> 01:48:12,160
+Whether we do this consciously or unconsciously by the mere fact of being alive, we are active
+
+1469
+01:48:12,160 --> 01:48:16,000
+participants in the ongoing process of creation.
+
+1470
+01:48:16,000 --> 01:48:20,320
+And I think that's really, really important as like to what we're doing in web three and
+
+1471
+01:48:20,320 --> 01:48:25,560
+how we're able to just like bring this flame of creativity back to every single person.
+
+1472
+01:48:25,560 --> 01:48:30,560
+That's the participant.
+
+1473
+01:48:30,560 --> 01:48:31,560
+Great.
+
+1474
+01:48:31,560 --> 01:48:37,560
+I have a question that I don't know what an answer to what I feel professionally obligated
+
+1475
+01:48:37,560 --> 01:48:38,560
+to ask.
+
+1476
+01:48:38,560 --> 01:48:41,560
+Maxine, what is your headshot coming out?
+
+1477
+01:48:41,560 --> 01:48:44,560
+Jane from the group.
+
+1478
+01:48:44,560 --> 01:48:45,560
+Okay.
+
+1479
+01:48:45,560 --> 01:48:49,560
+Unfortunity, we're enough communicating data community yet.
+
+1480
+01:48:49,560 --> 01:48:56,560
+However, you can email me and I'm adding people to our I'll find better at least all the time.
+
+1481
+01:48:56,560 --> 01:49:02,400
+Write me a short blurb about yourself where you come out of your and I'll do my best to
+
+1482
+01:49:02,400 --> 01:49:04,560
+add you to one of our spots.
+
+1483
+01:49:04,560 --> 01:49:08,560
+There's a second part of the question I suspect we're going to be answering and I'll ask
+
+1484
+01:49:08,560 --> 01:49:09,560
+you also.
+
+1485
+01:49:09,560 --> 01:49:11,560
+Does your head said have a name yet?
+
+1486
+01:49:11,560 --> 01:49:12,560
+What, sorry?
+
+1487
+01:49:12,560 --> 01:49:14,560
+Does it have a name yet?
+
+1488
+01:49:14,560 --> 01:49:16,560
+Oh, a name yet.
+
+1489
+01:49:16,560 --> 01:49:21,560
+You can follow me on Twitter, I'll be announcing stuff pretty soon.
+
+1490
+01:49:21,560 --> 01:49:26,560
+But sorry again, we've hired too many people from Apple and so we took that from them which
+
+1491
+01:49:26,560 --> 01:49:29,560
+I tried to be here to tell you about all the stuff.
+
+1492
+01:49:29,560 --> 01:49:36,560
+Absolutely respect that but I had to shoot my shot on behalf of the studio audience.
+
+1493
+01:49:36,560 --> 01:49:39,560
+There's a question that I think I can answer.
+
+1494
+01:49:39,560 --> 01:49:47,560
+You can expect more avatars as NFTs for all integration and I think the answer is yes but
+
+1495
+01:49:47,560 --> 01:49:49,560
+probably I don't know.
+
+1496
+01:49:49,560 --> 01:49:57,560
+Two or three months away on various things so we're working on it and expect cool things
+
+1497
+01:49:57,560 --> 01:49:58,560
+happening there.
+
+1498
+01:49:58,560 --> 01:50:01,560
+Is that, we're here with that Ryan as an answer?
+
+1499
+01:50:01,560 --> 01:50:03,560
+Yeah, totally, totally.
+
+1500
+01:50:03,560 --> 01:50:06,560
+Again, as for everything we do, everything is experimental.
+
+1501
+01:50:06,560 --> 01:50:12,560
+We very often do QA in broad and so this was one of the examples where we just pushed
+
+1502
+01:50:12,560 --> 01:50:19,560
+avatars as quick as we could with a very optimized system so on the web right now we could render
+
+1503
+01:50:19,560 --> 01:50:24,560
+like a thousand avatars next to each other on an iPhone.
+
+1504
+01:50:24,560 --> 01:50:31,560
+We had to just have one to be able to achieve that feat and then be able to optimize more
+
+1505
+01:50:31,560 --> 01:50:36,560
+to be able to add more I think within next two months yeah we'll be able to have many
+
+1506
+01:50:36,560 --> 01:50:42,560
+more avatars and truly have like identity in the form of avatars within Unsamer.
+
+1507
+01:50:42,560 --> 01:50:52,560
+Okay, we are at time so I wanted to thank all three of our panelists for taking the time
+
+1508
+01:50:52,560 --> 01:51:03,560
+to meet with us, very much appreciate your insights.
+
+1509
+01:51:03,560 --> 01:51:12,560
+We will turn this into an NFT soon and I think soon beyond that soon we'll have our better
+
+1510
+01:51:12,560 --> 01:51:19,560
+organizational model and how we display all these both on the campus in the thirties case
+
+1511
+01:51:19,560 --> 01:51:25,560
+and also how people can find them on the web because like this panel there have been a lot
+
+1512
+01:51:25,560 --> 01:51:30,560
+of great panels and sessions and I think these are great things for people to watch whether
+
+1513
+01:51:30,560 --> 01:51:36,560
+they were here today at specifically this time and so we want we think that's an important
+
+1514
+01:51:36,560 --> 01:51:40,560
+part of helping to educate the space so I appreciate you doing that.
+
+1515
+01:51:40,560 --> 01:51:45,560
+We'll let you know once they're minted you can share the music we'll find a model where
+
+1516
+01:51:45,560 --> 01:51:50,560
+the content comes if people can open mint them into their wallet if you want to keep this
+
+1517
+01:51:50,560 --> 01:51:56,560
+for austerity sake making it immutable so you can show your grandchildren how wrong your
+
+1518
+01:51:56,560 --> 01:52:07,560
+predictions for 2031 and a model what we want so thank you very much.
+
+1519
+01:52:07,560 --> 01:52:08,560
+Thank you.
+
+1520
+01:52:08,560 --> 01:52:09,560
+Thank you so much.
+
+1521
+01:52:09,560 --> 01:52:10,560
+There was awesome.
+
+1522
+01:52:10,560 --> 01:52:12,560
+Thanks so much.
+
+1523
+01:52:12,560 --> 01:52:15,560
+Yeah thank you for having us does a pleasure.
+

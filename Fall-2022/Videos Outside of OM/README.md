@@ -18,6 +18,10 @@ The following list contains the endpoints (links) to the live sessions recording
 
     - **Week 4.2** - https://arweave.net/vh8GsqSMIw3tXxhER5HPrrBWMnREbv80SCKQlv6377E
 
+    - **Week 4.3: NFT Photography Panel** - https://arweave.net/JA8I-OKcegng1-RnfnVo5JeTZStZl5n0aHJDbfxK3g8
+
+    - **Week 4.4: CryptoArt NFTs 1/1 Panel** - https://arweave.net/xLMpwSyc0T-WlPWHkV_Qkok5uS2ItAhcodYa5uRHKm8
+
 - **Week 5: Art NFTs (Generative Art)**
     - **Week 5.1** - https://arweave.net/Byn5RavtDg2uEA8bYR5HPq-pi5lg3OCvI1RN9R3EFs4
 
@@ -35,7 +39,10 @@ The following list contains the endpoints (links) to the live sessions recording
     
     - **Week 7.2** - https://arweave.net/K-AzJotetOI-jlMVUFYyHS_e3BNJmEXiw_ZHv_oBa6o
 
-- **Week 8: What is the Metaverse?** - https://arweave.net/tAx7q2-8-g8psStW7kfrOTur6EocH2Jl3DghyfiZSIs
+- **Week 8: What is the Metaverse?** 
+    - **Week 8.1** - https://arweave.net/tAx7q2-8-g8psStW7kfrOTur6EocH2Jl3DghyfiZSIs
+    
+    - **Week 8.2: Metaverse Panel** - https://arweave.net/G1GhHVc3EJofue2Xzcc-Yfdn9Z4-Rh3tCkBkRsS7jaA
 
 - **Week 9: Trends in Visualization Technology** - https://arweave.net/e5XGjlB3KcE_odMMPo2oC81giDc_73g9o3VHo3wYdH0
 

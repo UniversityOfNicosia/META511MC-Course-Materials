@@ -36,6 +36,17 @@ Inside this directory you may find the transcripts of the live sessions, were -w
         - .txt - https://arweave.net/2GZwX7REKPNDSJjjvkfmdHgs1zq8YOICFFBikaHnA68
         - .srt - https://arweave.net/JHXCaIw5zim106nTweA7KcMtlNZti6xl33tBHXyiMUA
         - .vtt - https://arweave.net/wXE6VuchVdZABNOarbMcyx9npbt1WWmINKcwVmOhKg4
+    
+    - **Week 4.3: NFT Photography Panel**
+        - .txt - https://arweave.net/eKVlrqUNrRZvQw8bFGOeXDKRzrG8uiKx2JzlmgOtSik
+        - .srt - https://arweave.net/pSQ1hegJuQD9jxAYjPkUQ22acyVvb-3UWRzqBrFi0eg
+        - .vtt - https://arweave.net/-Wj-iRodMCJs6vO7UFqACFzms7NUFylkjrgaC1tSJKI
+
+    - **Week 4.4: CryptoArt NFTs 1/1 Panel**
+        - .txt - https://arweave.net/
+        - .srt - https://arweave.net/
+        - .vtt - https://arweave.net/
+
 
 - **Week 5: Art NFTs (Generative Art)**
     - **Week 5.1**
@@ -46,10 +57,10 @@ Inside this directory you may find the transcripts of the live sessions, were -w
         - .txt - https://arweave.net/s53CDS39UX4457_Kio2NtlB4o7jkIwFUYuHj_owdV24
         - .srt - https://arweave.net/h1Jl3gSRowafd00v9nwFRhunaUcAkWo_yRO7L9arPzs
         - .vtt - https://arweave.net/thvh2uLv5xaEUOI1DbmM6Nujx5hsyr21F-w9sn03n5s
-    - **Week 5.3**
-        - .txt - https://arweave.net/
-        - .srt - https://arweave.net/
-        - .vtt - https://arweave.net/
+    - **Week 5.3 - Generative Art Panel**
+        - .txt - https://arweave.net/YyG72t_WdWNIIzP_Gpbb5JyU5vPDc07mIs0MuRaCioo
+        - .srt - https://arweave.net/MbkYsehRctbZf_xekgCYpSFOIkiBFAnLjov5_v6I5Mc
+        - .vtt - https://arweave.net/jXZB9406oAuXe1cEdEX-doTN3vUjgnkvBsQ0z08hZ8g
 
 - **Week 6: Key Considerations in the NFT Space**
     - **Week 6.1**
@@ -72,9 +83,15 @@ Inside this directory you may find the transcripts of the live sessions, were -w
         - .vtt - https://arweave.net/UYkWW2OvwLaxVeMvdXJm3-3RhMXCiArPj0Rt5US-ezg
 
 - **Week 8: What is a Metaverse?**
-    - .txt - https://arweave.net/qLAwrAudhmjVdzMRitEtmPkYzQSvDbh6GzYizKkSIow
-    - .srt - https://arweave.net/AH-AKZ4yiR8dovKfnt-_HDorzlvQkKgttOK21rRKroI
-    - .vtt - https://arweave.net/jILzKbIrz6z1HLIbRF4nYCDAR3Oj_YoQX9rtfEBOwcw
+    - **Week 8.1:**
+        - .txt - https://arweave.net/qLAwrAudhmjVdzMRitEtmPkYzQSvDbh6GzYizKkSIow
+        - .srt - https://arweave.net/AH-AKZ4yiR8dovKfnt-_HDorzlvQkKgttOK21rRKroI
+        - .vtt - https://arweave.net/jILzKbIrz6z1HLIbRF4nYCDAR3Oj_YoQX9rtfEBOwcw
+
+    - **Week 8.2: Metaverse Panel**
+        - .txt - https://arweave.net/n5YfU_Szi4D4-hsww-3sMbk9APxEw-fZsL9dH2dRJTQ
+        - .srt - https://arweave.net/nZWvPOliIeTxLXmM6vZJvZ_DTmaYf7bkfu_BJnXa47A
+        - .vtt - https://arweave.net/xOeP9ZaKLZz2y6Rdrhx8wJLh5ZpMoXDLmKqhFwGZDX8
 
 - **Week 9: Trends in Visualization Technology**
     - .txt - https://arweave.net/KBzRU68LpIKv0vWsOG51nJxon00rMN1jEwFjJP11YFY
