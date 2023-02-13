@@ -18,7 +18,7 @@ The following list contains the endpoints (links) to the live sessions recording
 
     - **Week 4.3: NFT Photography Panel** - https://arweave.net/-q6mTOXquHzHX-hzsEptxcivgswLqBgV_Xew3AJPJqE
 
-    - **Week 4.4: CryptoArt NFTs 1/1 Panel** - https://arweave.net/
+    - **Week 4.4: CryptoArt NFTs 1/1 Panel** - https://arweave.net/aPCCYQ7QWPhxCnQJIgLvcMa2FUt-Y3HvSUfdOevhLSo
 
 - **Week 5: Art NFTs (Generative Art)**
     - **Week 5.1 - Lecture Video** - https://arweave.net/qr7SBG0hnWtKgI2f9adULIAZa83N5rhdQqPqNGYyH6s
