@@ -53,8 +53,10 @@ The following list contains the endpoints (links) to the live sessions recording
 
 - **Week 11: Representing Off-chain Objects with NFTs - Lecture Video** - https://arweave.net/gWy8yWS5VlvUw-PJc00OnuV48g_-Mn-S7bPOGhm5pLM
 
-- **Week 12: Metaverse 2030 - Lecture Video** - https://arweave.net/KM-KmoapFiX3wb9uRQp4RkQhdKN9BTdUMfW2k19xtPA
+- **Week 12: Metaverse 2030**
+    - **Week 12 - Lecture Video** - https://arweave.net/KM-KmoapFiX3wb9uRQp4RkQhdKN9BTdUMfW2k19xtPA
     
+    - **Week 12.2 - Guest Video** - https://arweave.net/hCKYBAtsFwHRr08beLfmlyyxR4CLsCopsqDi5uMaqTc
 
 **TIP:** Have patience for the loading :D
 
