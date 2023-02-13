@@ -1,13 +1,11 @@
-WEBVTT
-
 00:00.000 --> 00:01.000
-Great.
+
 
 00:01.000 --> 00:25.760
 Well, thank you so much everyone as always for joining.
 
 00:25.760 --> 00:30.400
-This is session five of Meta 511.
+This is session five of META-511.
 
 00:30.400 --> 00:32.640
 Today we're going to talk about generative art.
@@ -40,7 +38,7 @@ So we won't mint this right away, but we'll mint it in a few days.
 And I still owe you the one-on-one presentation.
 
 01:07.280 --> 01:12.920
-I want to take a moment on this one in particular and really thank NooNeOx.
+I want to take a moment on this one in particular and really thank NooNe0x.
 
 01:12.920 --> 01:17.160
 He's helped him certainly with the prior presentations, but this one, as you're seeing it today,
@@ -49,13 +47,13 @@ He's helped him certainly with the prior presentations, but this one, as you're 
 is entirely his work.
 
 01:18.400 --> 01:22.440
-I need to make some small adjustments that I want to add to our interviews.
+I need to make some small adjustments that I want to add from our interviews.
 
 01:22.440 --> 01:24.800
 But really, I did not make this presentation.
 
 01:24.800 --> 01:26.120
-NooNeOx made.
+NooNe0x did
 
 01:26.120 --> 01:28.360
 It's a really good job.
@@ -64,7 +62,7 @@ It's a really good job.
 And I want to thank him for helping me here.
 
 01:34.200 --> 01:40.320
-So let's go throug ith.
+So let's go through it.
 
 01:40.320 --> 01:40.840
 OK.
@@ -118,7 +116,7 @@ But the way to think about the art that the artist is creating is to say the art
 creating a system that creates the art, a procedure that creates the art, that has
 
 03:10.920 --> 03:16.640
-some type of input from the outside world and that input from the outside world helps
+some type of input from the outside world and that input from the outside world help
 
 03:16.640 --> 03:19.840
 generate the piece.
@@ -130,13 +128,13 @@ So we have art known back in our presentation again, just like we did last week.
 I would generalize this, right?
 
 03:32.600 --> 03:38.200
-So here it says, a computer introduces the randomness as part of the creation.
+So here it says, a computer introduces randomness as part of the creation.
 
 03:38.200 --> 03:44.360
 This is true, it's 100% true, but it doesn't have to be a computer.
 
 03:44.360 --> 03:47.760
-You have the example at the beginning of Alien Harps.
+You have the example at the beginning of the Aeolian harp.
 
 03:47.760 --> 03:51.560
 The wind was creating part of the artwork.
@@ -148,13 +146,13 @@ You could have a physical object creating part of the artwork.
 I've even seen generative art where biological processes are creating part of the artwork
 
 04:02.640 --> 04:09.280
-and so that where you have actual chemical reactions or biological reactions, that the
+and so that where you have actual chemical reactions or biological reactions, the
 
 04:09.280 --> 04:12.280
-outcome of those reactions feeds into the artwork.
+the outcome of those reactions feeds into the artwork.
 
 04:12.280 --> 04:21.800
-So yes, it is absolutely true that in practice, most generative art, the independent actor,
+So yes, it is absolutely true that in practice, in most generative art, the independent actor,
 
 04:21.800 --> 04:25.320
 the non-human actor is in fact a computer.
@@ -163,7 +161,7 @@ the non-human actor is in fact a computer.
 But it can be any process that is not the human artist themselves.
 
 04:33.920 --> 04:42.080
-So generative art is a movement.
+So generative art as a movement.
 
 04:42.080 --> 04:49.000
 I think my sense is it's mid-century.
@@ -193,7 +191,7 @@ So I truly think generative art and its breadth in the 1950s to 2020 period is i
 with the rise of the computer.
 
 05:43.920 --> 05:50.920
-Just like I'm going to argue that the next phase is linked to the rise of watch it.
+Just like I'm going to argue that the next phase is linked to the rise of watching it.
 
 05:50.920 --> 05:56.400
 Could there be a lot of designable computers?
@@ -259,7 +257,7 @@ just before he passed away, there was an NFT collection of some of his pre NFT w
 He's been working for many decades.
 
 08:05.480 --> 08:12.320
-And then now there's a lot of tribute collections to him is beloved in the community.
+And then now there are a lot of tribute collections to him is beloved in the community.
 
 08:12.320 --> 08:22.560
 And it's thought of as an important pioneer.
@@ -295,10 +293,10 @@ Yes, of course.
 Someone could have.
 
 09:12.320 --> 09:27.500
-C
+
 
 09:27.500 --> 09:43.360
-Again, giving a flavor at the stage of era.
+Again, giving a flavor to the stage of the era.
 
 09:43.360 --> 09:47.800
 Vera is also very interesting.
@@ -382,7 +380,7 @@ And they are close to a billion possible crypto punks.
 People don't think about this, but it's true.
 
 13:01.940 --> 13:07.900
-You see those 10,000 crypto punks as hell, it's kind of obvious that obviously some trait
+You see those 10,000 crypto punks as well, it's kind of obvious that obviously some trait
 
 13:07.900 --> 13:10.860
 combinations are missing.
@@ -631,13 +629,13 @@ They're auditable by anyone.
 This actually gets even more complicated in actual generative art collections.
 
 20:13.620 --> 20:22.460
-So I had a long discussion about this with Snowfro, the founder of Art Blocks, yesterday.
+So I had a long discussion about this with Snowfro, the founder of Art blocks, yesterday.
 
 20:22.460 --> 20:26.780
 And that session is going to be released on Monday.
 
 20:26.780 --> 20:33.820
-And Art Blocks has a very sophisticated process to generate pseudo randomness.
+And Art blocks has a very sophisticated process to generate pseudo-randomness.
 
 20:33.820 --> 20:39.380
 So when you mint something, when you mint an Art Blocks pieces, it takes all types of
@@ -655,7 +653,7 @@ So one thing that people sometimes think that is not actually accurate is let's 
 minted Fidenza 314.
 
 21:03.420 --> 21:10.420
-What is up here on this slide is a very well known Fidenza that I had collected over year
+What is up here on this slide is a very well-known Fidenza that I collected over year
 
 21:10.420 --> 21:11.420
 ago.
@@ -667,7 +665,7 @@ It's Fidenza 313 the tulip.
 It's very nice.
 
 21:14.420 --> 21:21.620
-And let's say you minted Fedenza 314 and you think to yourself, oh man, if I just if I
+And let's say you minted Fidenza 314 and you think to yourself, oh man, if I just if I
 
 21:21.620 --> 21:28.580
 just had minted a little bit earlier, I would have gotten Fidenza 313.
@@ -712,7 +710,7 @@ This is something very new, very different, right?
 Like it doesn't.
 
 22:56.140 --> 23:01.940
-It is very different than the traditional way General DeWart was made.
+It is very different than the traditional way generative art was made.
 
 23:01.940 --> 23:08.540
 Where in Gaudier studio, you would create an algorithm.
@@ -748,7 +746,7 @@ And I went to the other very nice and I'd like to collect and put them on my wal
 And this is wonderful and fine and there's nothing wrong with what I just said.
 
 23:48.740 --> 23:58.900
-But what is happening today with General DeWart collections is much richer, and much more exciting.
+But what is happening today with generative art collections is much richer, and much more exciting.
 
 23:58.900 --> 24:08.380
 And I know what happens is an artist creates an algorithm.
@@ -769,16 +767,16 @@ And when people mint, random variables are pushed into the algorithm and the pie
 out.
 
 24:27.460 --> 24:36.540
-And so it is 100% true that Tyler Hobbs, the creator of Fidenzas, did not know which Fidenzas
+And so it is 100% true that Tower Hobbes, the creator of Fidenzas, did not know which Fidenzas
 
 24:36.540 --> 24:44.180
-would be created until the art blocks meant grand and 1000 Fidenzas were created.
+would be created until the Art Blocks meant grand and 1000 Fidenzas were created.
 
 24:44.180 --> 24:50.700
 Well, this is both, I think, possibly a higher level of challenge, right?
 
 24:50.700 --> 24:53.140
-Because of a very good collection of this type.
+Because a very good collection of this type.
 
 24:53.140 --> 25:00.420
 It has to produce good outputs across the whole collection.
@@ -841,13 +839,13 @@ What collectors look for?
 What I look for?
 
 26:26.340 --> 26:32.180
-For those who don't know, I'm thought of as pretty good in collecting generative art.
+For those who don't know, I'm thought of as pretty good at collecting generative art.
 
 26:32.180 --> 26:38.820
 And the mental model that I think we mostly have is the phone.
 
 26:38.820 --> 26:48.060
-Are the outputs the art visually appealing or interesting?
+Are the outputs of the art visually appealing or interesting?
 
 26:48.060 --> 26:55.420
 A, B. Do they look sufficiently different from each other?
@@ -862,19 +860,19 @@ interesting.
 An algorithm that creates a widespread of surprising images is more interesting.
 
 27:15.260 --> 27:25.100
-And then the third part is does the collection nonetheless hold together and do the pieces
+And then the third part is doing the collection nonetheless hold together and do the pieces
 
 27:25.100 --> 27:28.980
-look like they came from the same collection?
+look like they came from the same collection.
 
 27:28.980 --> 27:29.980
 This is challenging.
 
 27:29.980 --> 27:35.980
-There's hundreds of generative art collections out there.
+There are hundreds of generative art collections out there.
 
 27:35.980 --> 27:44.220
-And I respect them all of them but also obviously some people have succeeded in creating higher
+And I respect all of them but also obviously some people have succeeded in creating higher
 
 27:44.220 --> 27:48.940
 levels of complexity in their work.
@@ -907,10 +905,10 @@ And on the right is a chromie squiggle by Snowfro.
 We'll see on Monday.
 
 28:38.620 --> 28:48.140
-And short form, you see this is not any more showing fiddensis as a short form at the top
+And short form, you see this is not more showing fiddensis as a short form at the top
 
 28:48.140 --> 28:50.380
-but obviously fiddensis are not short form.
+but obviously, fiddensis are not short form.
 
 28:50.380 --> 28:52.940
 Short form would be the traditional model.
@@ -937,10 +935,10 @@ It is possible that I've heard but I find this absolutely fascinating, absolutel
 Thrilling, to be honest.
 
 29:31.540 --> 29:37.460
-Every, the major platform today for long form generative art has been Art Blocks.
+Every, the major platform today for long-form generative art has been Art Blocks.
 
 29:37.460 --> 29:42.020
-There's new ones popping up now but historically it's been art blocks.
+There are new ones popping up now but historically it's been Art Blocks.
 
 29:42.020 --> 29:52.420
 And multiple times a week or sometimes every couple of weeks they have new drops, new
@@ -955,10 +953,10 @@ And the, it is genuinely to me very excited.
 I'm often there at the drops.
 
 30:05.420 --> 30:08.460
-Sometimes I'm in, sometimes I'll collect afterwards.
+Sometimes I'm in, sometimes I'll collect afterward.
 
 30:08.460 --> 30:15.860
-And what's interesting is seeing the art be created in real time in front of you.
+And what's interesting is seeing the art be created in real-time in front of you.
 
 30:15.860 --> 30:23.780
 You will see as people mint new pieces are created, new outputs are created and you can
@@ -973,7 +971,7 @@ is seeing it.
 Right?
 
 30:33.020 --> 30:34.020
-Like that's incredible.
+That's incredible.
 
 30:34.020 --> 30:40.700
 And not just you, you as not a collector, you could be literally anybody on the planet.
@@ -982,7 +980,7 @@ And not just you, you as not a collector, you could be literally anybody on the 
 Anybody on the planet can be sitting there refreshing the collection as people mint and
 
 30:46.340 --> 30:56.140
-watching a collection of art, a collection of work being created in real time.
+watching a collection of art, a collection of work being created in real-time.
 
 30:56.140 --> 31:03.780
 Probably from the algorithm, probably the way the artist says it is.
@@ -1051,7 +1049,7 @@ It is wild that that is created by a computer.
 It is an incredible piece of work.
 
 33:22.940 --> 33:36.980
-This hybrid environment, this human machine hybrid environment, I think is reflective
+This hybrid environment, this human-machine hybrid environment, I think is reflective
 
 33:36.980 --> 33:38.900
 of how we live now.
@@ -1060,7 +1058,7 @@ of how we live now.
 This is who we are.
 
 33:48.460 --> 33:55.900
-It is very well suited to our age, in my view.
+It is very well suited to our age, my view.
 
 33:55.900 --> 33:59.540
 I think we will see a lot more of it.
@@ -1087,7 +1085,7 @@ Or maybe it needs to interact with the medium more and then crypto art being a s
 digital art and crypto art is very clearly aesthetic movement.
 
 34:52.940 --> 34:57.340
-On NFTs there is going to be NFTs, of course, are digital in the broad sense.
+On NFTs there is going to be NFTs, of course, digital in the broad sense.
 
 34:57.340 --> 35:00.300
 They include an NFT token, that is digital.
@@ -1096,7 +1094,7 @@ They include an NFT token, that is digital.
 But there is going to be a wide variety of aesthetics in the NFT space, not just crypto
 
 35:07.340 --> 35:12.020
-art, of traditional landscape photography, that is aesthetic.
+art, of traditional landscape photography, that is a aesthetic.
 
 35:12.020 --> 35:16.660
 But crypto art certainly will be an important movement that reflects the space.
@@ -1129,7 +1127,7 @@ I think we will see its application in metaverse spaces.
 I think we will see its application in consumer products.
 
 36:06.980 --> 36:17.700
-Artblocks has now created an API that allows people to make anything generative.
+Art Blocks has now created an API that allows people to make anything generative.
 
 36:17.700 --> 36:21.660
 And so what do I mean by anything?
@@ -1153,7 +1151,7 @@ But there will also be some aspect of the core certificate that will be generati
 be unique to each certificate holder.
 
 36:52.580 --> 37:11.060
-This ability to both mass craftsmanship, mass personalization and also provably so.
+This ability to both mass craftsmanship, and mass personalization and also provably so.
 
 37:11.060 --> 37:20.060
 I think it is very interesting.
@@ -1243,7 +1241,7 @@ because both of them were generative.
 So it's the same thought process.
 
 40:14.540 --> 40:20.340
-What is very interesting about the autoglyphs is that all the instructions to make them
+What is very interesting about the Autoglyphs is that all the instructions to make them
 
 40:20.340 --> 40:23.180
 are 100% on-chain.
@@ -1252,7 +1250,7 @@ are 100% on-chain.
 So you can just have the token.
 
 40:27.620 --> 40:35.700
-If you have the token, you know how to draw the autoglyph represented by that token.
+If you have the token, you know how to draw the Autoglyph represented by that token.
 
 40:35.700 --> 40:45.700
 There was then a kind of break of year, year and a half when there wasn't a ton of activity
@@ -1267,13 +1265,13 @@ And then there was with the chromisquivals and construction token and you know, 
 and the platform kickstarted a huge explosion in generative art collections.
 
 41:10.460 --> 41:18.780
-Some very high percentage of the market cap of generative art is actually art blocks collections.
+Some very high percentage of the market cap of generative art is actually Art Blocks collections.
 
 41:18.780 --> 41:20.540
 Someone the 80% range.
 
 41:20.540 --> 41:28.980
-There were 100 collections were created on the platform that Eric Stoford created and
+There were 100 collections were created on the platform that Erick Cakderon created and
 
 41:28.980 --> 41:30.980
 it was the hub of this activity.
@@ -1324,7 +1322,7 @@ And so you don't need anything from anyone's server.
 You don't need anything even from decentralized storage like IPFS or ARLiv.
 
 43:06.580 --> 43:14.180
-The only condition for the artwork surviving is the blockchain that you have used.
+The only condition for the artwork surviving is the block chain that you have used.
 
 43:14.180 --> 43:22.020
 The Ethereum and there's a platform called FXASH on, that is also popular for generative
@@ -1363,13 +1361,13 @@ edges into libraries, but I do believe for some new projects libraries are also 
 so the whole piece is on chain.
 
 44:29.460 --> 44:35.220
-So how to dig into this with snow and we might update the slide a little bit.
+So how to dig into this with Snwofro and we might update the slide a little bit.
 
 44:35.220 --> 44:39.860
 Another interesting thing about Art Blocks projects is their resolution independent.
 
 44:39.860 --> 44:47.620
-And this is a condition for minting on the platform and really smart future-proofing.
+And this is a condition for minting on the platform and really smart future proofing.
 
 44:47.620 --> 44:56.060
 They should work the same way on today's screens of 4K, but also in 8K, 16K, 32K, 64K,
@@ -1396,7 +1394,7 @@ It must be a piece like this.
 One interesting project called Cyber brokers then minted the images on chain as well
 
 45:45.460 --> 45:52.100
-and it could cost them 70, 80 ETH, but so the images themselves are also on blockchain.
+and it could cost them 70, 80 ETH, but so the images themselves are also on the blockchain.
 
 45:52.100 --> 45:56.540
 And even here, there is an interesting question.
@@ -1453,7 +1451,7 @@ And so this is another thing that I think pushes generative art, pushes certain 
 of NFTs to generative art because the instructions to draw something are generally much cheaper
 
 47:26.220 --> 47:30.300
-to store than the end image.
+to store the end image.
 
 47:30.300 --> 47:36.740
 And so, now, I want to be clear, this is not necessarily a problem.
@@ -1483,7 +1481,7 @@ People will not be around to hold that together.
 So this is Art Block's effort, as we've discussed it.
 
 48:24.980 --> 48:36.460
-Now, as you've mentioned, deaf beef, it is fully audio-visual.
+Now, as you've mentioned, Deafbeef, is fully audio-visual.
 
 48:36.460 --> 48:41.700
 Art and shame is very, very famous pieces.
@@ -1498,10 +1496,10 @@ And again, it is extremely cutting-edge work before it's time.
 I had shown some of this in my prior presentations.
 
 48:59.300 --> 49:02.300
-The refrigerator does incredible generative work.
+Refrigerator does incredible generative work.
 
 49:02.300 --> 49:08.940
-This is Castle Butler that we had collected, which here, if not long-form generative, it's
+This is Castle Butler that we had collected, which here, if not longform generative, it's
 
 49:08.940 --> 49:10.420
 one piece.
@@ -1546,7 +1544,7 @@ We have a huge, huge, huge number of guests in the generative art space that are
 into the course.
 
 50:20.380 --> 50:27.420
-So what I wanted to accomplish today is to give you the frameworks.
+So what I wanted to accomplish today is give you the frameworks.
 
 50:27.420 --> 50:33.500
 So the frameworks of riots and interesting art movement riots and interesting medium
@@ -1555,7 +1553,7 @@ So the frameworks of riots and interesting art movement riots and interesting me
 for generative art, how the space is largely generative.
 
 50:40.580 --> 50:51.340
-What long-form means, what short-form means, and what some key checkpoints were in the history
+What long-form means, what short-form means, what some key checkpoints were in the history
 
 50:51.340 --> 50:52.340
 of generative art.
@@ -1633,7 +1631,7 @@ And so what we're going to do is what long form and short form is, what were key
 in on-chain generative art, what does on-chain mean?
 
 52:43.580 --> 52:48.580
-And so with these frameworks in place, we're going to talk to Snow from, we're going to
+And so with these frameworks in place, we're going to talk to Snowfro, we're going to
 
 52:48.580 --> 52:50.580
 talk to top generative artists.
@@ -1681,7 +1679,7 @@ at that point, but they'll have no idea which ones those will be.
 The design space for some of these algorithms is utterly gigantic.
 
 54:29.580 --> 54:39.580
-There is a project currently open called QQL, it's by Tatter Hobbes and Dendelite.
+There is a project currently open called QQL, it's by Tyler Hobbs and Dendelite.
 
 54:39.580 --> 54:50.580
 And here it's very interesting, the way the minting works is anyone can play with the different parts
@@ -1854,258 +1852,258 @@ How to write different generative art projects?
 59:48.580 --> 59:54.580
 Well, that's, I'm certainly not going to answer that question by ranking them.
 
-59:54.580 --> 01:00:03.580
+59:54.580 --> 00:03.580
 I think the general concepts that people look at are the output itself from an artistic perspective
 
-01:00:03.580 --> 01:00:06.580
+00:03.580 --> 00:06.580
 is it's aesthetically interesting, is it technically challenging?
 
-01:00:06.580 --> 01:00:09.580
+00:06.580 --> 00:09.580
 What type of output is produced?
 
-01:00:09.580 --> 01:00:17.580
+00:09.580 --> 00:17.580
 A, B, are the pieces sufficiently different from each other?
 
-01:00:17.580 --> 01:00:20.580
+00:17.580 --> 00:20.580
 And C, does it hold together as a collection?
 
-01:00:20.580 --> 01:00:25.580
+00:20.580 --> 00:25.580
 Now you might say, well, this is very qualitative and yes, it's true.
 
-01:00:25.580 --> 01:00:26.580
+00:25.580 --> 00:26.580
 Just mental.
 
-01:00:26.580 --> 01:00:28.580
+00:26.580 --> 00:28.580
 This is how art works.
 
-01:00:28.580 --> 01:00:39.580
+00:28.580 --> 00:39.580
 But there's broad consensus on which collections have resonated better with collectors.
 
-01:00:39.580 --> 01:00:42.580
+00:39.580 --> 00:42.580
 And you can see that in the price of them.
 
-01:00:42.580 --> 01:00:50.580
+00:42.580 --> 00:50.580
 So if you can, there are several hundred collections on art blocks as a useful comparative set.
 
-01:00:50.580 --> 01:00:56.580
+00:50.580 --> 00:56.580
 And you can go to various tools, the unit team has a tool, and if the evaluation tool,
 
-01:00:56.580 --> 01:00:58.580
+00:56.580 --> 00:58.580
 set them by market cap.
 
-01:00:58.580 --> 01:01:07.580
+00:58.580 --> 01:07.580
 The ones with higher market cap are for the, are on the whole, um, valued.
 
-01:01:07.580 --> 01:01:12.580
+01:07.580 --> 01:12.580
 Now, it's also early.
 
-01:01:12.580 --> 01:01:17.580
+01:12.580 --> 01:17.580
 Some of these collections, three year old, a year and a half old, six months old.
 
-01:01:17.580 --> 01:01:27.580
+01:17.580 --> 01:27.580
 I would expect that this will also change over time because this is what happens when, or over time, people,
 
-01:01:27.580 --> 01:01:31.580
+01:27.580 --> 01:31.580
 societies have times that reflect on different art work.
 
-01:01:31.580 --> 01:01:37.580
+01:31.580 --> 01:37.580
 And what might seem very important in 2022 might seem less important in 2022.
 
-01:01:37.580 --> 01:01:38.580
+01:37.580 --> 01:38.580
 And vice versa.
 
-01:01:38.580 --> 01:01:46.580
+01:38.580 --> 01:46.580
 So I wouldn't necessarily say those are today's consensus opinion will be forever tomorrow's consensus opinion.
 
-01:01:46.580 --> 01:01:48.580
+01:46.580 --> 01:48.580
 Some pieces might be ahead of their time.
 
-01:01:48.580 --> 01:01:50.580
+01:48.580 --> 01:50.580
 Very common with artists, right?
 
-01:01:50.580 --> 01:01:53.580
+01:50.580 --> 01:53.580
 Like some, an artist are ahead of their time.
 
-01:01:53.580 --> 01:01:59.580
+01:53.580 --> 01:59.580
 And then over time, people look back and say, my God, this artist was actually saying something very important.
 
-01:01:59.580 --> 01:02:02.580
+01:59.580 --> 02:02.580
 And we're all be appreciating it now because they were ahead of us.
 
-01:02:02.580 --> 01:02:07.580
+02:02.580 --> 02:07.580
 So I don't think of it as a static environment.
 
-01:02:07.580 --> 01:02:13.580
+02:07.580 --> 02:13.580
 But I do think that if you want to ask a bunch of folks who collect gender-de-vark,
 
-01:02:13.580 --> 01:02:17.580
+02:13.580 --> 02:17.580
 what are their ten favorite collections?
 
-01:02:17.580 --> 01:02:24.580
+02:17.580 --> 02:24.580
 Most of them would probably give you five or six that are the same with each other and three or four that are different.
 
-01:02:24.580 --> 01:02:33.580
+02:24.580 --> 02:33.580
 And that's fine, and that as the space gets bigger and we see more types of work and more diversity of work,
 
-01:02:33.580 --> 01:02:35.580
+02:33.580 --> 02:35.580
 it'll be less like that.
 
-01:02:35.580 --> 01:02:42.580
+02:35.580 --> 02:42.580
 There'll be some styles and some areas and some communities because I think gender-de-vark will be like digital art,
 
-01:02:42.580 --> 01:02:51.580
+02:42.580 --> 02:51.580
 a horizontal aspect, not an aesthetic aspect, a technique, not an aesthetic.
 
-01:02:51.580 --> 01:02:57.580
+02:51.580 --> 02:57.580
 Why is Decagon so affordable for you when compared to other generative art collections?
 
-01:02:57.580 --> 01:03:06.580
+02:57.580 --> 03:06.580
 Decagon is an evolving generative art project run by Decagon, which is an art-unftea display platform.
 
-01:03:06.580 --> 01:03:14.580
+03:06.580 --> 03:14.580
 The reason it's affordable slash free is it's being done by the firm to help promote Decagon.
 
-01:03:14.580 --> 01:03:28.580
+03:14.580 --> 03:28.580
 So the business purpose there isn't to generate money from selling NFTs, but to create something interesting,
 
-01:03:28.580 --> 01:03:35.580
+03:28.580 --> 03:35.580
 generative for the community of folks, the deck of community.
 
-01:03:35.580 --> 01:03:39.580
+03:35.580 --> 03:39.580
 And it's the community token in a way.
 
-01:03:39.580 --> 01:03:44.580
+03:39.580 --> 03:44.580
 But like we said before, how things can be generative in nature.
 
-01:03:44.580 --> 01:03:49.580
+03:44.580 --> 03:49.580
 It's a generative token and it's designed to incent activity on the platform.
 
-01:03:49.580 --> 01:03:59.580
+03:49.580 --> 03:59.580
 So the more things you do on Decagon, the more complicated your generative piece becomes.
 
-01:03:59.580 --> 01:04:04.580
+03:59.580 --> 04:04.580
 What makes a great genre of artists do they have to be great coders?
 
-01:04:04.580 --> 01:04:09.580
+04:04.580 --> 04:09.580
 I think it helps to be good.
 
-01:04:09.580 --> 01:04:17.580
+04:09.580 --> 04:17.580
 There is this concept of depends on what I want to say, like partnership, positively, negatively ghost coding,
 
-01:04:17.580 --> 01:04:21.580
+04:17.580 --> 04:21.580
 where the artist has the inspiration, someone else codes a genre of code.
 
-01:04:21.580 --> 01:04:26.580
+04:21.580 --> 04:26.580
 But I think the first concept is more appropriate.
 
-01:04:26.580 --> 01:04:30.580
+04:26.580 --> 04:30.580
 Many things can be done in partnership with other people.
 
-01:04:30.580 --> 01:04:35.580
+04:30.580 --> 04:35.580
 I think some of the top generative artists are quite good at coding.
 
-01:04:35.580 --> 01:04:45.580
+04:35.580 --> 04:45.580
 Maybe not 100% of them, but certain of them are very thought to be quite good at coding generative part.
 
-01:04:45.580 --> 01:04:50.580
+04:45.580 --> 04:50.580
 It's certainly not a substitute for aesthetic sensibility.
 
-01:04:50.580 --> 01:04:52.580
+04:50.580 --> 04:52.580
 You have to have both.
 
-01:04:52.580 --> 01:04:55.580
+04:52.580 --> 04:55.580
 But it's certainly not a minus.
 
-01:04:55.580 --> 01:05:08.580
+04:55.580 --> 05:08.580
 Certainly, if you have aesthetic sensibility, the better your coding skills are, the more likely you are to be able to implement your vision in code.
 
-01:05:08.580 --> 01:05:13.580
+05:08.580 --> 05:13.580
 So I think it's helpful.
 
-01:05:13.580 --> 01:05:17.580
+05:13.580 --> 05:17.580
 How will generative art evolve and be like in 2030?
 
-01:05:17.580 --> 01:05:24.580
+05:17.580 --> 05:24.580
 I would put it backwards instead of saying how will generative art evolve?
 
-01:05:24.580 --> 01:05:27.580
+05:24.580 --> 05:27.580
 There's going to be all types of things in generative art, right?
 
-01:05:27.580 --> 01:05:30.580
+05:27.580 --> 05:30.580
 I can't predict all the artists in 2030.
 
-01:05:30.580 --> 01:05:45.580
+05:30.580 --> 05:45.580
 I would say, just how you can say it is more like digital art, that generative art will, generative techniques will diffuse into everything.
 
-01:05:45.580 --> 01:06:03.580
+05:45.580 --> 06:03.580
 So what I'm comfortable is the case about 2030 is that the world, at large for sure the digital world and possibly parts of the physical world will have generative components.
 
-01:06:03.580 --> 01:06:12.580
+06:03.580 --> 06:12.580
 Are there two questions together?
 
-01:06:12.580 --> 01:06:18.580
-CCC zero coding templates we can make derivatives with?
+06:12.580 --> 06:18.580
+CC0 coding templates we can make derivatives with?
 
-01:06:18.580 --> 01:06:23.580
+06:18.580 --> 06:23.580
 Where do you find out about creating generative art algorithms?
 
-01:06:23.580 --> 01:06:26.580
+06:23.580 --> 06:26.580
 So this is a very good question.
 
-01:06:26.580 --> 01:06:29.580
+06:26.580 --> 06:29.580
 And I think we need this in the presentation.
 
-01:06:29.580 --> 01:06:32.580
+06:29.580 --> 06:32.580
 George, if you can flag it to make sure we do add it to the presentation.
 
-01:06:32.580 --> 01:06:41.580
+06:32.580 --> 06:41.580
 And I think we can actually, if it's a question we should ask our guests of one of the best tools for someone who wants to get involved in generative art.
 
-01:06:41.580 --> 01:06:43.580
+06:41.580 --> 06:43.580
 So it's a really great question.
 
-01:06:43.580 --> 01:06:51.580
+06:43.580 --> 06:51.580
 And I think we should have, we should have it in the reading as a specific slide that says, I'm interested in generative art.
 
-01:06:51.580 --> 01:06:53.580
+06:51.580 --> 06:53.580
 I want to be a generative artist.
 
-01:06:53.580 --> 01:06:55.580
+06:53.580 --> 06:55.580
 Experiment with being a generative artist.
 
-01:06:55.580 --> 01:06:57.580
+06:55.580 --> 06:57.580
 What are the best places we go to first?
 
-01:06:57.580 --> 01:07:03.580
+06:57.580 --> 07:03.580
 So I think that would be, that would be super neat.
 
-01:07:03.580 --> 01:07:20.580
+07:03.580 --> 07:20.580
 A lot of derivatives are full of generative art, but more manual at the level where the original meme is the algorithm and the derivative artist is the manual input.
 
-01:07:20.580 --> 01:07:23.580
+07:20.580 --> 07:23.580
 Now I want to think about that one.
 
-01:07:23.580 --> 01:07:25.580
+07:23.580 --> 07:25.580
 I don't think about that one.
 
-01:07:25.580 --> 01:07:30.580
+07:25.580 --> 07:30.580
 I think generative art means that there is a part of the art that is being created.
 
-01:07:30.580 --> 01:07:38.580
+07:30.580 --> 07:38.580
 The actual algorithm is created that is procedurally created, that is created in an automated manner without human intervention.
 
-01:07:38.580 --> 01:07:42.580
+07:38.580 --> 07:42.580
 That's what it means to me.
 
-01:07:48.580 --> 01:07:49.580
+07:48.580 --> 07:49.580
 Okay.
 
-01:07:49.580 --> 01:07:51.580
+07:49.580 --> 07:51.580
 I think we're pretty good on the questions.
 
-01:07:51.580 --> 01:07:54.580
+07:51.580 --> 07:54.580
 So I think I'm going to wrap up here.
 
-01:07:54.580 --> 01:08:00.580
+07:54.580 --> 08:00.580
 Thank you everyone once again.
 

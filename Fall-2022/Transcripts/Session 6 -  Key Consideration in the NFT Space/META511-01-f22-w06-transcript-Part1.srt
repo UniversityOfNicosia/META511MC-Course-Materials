@@ -4,7 +4,7 @@ Okay, everyone, I think we are now all set.
 
 2
 00:00:25,480 --> 00:00:33,720
-This is session 6 of Meta 511 Non-Fungible Tokens and the Metaverse.
+This is session 6 of META-511 Non-Fungible Tokens and the Metaverse.
 
 3
 00:00:33,720 --> 00:00:37,160
@@ -1120,11 +1120,11 @@ So...
 
 281
 00:30:29,620 --> 00:30:35,620
-Rareity is important in collectibles.
+Rearity is important in collectibles.
 
 282
 00:30:35,620 --> 00:30:45,620
-Of course, rarity is important in collectibles contingent on the overall category being interesting.
+Of course, rearity is important in collectibles contingent on the overall category being interesting.
 
 283
 00:30:45,620 --> 00:30:52,620
@@ -1152,11 +1152,11 @@ and therefore it's desirable to own it.
 
 289
 00:31:27,620 --> 00:31:33,620
-The rarity by itself doesn't mean anything.
+The rearity by itself doesn't mean anything.
 
 290
 00:31:33,620 --> 00:31:40,620
-I could draw on five pieces of paper, five special six, five, two, nine cards,
+I could draw on five pieces of paper, five special 6529,
 
 291
 00:31:40,620 --> 00:31:44,620
@@ -1164,7 +1164,7 @@ and then we should pursue a rare by the guns, and then we'll say I'm using it in
 
 292
 00:31:44,620 --> 00:31:51,620
-Right? So, Rareity is important, contingent on the category being important.
+Right? So, Rearity is important, contingent on the category being important.
 
 293
 00:31:51,620 --> 00:31:58,620
@@ -1300,7 +1300,7 @@ in the fine art print of an addition of a hundred of them,
 
 326
 00:34:45,620 --> 00:34:54,620
-the artist said, look, I'm referencing Jean-Michel's work and updating it for the modern era.
+the artist said, look, I'm referencing John-Michel's work and updating it for the modern era.
 
 327
 00:34:54,620 --> 00:34:56,620
@@ -1424,7 +1424,7 @@ And it constantly reminds me of this discussion.
 
 357
 00:37:48,620 --> 00:37:53,620
-And it's a cliché that I'm putting this slide up.
+And it's a cliche that I'm putting this slide up.
 
 358
 00:37:53,620 --> 00:37:54,620
@@ -1508,7 +1508,7 @@ But I want to emphasize, I don't think there's anything wrong with collectibles,
 
 378
 00:40:54,620 --> 00:41:11,620
-It is in fact an excellent case for collectibles. Just like we've heard, or you'll hear a lot tomorrow of an art known about fraud and provenance fraud in the art world, there's also nation collectibles.
+It is in fact an excellent case for collectibles. Just like we've heard, or you'll hear a lot tomorrow of ARTNOME about fraud and provenance fraud in the art world, there's also nation collectibles.
 
 379
 00:41:11,620 --> 00:41:18,620
@@ -1712,7 +1712,7 @@ But it doesn't overwhelm their rarity.
 
 429
 00:47:15,620 --> 00:47:27,620
-A very aesthetic hoodie punk generically will trade for, I don't know, three, four, hundred if.
+A very aesthetic hoodie punk generically will trade for, I don't know, three, four, hundred ETH.
 
 430
 00:47:27,620 --> 00:47:33,620
@@ -1848,7 +1848,7 @@ So it's not statistically rare by the set.
 
 463
 00:50:20,620 --> 00:50:26,620
-But it's considered one of the more peaceful ones, and certainly one of the more medical ones.
+But it's considered one of the more peaceful ones, and certainly one of the more med ones.
 
 464
 00:50:26,620 --> 00:50:29,620
@@ -2004,7 +2004,7 @@ If they don't matter, it doesn't matter what they're rare, right? It doesn't mat
 
 502
 00:54:30,620 --> 00:54:43,620
-Okay. Let's switch topics. Let's put another chunk of ideas into the framework, which is NFT5.
+Okay. Let's switch topics. Let's put another chunk of ideas into the framework, which is NFT-Fi.
 
 503
 00:54:43,620 --> 00:54:51,620
@@ -2024,7 +2024,7 @@ How do they become, how do NFTs become composable?
 
 507
 00:55:10,620 --> 00:55:18,620
-When decentralized finance, chemicals, or in some cases here, there are protocols and services.
+When decentralized finance, protocols, or in some cases here, there are protocols and services.
 
 508
 00:55:18,620 --> 00:55:23,620
@@ -2048,7 +2048,7 @@ or there's pools of NFTs and you can be an LP like you are in Uniswap.
 
 513
 00:55:55,620 --> 00:56:05,620
-People have fractionalization platforms. In fractionalization platforms, you put in your non-funcible NFT.
+People have fractionalization platforms. In fractionalization platforms, you put in your non-fungible NFT.
 
 514
 00:56:05,620 --> 00:56:13,620
@@ -2060,7 +2060,7 @@ And it will sell, it will create, fungible ERC-20 tokens, not ERC-21 tokens.
 
 516
 00:56:22,620 --> 00:56:29,620
-Tokens of that non-funcible token.
+Tokens of that non-fungible token.
 
 517
 00:56:29,620 --> 00:56:36,620
@@ -2084,7 +2084,7 @@ not the technical user experience of wrapping it in rationalizing, that's actual
 
 522
 00:57:00,620 --> 00:57:13,620
-But the experience of what does it mean to own that fractional shard of a non-funcible token.
+But the experience of what does it mean to own that fractional shard of a non-fungible token.
 
 523
 00:57:13,620 --> 00:57:20,620
@@ -2092,7 +2092,7 @@ I will tell you for me, and I think for many, it doesn't feel the same.
 
 524
 00:57:20,620 --> 00:57:41,620
-Owning a NFT feels like one type of thing. Owning a one of 10,000 functional tokens of that same NFT feels different.
+Owning a NFT feels like one type of thing. Owning a one of 10,000 fungible tokens of that same NFT feels different.
 
 525
 00:57:41,620 --> 00:57:53,620
@@ -2324,7 +2324,7 @@ If every time they have to pay a 5 or 10% royalty, they can't market make if the
 
 582
 01:06:37,620 --> 01:06:42,620
-There will be less.
+There will be less,
 
 583
 01:06:42,620 --> 01:06:47,620
@@ -2352,7 +2352,7 @@ You might not like the price you'll get, but you'll get a price.
 
 589
 01:07:22,620 --> 01:07:30,620
-There is value, I believe, and be able to say, look, I want to get a price for my board.
+There is value, I believe, and be able to say, look, I want to get a price for my Bored Ape.
 
 590
 01:07:30,620 --> 01:07:33,620
@@ -2504,7 +2504,7 @@ It's going to be super interesting. So with that.
 
 627
 01:10:29,620 --> 01:10:35,620
-I'm going to switch to Q and A, maybe take 10, 15 minutes of Q and I and.
+I'm going to switch to Q&A, maybe take 10, 15 minutes of Q&A.
 
 628
 01:10:35,620 --> 01:10:39,620
@@ -2520,7 +2520,7 @@ And plan.
 
 631
 01:10:42,620 --> 01:11:11,620
-I think we should still take some Q and A.
+I think we should still take some Q&A.
 
 632
 01:11:11,620 --> 01:11:13,620
@@ -2544,7 +2544,7 @@ I don't think there's a lot of.
 
 637
 01:11:27,620 --> 01:11:32,620
-I wasn't showing those soup cans because I'm going to become in 10 of T's. They're not enough T's.
+I wasn't showing those soup cans because I'm going to become in 10 of NFTs. They're not enough NFTs.
 
 638
 01:11:32,620 --> 01:11:35,620
@@ -2648,7 +2648,7 @@ It's going to matter in a circular.
 
 663
 01:13:29,620 --> 01:13:38,620
-More than it's going to matter in a.
+More than it's going to matter in a
 
 664
 01:13:38,620 --> 01:13:43,620
@@ -2768,7 +2768,7 @@ George.
 
 693
 01:15:21,620 --> 01:15:25,620
-As a conflict, so I will do the Q and A with.
+As a conflict, so I will do the Q&A with.
 
 694
 01:15:25,620 --> 01:15:28,620
@@ -2789,8 +2789,4 @@ Are able to join.
 698
 01:15:42,620 --> 01:15:45,620
 Everyone, thank you very much again.
-
-699
-01:15:45,620 --> 01:16:08,620
-You.
 

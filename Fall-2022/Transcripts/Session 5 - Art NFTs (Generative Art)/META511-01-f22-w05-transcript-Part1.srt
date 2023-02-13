@@ -1,6 +1,6 @@
 1
 00:00:00,000 --> 00:00:01,000
-Great.
+
 
 2
 00:00:01,000 --> 00:00:25,760
@@ -8,7 +8,7 @@ Well, thank you so much everyone as always for joining.
 
 3
 00:00:25,760 --> 00:00:30,400
-This is session five of Meta 511.
+This is session five of META-511.
 
 4
 00:00:30,400 --> 00:00:32,640
@@ -392,7 +392,7 @@ Someone could have.
 
 99
 00:09:12,320 --> 00:09:27,500
-C
+
 
 100
 00:09:27,500 --> 00:09:43,360
@@ -508,7 +508,7 @@ People don't think about this, but it's true.
 
 128
 00:13:01,940 --> 00:13:07,900
-You see those 10,000 crypto punks as hell, it's kind of obvious that obviously some trait
+You see those 10,000 crypto punks as well, it's kind of obvious that obviously some trait
 
 129
 00:13:07,900 --> 00:13:10,860
@@ -720,7 +720,7 @@ Well, you can't actually do this with none NFTs.
 
 181
 00:17:26,260 --> 00:17:35,820
-If I started drawing 6'5", 29 punks and started handing them out or selling them in a gallery
+If I started drawing 6529 punks and started handing them out or selling them in a gallery
 
 182
 00:17:35,820 --> 00:17:41,540
@@ -2176,7 +2176,7 @@ in on-chain generative art, what does on-chain mean?
 
 545
 00:52:43,580 --> 00:52:48,580
-And so with these frameworks in place, we're going to talk to Snow from, we're going to
+And so with these frameworks in place, we're going to talk to Snowfro, we're going to
 
 546
 00:52:48,580 --> 00:52:50,580
@@ -2724,7 +2724,7 @@ Are there two questions together?
 
 682
 01:06:12,580 --> 01:06:18,580
-CCC zero coding templates we can make derivatives with?
+CC0 coding templates we can make derivatives with?
 
 683
 01:06:18,580 --> 01:06:23,580

@@ -1,6 +1,6 @@
 1
 00:00:00,000 --> 00:00:27,240
-Welcome everyone to session 3 of meta 5 11 NFTs and the metaverse.
+Welcome everyone to session 3 of META-511, NFTs and the Metaverse.
 
 2
 00:00:27,240 --> 00:00:33,480
@@ -32,7 +32,7 @@ This week I'm going to present some material about PFPs today.
 
 9
 00:01:05,240 --> 00:01:14,660
-Yesterday I reported a session with Garga Greg Solano from Yuga Labs where we covered
+Yesterday I recorded a session with Garga, Greg Solano from Yuga Labs where we covered
 
 10
 00:01:14,660 --> 00:01:22,640
@@ -52,7 +52,7 @@ material because that session implies some good understanding of the topic alrea
 
 14
 00:01:46,480 --> 00:01:54,720
-And then hopefully the next few days I'll have a similar discussion with pump 4156 where
+And then hopefully the next few days I'll have a similar discussion with punk 4156 where
 
 15
 00:01:54,720 --> 00:02:02,320
@@ -196,7 +196,7 @@ stream into home after I finish presenting the slides.
 
 50
 00:05:21,760 --> 00:05:31,000
-I'm going to try and answer the questions directly in home using OMS audio feature and
+I'm going to try and answer the questions directly in OM using OMS audio feature and
 
 51
 00:05:31,000 --> 00:05:37,160
@@ -268,7 +268,7 @@ This is what I had mentioned earlier today.
 
 68
 00:06:45,400 --> 00:06:57,000
-We have the first session on Thursday at let me try at one thirty Eastern time.
+We have the first session on Thursday at one thirty Eastern time.
 
 69
 00:06:57,000 --> 00:07:02,400
@@ -280,7 +280,7 @@ Darga and we're still working on logistics for one five six, it will come later.
 
 71
 00:07:09,080 --> 00:07:16,080
-So please follow the unique metaverse Twitter account about keeping posted with all the
+So please follow the UNIC metaverse Twitter account about keeping posted with all the
 
 72
 00:07:16,080 --> 00:07:18,080
@@ -380,7 +380,7 @@ Some people put a picture of something else that's important, a special place of
 
 96
 00:09:34,200 --> 00:09:39,200
-Sometimes they're spouse, they're children.
+Sometimes they're spouse, their children.
 
 97
 00:09:39,200 --> 00:09:46,200
@@ -396,7 +396,7 @@ And even here, there's kind of two models.
 
 100
 00:10:00,200 --> 00:10:12,200
-People who are using an NFT from a collection that is specifically oriented to be a PFT collection.
+People who are using an NFT from a collection that is specifically oriented to be a PFP collection.
 
 101
 00:10:12,200 --> 00:10:23,200
@@ -404,7 +404,7 @@ And then people who are just putting it as a PFT and NFT that might just be a pi
 
 102
 00:10:23,200 --> 00:10:31,200
-So, it's interesting that a KFPs even predate the Internet.
+So, it's interesting that PFPs even predate the Internet.
 
 103
 00:10:31,200 --> 00:10:35,200
@@ -744,7 +744,7 @@ whether it's on social media, whether it's in gaming,
 
 187
 00:18:49,200 --> 00:18:54,200
-all of this predates an FT.
+all of this predates NFTs.
 
 188
 00:18:54,200 --> 00:19:00,200
@@ -776,7 +776,7 @@ from non-NFT people, so I don't know. I can't believe people using these silly a
 
 195
 00:19:40,200 --> 00:19:44,200
-or the silly TFPs, they're paying money for them.
+or the silly PFPs, they're paying money for them.
 
 196
 00:19:44,200 --> 00:19:48,200
@@ -980,7 +980,7 @@ like the people will buy
 
 246
 00:22:36,200 --> 00:22:41,200
-a LeBron James shirt.
+a Le Bron James shirt.
 
 247
 00:22:41,200 --> 00:22:44,200
@@ -1304,11 +1304,11 @@ And there is something like this
 
 327
 00:25:39,200 --> 00:25:43,200
-growing on with TFPs.
+growing on with PFPs.
 
 328
 00:25:43,200 --> 00:25:47,200
-A crypto-punk TFP
+A crypto-punk PFP
 
 329
 00:25:47,200 --> 00:25:50,200
@@ -1428,7 +1428,7 @@ And, I mean, this is,
 
 358
 00:26:46,200 --> 00:26:49,200
-TFPs send a message not only about
+PFPs send a message not only about
 
 359
 00:26:49,200 --> 00:26:51,200
@@ -1556,11 +1556,11 @@ as well, right?
 
 390
 00:28:01,200 --> 00:28:03,200
-Um,
+
 
 391
 00:28:03,200 --> 00:28:05,200
-sushi from
+sashimi from
 
 392
 00:28:05,200 --> 00:28:07,200
@@ -1708,7 +1708,7 @@ you might have a more
 
 428
 00:29:18,200 --> 00:29:20,200
-fixed photo,
+sexy photo,
 
 429
 00:29:20,200 --> 00:29:22,200
@@ -1928,7 +1928,7 @@ concerns, like you have
 
 483
 00:31:04,200 --> 00:31:06,200
-the GP isn't concerned
+the GPS isn't concerned
 
 484
 00:31:06,200 --> 00:31:08,200
@@ -1992,7 +1992,7 @@ we're going to see
 
 499
 00:31:36,200 --> 00:31:38,200
-with EFP's and
+with PFP's and
 
 500
 00:31:38,200 --> 00:31:40,200
@@ -2052,7 +2052,7 @@ might be
 
 514
 00:32:10,200 --> 00:32:12,200
-monster slayer 1997,
+monster_slayer_1997,
 
 515
 00:32:12,200 --> 00:32:14,200
@@ -2264,7 +2264,7 @@ from a certain other area.
 
 567
 00:33:54,200 --> 00:33:56,200
-And for it's
+And i used the the word
 
 568
 00:33:56,200 --> 00:33:58,200
@@ -2320,7 +2320,7 @@ It's synonymous.
 
 581
 00:34:22,200 --> 00:34:24,200
-It's synonymous with
+6529 It's synonymous and 6529 shows evryday on Twitter with
 
 582
 00:34:24,200 --> 00:34:26,200
@@ -2492,11 +2492,11 @@ Again, I'm saying this thing.
 
 624
 00:35:40,200 --> 00:35:42,200
-I'm talking about
+I'm talking about. 6529 is synonymus but just as consistency
 
 625
 00:35:42,200 --> 00:35:44,200
-it.
+...
 
 626
 00:35:44,200 --> 00:35:46,200
@@ -2724,11 +2724,11 @@ There is a faculty
 
 682
 00:37:36,200 --> 00:37:38,200
-number at the
+number at the University of Nicosia
 
 683
 00:37:38,200 --> 00:37:40,200
-station.
+
 
 684
 00:37:40,200 --> 00:37:42,200
@@ -3000,7 +3000,7 @@ avatar you and your
 
 751
 00:39:50,200 --> 00:39:52,200
-PFT might not be 100%
+PFP might not be 100%
 
 752
 00:39:52,200 --> 00:39:54,200
@@ -3056,7 +3056,7 @@ NFTs and specifically in
 
 765
 00:40:18,200 --> 00:40:20,200
-PFT.
+PFP's.
 
 766
 00:40:20,200 --> 00:40:22,200
@@ -3184,7 +3184,7 @@ Arda on Thursday
 
 797
 00:41:20,200 --> 00:41:22,200
-four 156
+4156
 
 798
 00:41:22,200 --> 00:41:22,200
@@ -3216,7 +3216,7 @@ start as a PFP collection. Larvalabs, the founders, Matt and John did not come o
 
 805
 00:42:06,360 --> 00:42:14,920
-everyone needs profile pictures that look like low res cartoons. And so here come picture profile
+everyone needs profile pictures that look like low-res cartoons. And so here come picture profile
 
 806
 00:42:14,920 --> 00:42:21,880
@@ -3260,7 +3260,7 @@ mental models on what the puncture, where is it art or is it collectible? It was
 
 816
 00:43:36,440 --> 00:43:45,960
-is it a PFP? And this quote here is from an interview that the larval abs scheme
+is it a PFP? And this quote here is from an interview that the larval abs Team
 
 817
 00:43:45,960 --> 00:43:54,120
@@ -3288,7 +3288,7 @@ What's really interesting when you look at this, you know, what's not there is P
 
 823
 00:44:27,000 --> 00:44:33,960
-Because that's on how they were thinking. The use of puncture pumps as PFP was emergent.
+Because that's on how they were thinking. The use of crypto-punk as PFP was emergent.
 
 824
 00:44:36,200 --> 00:44:44,280
@@ -3300,7 +3300,7 @@ as it is now. It didn't happen right away. The project was launched in 2017. And
 
 826
 00:44:50,600 --> 00:44:57,720
-these are the first times that people used a crypto pump as their profile machine.
+these are the first times that people used a crypto-punk as their profile machine.
 
 827
 00:44:58,760 --> 00:45:02,760
@@ -3312,7 +3312,7 @@ but these weren't seminal events. And the first was in January when key money pa
 
 829
 00:45:11,640 --> 00:45:16,840
-I think $100,000 is the pump gave us back that was a gigantic record.
+I think $100,000 is the punk gave us back that was a gigantic record.
 
 830
 00:45:18,440 --> 00:45:25,160
@@ -3328,7 +3328,7 @@ and also encouraged a lot of derivatives to be made of his profile picture. And 
 
 833
 00:45:42,760 --> 00:45:49,320
-to speak to both 4156 and G1U. Of course, we're going to ask them directly how they thought
+to speak to both 4156 and G-Money. Of course, we're going to ask them directly how they thought
 
 834
 00:45:49,320 --> 00:45:54,600
@@ -3356,7 +3356,7 @@ We'll talk about what that might mean, but it's an incredible fund.
 
 840
 00:46:34,600 --> 00:46:54,680
-It's certainly impacted my thinking about 659, that it became very obvious to me in 2021,
+It's certainly impacted my thinking about 6529, that it became very obvious to me in 2021,
 
 841
 00:46:54,680 --> 00:47:03,320
@@ -3364,7 +3364,7 @@ early 2020. That's the idea that you can have an NFT in that NFT to represent yo
 
 842
 00:47:03,320 --> 00:47:10,360
-whether it's a 2D PFD or whether it's a 3D avatar. And the models are going to change
+whether it's a 2D PFP or whether it's a 3D avatar. And the models are going to change
 
 843
 00:47:10,920 --> 00:47:16,040
@@ -3504,7 +3504,7 @@ but a little bit. And so this, I think it's very interesting. I think
 
 877
 00:51:34,520 --> 00:51:45,160
-the NFTs do have at some level product market that that level means that people will want, need,
+PFPs do have at some level product market that that level means that people will want, need,
 
 878
 00:51:45,160 --> 00:51:51,400
@@ -3528,7 +3528,7 @@ interesting question, but not today's question. The question is, there is not th
 
 883
 00:52:15,480 --> 00:52:23,560
-There was one, I believe, people will use the NFTs in this way. And it's a fairly obvious
+There was one, I believe, people will use the PFPs in this way. And it's a fairly obvious
 
 884
 00:52:23,560 --> 00:52:30,440
@@ -3544,7 +3544,7 @@ what happens, I'm saying this more for people for not even the space, what happe
 
 887
 00:52:52,440 --> 00:52:57,560
-this NFTs? What is it done before I get to know Barat? What messaging is he saying?
+this NFTs? What is it done before I get to know Bharat? What messaging is he saying?
 
 888
 00:52:57,560 --> 00:53:01,960
@@ -3684,7 +3684,7 @@ Liga, which founded the Bordips.com PFP culture. It was very ambitious,
 
 922
 00:56:28,360 --> 00:56:35,480
-post-mintly, in offering all types of benefits, buddies, fun features to their community.
+post-minting, in offering all types of benefits, buddies, fun features to their community.
 
 923
 00:56:36,920 --> 00:56:43,240
@@ -3740,11 +3740,11 @@ or they pulled or launched an aggressiveness, but if this is going to be your id
 
 936
 00:58:00,600 --> 00:58:08,200
-you should be able to do it every while. And crypto punks from our labs were not totally clear
+you should be able to do it every while. And crypto-punks from our labs were not totally clear
 
 937
 00:58:08,200 --> 00:58:12,600
-what you could do with your crypto punks. And Yuga said, no, if you're on this 48, you could do it
+what you could do with your crypto-punks. And Yuga said, no, if you're on this 48, you could do it
 
 938
 00:58:12,600 --> 00:58:17,960
@@ -3768,7 +3768,7 @@ it was mint of the point zero, repeat from you. At some point, it crossed a hund
 
 943
 00:58:43,800 --> 00:58:59,800
-meters per BFB. And I know this isn't just a question, and no idea what that price was for, or any
+meters per PFP. And I know this isn't just a question, and no idea what that price was for, or any
 
 944
 00:59:00,280 --> 00:59:07,000
@@ -3784,7 +3784,7 @@ the punks have the benefit that they were first, early, have heritage in history
 
 947
 00:59:29,240 --> 00:59:40,920
-And so it's plausible to believe that the crypto punks are the Andy Warhol shoot cans of BFBs.
+And so it's plausible to believe that the crypto punks are the Andy Warhol shoot cans of PFPs.
 
 948
 00:59:42,360 --> 00:59:47,400
@@ -3800,7 +3800,7 @@ there's simplistic, probably actually even helps them in terms of, you know, bei
 
 951
 01:00:00,920 --> 01:00:07,480
-impacted by fashion trends. And so this, that opportunity was unique to the punks.
+impacted by fashion trends. And so, that opportunity was unique to the punks.
 
 952
 01:00:08,920 --> 01:00:15,240
@@ -3816,7 +3816,7 @@ focus, this space shift there, because obviously people are saying, oh my gosh, 
 
 955
 01:00:28,680 --> 01:00:35,720
-opportunity is like, people like having an FD, there are PFPs, there's 10,000 punks, people can
+opportunity is like, people like having an NFT, there are PFPs, there's 10,000 punks, people can
 
 956
 01:00:35,720 --> 01:00:41,080
@@ -3824,7 +3824,7 @@ do a very quick check, check if there's more than 10,000 people know. You know, 
 
 957
 01:00:41,080 --> 01:00:45,400
-maybe there's not 10,000 people who want to spend a lot of money in the BFB. And I think this is
+maybe there's not 10,000 people who want to spend a lot of money in the PFP. And I think this is
 
 958
 01:00:45,400 --> 01:00:50,280
@@ -3856,7 +3856,7 @@ identity reasons, many belonging reasons, especially. And the average Rolex is u
 
 965
 01:01:28,120 --> 01:01:33,240
-$13,000, which is still a reasonably priced BFB. And there's a million of those a year, right? So,
+$13,000, which is still a reasonably priced PFP. And there's a million of those a year, right? So,
 
 966
 01:01:33,960 --> 01:01:39,640
@@ -3864,7 +3864,7 @@ a lot of people in the post-based NFTs phase with an entrepreneurial line and in
 
 967
 01:01:41,400 --> 01:01:50,920
-obviously, there's going to be more demand for BFBs in a thousand. And in which case,
+obviously, there's going to be more demand for PFPs in a thousand. And in which case,
 
 968
 01:01:50,920 --> 01:01:59,960
@@ -3940,7 +3940,7 @@ Most of you are still in the orange of PFP, or should something up for a few mon
 
 986
 01:04:03,240 --> 01:04:08,600
-any doubt in my mind that people will use PFP, isn't? If you want them to be
+any doubt in my mind that people will use PFPs, isn't? If you want them to be
 
 987
 01:04:09,160 --> 01:04:15,400
@@ -4076,7 +4076,7 @@ still unclear, owning an actual noun tough and will show a level of provenance a
 
 1020
 01:07:42,040 --> 01:07:52,040
-its need, and it should be valuable. It is the far edge of GFP experimentation in life.
+its need, and it should be valuable. It is the far edge of PFPs experimentation in life.
 
 1021
 01:07:53,160 --> 01:07:57,000
@@ -4088,7 +4088,7 @@ like with 411Xs, about this office.
 
 1023
 01:07:59,480 --> 01:08:08,360
-Also, you know, we had mentioned avatars, avatars, of course, coming. They're coming to GFP world.
+Also, you know, we had mentioned avatars, avatars, of course, coming. They're coming to PFP world.
 
 1024
 01:08:08,360 --> 01:08:17,800
@@ -4120,7 +4120,7 @@ Now, I'm going to go highly abstract, or something, a whole lot.
 
 1031
 01:08:50,520 --> 01:09:02,760
-I want to inject into your thinking. One of the things that fascinates me about GFP collections
+I want to inject into your thinking. One of the things that fascinates me about PFP collections
 
 1032
 01:09:03,640 --> 01:09:13,320
@@ -4136,7 +4136,7 @@ You don't have to know who any of the
 
 1035
 01:09:25,880 --> 01:09:31,080
-HEPDO blog holders are in real life. You don't need to know their mailing address,
+crypto-punk holders are in real life. You don't need to know their mailing address,
 
 1036
 01:09:31,080 --> 01:09:34,600
@@ -4148,7 +4148,7 @@ to be able to address them. What do I mean by address them? Well, you can airdro
 
 1038
 01:09:43,800 --> 01:09:51,320
-a token of any type by airdroping it to the addresses that have HEPDO.
+a token of any type by airdroping it to the addresses that have crypto-punks.
 
 1039
 01:09:52,200 --> 01:09:55,400
@@ -4156,7 +4156,7 @@ You don't need anyone's permission to do it. It's right there. It's easy to find
 
 1040
 01:09:55,960 --> 01:10:02,520
-You can create an application, where someone who has a HEPDO blog
+You can create an application, where someone who has a crypto-punk
 
 1041
 01:10:02,520 --> 01:10:07,960
@@ -4168,11 +4168,11 @@ Now, if those features were, it could be things like,
 
 1043
 01:10:11,960 --> 01:10:17,080
-our own against your crypto blog, because you know, you feel you know how much
+our own against your crypto-punk, because you know, you feel you know how much
 
 1044
 01:10:17,080 --> 01:10:20,760
-your crypto blog's are worth, and you're willing to take a crypto blog as collateral,
+your crypto-punks's are worth, and you're willing to take a crypto-punk as collateral,
 
 1045
 01:10:21,240 --> 01:10:24,360
@@ -4180,7 +4180,7 @@ and extend a blog against it. It could be
 
 1046
 01:10:26,040 --> 01:10:29,560
-signing a licensing degree with the crypto blog's world bought by Yuga.
+signing a licensing degree with the crypto-punk's world bought by Yuga.
 
 1047
 01:10:29,560 --> 01:10:37,320
@@ -4188,7 +4188,7 @@ And so they now have commercial rights, and so let's say I wanted to sell coffee
 
 1048
 01:10:37,320 --> 01:10:42,840
-crypto books on them. I could make an application and say, hey, I want to
+crypto-punks on them. I could make an application and say, hey, I want to
 
 1049
 01:10:42,840 --> 01:10:48,520
@@ -4204,7 +4204,7 @@ with a non-exclusive sublice. You could say in another verse environment,
 
 1052
 01:11:02,840 --> 01:11:08,680
-and bomb, and say, oh, here's a neighborhood, and this neighborhood is only available to
+and OM, and say, oh, here's a neighborhood, and this neighborhood is only available to
 
 1053
 01:11:09,640 --> 01:11:13,800
@@ -4224,11 +4224,11 @@ nine to seven, how they want to do it, everyone under making games, once they've
 
 1057
 01:11:31,400 --> 01:11:41,640
-they can monetize it, but people will make games that would use existing FTS.
+they can monetize it, but people will make games that would use existing PFPs.
 
 1058
 01:11:42,680 --> 01:11:45,880
-You can say, oh, look, I made this whole game, and if I have a crypto blog,
+You can say, oh, look, I made this whole game, and if I have a crypto-punk,
 
 1059
 01:11:45,880 --> 01:11:50,840
@@ -4276,7 +4276,7 @@ involved, right? And, hey, you can't easily get access to them, and need to get 
 
 1070
 01:12:59,960 --> 01:13:07,800
-for someone to give you access to them. Usually, usually, they're going to handle
+for someone to give you access to them. Usually, they're going to handle
 
 1071
 01:13:07,800 --> 01:13:11,320
@@ -4324,7 +4324,7 @@ developing things for your community, regardless of which model you are, like yo
 
 1082
 01:14:18,440 --> 01:14:24,760
-you can get a commercial model, or you can get a CCZ model, someone can still make an opt-in service
+you can get a commercial model, or you can get a CC0 model, someone can still make an opt-in service
 
 1083
 01:14:24,760 --> 01:14:34,360
@@ -4452,7 +4452,7 @@ most utility miscollections, I believe, will fail at all. Now, ones that work
 
 1114
 01:18:05,640 --> 01:18:16,840
-are the ones who managed to build a broad ecosystem, but the original TFPs are not highly
+are the ones who managed to build a broad ecosystem, but the original PFPs are not highly
 
 1115
 01:18:16,840 --> 01:18:24,440
@@ -4464,7 +4464,7 @@ is as large as some of the major life-stover internet. And if that's the case,
 
 1117
 01:18:30,600 --> 01:18:37,560
-when there's only 30,000 TFPs, it is likely that the demand for those TFPs to be sufficient
+when there's only 30,000 PFPs, it is likely that the demand for those PFPs to be sufficient
 
 1118
 01:18:38,120 --> 01:18:43,880
@@ -4476,7 +4476,7 @@ and because, like, most startup ideas, most collections will fail, price will no
 
 1120
 01:18:55,800 --> 01:19:03,400
-You're going to have this continuous tension with non-cryptop people, non-NFT people.
+You're going to have this continuous tension with non-crypto people, non-NFT people.
 
 1121
 01:19:03,400 --> 01:19:08,760
@@ -4484,7 +4484,7 @@ Those are like, oh, come on, this is like all-time-some-type scale and some-type
 
 1122
 01:19:10,200 --> 01:19:14,200
-And, you know, the leading investment of the TFP might get out of this,
+And, you know, the leading investment of the PFP might get out of this,
 
 1123
 01:19:15,560 --> 01:19:22,920
@@ -4504,7 +4504,7 @@ A valuable, I don't know, which ones I don't know. I'm not sure if you've ever g
 
 1127
 01:19:43,240 --> 01:19:49,400
-the rest of the question, you know, but I think it's fair to say that most TFPs will not be
+the rest of the question, you know, but I think it's fair to say that most PFPs will not be
 
 1128
 01:19:49,400 --> 01:19:56,920
@@ -4524,7 +4524,7 @@ Now, some questions that I want you to think about, as we talk about,
 
 1132
 01:20:19,640 --> 01:20:27,160
-as we go through the next two interviews, discussions will start in four or one five six.
+as we go through the next two interviews, discussions will start in 4156.
 
 1133
 01:20:27,160 --> 01:20:31,320
@@ -4560,7 +4560,7 @@ I mean, it's not for today. What are the trade-offs between commercial licenses 
 
 1141
 01:21:05,400 --> 01:21:12,920
-QC-0 public domain licenses? Are these really communities, or are these customers
+CC0 public domain licenses? Are these really communities, or are these customers
 
 1142
 01:21:12,920 --> 01:21:22,040
@@ -4580,7 +4580,7 @@ from ongoing royalties? How is this impact to move the current debate happening 
 
 1146
 01:21:37,160 --> 01:21:41,640
-These are the types of things I want to dig into with, for example, 156,
+These are the types of things I want to dig into with, for example, 4156,
 
 1147
 01:21:43,080 --> 01:21:49,320
@@ -4596,7 +4596,7 @@ Now, I want to share a couple of just numbers, and then we'll go to Q&A. I pulle
 
 1150
 01:22:04,520 --> 01:22:11,640
-the NFT valuation team. What's interesting, so far they've tracked TFPs in generative art,
+the NFT valuation team. What's interesting, so far they've tracked PFPs in generative art,
 
 1151
 01:22:12,920 --> 01:22:18,360
@@ -4604,11 +4604,11 @@ and one of one art, probably in the next few months, I don't think one of one ar
 
 1152
 01:22:18,360 --> 01:22:23,160
-to be bigger than generative art. And what's interesting so far is the market value of TFPs
+to be bigger than generative art. And what's interesting so far is the market value of PFPs
 
 1153
 01:22:23,160 --> 01:22:27,720
-is higher than the market value. I suspect we'll see the other categories that have TFPs.
+is higher than the market value. I suspect we'll see the other categories that have PFPs.
 
 1154
 01:22:30,840 --> 01:22:34,040
@@ -4748,7 +4748,7 @@ chat with the others. Also information from those chats and share it once it's f
 
 1188
 01:26:42,600 --> 01:26:49,320
-towards the end of the week. Now, I don't know if George or Valentina's can tell me,
+towards the end of the week. Now, I don't know if George or Valentino's can tell me,
 
 1189
 01:26:49,320 --> 01:26:55,320
@@ -4772,7 +4772,7 @@ Okay. Why don't you feed questions to the team in
 
 1194
 01:27:35,080 --> 01:27:49,880
-on? I'll try and answer them here. And the team I'm looking in the live channel, the final of the
+OM? I'll try and answer them here. And the team I'm looking in the live channel, the final of the
 
 1195
 01:27:49,880 --> 01:27:56,120
@@ -4820,7 +4820,7 @@ I can have work that's what I'm going to say is this one. That's how it steps. Y
 
 1206
 01:29:24,360 --> 01:29:35,000
-find a core of people who have a shared ethos. The pumps are to share ethos around the idea of
+find a core of people who have a shared ethos. The punks are to share ethos around the idea of
 
 1207
 01:29:39,000 --> 01:29:44,440
@@ -4828,7 +4828,7 @@ the more dates. For sure, early on had a shared ethos around the idea of
 
 1208
 01:29:44,440 --> 01:29:57,560
-taking themselves less seriously and less expensively than the pumps. The CDVs have a shared ethos
+taking themselves less seriously and less expensively than the punks. The CDVs have a shared ethos
 
 1209
 01:29:57,560 --> 01:30:06,440
@@ -4964,7 +4964,7 @@ physical water. So this has
 
 1242
 01:34:26,360 --> 01:34:33,400
-a background and I think some PSP projects are currently in the competition and become global
+a background and I think some PFP projects are currently in the competition and become global
 
 1243
 01:34:33,400 --> 01:34:41,240
@@ -4976,11 +4976,11 @@ cultural objects are there? 200, 500 to 1000 and not 50 health. So how many of t
 
 1245
 01:34:49,480 --> 01:34:58,680
-to be PSPs? Not a lot. But somewhat, somewhat. And part of my logic of why I think was super
+to be PFPs? Not a lot. But somewhat, somewhat. And part of my logic of why I think was super
 
 1246
 01:34:58,680 --> 01:35:11,640
-early in PSPs is you don't see national or local, like the normal example I get is France.
+early in PFPs is you don't see national or local, like the normal example I get is France.
 
 1247
 01:35:11,640 --> 01:35:18,840
@@ -4996,7 +4996,7 @@ institute set up to protect its language. And as far as I can tell, I have yet t
 
 1250
 01:35:32,200 --> 01:35:38,680
-a meaningful PSP collection where the names of the traits are in French.
+a meaningful PFP collection where the names of the traits are in French.
 
 1251
 01:35:40,520 --> 01:35:43,000
@@ -5032,7 +5032,7 @@ rudimentary, like the numbers are tiny. When you think about all large communiti
 
 1259
 01:36:43,800 --> 01:36:49,560
-well, Facebook has three and a half billion people. Oh, the board apes have
+well, Facebook has three and a half billion people. Oh, the Bored Apes have
 
 1260
 01:36:49,560 --> 01:36:54,840
@@ -5100,7 +5100,7 @@ How does that interact with 3D spaces? I don't know, I mentioned this earlier.
 
 1276
 01:38:41,080 --> 01:38:47,560
-Are you going to have one PFP for Twitter and a different one for running around on?
+Are you going to have one PFP for Twitter and a different one for running around OM?
 
 1277
 01:38:47,560 --> 01:38:54,680
@@ -5108,7 +5108,7 @@ Are you going to have the same one, and if you're going to have the same one, is
 
 1278
 01:38:56,840 --> 01:39:03,560
-like in ARM, am I going to have you some brand new 3D PFP and then I'll use that on Twitter or
+like in OM, am I going to have you some brand new 3D PFP and then I'll use that on Twitter or
 
 1279
 01:39:05,000 --> 01:39:10,360
@@ -5160,7 +5160,7 @@ I think it is an open question how much and as we've ever housed,
 
 1291
 01:40:34,840 --> 01:40:41,960
-both models work, but how much the model is going to be? I want to own this NFK
+both models work, but how much the model is going to be? I want to own this NFT
 
 1292
 01:40:42,840 --> 01:40:48,840
@@ -5176,7 +5176,7 @@ San Francisco, they're air dropping me a t-shirt, I mean all of this stuff is on
 
 1295
 01:41:03,560 --> 01:41:12,680
-one of the other PFP's that are pure culture. We've got the bunch of pure culture. The CDB is
+one of the other PFP's that are pure culture. Crypto-punks are a bunch of pure culture. The CDB is
 
 1296
 01:41:12,680 --> 01:41:20,600
@@ -5248,7 +5248,7 @@ life. This is another no free lunch type, conclusion, that both models I think d
 
 1313
 01:43:25,320 --> 01:43:32,680
-All right, what is your most optimistic and pessimistic outlook on PFPS three to five years from now?
+All right, what is your most optimistic and pessimistic outlook on PFPs three to five years from now?
 
 1314
 01:43:32,680 --> 01:43:40,120
@@ -5312,7 +5312,7 @@ or have some means of transportation. So, I would expect the distribution of the
 
 1329
 01:45:37,960 --> 01:45:44,440
-NFTs, to reflect the distribution of income and wealth, and wealth.
+and PFPs, to reflect the distribution of income and wealth, and wealth.
 
 1330
 01:45:46,680 --> 01:45:50,120
@@ -5332,7 +5332,7 @@ most of them are called failure and engagement and utility terms, because you do
 
 1334
 01:46:15,400 --> 01:46:21,800
-very much to launch a PSP collection. The permissional system can be done itself. Of course,
+very much to launch a PFP collection. The permissional system can be done itself. Of course,
 
 1335
 01:46:21,800 --> 01:46:27,480
@@ -5492,7 +5492,7 @@ another wallet, or I've lost access to this wallet, it's a point of centralizati
 
 1374
 01:51:25,240 --> 01:51:33,640
-What the sold-bound NFC is actually trying to solve is proof of humanity, civil resistance,
+What the sold-bound NFT is actually trying to solve is proof of humanity, civil resistance,
 
 1375
 01:51:33,640 --> 01:51:44,920
@@ -5688,7 +5688,7 @@ information. All of this sounds really good, and the fact that I'm not 100% sold
 
 1423
 01:57:32,280 --> 01:57:40,600
-is that the linkage to the token doesn't. You wouldn't, if I gave you my carton of ex,
+is that the linkage to the token doesn't. You wouldn't, if I gave you my carton of eggs,
 
 1424
 01:57:41,320 --> 01:57:46,120
@@ -5792,11 +5792,11 @@ questions, do I spend an hour and a half asking questions on Monday, so you'll h
 
 1449
 02:00:52,760 --> 02:01:04,120
-and then, 415690 to some physical, so we do that as well, and with that, we will then also finalize
+and then, 4156 to some physical, so we do that as well, and with that, we will then also finalize
 
 1450
 02:01:04,120 --> 02:01:10,680
-anything in the presentation, the unit team was making some progress thinking about now,
+anything in the presentation, the UNIC team was making some progress thinking about now,
 
 1451
 02:01:10,680 --> 02:01:14,200
