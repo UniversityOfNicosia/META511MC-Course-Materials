@@ -4,19 +4,19 @@ Hello everyone!
 
 2
 00:00:22,600 --> 00:00:29,600
-So welcome to this 12th week of the University of Nicosias
+So welcome to this 12th week of the University of Nicosia's
 
 3
 00:00:29,600 --> 00:00:33,600
-framework on NFTs and the metaverse.
+free MOOC on NFTs and the metaverse.
 
 4
 00:00:33,600 --> 00:00:37,600
-I'm Jody Agles and I'm honored and privileged to be joined by
+I'm George Giaglis and I'm honored and privileged to be joined by
 
 5
 00:00:37,600 --> 00:00:42,600
-56529 as always.
+Punk 6529 as always.
 
 6
 00:00:42,600 --> 00:00:45,600
@@ -24,11 +24,12 @@ This is an important session today.
 
 7
 00:00:45,600 --> 00:00:50,600
-It's not the last one in the course, as I will be explaining
+It's not the last one in the course, as I will be explaining in a while we have quite a 
+few super interesting guest sessions and panels  
 
 8
 00:00:50,600 --> 00:00:53,600
-about the last couple of weeks.
+coming up in the next couple of weeks.
 
 9
 00:00:53,600 --> 00:01:00,600
@@ -40,7 +41,7 @@ sessions of this course.
 
 11
 00:01:03,600 --> 00:01:09,600
-It's the 12th week of this program that 659 and I designed a few
+It's the 12th week of this program that 6529 and I designed a few
 
 12
 00:01:09,600 --> 00:01:17,600
@@ -48,7 +49,7 @@ months ago to provide people with a holistic overview of the
 
 13
 00:01:17,600 --> 00:01:22,600
-NFT and metaverse and web3 space.
+NFT and Metaverse and Web3 space.
 
 14
 00:01:22,600 --> 00:01:27,600
@@ -64,7 +65,7 @@ I would like to take this opportunity to once again thank
 
 17
 00:01:34,600 --> 00:01:40,600
-659 both for his great insights in designing the course and
+6529 both for his great insights in designing the course and
 
 18
 00:01:40,600 --> 00:01:45,600
@@ -92,11 +93,11 @@ this space.
 
 24
 00:02:03,600 --> 00:02:07,600
-Anyway, I would like to, the topic of today's metaverse 2030,
+Anyway, the topic of today's metaverse 2030,
 
 25
 00:02:07,600 --> 00:02:13,600
-so it's going to be really interesting to hear 659 views on
+so it's going to be really interesting to hear 6529's views on
 
 26
 00:02:13,600 --> 00:02:18,600
@@ -112,7 +113,7 @@ But before doing that, I would like to start by giving you an
 
 29
 00:02:26,600 --> 00:02:32,600
-update on course logistics since this is the last course session
+update on course logistics since this is the last core session
 
 30
 00:02:32,600 --> 00:02:36,600
@@ -180,7 +181,7 @@ Twitter, on Discord and in the OM today and in the next weeks.
 
 46
 00:03:35,600 --> 00:03:41,600
-So even those questions that we will not answer today, we are
+Even those questions that we will not answer today, we are
 
 47
 00:03:41,600 --> 00:03:46,600
@@ -236,7 +237,7 @@ What we do in other MOOCs, those of you that have taken one of
 
 60
 00:04:40,600 --> 00:04:44,600
-University of Megosea's other MOOCs will know it, is that we
+University of Nicosia's other MOOCs will know it, is that we
 
 61
 00:04:44,600 --> 00:04:49,600
@@ -268,7 +269,7 @@ What I can say at this stage is that as we do everything in this
 
 68
 00:05:12,600 --> 00:05:16,600
-course, the exam will be held on say, and I will explain later
+course, the exam will be held on-chain, and I will explain later
 
 69
 00:05:16,600 --> 00:05:18,600
@@ -388,7 +389,7 @@ How will this certificate be sent?
 
 98
 00:07:08,600 --> 00:07:12,600
-Those of you that have passed the exam will be allowed listed to
+Those of you that have passed the exam will be allowlisted to
 
 99
 00:07:12,600 --> 00:07:16,600
@@ -460,7 +461,7 @@ And you may want to watch the video sessions in which
 
 116
 00:08:24,600 --> 00:08:29,600
-6529i and guests have been presenting the slides.
+6529, i and guests have been presenting the slides.
 
 117
 00:08:29,600 --> 00:08:31,600
@@ -540,11 +541,11 @@ It is pretty cheap.
 
 136
 00:09:30,600 --> 00:09:34,600
-I mean, I sacked this morning and the floor price for the
+I mean, I checked this morning and the floor price for the
 
 137
 00:09:34,600 --> 00:09:36,600
-unique access token on open C was less than $5.
+unique access token on Opensea was less than $5.
 
 138
 00:09:36,600 --> 00:09:41,600
@@ -568,7 +569,7 @@ until the next iteration of the course.
 
 143
 00:09:53,600 --> 00:09:57,600
-I don't want to commit 65 to 9 to anything that we've been
+I don't want to commit 6529 to anything that we've been
 
 144
 00:09:57,600 --> 00:10:01,600
@@ -592,7 +593,7 @@ in the future.
 
 149
 00:10:13,600 --> 00:10:17,600
-Although, obviously, this is the genesis cohort of this class.
+Although, obviously, this is the genesis co-hort of this class.
 
 150
 00:10:17,600 --> 00:10:22,600
@@ -608,7 +609,7 @@ You will be able to find more information on as always on
 
 153
 00:10:30,600 --> 00:10:35,600
-our Twitter account, the unique metaverse, our Discord channel,
+our Twitter account, the UNIC Metaverse, our Discord channel,
 
 154
 00:10:35,600 --> 00:10:36,600
@@ -644,7 +645,7 @@ for the exam.
 
 162
 00:10:57,600 --> 00:11:02,600
-As I've said, we want to make the exam fully on saying so you
+As I've said, we want to make the exam fully on-chain so you
 
 163
 00:11:02,600 --> 00:11:07,600
@@ -664,7 +665,7 @@ So unless you have the course access token, you will be able
 
 167
 00:11:19,600 --> 00:11:26,600
-to see this NFT, you will be able to check its meta data, but
+to see this NFT, you will be able to check its metadata, but
 
 168
 00:11:26,600 --> 00:11:31,600
@@ -672,7 +673,7 @@ you will not be able to access the actual content of the exam.
 
 169
 00:11:31,600 --> 00:11:36,600
-Obviously, you will need to connect your meta mask or other
+Obviously, you will need to connect your metamask or other
 
 170
 00:11:36,600 --> 00:11:39,600
@@ -728,7 +729,7 @@ to be broadcasted on the network.
 
 183
 00:12:21,600 --> 00:12:27,600
-We're working on a zero-no-letproof architecture that will
+We're working on a zero-no-let proof architecture that will
 
 184
 00:12:27,600 --> 00:12:32,600
@@ -792,7 +793,7 @@ At this point in time, we haven't decided on details regarding
 
 199
 00:13:30,600 --> 00:13:35,600
-the look, feel, and characteristics of the completeness
+the look, feel, and characteristics of the completion
 
 200
 00:13:35,600 --> 00:13:37,600
@@ -848,11 +849,11 @@ I'll be more than happy to hear your ideas and discuss them with
 
 213
 00:14:33,600 --> 00:14:36,600
-6.5 to 9.
+6529.
 
 214
 00:14:36,600 --> 00:14:42,600
-Now finally, before I give the floor to 6.5 to 9, I told you
+Now finally, before I give the floor to 6529, I told you
 
 215
 00:14:42,600 --> 00:14:47,600
@@ -892,7 +893,7 @@ It's a super impressive list of people participating in this
 
 224
 00:15:20,600 --> 00:15:24,600
-panel, so I would encourage you to attend all of them if you can
+panel, so I would encourage you to attend all of them if you can live
 
 225
 00:15:24,600 --> 00:15:27,600
@@ -908,7 +909,7 @@ none other than Balaji Srinivasan alongside
 
 228
 00:15:39,600 --> 00:15:46,600
-Pangci 5 to 9, one of my top favorite thinkers in this space.
+Punk 6529, one of my top favorite thinkers in this space.
 
 229
 00:15:46,600 --> 00:15:52,600
@@ -964,7 +965,7 @@ will be updating our FAQs regarding this material.
 
 242
 00:16:41,600 --> 00:16:45,600
-Without further ado, I'm going to give the floor to 6.5 to 9
+Without further ado, I'm going to give the floor to 6529
 
 243
 00:16:45,600 --> 00:16:50,600
@@ -972,7 +973,7 @@ now to take us through the topic of the day, which is
 
 244
 00:16:50,600 --> 00:16:53,600
-metaverse 23rd in the vision of the future of work theory.
+metaverse 2030 in the vision of the future of work theory.
 
 245
 00:16:53,600 --> 00:16:54,600
@@ -1080,15 +1081,15 @@ constitutional rights.
 
 271
 00:18:38,600 --> 00:18:46,600
-Um, there is a small number of us, biology as George mentioned,
+Um, there is a small number of us, as George mentioned,
 
 272
 00:18:46,600 --> 00:18:53,600
-but also folks like John Rob would deeply worried about this.
+but also folks like John Robb would deeply worried about this.
 
 273
 00:18:53,600 --> 00:19:01,600
-And like 99.999999% of the world who hasn't thought about the
+And like 99.999999% of the world who has thought about the
 
 274
 00:19:01,600 --> 00:19:06,600
@@ -1312,7 +1313,7 @@ It gives redundancy resilience.
 
 329
 00:22:49,600 --> 00:22:52,600
-Quote unquote black boxes, and it's funny because our black
+Quote, unquote black boxes, and it's funny because our black
 
 330
 00:22:52,600 --> 00:22:57,600
@@ -1356,7 +1357,7 @@ which is no global control at the operations level.
 
 340
 00:23:31,600 --> 00:23:40,600
-There's no one place that is in charge of the Internet.
+There's no, one place that is in charge of the Internet.
 
 341
 00:23:40,600 --> 00:23:45,600
@@ -1396,7 +1397,7 @@ It is perfectly possible that say the University of
 
 350
 00:24:20,600 --> 00:24:24,600
-Macansea says, if you want to be on my internal network,
+Nicosia says, if you want to be on my internal network,
 
 351
 00:24:24,600 --> 00:24:28,600
@@ -1608,7 +1609,7 @@ You're now AT&T.
 
 403
 00:28:06,600 --> 00:28:10,600
-Ma Bell, the glory of the American telecommunications
+My Bell, the glory of the American telecommunications
 
 404
 00:28:10,600 --> 00:28:12,600
@@ -1980,7 +1981,7 @@ What's the bad news?
 
 496
 00:34:06,740 --> 00:34:11,740
-Well, the internet, I basically every level is centralized.
+Well, the internet, its basically every level is centralized.
 
 497
 00:34:11,740 --> 00:34:19,740
@@ -1988,7 +1989,7 @@ And this comes from
 
 498
 00:34:19,740 --> 00:34:27,740
-the internet, where the internet is, where the internet is, where the internet is, where the internet is, where the internet is.
+the hardware and network layer all the way up. Right?
 
 499
 00:34:27,740 --> 00:34:33,740
@@ -2020,7 +2021,7 @@ Well, a different way, and this is not mature yet, but a different way would be 
 
 506
 00:35:13,740 --> 00:35:22,740
-MASH Network, where even the physical communication is going peer to peer from device to device,
+MESH Network, where even the physical communication is going peer to peer from device to device,
 
 507
 00:35:22,740 --> 00:35:29,740
@@ -2148,7 +2149,7 @@ and that human can ultimately decide to take an action for their own reasons
 
 538
 00:38:15,740 --> 00:38:19,740
-or be compelled to buy a government.
+or be compelled to by a government.
 
 539
 00:38:19,740 --> 00:38:25,740
@@ -2364,7 +2365,7 @@ in the same way.
 
 592
 00:42:27,740 --> 00:42:35,740
-Whereas on Twitter, whether you have an account or not depends on who the C.L. is.
+Whereas on Twitter, whether you have an account or not depends on who the CEO. is.
 
 593
 00:42:35,740 --> 00:42:41,740
@@ -2840,7 +2841,7 @@ I grant you that most people, and I think, remember who I discussed this one.
 
 711
 00:52:59,740 --> 00:53:01,740
-I think Kristiksi.
+I think Chris Dixon.
 
 712
 00:53:01,740 --> 00:53:10,740
@@ -2964,7 +2965,7 @@ We were literally worthless with other.
 
 742
 00:57:35,740 --> 00:57:47,740
-So we picked up and went home and this was pre-COVID times, pre-remo work times, but we went and figured, well, whatever the downside is from working from home,
+So we picked up and went home and this was pre-COVID times, pre-remote work times, but we went and figured, well, whatever the downside is from working from home,
 
 743
 00:57:47,740 --> 00:57:51,740
@@ -3004,11 +3005,11 @@ Or come to that and say, there.
 
 752
 00:58:44,740 --> 00:58:51,740
-Then introduce a concept that I have stolen from John Rob.
+Then introduce a concept that I have stolen from John Robb.
 
 753
 00:58:51,740 --> 00:59:11,740
-John Rob is a systems slash networks thinker he came out of the military sphere and thinks about networks, tribes and oodle loops and all of these types of things.
+John Robb is a systems slash networks thinker he came out of the military sphere and thinks about networks, tribes and oodle loops and all of these types of things.
 
 754
 00:59:11,740 --> 00:59:21,740
@@ -3096,7 +3097,7 @@ And they outperform in human freedom and dignity.
 
 775
 01:01:52,740 --> 01:02:11,740
-And I think that if you assume a way that intentions which you should not make people in power.
+And I think that the reason for it is that anything that ends up being hierarchical top down, eventually bottleneckson an information processing side with the people at the top or if you assume away bad intentions which you should not make people in power, ultimately, 
 
 776
 01:02:11,740 --> 01:02:20,940
@@ -3136,7 +3137,7 @@ Would it be logical for you to know if in Santa Fe, New Mexico someone should op
 
 785
 01:03:24,460 --> 01:03:31,420
-store. If you look at Soviet era's central planning five years plan, they were trying to do this
+store. If you look at Soviet years central planning five years plan, they were trying to do this
 
 786
 01:03:31,420 --> 01:03:37,820
@@ -3220,7 +3221,7 @@ My concern is that we're about to invent a tremendous amount of awesome technolo
 
 806
 01:06:07,660 --> 01:06:16,220
-Awesome. That is the correct word. I'm not embarrassed to say it. I think over the next five,
+Awesome. That is the correct word. I'm not embarrassed to say it. I think over the next 5,
 
 807
 01:06:16,220 --> 01:06:22,060
@@ -3256,7 +3257,7 @@ some of the big AI thinkers, none of that, you'll start seeing big leaps in the 
 
 815
 01:07:11,420 --> 01:07:19,420
-we're seeing from AI platforms like stable diffusion for creating images, opening AI and chat GPT,
+we're seeing from AI platforms like stable diffusion for creating images, opening AI and chat-GPT,
 
 816
 01:07:19,420 --> 01:07:24,940
@@ -3264,7 +3265,7 @@ GPT, we may decide that, I mean, you know, Google search results are a form of A
 
 817
 01:07:24,940 --> 01:07:30,220
-Patch.com's feed is a form of AI, adds your big serves as a form of AI. We have those
+match.com's feed is a form of AI, adds your big serves as a form of AI. We have those
 
 818
 01:07:30,220 --> 01:07:40,060
@@ -3488,7 +3489,7 @@ Are you feeling pleasure from whatever it is that you're watching?
 
 873
 01:15:05,420 --> 01:15:12,940
-Are you socially compliant? Are you a socially compliant?
+Are you socially compliant? Are you a no socially compliant?
 
 874
 01:15:12,940 --> 01:15:20,380
@@ -3576,11 +3577,11 @@ like this, because it's going to become much more realistic,
 
 895
 01:16:48,860 --> 01:16:51,860
-much more interactive, it will be a blended space
+much more interactive
 
 896
 01:16:51,860 --> 01:16:54,860
-of humans and aliens, and it's going to be
+and it's going to be
 
 897
 01:16:54,860 --> 01:16:56,860
@@ -3592,7 +3593,7 @@ There will be AIs to help with anything,
 
 899
 01:17:02,860 --> 01:17:07,860
-not just driving, not just walking you through the Oof EZ,
+not just driving, not just walking you through those easy,
 
 900
 01:17:07,860 --> 01:17:12,860
@@ -3748,7 +3749,7 @@ that someone is sitting there at the NSA,
 
 938
 01:19:37,860 --> 01:19:39,860
-being like, oh, wow, six, five, seven, nine,
+being like, oh, wow, 6529,
 
 939
 01:19:39,860 --> 01:19:41,860
@@ -4180,7 +4181,7 @@ Who guards the guards?
 
 1046
 01:28:49,860 --> 01:29:02,860
-When someone says, oh, we have the Sydney DC and the nice thing about it, it can only do transactions that are good.
+When someone says, oh, we have a CBDC and the nice thing about it, it can only do transactions that are good.
 
 1047
 01:29:02,860 --> 01:29:04,860
@@ -4512,7 +4513,7 @@ well, no, then we're saying we trust our citizens to own a piece of art in their
 
 1129
 01:34:41,320 --> 01:34:44,440
-but we don't trust our citizens to own a piece of art in the inner.
+but we don't trust our citizens to own a piece of art in the internet.
 
 1130
 01:34:47,000 --> 01:34:52,600
@@ -4624,11 +4625,11 @@ I believe we need to maintain a default allowed payment system.
 
 1157
 01:36:38,760 --> 01:36:46,120
-And I believe digitally, because I don't think the CVDC is the right thing would have been
+And I believe digitally, because I don't think the CBDCs is the right thing would have been
 
 1158
 01:36:46,120 --> 01:36:50,760
-for the CVDC's to become default permissions, just like cash is.
+for the CBDC's to become default permissions, just like cash is.
 
 1159
 01:36:50,760 --> 01:36:52,040
@@ -4772,7 +4773,7 @@ In many countries, they've already decided they're going to permission route.
 
 1194
 01:39:35,960 --> 01:39:40,680
-China seems to be building out and permission block shame.
+China seems to be building out and permission blockchain.
 
 1195
 01:39:40,680 --> 01:39:41,880
@@ -4832,7 +4833,7 @@ I think that's probably fair to say.
 
 1209
 01:40:29,160 --> 01:40:34,840
-I do not think it is 50 50, if we should have a completely permission.
+I do not think it is 50-50, if we should have a completely permission.
 
 1210
 01:40:34,840 --> 01:40:38,840
@@ -4860,7 +4861,7 @@ So I am going to stop here.
 
 1216
 01:40:57,960 --> 01:41:01,640
-George of it, if I can maybe look at some questions.
+George, if I can maybe look at some questions.
 
 1217
 01:41:01,640 --> 01:41:11,000
@@ -4868,11 +4869,11 @@ And I'll maybe for another 15 minutes or so.
 
 1218
 01:41:31,640 --> 01:41:41,560
-I'm trying to get into the score where the questions are.
+I'm trying to get into the Discord chat where the questions are.
 
 1219
 01:41:41,560 --> 01:41:43,640
-Oh my gosh, it's not yelling at me.
+
 
 1220
 01:41:43,640 --> 01:42:06,280
@@ -4880,23 +4881,23 @@ Okay.
 
 1221
 01:42:13,640 --> 01:42:26,640
-Okay, I think I'm in.
+
 
 1222
 01:42:26,640 --> 01:42:30,640
-So, it's more glitch.
+
 
 1223
 01:42:30,640 --> 01:42:39,640
-Okay, there are a few questions regarding the exam. I will take this and then there are a couple of questions for six five to nine.
+Okay, there are a few questions regarding the exam. I will take this and then there are a couple of questions for 6529.
 
 1224
 01:42:39,640 --> 01:42:51,640
-So, first question, will completing this course count toward course credit for unique and assist students that we can share is no.
+So, first question, will completing this course count toward course credit for UNIC MSc students? The quick answer is no.
 
 1225
 01:42:51,640 --> 01:43:08,640
-In the future, we plan to have a for credit version of this course, as you might remember from our initial lectures, the university of negotiated in the process of accrediting a new master's degree, the master's in metaverse systems we hope to.
+In the future, we plan to have a for credit version of this course, as you might remember from our initial lectures, The University of Nicosia in the process of accrediting a new master's degree, the master's in metaverse systems we hope to.
 
 1226
 01:43:08,640 --> 01:43:16,640
@@ -4908,7 +4909,7 @@ So, if this happens, this course will be made into a credit course, it will have
 
 1228
 01:43:31,640 --> 01:43:47,640
-So, the short answer is that this particular course with this particular assessment that I mentioned the multiple choice quiz for the end will not count towards towards course credit for our students.
+So, the short answer is that this particular course with this particular assessment that I mentioned the multiple choice quiz for the end will not count towards, towards course credit for our students.
 
 1229
 01:43:47,640 --> 01:43:56,640
@@ -4936,7 +4937,7 @@ If you would like to do so. So, yeah, I don't know if you meant something else, 
 
 1235
 01:44:35,640 --> 01:44:41,640
-6'5 to 9", I don't know if you have access to the questions or do you want me to read them for you because I think they're.
+6529, I don't know if you have access to the questions or do you want me to read them for you because I think they're.
 
 1236
 01:44:41,640 --> 01:44:55,640
@@ -4956,7 +4957,7 @@ Yep, yep, yep. All right, is the network state a new hybrid global structure, or
 
 1240
 01:45:55,640 --> 01:46:09,640
-difficult and interesting question. I've spoken about it with biology and we'll discuss this with him on his session because he's the expert on it.
+difficult and interesting question. I've spoken about it and we'll discuss this with him on his session because he's the expert on it.
 
 1241
 01:46:09,640 --> 01:46:26,640
@@ -4968,8 +4969,8 @@ And I'm going to say his view.
 
 1243
 01:46:40,640 --> 01:46:59,640
-And he controls physical space, it's like this.
-
+And he controls physical space, it's like this. Distributing on Physical space but my view is very different.
+ 
 1244
 01:46:59,640 --> 01:47:13,640
 Very long time, if ever, give up default control of societal governance.
@@ -4984,7 +4985,7 @@ And so, it's a very valuable, yes, right, like there's many people around the wo
 
 1247
 01:47:56,640 --> 01:48:12,640
-And in some countries, universities, the Vatican also has a very small nation state, but I don't think that's the important part. I mean, the Catholic Church, I think, by biology is a network state.
+And in some countries, universities, the Vatican also has a very small nation state, but I don't think that's the important part. I mean, the Catholic Church, I think, by logic is a network state.
 
 1248
 01:48:12,640 --> 01:48:31,640
@@ -5048,7 +5049,7 @@ I guess we can renew our appointment for next Wednesday unless we amount somethi
 
 1263
 01:51:06,640 --> 01:51:10,640
-It's only Baladji that is missing, correct?
+It's only Balaji that is missing, correct?
 
 1264
 01:51:10,640 --> 01:51:12,640
@@ -5060,11 +5061,11 @@ We don't have any concerns now, but we will.
 
 1266
 01:51:15,640 --> 01:51:36,640
-For Baladji, nobody in the next panel discussion is next Wednesday with regarding the metaverse and it's with Ryan from Momsiber, Charlie Cohen and Maxxin Perumal, correct?
+For Balaji, nobody in the next panel discussion is next Wednesday with regarding the metaverse and it's with Ryan from Oncyber, Charlie Cohen and Maxim Perumal, correct?
 
 1267
 01:51:36,640 --> 01:51:42,640
-That one's going to be wild. We have Ryan and Maxxin and Charlie, it's going to be wild.
+That one's going to be wild. We have Ryan and Maxim and Charlie, it's going to be wild.
 
 1268
 01:51:42,640 --> 01:51:49,640

@@ -20,7 +20,7 @@ I am excited to be doing today's session on off-chain or physical objects or cla
 
 6
 00:00:38,080 --> 00:00:45,480
-are linked to NFTs with the very, very well-known Chi Money, who is not just one of the great
+are linked to NFTs with the very, very well-known G-Money, who is not just one of the great
 
 7
 00:00:45,480 --> 00:00:53,920
@@ -48,7 +48,7 @@ So what we're going to do today is kind of a mix of a presentation and a discuss
 
 13
 00:01:11,960 --> 00:01:20,160
-I'd like to go VTE through a few background slides to make sure everyone gets up there.
+I'd like to go, VT, through a few background slides to make sure everyone gets up there.
 
 14
 00:01:20,160 --> 00:01:26,040
@@ -72,7 +72,7 @@ And so we'll go that way.
 
 19
 00:01:47,360 --> 00:01:54,560
-And at any point, G Money, if I'm off-base on something or I didn't say something that
+And at any point, G-Money, if I'm off-base on something or I didn't say something that
 
 20
 00:01:54,560 --> 00:01:58,600
@@ -112,23 +112,23 @@ I think you might have control of the slides, I think.
 
 29
 00:02:35,640 --> 00:02:37,640
-Yeah.
+
 
 30
 00:02:37,640 --> 00:02:38,640
-Keep going.
+
 
 31
 00:02:38,640 --> 00:02:41,640
-Yeah, keep going.
+
 
 32
 00:02:41,640 --> 00:02:43,640
-Keep going.
+
 
 33
 00:02:43,640 --> 00:02:44,640
-Keep going.
+
 
 34
 00:02:44,640 --> 00:02:45,640
@@ -292,7 +292,7 @@ It could be rental.
 
 74
 00:05:48,000 --> 00:05:55,520
-If you own the SINF T, you have access to this car or holiday home for this week.
+If you own the NFT, you have access to this car or holiday home for this week.
 
 75
 00:05:55,520 --> 00:05:58,320
@@ -300,15 +300,15 @@ It could be access.
 
 76
 00:05:58,320 --> 00:06:02,560
-If you own the SINF T, you can come to this country club.
+If you own the NFT, you can come to this country club.
 
 77
 00:06:02,560 --> 00:06:09,240
-If you own the SINF T, you can go to this concert.
+If you own the NFT, you can go to this concert.
 
 78
 00:06:09,240 --> 00:06:13,520
-If you own the SINF T, you can have dinner once a week with dream money.
+If you own the NFT, you can have dinner once a week with dream money.
 
 79
 00:06:13,520 --> 00:06:17,360
@@ -412,7 +412,7 @@ I think we're going to think about it.
 
 104
 00:07:53,800 --> 00:07:55,960
-I think you'd add here, Jimin.
+I think you'd add here, G-money?.
 
 105
 00:07:55,960 --> 00:08:02,520
@@ -524,7 +524,7 @@ I'm allowed to be here.
 
 132
 00:09:59,240 --> 00:10:02,800
-And if G money comes into my field, I can ask him to leave.
+And if G-money comes into my field, I can ask him to leave.
 
 133
 00:10:02,800 --> 00:10:06,800
@@ -620,7 +620,7 @@ At no point do we need to request someone to do something in order to own the ar
 
 156
 00:11:40,920 --> 00:11:50,960
-Now, when we bought this funeral piece in an auction, well, they transferred the token,
+Now, when we bought this hero piece in an auction, well, they transferred the token,
 
 157
 00:11:50,960 --> 00:11:56,760
@@ -1144,7 +1144,7 @@ I mean, New York never really sells up.
 
 287
 00:20:51,280 --> 00:20:56,200
-But the approximate is all sold out or there's only these five options instead of the under
+But the approximate is all sold out or there's only these five options instead of the 100
 
 288
 00:20:56,200 --> 00:20:57,200
@@ -1380,7 +1380,7 @@ one of X places in the world, what's the price?
 
 346
 00:25:22,120 --> 00:25:23,120
-Visically.
+physically.
 
 347
 00:25:23,120 --> 00:25:31,160
@@ -1420,7 +1420,7 @@ But the fact that you, brand new artists, you can be an 18 year old in India, an
 
 356
 00:26:08,760 --> 00:26:12,520
-will have the same distribution rails as Tyler Hobbes says.
+will have the same distribution rails as Tyler Hobbs says.
 
 357
 00:26:12,520 --> 00:26:14,920
@@ -1504,7 +1504,7 @@ Real estate is extremely sticky, a liquid high transaction cost, right?
 
 377
 00:27:52,560 --> 00:28:02,720
-Imagine if every apartment in Miami, you could put a bid, ask for, et cetera, and like, hey,
+Imagine if every apartment in Miami, you could put a bid, ask for, etc, and like, hey,
 
 378
 00:28:02,720 --> 00:28:07,520
@@ -1536,11 +1536,11 @@ and services, is another one of these, like, give you huge ideas.
 
 385
 00:28:33,520 --> 00:28:42,600
-But unlike the native visual here, VTL, let's go to the next slide, there are challenges.
+But unlike the native visual here, VT, let's go to the next slide, there are challenges.
 
 386
 00:28:42,600 --> 00:28:52,040
-The reason NFTs took off first in native visual, the reason Fedensus took off, is because Fedensus
+The reason NFTs took off first in native visual, the reason Fedenzas took off, is because Fedenzas
 
 387
 00:28:52,040 --> 00:28:58,760
@@ -1560,11 +1560,11 @@ And if you don't do that paperwork, you haven't actually bought the real estate.
 
 391
 00:29:18,880 --> 00:29:27,280
-And so, I cannot just spin up an NFT collection, say, hey, the SineFT represents my house.
+And so, I cannot just spin up an NFT collection, say, hey, this NFT represents my house.
 
 392
 00:29:27,280 --> 00:29:31,680
-And if you buy the SineFT, you now own my house, because you could go then go to the
+And if you buy the NFT, you now own my house, because you could go then go to the
 
 393
 00:29:31,680 --> 00:29:35,960
@@ -1788,7 +1788,7 @@ Agreed.
 
 448
 00:33:10,520 --> 00:33:15,880
-Let's see the next slide, NFT.
+Let's see the next slide, VT.
 
 449
 00:33:15,880 --> 00:33:19,000
@@ -1860,7 +1860,7 @@ It doesn't mean we have to wait until 2025.
 
 466
 00:34:21,000 --> 00:34:24,400
-This is, we have people like Jim and he doing it today.
+This is, we have people like G-money and he doing it today.
 
 467
 00:34:24,400 --> 00:34:31,800
@@ -2116,7 +2116,7 @@ I want to find the next crypto punks.
 
 530
 00:39:11,800 --> 00:39:17,960
-And I ended up minting a bunch of chromisquiggles and, you know, snow fro and a few other OGs
+And I ended up minting a bunch of chromisquiggles and, you know, Snowfro and a few other OGs
 
 531
 00:39:17,960 --> 00:39:20,320
@@ -2256,7 +2256,7 @@ the same exact outlay.
 
 565
 00:41:39,480 --> 00:41:44,760
-And so that was like my original thesis for CryptoPunks and the ape.
+And so that was like my original thesis for CryptoPunks and the APE.
 
 566
 00:41:44,760 --> 00:41:50,120
@@ -2328,7 +2328,7 @@ Right?
 
 583
 00:42:54,720 --> 00:43:00,500
-Because like I said, there is no, like I could wear a board eight on my shirt, but that's
+Because like I said, there is no, like I could wear a Bored APE, eight on my shirt, but that's
 
 584
 00:43:00,500 --> 00:43:03,680
@@ -2472,7 +2472,7 @@ So on all of our iteration one and iteration two shirts, you can see in the patc
 
 619
 00:45:21,560 --> 00:45:26,800
-the nine is on both those shirts and those pictures, there's an NFC chip behind that
+the nine is on both those shirts and those pictures, there's an NFT chip behind that
 
 620
 00:45:26,800 --> 00:45:29,960
@@ -2668,7 +2668,7 @@ shop has free storage for two years, free storage and insurance for two years.
 
 668
 00:49:05,640 --> 00:49:10,880
-And then afterwards, I believe the fee might be like around $2 a year, per sure.
+And then afterwards, I believe the fee might be like around $2 a year, per shirt.
 
 669
 00:49:10,880 --> 00:49:17,440
@@ -2776,7 +2776,7 @@ You'll get to it when you get to it.
 
 695
 00:51:03,440 --> 00:51:07,000
-But by by by and that's a push mechanism, right?
+But by and that's a push mechanism, right?
 
 696
 00:51:07,000 --> 00:51:12,200
@@ -3200,7 +3200,7 @@ We will see mass personalization, mass customization in physical goods as well.
 
 801
 00:58:08,000 --> 00:58:12,920
-And it's one of the things he hopes to be working on with Artbox.
+And it's one of the things he hopes to be working on with Artblocks.
 
 802
 00:58:12,920 --> 00:58:24,240
@@ -3500,7 +3500,7 @@ up for their communities.
 
 876
 01:04:01,720 --> 01:04:09,320
-And so, and this was really born from the idea that I ran a POOP event in June of 2021,
+And so, and this was really born from the idea that I ran a POAP event in June of 2021,
 
 877
 01:04:09,320 --> 01:04:15,080
@@ -3508,7 +3508,7 @@ where I tweeted out, you know, show up to this place, and this is during BTC Mia
 
 878
 01:04:15,080 --> 01:04:20,000
-And I tweeted out, show up to this place and, you know, collect the POOP, the person wearing
+And I tweeted out, show up to this place and, you know, collect the POAP, the person wearing
 
 879
 01:04:20,000 --> 01:04:21,520
@@ -3528,7 +3528,7 @@ other than the fact that they both followed me and they both showed up to the sa
 
 883
 01:04:33,920 --> 01:04:37,080
-shop at the same time to collect the POOP.
+shop at the same time to collect the POAP.
 
 884
 01:04:37,080 --> 01:04:43,320
@@ -3568,11 +3568,11 @@ So what we ended up doing and for anybody that ever sees a 90cc shirt out in the
 
 893
 01:05:18,120 --> 01:05:23,640
-you can go up to that shirt and you can collect the POOP because each shirt distributes its
+you can go up to that shirt and you can collect the POAP because each shirt distributes its
 
 894
 01:05:23,640 --> 01:05:25,040
-own individual POOP.
+own individual POAP.
 
 895
 01:05:25,040 --> 01:05:29,080
@@ -3584,7 +3584,7 @@ And what we did with our Basel is we ran two contests concurrently where there w
 
 897
 01:05:37,360 --> 01:05:41,640
-for the people, for the person that would collect the most POOPs from unique individual
+for the people, for the person that would collect the most POAPs from unique individual
 
 898
 01:05:41,640 --> 01:05:42,640
@@ -3600,7 +3600,7 @@ And this was run over the course of five days.
 
 901
 01:05:48,600 --> 01:05:53,200
-We distributed close to 5,000 POOPs over the course of five days.
+We distributed close to 5,000 POAPs over the course of five days.
 
 902
 01:05:53,200 --> 01:05:57,880
@@ -3632,7 +3632,7 @@ We want to connect with people.
 
 909
 01:06:19,760 --> 01:06:27,200
-And so what collecting a POOP allows is a lot, it allows that icebreaker to happen in a very
+And so what collecting a POAP allows is a lot, it allows that icebreaker to happen in a very
 
 910
 01:06:27,200 --> 01:06:28,200
@@ -3644,7 +3644,7 @@ Where it's like, oh, hey, like, you know, you see somebody wearing the shirt, yo
 
 912
 01:06:31,760 --> 01:06:37,120
-their POOP, maybe, you know, it takes, you know, five to 15 seconds to actually go through
+their POAP, maybe, you know, it takes, you know, five to 15 seconds to actually go through
 
 913
 01:06:37,120 --> 01:06:38,280
@@ -3724,7 +3724,7 @@ And everything that we've been talking about, and I think the hotel room example
 
 932
 01:07:43,200 --> 01:07:49,080
-use is a great example of it is like when you can take, you know, non-fungible slash
+use is a great example of it is like when you can take, you know, non-fungible/
 
 933
 01:07:49,080 --> 01:07:55,720
@@ -3824,7 +3824,7 @@ I think they're in some of the slides.
 
 957
 01:09:17,000 --> 01:09:24,640
-So, Materiam, this has been going on, they've been working on this for a while and it's
+So, Mattereum, this has been going on, they've been working on this for a while and it's
 
 958
 01:09:24,640 --> 01:09:30,740
@@ -3832,7 +3832,7 @@ not the case, but my understanding and we might next running of the course get t
 
 959
 01:09:30,740 --> 01:09:36,720
-Vini to talk to him about it.
+Vinay to talk to him about it.
 
 960
 01:09:36,720 --> 01:09:39,920
@@ -3896,7 +3896,7 @@ I originally wanted to make create a centralized custodian back in I think it wa
 
 975
 01:11:16,880 --> 01:11:24,080
-where I remember when Nifty Gateway did the the beable drop and there was I think it was like
+where I remember when Nifty Gateway did the the beeble drop and there was I think it was like
 
 976
 01:11:24,080 --> 01:11:28,480
@@ -3940,7 +3940,7 @@ yeah I'm gonna I'm in a whole this physical asset someplace because I don't need
 
 986
 01:12:18,240 --> 01:12:25,040
-of it but I do want to have the access to a 24-7 global marketplace and at the time
+of it but I do want to have the access to a 24/7 global marketplace and at the time
 
 987
 01:12:25,840 --> 01:12:30,800
@@ -4016,7 +4016,7 @@ then other people can create also their own storage on top of that right so it's
 
 1005
 01:14:11,360 --> 01:14:19,680
-empty warehouse here in my backyard I can then take custody and um verify that let's say that Rolex
+empty warehouse here in my backyard I can then take custody and verify that let's say that Rolex
 
 1006
 01:14:19,680 --> 01:14:25,600
@@ -4056,7 +4056,7 @@ chain or sneakers on chain because financing mechanisms for those two industries
 
 1015
 01:15:12,080 --> 01:15:19,520
-said don't exist on a global scale yet whereas you know getting a mortgage for real estate is like
+said don't exist on a global scale yet, whereas you know getting a mortgage for real estate is like
 
 1016
 01:15:19,520 --> 01:15:25,040
@@ -4080,7 +4080,7 @@ firmly believe real estate comes on chain I just think it will take much longer 
 
 1021
 01:15:46,320 --> 01:15:55,280
-already a mature industry around it makes perfect sense what's the next let's go to the next slide
+already a mature industry around it. Makes perfect sense what's the next let's go to the next slide
 
 1022
 01:15:55,280 --> 01:16:07,120
@@ -4100,7 +4100,7 @@ on polygon I'm not exactly sure I think they were on on an L2 to start but I'm n
 
 1026
 01:16:29,680 --> 01:16:42,640
-they're currently issuing their nft's okay and what do we have next and then I'm Ericana I think
+they're currently issuing their nft's okay and what do we have next and then. Americana I think
 
 1027
 01:16:42,640 --> 01:16:50,640
@@ -4116,11 +4116,11 @@ a marketplace for those products I haven't I haven't had the opportunity to chat
 
 1030
 01:17:03,600 --> 01:17:14,320
-very closely just like you know in passing at you know at like a cocktail hour or something
+very closely just like you know in passing at you know at like a cocktail hour or something.
 
 1031
 01:17:16,480 --> 01:17:23,120
-okay do we have anything else let's see do you want to take on the artifact sneakers I think I
+Okay, do we have anything else let's see do you want to take on the artifact sneakers I think I
 
 1032
 01:17:23,120 --> 01:17:27,840
@@ -4152,7 +4152,7 @@ claim physical product at which point they fulfill that product and then send it
 
 1039
 01:18:02,960 --> 01:18:07,840
-and I believe it's interesting to watch these different drop mechanics and you know I know this
+and I believe, it's interesting to watch these different drop mechanics and you know, I know this
 
 1040
 01:18:07,840 --> 01:18:14,080
@@ -4164,15 +4164,15 @@ don't know if we have found out like the best drop mechanics just yet so I think
 
 1042
 01:18:19,760 --> 01:18:26,240
-lot of playing around with how drops work with how you know how do you fulfill physical product
+lot of playing around, with how drops work with how you know how do you fulfill physical product
 
 1043
 01:18:26,240 --> 01:18:31,120
-right because especially when it comes to something like clothes or sneakers where everyone wears a
+right because especially when it comes to something like clothes or sneakers, where everyone wears a
 
 1044
 01:18:31,120 --> 01:18:39,280
-different size you can't necessarily pre-sell sizing but you know because then you fragment
+different size, you can't necessarily pre-sell sizing but you know because then you fragment
 
 1045
 01:18:39,280 --> 01:18:43,920
@@ -4188,11 +4188,11 @@ you know I think artifact has has done an amazing job for the physical digital s
 
 1048
 01:18:54,000 --> 01:18:58,720
-over the last two years and you know they're they're always going to be a team to watch
+over the last two years and you know they're they're always going to be a team to watch.
 
 1049
 01:19:00,560 --> 01:19:05,440
-and you know for the audience I think most people know that they're now owned by Nike right and so
+And you know for the audience I think most people know that they're now owned by Nike right and so
 
 1050
 01:19:06,400 --> 01:19:14,000
@@ -4724,7 +4724,7 @@ if you pass the exam with other those courses you're going to get an NFT absolut
 
 1182
 01:33:38,320 --> 01:33:46,320
-you are in specifically the um the service that we'll use NFT as a proof of knowledge
+you are in specifically the, um, the service that we'll use NFT as a proof of knowledge
 
 1183
 01:33:47,440 --> 01:33:54,000
@@ -4916,7 +4916,7 @@ And that PDF you could check if it was,
 
 1230
 01:37:11,000 --> 01:37:12,360
-it's like the end of Sicha, right?
+it's like the end of chip, right?
 
 1231
 01:37:12,360 --> 01:37:15,400
@@ -4980,7 +4980,7 @@ if I say I'm Mike Smith, I completed this course,
 
 1246
 01:38:02,440 --> 01:38:04,560
-selling my Sicha, I was like,
+selling my chip, I was like,
 
 1247
 01:38:04,560 --> 01:38:06,680
@@ -5016,7 +5016,7 @@ Okay, that's fine.
 
 1255
 01:38:26,560 --> 01:38:28,400
-You can put 6.5 to 9. ETH.
+You can put 6529.ETH.
 
 1256
 01:38:29,440 --> 01:38:33,200
@@ -5024,7 +5024,7 @@ But then it's really only relevant to whoever
 
 1257
 01:38:33,200 --> 01:38:38,200
-has built up reputation as 6.5 to 9. ETH, right?
+has built up reputation as 6529.ETH, right?
 
 1258
 01:38:38,200 --> 01:38:41,760
@@ -5052,7 +5052,7 @@ And on the certificate on the NFT,
 
 1264
 01:38:51,240 --> 01:38:53,120
-it says 6.5 to 9. ETH.
+it says 6529.ETH.
 
 1265
 01:38:53,120 --> 01:38:56,600

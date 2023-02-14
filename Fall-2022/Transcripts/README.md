@@ -80,9 +80,9 @@ Inside this directory you may find the transcripts of the live sessions, were -w
 
 - **Week 7: Gaming NFTs**
     - **Week 7.1 - Lecture Video**
-        - .txt - https://arweave.net/tgDIpRwbo7XTu9Ad5TfLczvjnPJZsvc_ebOHXifsIKM
-        - .srt - https://arweave.net/pz4AGk0cn-UuTtxGS9h1qZqFQCR9psh2AHFxtok2MFI
-        - .vtt - https://arweave.net/tqudZR27JvBcMlcyet4EcYwKuKPa34KevwRte0ltb8o
+        - .txt - https://arweave.net/-DHVT2QKZhdPETU5BkEvjWB0CIXog9jQoL0k2hkc2g4
+        - .srt - https://arweave.net/u614nJcMewhw06nGmaDMSYV0n2gh6wQd7UssvaQEV1k
+        - .vtt - https://arweave.net/-LynTWqyjqKZypTe8O6FDcE_ho0gofeKFg-zHpsHf4U
 
     - **Week 7.2 - Guest Video**
         - .txt - https://arweave.net/8QD1VerRsiqlIe03tThqersYVqKxAnOFws_mkZt_lXY
@@ -91,9 +91,9 @@ Inside this directory you may find the transcripts of the live sessions, were -w
 
 - **Week 8: What is a Metaverse?**
     - **Week 8.1 - Lecture Video**
-        - .txt - https://arweave.net/qLAwrAudhmjVdzMRitEtmPkYzQSvDbh6GzYizKkSIow
-        - .srt - https://arweave.net/AH-AKZ4yiR8dovKfnt-_HDorzlvQkKgttOK21rRKroI
-        - .vtt - https://arweave.net/jILzKbIrz6z1HLIbRF4nYCDAR3Oj_YoQX9rtfEBOwcw
+        - .txt - https://arweave.net/9m-jLWFxU59HxzXtqG9gtlIlku743vHZ6xYA8adszmc
+        - .srt - https://arweave.net/14dbfIl1WLTAC46DoQZKNOTgFmKggYVylMiKkbqcMyE
+        - .vtt - https://arweave.net/V_HhsV9I-RoOPUAZRnxXpXLl8uGtjqrDnuu_wx2NEkA
 
     - **Week 8.2: Metaverse Panel**
         - .txt - https://arweave.net/n5YfU_Szi4D4-hsww-3sMbk9APxEw-fZsL9dH2dRJTQ
@@ -101,27 +101,27 @@ Inside this directory you may find the transcripts of the live sessions, were -w
         - .vtt - https://arweave.net/xOeP9ZaKLZz2y6Rdrhx8wJLh5ZpMoXDLmKqhFwGZDX8
 
 - **Week 9: Trends in Visualization Technology - Lecture Video**
-    - .txt - https://arweave.net/KBzRU68LpIKv0vWsOG51nJxon00rMN1jEwFjJP11YFY
-    - .srt - https://arweave.net/z6SsADEimnQMdjhFUfnipEOk6MhH_jNDWnoJH7cPDz4
-    - .vtt - https://arweave.net/RIFJWyIpraaKekSVE2T6_g4LKPcR5CB0xfgbySahXo0
+    - .txt - https://arweave.net/sAa8DINSXSqe3MFHbO-aWSaoAk-S5O5Zd-5bPiZDumQ
+    - .srt - https://arweave.net/UtVmlr-geUgOiswaAVRQFd0Mi6IgXou_x-I6qEVv12Q
+    - .vtt - https://arweave.net/TXupaAJb8Rx9d3SmaHVeAFkjbsNsmTzUqinYTRzA9uw
 
 - **Week 10: Financing Models in the NFT and Metaverse Space**
     - **Week 10.1 - Lecture Video**
-        - .txt - https://arweave.net/AoyxW3lsOimFn1M6XxUMiGV-wqFSN0AR9np0_wH3Xw4
-        - .srt - https://arweave.net/Wuqhb_y8VlVbxZCqMHtFlB3O7b3-KSIEMjEbXOsbPAo
-        - .vtt - https://arweave.net/NSFHcV72Zon4fJeI2hekmjvvUKKri8s4nqcAApotNnk
+        - .txt - https://arweave.net/9gxIZ72md6vPwkMx5uIW_V_1SZ30jagqF6t9IrgDl34
+        - .srt - https://arweave.net/zJ8eo-aXG46UfMS_amUeY5gY8eQ4a34w8y5EsCUNv6s
+        - .vtt - https://arweave.net/gFdb7LcyJ2RiBqz3xtSuC_YiCYqRueGpqArXdjwZqXc
     - **Week 10.2 - Guest Video**
         - .txt - https://arweave.net/k25sq5txKF5nVy7w98JbLOUvpX6WzUCYN7Oas_q26Ws
         - .srt - https://arweave.net/vl3PKZkrsoUCH1OoRzmQJm5HFEYG0k1aqqw5Hulx03Q
         - .vtt - https://arweave.net/w75gEZBNcuJB3vPtJCjcIL3jzdr2bSDv1-AmcBiaBuI
 
 - **Week 11: Representing Off-chain Objects with NFTs - Lecture Video**
-    - .txt - https://arweave.net/A6jKW63DPtdJsvKI8l5UcUsfXLM5Z1oqfRqO85KTwwk
-    - .srt - https://arweave.net/-KpYNxy5PDrQpp46G3Uj4LefOZ1ufFn7EejArJXM2Cw
-    - .vtt - https://arweave.net/wZ4aPOtfF5A9yJnh0QTtLbS89pRdvYbtZ_pFLp3-6d0
+    - .txt - https://arweave.net/W244vE_FYxfc_W4GCqAwCoA5bStPD74BAJw9C2PixT4
+    - .srt - https://arweave.net/swq5hocPgkvCdeO4FmUd-EgQxVxqr9lz8YRzbVhvgLw
+    - .vtt - https://arweave.net/anlJ2uPWHxfQTMzOX_9UO3-XJqjJOsDHmIyQri9Pzc4
 
 - **Week 12: Metaverse 2030 - Lecture Video**
-    - .txt - https://arweave.net/Vp_y9xe-3kEsY2KthKGZ1quWiIjwNZXRKAnAxA-q4ao
-    - .srt - https://arweave.net/AGYcXrOgMRuSE3mL4ECOqMUM3BEo9Xi5MdFPoKxn2TY
-    - .vtt - https://arweave.net/qcpEDT565nQG5wAAL3Wj4UBE9IEM9QG2YgNuidonrEo
+    - .txt - https://arweave.net/oSdd10cJDa-NTLa3oKLcBBFMENHbkAh0tz_f10pkpDI
+    - .srt - https://arweave.net/MQ-WQTxRT949FSYGue0swrXUv30z6SZXElW-3aQQlow
+    - .vtt - https://arweave.net/lCShWKfvBUkdZQa4XeF9S1tmcyl0eo9NAMqhOvXxtBY
 

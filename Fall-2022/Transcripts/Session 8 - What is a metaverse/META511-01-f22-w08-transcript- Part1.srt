@@ -1,22 +1,20 @@
 1
 00:00:00,000 --> 00:00:21,720
-Hello, can you hear me?
+
 
 2
 00:00:21,720 --> 00:00:24,560
-Vt, can you hear me on my live?
+
 
 3
 00:00:24,560 --> 00:00:29,960
-Great, and can you put the slides up please?
+
 
 4
 00:00:29,960 --> 00:00:44,600
-Great, well everyone, sorry we're starting a couple of minutes late, we had just some
 
 5
 00:00:44,600 --> 00:00:49,960
-mind I had a couple of minor technical difficulties, but we're up and running.
 
 6
 00:00:49,960 --> 00:00:54,160
@@ -68,11 +66,11 @@ We'll do the sessions on time and we'll do the guest, some of them now and some 
 
 18
 00:01:45,240 --> 00:01:51,200
-are just so we can fit everyone in because it's just it's hard to get everyone's schedules
+in January so we can fit everyone in because it's just to get everyone's schedules
 
 19
 00:01:51,200 --> 00:01:55,840
-coordinate, but we will go through as planned.
+coordinated but we will go through as planned.
 
 20
 00:01:55,840 --> 00:02:02,160
@@ -88,15 +86,15 @@ with some of the guests.
 
 23
 00:02:17,440 --> 00:02:28,680
-So let me, I only have two titles for this session, Metaverse frameworks and Metaverse
+So let me, I only have two titles for this session, Metaverse frameworks and Metaverses
 
 24
 00:02:28,680 --> 00:02:36,600
-is with a question mark and we'll talk about what these might be.
+with a question mark and we'll talk about what these might be.
 
 25
 00:02:36,600 --> 00:02:45,840
-So it's clear that there is now much more interest in Metaverse than there has been
+So, it's clear that there is now much more interest in Metaverse than there has been
 
 26
 00:02:45,840 --> 00:02:46,840
@@ -112,11 +110,11 @@ until basically last year.
 
 29
 00:02:58,320 --> 00:03:06,640
-And some interest picked up, then Facebook announced change their name, etc.
+And some interest picked up, then Facebook announced changing their name, etc.
 
 30
 00:03:06,640 --> 00:03:17,400
-Interest shot up and has now pulled off a little bit, but at hugely higher levels than
+interest shot up and has now pulled off a little bit, but at hugely higher levels than
 
 31
 00:03:17,400 --> 00:03:18,920
@@ -156,11 +154,11 @@ You know, civilian interest in the Metaverse is maybe 12 to 18 months old.
 
 40
 00:04:08,080 --> 00:04:09,560
-It's a great.
+It's a great,
 
 41
 00:04:09,560 --> 00:04:25,160
-So we're going to have a Metaverse and the interesting thing is I think as many people
+so we're going to have a Metaverse and the interesting thing is, I think as many people
 
 42
 00:04:25,160 --> 00:04:31,960
@@ -168,11 +166,11 @@ as have written or spoken about the Metaverse as many people have written as one
 
 43
 00:04:31,960 --> 00:04:33,960
-that's how many definitions are the Metaverse.
+that's how many definitions are the Metaverse
 
 44
 00:04:33,960 --> 00:04:38,400
-And it's very interesting because I mean, I don't think any of them are right, but also
+and it's very interesting because I mean, I don't think any of them are right, but also
 
 45
 00:04:38,400 --> 00:04:40,960
@@ -180,11 +178,11 @@ I don't think any of them are wrong.
 
 46
 00:04:40,960 --> 00:04:43,000
-And I want to go through these aren't you going to read these?
+And I want to go through these aren't you going to read these
 
 47
 00:04:43,000 --> 00:04:47,040
-Because I think these are very interesting because they give you a sense of the different
+because I think these are very interesting because they give you a sense of the different
 
 48
 00:04:47,040 --> 00:04:50,040
@@ -192,11 +190,11 @@ ways people are thinking about.
 
 49
 00:04:50,040 --> 00:04:56,880
-Some people are just hugely aspirational, very non-specific.
+Some people are just hugely aspirational, very non-specific,
 
 50
 00:04:56,880 --> 00:05:01,360
-It's not a big shock that McKinsey's in that bucket.
+it's not a big shock that McKinsey's in that bucket.
 
 51
 00:05:01,360 --> 00:05:07,360
@@ -204,19 +202,19 @@ But you know, the Metaverse seems to be whatever people's imaginations dream it 
 
 52
 00:05:07,360 --> 00:05:08,360
-be the verge.
+be. The verge,
 
 53
 00:05:08,360 --> 00:05:12,480
-It's partially a dream for the future of the Internet.
+it's partially a dream for the future of the Internet.
 
 54
 00:05:12,480 --> 00:05:16,200
-JPMorgan, the seamless conversion of our physical and digital lives.
+JPMorgan, the seamless conversion of our physical and digital lives
 
 55
 00:05:16,200 --> 00:05:22,880
-And I mean, I think all of these are true, but they don't really give you much to, you
+and I mean, I think all of these are true, but they don't really give you much to, you
 
 56
 00:05:22,880 --> 00:05:24,440
@@ -224,11 +222,11 @@ know, hang your hat on.
 
 57
 00:05:24,440 --> 00:05:28,200
-Then there's folks who get much more specific.
+Then there's folks who get much more specific
 
 58
 00:05:28,200 --> 00:05:32,560
-So we'll see you on that bit.
+so we'll see you on that bit.
 
 59
 00:05:32,560 --> 00:05:39,600
@@ -268,15 +266,15 @@ I think most civilians, when you tell the Metaverse, they're like, it's a 3D wor
 
 68
 00:06:28,120 --> 00:06:32,560
-have to put VR goggles and I'm not sure how interesting this is.
+have to put VR goggles and I'm not sure how interesting this is
 
 69
 00:06:32,560 --> 00:06:35,600
-And anyway, it's not something I want to do.
+and anyway, it's not something I want to do
 
 70
 00:06:35,600 --> 00:06:38,680
-And a lot of people like that.
+and a lot of people are like that.
 
 71
 00:06:38,680 --> 00:06:44,560
@@ -288,7 +286,7 @@ definitions of like the Metaverse is already kind of here.
 
 73
 00:06:48,760 --> 00:06:54,200
-You know, the Metaverse is not 3D or 2D or even necessarily graphical.
+You know, the Metaverse is not 3D or 2D or even necessarily graphical,
 
 74
 00:06:54,200 --> 00:06:59,840
@@ -304,19 +302,19 @@ I like this one, to be honest.
 
 77
 00:07:02,960 --> 00:07:05,760
-This is probably closer to my view.
+This is probably closer to my view,
 
 78
 00:07:05,760 --> 00:07:08,720
-We'll come to that in a moment.
+we'll come to that in a moment.
 
 79
 00:07:08,720 --> 00:07:15,080
-And then, Sean Purney, the Metaverse is the moment in time where our digital life is worth
+And then, Sean Purney, "The Metaverse is the moment in time where our digital life is worth
 
 80
 00:07:15,080 --> 00:07:17,720
-more than our physical life.
+more than our physical life."
 
 81
 00:07:17,720 --> 00:07:30,520
@@ -344,15 +342,15 @@ do I figure out a Metaverse?
 
 87
 00:07:53,440 --> 00:07:59,600
-Two of which I stole from Munich and one of which is my own.
+Two of which I stole from UNIC and one of which is my own.
 
 88
 00:07:59,600 --> 00:08:06,200
-And so I'll do the Munich ones that honor stressed and then I'll share mine.
+And so I'll do the UNIC ones that honor first and then I'll share mine.
 
 89
 00:08:06,200 --> 00:08:11,440
-As usual, I don't think any of them are right and I don't think any of them are green.
+As usual, I don't think any of them are right and I don't think any of them are wrong.
 
 90
 00:08:11,440 --> 00:08:15,880
@@ -428,23 +426,23 @@ Let's put it as one mental model.
 
 108
 00:09:52,920 --> 00:09:57,920
-Then we have a second framework that I call the Nicholas framework.
+Then we have a second framework that I call the "Giaglis Framework",
 
 109
 00:09:57,920 --> 00:09:59,360
-George came up with it.
+George came up with it,
 
 110
 00:09:59,360 --> 00:10:03,120
-He doesn't actually call it the Nicholas framework.
+he doesn't actually call it the Giaglis Framework.
 
 111
 00:10:03,120 --> 00:10:07,600
-So, he's probably going to yell at me that I called it back in the presentation.
+So, he's probably going to yell at me that I called it that in the presentation,
 
 112
 00:10:07,600 --> 00:10:14,760
-But since he's the one who told it to me, I have put his name on.
+but since he's the one who told it to me, I have put his name on it.
 
 113
 00:10:14,760 --> 00:10:23,080
@@ -452,15 +450,15 @@ And here is has six characteristics across two dimensions.
 
 114
 00:10:23,080 --> 00:10:28,920
-And the dimensions one is technological in nature, one is governance in nature.
+And the dimensions one is technological in nature, one is governance in nature,
 
 115
 00:10:28,920 --> 00:10:31,640
-And I think this is really interesting too.
+and I think this is really interesting too.
 
 116
 00:10:31,640 --> 00:10:35,040
-This is kind of more specific and more future looking I think.
+This is kind of more specific and more future looking, I think.
 
 117
 00:10:35,040 --> 00:10:42,880
@@ -476,23 +474,23 @@ And his view of this is not that more photorealism is good and less photorealism
 
 120
 00:11:05,160 --> 00:11:17,920
-photorealism is less than a surprise for all of these variables or all these parameters.
+photorealism is more Metaverse and less photorealism is less Metaverse and this applies for all of these variables or all these parameters,
 
 121
 00:11:17,920 --> 00:11:19,720
-It's just a way to classify them.
+it's just a way to classify them.
 
 122
 00:11:19,720 --> 00:11:23,360
-It's a way to say this is a matter of this.
+It's a way to say this Metaverse is photorealistic,
 
 123
 00:11:23,360 --> 00:11:25,840
-This is a matter of this.
+this Metaverse is
 
 124
 00:11:25,840 --> 00:11:26,840
-Not photorealistic.
+not photorealistic.
 
 125
 00:11:26,840 --> 00:11:35,960
@@ -500,19 +498,19 @@ And so, you start thinking about these as sliders or spectrums.
 
 126
 00:11:35,960 --> 00:11:38,400
-So one spectrum is a photorealism.
+So one spectrum is a photorealism,
 
 127
 00:11:38,400 --> 00:11:45,640
-Are we trying to replicate the visual model of the railroad?
+are we trying to replicate the visual model of the real world?
 
 128
 00:11:45,640 --> 00:11:52,680
-Or as many games or social media or other possible universes don't look like the role
+Or as many games or social media or other possible universes don't look like the real
 
 129
 00:11:52,680 --> 00:11:54,000
-of it all?
+world, at all?
 
 130
 00:11:54,000 --> 00:11:58,040
@@ -532,31 +530,31 @@ You know, email is partially immersive.
 
 134
 00:12:14,360 --> 00:12:15,360
-I sit at my laptop.
+I sit at my laptop,
 
 135
 00:12:15,360 --> 00:12:16,360
-I do things.
+I do things,
 
 136
 00:12:16,360 --> 00:12:24,320
-I have my email client open.
+I have my email client open, I go in and out,
 
 137
 00:12:24,320 --> 00:12:25,320
-It pings me.
+it pings me,
 
 138
 00:12:25,320 --> 00:12:26,320
-The harass is a little bit.
+This harasses a little bit.
 
 139
 00:12:26,320 --> 00:12:27,320
-I'm not.
+
 
 140
 00:12:27,320 --> 00:12:28,320
-I'm never totally out.
+I'm never totally out,
 
 141
 00:12:28,320 --> 00:12:30,320
@@ -564,7 +562,7 @@ I'm never totally in.
 
 142
 00:12:30,320 --> 00:12:35,440
-If you're playing some first person shooter VR game with VR goggles, I'm only a pretty
+If you're playing some first person shooter VR game with VR goggles, I'm only pretty
 
 143
 00:12:35,440 --> 00:12:36,440
@@ -600,7 +598,7 @@ It's just a slider.
 
 151
 00:12:52,360 --> 00:12:54,720
-Persistence and here.
+Persistence and here,
 
 152
 00:12:54,720 --> 00:13:00,560
@@ -608,11 +606,11 @@ George has a different definition of persistence than my earlier definition of p
 
 153
 00:13:00,560 --> 00:13:04,640
-which may end up right.
+which may end up right or
 
 154
 00:13:04,640 --> 00:13:05,640
-Wrong.
+wrong.
 
 155
 00:13:05,640 --> 00:13:14,720
@@ -636,11 +634,11 @@ It comes with you.
 
 160
 00:13:21,520 --> 00:13:22,520
-It's there.
+It's there,
 
 161
 00:13:22,520 --> 00:13:29,800
-It's persistent, which is somehow similar to you can leave and come back and it's still
+it's persistent, which is somehow similar to, you can leave and come back and it's still
 
 162
 00:13:29,800 --> 00:13:34,960
@@ -652,15 +650,15 @@ And then the governance properties are interesting.
 
 164
 00:13:41,240 --> 00:13:43,680
-These are the types of topics that are exciting to me.
+These are the types of topics that are exciting to me,
 
 165
 00:13:43,680 --> 00:13:46,840
-We'll talk about them a few slides down as well.
+we'll talk about them a few slides down as well.
 
 166
 00:13:46,840 --> 00:13:54,080
-You know, data ownership that can users own the assets in the virtual world and can they
+You know, data ownership, can users own the assets in the virtual world and can they
 
 167
 00:13:54,080 --> 00:13:57,720
@@ -680,15 +678,15 @@ different?
 
 171
 00:14:08,560 --> 00:14:16,000
-We'll come to this question of is metaverse singular and metaverse pool.
+We'll come to this question of is metaverse singular and metaverse plural.
 
 172
 00:14:16,000 --> 00:14:22,880
-Openness can developers or in my view, I think individuals, it doesn't have to be developers.
+Openness can developers or in my view, I think individuals, it doesn't have to be developers,
 
 173
 00:14:22,880 --> 00:14:32,720
-So, Minecraft is, you don't need to be a developer to build things in Minecraft.
+Minecraft is, you don't need to be a developer to build things in Minecraft.
 
 174
 00:14:32,720 --> 00:14:40,440
@@ -708,19 +706,19 @@ accessing the virtual world restricted in their experiences or kicked off the me
 
 178
 00:14:55,160 --> 00:14:58,800
-place and some drivers are for your own security world.
+by some centralized authority who owns or controls the world.
 
 179
 00:14:58,800 --> 00:15:03,600
-Yeah, this is my personal obsession.
+Yeah, this is my personal obsession,
 
 180
 00:15:03,600 --> 00:15:10,720
-Arguably, I think today basically no metaverse is censorship resistant.
+arguably, I think today basically no metaverse is censorship resistant, and
 
 181
 00:15:10,720 --> 00:15:15,280
-There's always a counterparty that is controlling it.
+there's always a counterparty that is controlling it.
 
 182
 00:15:15,280 --> 00:15:25,240
@@ -732,7 +730,7 @@ metaverses.
 
 184
 00:15:26,240 --> 00:15:33,600
-And I think it's something that I don't assign work 21, but it could be, you could have this
+And I think it's something that I don't assign work to anyone, but it could be, you could have this
 
 185
 00:15:33,600 --> 00:15:40,800
@@ -748,7 +746,7 @@ on it, which is just one sentence.
 
 188
 00:15:54,360 --> 00:16:03,200
-And my definition is it is the internet with better visualization and persistent digital
+And my definition is, it is the internet with better visualization and persistent digital
 
 189
 00:16:03,200 --> 00:16:06,600
@@ -760,7 +758,7 @@ And this is a quite different approach because I've kind of defined my way out o
 
 191
 00:16:23,320 --> 00:16:31,320
-or peery metaverse question and there's a reason for this.
+or plural metaverse question and there's a reason for this.
 
 192
 00:16:31,320 --> 00:16:41,240
@@ -780,7 +778,7 @@ Why do I think that?
 
 196
 00:16:50,920 --> 00:16:59,760
-Imagine any type of world where we have all these, let's call them metaverse experiences.
+Imagine any type of world where we have all these, let's call them "metaverse experiences".
 
 197
 00:16:59,760 --> 00:17:04,280
@@ -804,31 +802,31 @@ one metaverse and that metaverse is going to be Minecraft, right?
 
 202
 00:17:19,440 --> 00:17:28,280
-Well, imagine that's the case and it's not today, 10 years from now or 15 years from
+Well, imagine that's the case and it's not today, it's 10 years from now or 15 years from
 
 203
 00:17:28,280 --> 00:17:32,440
-now, it doesn't really matter when you pick.
+now, or 20 years from now, it doesn't really matter when you pick.
 
 204
 00:17:32,440 --> 00:17:42,280
-I don't think in that world we will have the metaverse and separately the Internet.
+I don't think in that world we will have the metaverse and separately, the internet.
 
 205
 00:17:42,280 --> 00:17:47,880
-I don't think you'll say, oh, today I'm going to go use the Internet and then later today
+I don't think you'll say, "oh, today I'm going to go use the internet and then later today
 
 206
 00:17:47,880 --> 00:17:50,640
-I'm going to go use the metaverse.
+I'm going to go use the metaverse".
 
 207
 00:17:50,640 --> 00:18:00,880
-I think we're going to become the same thing, just like there was a time, maybe still true
+I think they're going to become the same thing, just like there was a time, maybe still true
 
 208
 00:18:00,880 --> 00:18:09,320
-today that like mobile apps was a different thing, mobile was a different thing than desktop.
+today, that like, mobile apps was a different thing, mobile was a different thing than desktop.
 
 209
 00:18:09,320 --> 00:18:16,640
@@ -836,7 +834,7 @@ I'm sure the phone factor is different, but I basically use more or less all the
 
 210
 00:18:16,640 --> 00:18:25,440
-applications on the desktop and on my phone and I don't know if that's like some separate
+applications on the desktop and on my phone and, I don't know if that's like some separate
 
 211
 00:18:25,440 --> 00:18:26,440
@@ -848,7 +846,7 @@ Or here's another way to think about it.
 
 213
 00:18:30,000 --> 00:18:35,440
-Let's say you're in one of these for argument's sake three dimensional spaces.
+Let's say you're in one of these, for argument's sake, three dimensional spaces.
 
 214
 00:18:35,440 --> 00:18:45,480
@@ -872,7 +870,7 @@ three spaces is kind of wonky.
 
 219
 00:19:03,680 --> 00:19:11,000
-That's why I was still used Twitter and Discord and WhatsApp and Telegram and all these other
+That's why I was still use Twitter and Discord and WhatsApp and Telegram and all these other
 
 220
 00:19:11,000 --> 00:19:12,000
@@ -888,19 +886,19 @@ environment and yet in order to chat to someone, in order to chat to someone, yo
 
 223
 00:19:30,000 --> 00:19:34,800
-leave it and go somewhere else.
+leave it, and go somewhere else,
 
 224
 00:19:34,800 --> 00:19:35,800
-Makes no sense to me.
+makes no sense to me.
 
 225
 00:19:35,800 --> 00:19:41,040
-If you're still, if it's a decade from now and you still have to leave the quote unquote
+If you're still, if it's a decade from now and you still have to leave the quote/unquote
 
 226
 00:19:41,040 --> 00:19:49,000
-metaverse for me to send a DM to George, well, I mean, I don't think that metaverse will
+"metaverse" for me to send a DM to George, well, I mean, I don't think that metaverse will
 
 227
 00:19:49,000 --> 00:19:50,000
@@ -924,47 +922,47 @@ What about other things?
 
 232
 00:19:54,000 --> 00:19:55,000
-Or whatever it is?
+Email?
 
 233
 00:19:55,000 --> 00:19:57,760
-You know, I'm sure we'll have you know that good from now.
+You know, I'm sure we'll have email a decade from now
 
 234
 00:19:57,760 --> 00:20:02,680
-But why can't I answer my email in that environment?
+but why can't I answer my email in that environment?
 
 235
 00:20:02,680 --> 00:20:07,880
-It's just a form factor that you ask a UI for reading my email.
+It's just a form factor, a UX UI for reading my email,
 
 236
 00:20:07,880 --> 00:20:11,240
-Why can't I read my email in a private room and on?
+why can't I read my email in a private room?
 
 237
 00:20:11,240 --> 00:20:16,400
-Why do I have to read it and the interface that it has now?
+Why do I have to read it in the interface that it has now?
 
 238
 00:20:16,400 --> 00:20:17,400
-Well, sure.
+Well, sure,
 
 239
 00:20:17,400 --> 00:20:18,400
-Okay.
+Okay,
 
 240
 00:20:18,400 --> 00:20:20,880
-But what about an old studio computer?
+but what about an old studio computer?
 
 241
 00:20:20,880 --> 00:20:23,640
-I want you to move you.
+I watch a movie,
 
 242
 00:20:23,640 --> 00:20:24,640
-Okay.
+Okay,
 
 243
 00:20:24,640 --> 00:20:28,360
@@ -980,11 +978,11 @@ And in fact, you know, you could have, I assume by that point, you'll have much 
 
 246
 00:20:43,000 --> 00:20:44,000
-space to work with.
+space to work with,
 
 247
 00:20:44,000 --> 00:20:47,200
-You might have many Excels out there.
+you might have many Excels out there.
 
 248
 00:20:47,200 --> 00:20:58,200
@@ -1016,19 +1014,19 @@ It's kind of hard to have a 3D space with a 2D chat box.
 
 255
 00:21:26,240 --> 00:21:35,600
-And so if you believe in this, I just don't see any way it's not going to be like this.
+And so if you believe in this, I just don't see any way it's not going to be like this
 
 256
 00:21:35,600 --> 00:21:41,440
-Then the internet goes away.
+then, the internet goes away.
 
 257
 00:21:41,440 --> 00:21:42,680
-Now it doesn't go away.
+Now it doesn't go away,
 
 258
 00:21:42,680 --> 00:21:43,840
-It's all right there.
+it's all right there.
 
 259
 00:21:43,840 --> 00:21:50,560
@@ -1040,11 +1038,11 @@ But the idea that the internet and the metaverse are separate spaces, I think ev
 
 261
 00:21:57,360 --> 00:22:00,880
-It's an open question I'm willing to concede.
+It's an open question I'm willing to concede,
 
 262
 00:22:00,880 --> 00:22:05,240
-But I don't know what is it in 10 years?
+but I don't know when; is it in 10 years?
 
 263
 00:22:05,240 --> 00:22:07,240
@@ -1056,7 +1054,7 @@ Is it in 23?
 
 265
 00:22:08,240 --> 00:22:17,040
-But pick any arbitrary, arbitrary, future point, 100 years from now.
+But pick any arbitrary, arbitrary future point, 100 years from now.
 
 266
 00:22:17,040 --> 00:22:21,320
@@ -1144,7 +1142,7 @@ on your phone.
 
 287
 00:23:42,480 --> 00:23:48,480
-Global video teleconference and used it to be a big company feature 15 years ago.
+Global video teleconference used to be a big company feature 15 years ago.
 
 288
 00:23:48,480 --> 00:23:52,760
@@ -1160,11 +1158,11 @@ What I think is going to be the transition now is 3D visualization, the browser,
 
 291
 00:24:03,480 --> 00:24:06,280
-church, or what is on the next side.
+probably what is on the next side,
 
 292
 00:24:06,280 --> 00:24:13,280
-And then augmented and virtual reality belong to them where they'll be together.
+and then augmented and virtual reality belong to them where they'll be together.
 
 293
 00:24:13,280 --> 00:24:21,000
@@ -1192,7 +1190,7 @@ but they'll have the ability to pop into virtual reality and hide the world arou
 
 299
 00:24:42,720 --> 00:24:46,160
-And that's been to come.
+And that's going to come.
 
 300
 00:24:46,160 --> 00:24:48,440
@@ -1200,7 +1198,7 @@ It's not there yet.
 
 301
 00:24:48,440 --> 00:24:51,600
-I know of no specific person.
+I know of no specific person,
 
 302
 00:24:51,600 --> 00:24:56,200
@@ -1208,7 +1206,7 @@ I'm sure there's some of the world's lessons, but I don't know any of them who w
 
 303
 00:24:56,200 --> 00:24:57,200
-reality heads up all day.
+reality headset all day.
 
 304
 00:24:57,200 --> 00:25:01,200
@@ -1272,7 +1270,7 @@ It could be a specific three dimensional space in which you do something.
 
 319
 00:26:01,840 --> 00:26:06,640
-It could be a piece of land in quotes.
+It could be a piece of "land".
 
 320
 00:26:06,640 --> 00:26:08,840
@@ -1280,7 +1278,7 @@ The land is different than a space, right?
 
 321
 00:26:08,840 --> 00:26:16,160
-A space doesn't land implies that there's some type of property that is surrounded by
+Land implies that there's some type of property that is surrounded by
 
 322
 00:26:16,160 --> 00:26:18,760
@@ -1296,11 +1294,11 @@ You can have a space that's not tied to some property grid.
 
 325
 00:26:29,880 --> 00:26:40,960
-And my view of persistence is that they are there when you come back.
+And my view of persistence is that they are there, when you come back.
 
 326
 00:26:40,960 --> 00:26:45,120
-Now, there's a preventative or stuff.
+Now, where that open metaverse stuff?
 
 327
 00:26:45,120 --> 00:26:46,720
@@ -1332,7 +1330,7 @@ It might be closed.
 
 334
 00:27:15,400 --> 00:27:20,040
-We can think about what are the correct risks that make it open.
+We can think about what are the characteristics that make it open.
 
 335
 00:27:20,040 --> 00:27:23,880
@@ -1348,7 +1346,7 @@ They cover all scenarios.
 
 338
 00:27:34,240 --> 00:27:39,480
-That is a less useful framework than say, Georges for classifying different metaverses
+That is a less useful framework than say George's for classifying different metaverses
 
 339
 00:27:39,480 --> 00:27:40,480
@@ -1356,7 +1354,7 @@ on different dimensions.
 
 340
 00:27:40,480 --> 00:27:51,200
-But it also, I think, is it covers almost any possible out-consolvable manner.
+But it also, I think, is it covers almost any possible inconsolable manner.
 
 341
 00:27:51,200 --> 00:27:58,880
@@ -1368,7 +1366,7 @@ all cannot make sense.
 
 343
 00:27:59,880 --> 00:28:02,480
-There is a 3D visualization of browser.
+There is a 3D visualization browser.
 
 344
 00:28:02,480 --> 00:28:03,480
@@ -1392,23 +1390,22 @@ of everything at the moment.
 
 349
 00:28:25,760 --> 00:28:27,520
-That is perfectly fine and functional.
-
+That is perfectly fine and functional
 350
 00:28:27,520 --> 00:28:35,680
-And you can search by artist and you get this list of artwork.
+and you can search by artist and you get this list of artwork.
 
 351
 00:28:35,680 --> 00:28:42,960
-And on the right is the generative gallery of the 6'5'2'9' museum, also running in
+And on the right is the generative gallery of the 6529 museum, also running in
 
 352
 00:28:42,960 --> 00:28:43,960
-the browser.
+the browser
 
 353
 00:28:43,960 --> 00:28:48,120
-But one of them is 3D.
+but one of them is 3D.
 
 354
 00:28:48,120 --> 00:28:55,880
@@ -1420,35 +1417,35 @@ the left to the visualization on the right.
 
 356
 00:28:59,240 --> 00:29:05,920
-Now, some things might stay on the visualization on the left for speed and ease of use.
+Now, some things might stay on the visualization on the left for speed and ease of use
 
 357
 00:29:05,920 --> 00:29:11,920
-And certainly we are not particularly ready to go to the right because there are still
+and certainly we are not particularly ready to go to the right because they are still
 
 358
 00:29:11,920 --> 00:29:14,920
-all of them for wanting.
+all of them are wonky.
 
 359
 00:29:14,920 --> 00:29:26,040
-Even, do I think, oh, which is where this is on the right, is ready for time to time,
+Even, do I think, oh, which is where this is on the right, is ready for prime time,
 
 360
 00:29:26,040 --> 00:29:30,200
-detail, consumer use?
+retail, consumer use?
 
 361
 00:29:30,200 --> 00:29:34,480
-That's okay, it's totally over the course of the next few years.
+That's okay, it's still early. Over the course of the next few years,
 
 362
 00:29:34,480 --> 00:29:42,320
-We'll sort out how to make these spaces functional and fast and performant.
+we'll sort out how to make these spaces functional and fast and performant
 
 363
 00:29:42,320 --> 00:29:47,320
-And people will figure out what is the model for moving around to spaces.
+and people will figure out what is the model for moving around these spaces.
 
 364
 00:29:47,320 --> 00:29:51,160
@@ -1464,7 +1461,7 @@ But I do think there are many usage cases where looking at something with this m
 
 367
 00:30:01,560 --> 00:30:03,560
-visualization has been to make sense.
+visualization has got to make sense.
 
 368
 00:30:03,560 --> 00:30:08,840
@@ -1476,7 +1473,7 @@ Yeah, that's true.
 
 370
 00:30:09,840 --> 00:30:10,840
-It can't.
+It can.
 
 371
 00:30:10,840 --> 00:30:13,080
@@ -1496,11 +1493,11 @@ I think it's the devices.
 
 375
 00:30:23,240 --> 00:30:27,680
-Yes, that gallery, we can see it in VR.
+Yes, that gallery, we can see it in VR
 
 376
 00:30:27,680 --> 00:30:29,680
-And I've seen it once in VR.
+and I've seen it once in VR.
 
 377
 00:30:29,680 --> 00:30:35,120
@@ -1516,35 +1513,34 @@ So until that becomes easier, I think it's going to be mostly, most of the scree
 
 380
 00:30:44,840 --> 00:30:52,040
-is going to be in the browser in not in VR and 3D on your browser or your computer, not
+is going to be in the browser not in VR and 3D on your browser or your computer, not
 
 381
 00:30:52,040 --> 00:30:53,040
-in VR.
+in VR, we will get there in time,
 
 382
 00:30:53,040 --> 00:30:54,040
-But not yet.
+but not yet.
 
 383
 00:30:54,040 --> 00:31:07,840
-Anybody definition raises a question, which is a general question, of is metaphors a
+Anybody definition raises a question, which is a general question of, is metaverse a
 
 384
 00:31:07,840 --> 00:31:08,840
-singular?
+singular or plural word?
 
 385
 00:31:08,840 --> 00:31:09,840
-Yeah.
+
 
 386
 00:31:09,840 --> 00:31:10,840
-Healy.
+
 
 387
 00:31:10,840 --> 00:31:11,840
-Yeah.
 
 388
 00:31:11,840 --> 00:31:25,840
@@ -1552,11 +1548,11 @@ And I'll say as always, I don't know.
 
 389
 00:31:25,840 --> 00:31:34,800
-It's nobody else.
+Nobody knows.
 
 390
 00:31:34,800 --> 00:31:54,840
-But I will throw out a concept about how potentially we can resolve it.
+But I will throw out a concept about how potentially, we can resolve it.
 
 391
 00:31:54,840 --> 00:32:03,560
@@ -1576,11 +1572,11 @@ Why are they plural today?
 
 395
 00:32:18,720 --> 00:32:27,600
-Well, because today, metaverse spaces are a small fraction of the inner.
+Well, because today, metaverse spaces are a small fraction of the internet
 
 396
 00:32:27,600 --> 00:32:37,120
-And so you kind of need the word to distinguish them from a regular website or a regular mobile
+and so you kind of need the word to distinguish them from a regular website or a regular mobile
 
 397
 00:32:37,120 --> 00:32:38,120
@@ -1600,7 +1596,7 @@ And there is obviously more than one competing for this idea of being a metavers
 
 401
 00:32:57,440 --> 00:33:05,960
-And I think today it's sensibly a plural topic.
+So I think today, it's sensibly a plural topic.
 
 402
 00:33:05,960 --> 00:33:15,520
@@ -1624,7 +1620,7 @@ The way to think about it is, I don't know, imagine a kid growing up in 2040.
 
 407
 00:33:34,520 --> 00:33:45,000
-You know, if you have spent any time around young kids today and you know, but older like
+You know, if you have spent any time around young kids today and you're a little bit older, like
 
 408
 00:33:45,000 --> 00:33:54,200
@@ -1636,11 +1632,11 @@ of an iPad or something, right?
 
 410
 00:33:56,800 --> 00:34:02,520
-A TV is a purely functioning iPad.
+A TV is a poorly functioning iPad,
 
 411
 00:34:02,520 --> 00:34:13,240
-You can't do things on demand and, you know, I mean, linear TV, right?
+you can't do things on demand and, you know, I mean, linear TV, right?
 
 412
 00:34:13,240 --> 00:34:17,840
@@ -1648,11 +1644,11 @@ And then, you know, with smart TVs, you end up getting the YouTube and Netflix a
 
 413
 00:34:17,840 --> 00:34:19,840
-applications on them.
+applications on them
 
 414
 00:34:19,840 --> 00:34:24,920
-And so, there just becomes an iPad.
+and so, they just become an iPad.
 
 415
 00:34:24,920 --> 00:34:32,040
@@ -1660,31 +1656,31 @@ The linear TV part of the TV is close to irrelevant.
 
 416
 00:34:32,040 --> 00:34:33,680
-And that's weird.
+And that's weird,
 
 417
 00:34:33,680 --> 00:34:42,120
-If you remember, like I remember, when TV was one thing and streaming video was something
+if you remember, like I remember, when TV was one thing and streaming video was something
 
 418
 00:34:42,120 --> 00:34:53,680
-else, so you turn on TV and you watch on NBC, Thanksgiving Day Parade, it's on NBC or it's
+else, so you turn on TV and you watch on NBC, the Thanksgiving Day Parade, it's on NBC or it's
 
 419
 00:34:53,680 --> 00:34:54,680
-on CBS, however.
+on CBS, however
 
 420
 00:34:54,680 --> 00:34:58,720
-Tomorrow you'll turn on network TV and you'll watch Thanksgiving Day Parade.
+tomorrow you'll turn on network TV and you'll watch the Thanksgiving Day Parade.
 
 421
 00:34:58,720 --> 00:35:05,280
-And then you'd go to your computer, to the internet, and watch YouTube video.
+And then you'd go to your computer, to the internet, and watch a YouTube video.
 
 422
 00:35:05,280 --> 00:35:15,800
-And those were very distinct things and there were telling reports about internet video and
+And those were very distinct things and there were whole reports about internet video and
 
 423
 00:35:15,800 --> 00:35:22,680
@@ -1728,7 +1724,7 @@ I think it is going to be easy to go from one to another.
 
 433
 00:36:29,720 --> 00:36:40,600
-Then someone who does not have the prior experience of a pre-mediverse internet, I think it's
+Then someone who does not have the prior experience of a pre-metaverse internet, I think it's
 
 434
 00:36:40,600 --> 00:36:45,200
@@ -1756,11 +1752,11 @@ I don't think it's going to be a bunch of different ones.
 
 440
 00:37:02,720 --> 00:37:10,240
-Now, just conceptually here, we're not going to get into so much the details on each one
+Now, just conceptually here, we're not going to get into so much details on each one
 
 441
 00:37:10,240 --> 00:37:16,880
-of these, but where were what might be an earliest metaverse?
+of these, but where were what might be the earliest metaverse?
 
 442
 00:37:16,880 --> 00:37:25,920
@@ -1776,15 +1772,15 @@ Immersive?
 
 445
 00:37:27,920 --> 00:37:42,160
-Anyway, now I'm Georgians framework, not in the slightest but photo-realistic, but not
+Anyway, now on George's framework, not in the slightest but photo-realistic, but not
 
 446
 00:37:42,160 --> 00:37:43,160
-necessarily relevant.
+necessarily relevant
 
 447
 00:37:43,160 --> 00:37:49,880
-So we started here, right?
+so we started here, right?
 
 448
 00:37:49,880 --> 00:37:53,080
@@ -1800,15 +1796,15 @@ But then we got some better graphics.
 
 451
 00:37:59,520 --> 00:38:02,520
-And a little bit more than version, right?
+And a little bit more of a virtual world, right?
 
 452
 00:38:02,520 --> 00:38:06,320
-This is all very early.
+This is all very early
 
 453
 00:38:06,320 --> 00:38:07,320
-Work.
+work.
 
 454
 00:38:07,320 --> 00:38:19,960
@@ -1824,15 +1820,15 @@ How are they conceptually different?
 
 457
 00:38:23,840 --> 00:38:30,600
-Is anything different other than the graphics or better?
+Is anything different other than the graphics are better?
 
 458
 00:38:30,600 --> 00:38:33,440
-Is anything different other than the graphics or better?
+Is anything different other than the graphics are better,
 
 459
 00:38:33,440 --> 00:38:40,400
-Well, maybe now we have NFTs, which is a very specific topic, but for the metaverse aspect,
+well, maybe now we have NFTs, which is a very specific topic, but for the metaverse aspect,
 
 460
 00:38:40,400 --> 00:38:49,200
@@ -1844,15 +1840,15 @@ And then I think the very obvious, you know, we come decades ahead.
 
 462
 00:38:59,360 --> 00:39:07,480
-I think there's an excellent case that the massively multiplayer on wide role playing
+I think there's an excellent case that the massively multiplayer online role playing
 
 463
 00:39:07,480 --> 00:39:13,480
-games are in the concept of pure metaverse, they're metaverse.
+games are in the concept of plural metaverses, they're metaverses.
 
 464
 00:39:13,480 --> 00:39:25,440
-Big older, you enter a specific node, you have a specific way or character or avatar.
+A bit older, you enter a specific node, you have a specific role or character or avatar.
 
 465
 00:39:25,440 --> 00:39:36,200
@@ -1864,7 +1860,7 @@ I would credit them with being a metaverse research.
 
 467
 00:39:44,280 --> 00:39:49,000
-Even our social layer metaverse has been doing it for a long time.
+Even our social layer metaverses have been doing it for a long time.
 
 468
 00:39:49,000 --> 00:40:00,520
@@ -1872,11 +1868,11 @@ Second life, very famously, got a lot of traction trying to build a metaverse in
 
 469
 00:40:00,520 --> 00:40:01,520
-2000s.
+2000s,
 
 470
 00:40:01,520 --> 00:40:04,520
-It's been at least 10 years.
+it's been at least 10 years.
 
 471
 00:40:04,520 --> 00:40:12,520
@@ -1884,43 +1880,43 @@ I'm going to have to check exactly when it started.
 
 472
 00:40:12,520 --> 00:40:22,040
-But it's been the same concepts as well there.
+But it's been the same concepts as well there
 
 473
 00:40:22,040 --> 00:40:32,400
-And a lot of the things we're seeing now with the blockchain based social virtual worlds
+and a lot of the things we're seeing now with the blockchain based social virtual worlds
 
 474
 00:40:32,400 --> 00:40:38,040
-exist then IBM is going to open a campus in second life.
+existed then IBM is going to open a campus in Second Life.
 
 475
 00:40:38,040 --> 00:40:41,160
-Some universities can open a campus in second life.
+Some universities can open a campus in Second Life.
 
 476
 00:40:41,160 --> 00:40:47,440
-Some retail stores are going to open a store in second life.
+Some retail stores are going to open a store in Second Life.
 
 477
 00:40:47,440 --> 00:40:49,360
-We went through that cycle.
+We went through that cycle
 
 478
 00:40:49,360 --> 00:40:56,360
-And it didn't totally quite stick with second life.
+and it didn't totally quite stick with Second Life.
 
 479
 00:40:56,360 --> 00:40:58,960
-Second life still up and ready.
+Second Life is still up and running
 
 480
 00:40:58,960 --> 00:41:03,520
-But it didn't take over the world away.
+but it didn't take over the world the way.
 
 481
 00:41:03,520 --> 00:41:06,440
-Some people might have thought it would.
+some people might have thought that it would.
 
 482
 00:41:06,440 --> 00:41:12,640
@@ -1932,11 +1928,11 @@ I ask myself this.
 
 484
 00:41:15,600 --> 00:41:22,480
-Is NFT Twitter and Discord a metaverse?
+Is NFT, Twitter and Discord a metaverse?
 
 485
 00:41:22,480 --> 00:41:29,080
-Is avatars or persistent digital objects?
+Are those avatars or persistent digital objects?
 
 486
 00:41:29,080 --> 00:41:39,880
@@ -1952,11 +1948,11 @@ There's definitely an economy.
 
 489
 00:41:56,920 --> 00:42:08,040
-There is in fact a self-solving economy because that economy primarily runs on Ethereum blockchain.
+There is in fact a self-soverign economy because that economy primarily runs on the Ethereum blockchain.
 
 490
 00:42:08,040 --> 00:42:15,720
-I'm thinking back to Georgia's six factors.
+I'm thinking back to George's six factors.
 
 491
 00:42:15,720 --> 00:42:17,720
@@ -1964,11 +1960,11 @@ It's not photo-realistic.
 
 492
 00:42:17,720 --> 00:42:28,400
-But I'll maybe extend it a little bit.
+But OK maybe I'll it a little bit.
 
 493
 00:42:28,400 --> 00:42:34,360
-Is NFT Twitter and Discord an open-sea and on-cyber and on-central and in some is this
+Is NFT, Twitter and Discord and OpenSea and Oncyber and on-central and in some is this
 
 494
 00:42:34,360 --> 00:42:35,360
@@ -2008,11 +2004,11 @@ Here what is to some degree serving as the unifying link is it there?
 
 503
 00:43:13,600 --> 00:43:20,680
-And is it fully integrated that I signed Punk 6'5 to 9 on Twitter and I signed Punk 6'5
+And is it fully integrated that I signed Punk 6529 on Twitter and I signed Punk 6529
 
 504
 00:43:20,680 --> 00:43:21,680
-to 9 on Discord?
+on Discord?
 
 505
 00:43:21,680 --> 00:43:22,680
@@ -2032,7 +2028,7 @@ Do it cloud-land.
 
 509
 00:43:25,680 --> 00:43:30,680
-Do I on-cyber and on?
+Do I Oncyber and on?
 
 510
 00:43:30,680 --> 00:43:32,880
@@ -2040,7 +2036,7 @@ Yeah, I do.
 
 511
 00:43:32,880 --> 00:43:40,640
-It feels to me that this is one a relatively more decentralized metaverse or relatively
+And so, it feels to me that this is one a relatively more decentralized metaverse or relatively
 
 512
 00:43:40,640 --> 00:43:47,680
@@ -2088,11 +2084,11 @@ Is it a game?
 
 523
 00:44:09,560 --> 00:44:10,560
-I don't know.
+I don't know
 
 524
 00:44:10,560 --> 00:44:13,560
-Ask this question on a couple of seconds.
+ask this question in a couple of seconds.
 
 525
 00:44:13,560 --> 00:44:24,680
@@ -2116,7 +2112,7 @@ Is every game a metaverse?
 
 530
 00:44:40,520 --> 00:44:45,480
-Does that just mean all games are metaversals?
+Does that just mean all games are metaverses?
 
 531
 00:44:45,480 --> 00:44:52,640
@@ -2124,11 +2120,11 @@ It feels like it diminishes the term of it.
 
 532
 00:44:52,640 --> 00:45:02,640
-Also I feel like it diminishes the concept of metaversals total.
+Also I feel like it diminishes the concept of metaverses, plural.
 
 533
 00:45:02,640 --> 00:45:15,160
-Because you can't, there's no obvious stopping point on the point that's no longer a metaverse.
+Because you can't, there's no obvious stopping point on the point on when it's no longer a metaverse.
 
 534
 00:45:15,160 --> 00:45:28,640
@@ -2136,11 +2132,11 @@ So it's why my mental model often goes to someday it's just going to be metavers
 
 535
 00:45:28,640 --> 00:45:38,000
-And then you don't have to have these highly theoretical discussions of is this a game?
+And then you don't have to have these highly theoretical discussions of is this a game, or
 
 536
 00:45:38,000 --> 00:45:39,000
-Is this a metaverse?
+is this a metaverse?
 
 537
 00:45:39,000 --> 00:45:40,000
@@ -2160,11 +2156,11 @@ Seems unhelpful, not particularly clear.
 
 541
 00:45:52,480 --> 00:45:57,120
-And things that are unhelpful frameworks are unhelpful and not particularly clear and don't
+And things that are unhelpful, frameworks are unhelpful and not particularly clear and don't
 
 542
 00:45:57,120 --> 00:46:04,480
-drive any particular changes in behavior possibly might be not perfectly fine tuned to the
+drive any particular changes in behavior possibly might be not perfectly fine-tuned to the
 
 543
 00:46:04,480 --> 00:46:08,280
@@ -2208,11 +2204,11 @@ Does that mean none of these things matter?
 
 553
 00:46:54,840 --> 00:47:00,120
-Instead of fighting what exactly is or is it a metaverse?
+Instead of fighting what exactly is or isn't a metaverse,
 
 554
 00:47:00,120 --> 00:47:05,920
-If you go to the generic definition that it is, the interna with better visualization
+if you go to the generic definition that it is, the internet with better visualization
 
 555
 00:47:05,920 --> 00:47:11,840
@@ -2224,7 +2220,7 @@ You sidestep all these questions.
 
 557
 00:47:17,680 --> 00:47:20,360
-Talk about openness for a second.
+Let's talk about openness for a second.
 
 558
 00:47:20,360 --> 00:47:23,920
@@ -2232,11 +2228,11 @@ We'll talk about a lot more in session 12.
 
 559
 00:47:23,920 --> 00:47:28,280
-That's why I haven't got into great detail here.
+That's why I haven't got into great detail here
 
 560
 00:47:28,280 --> 00:47:37,560
-But I think it is useful to at least touch upon it a little bit.
+but I think it is useful to at least touch upon it a little bit.
 
 561
 00:47:37,560 --> 00:47:40,440
@@ -2256,7 +2252,7 @@ Interoperability.
 
 565
 00:47:49,160 --> 00:47:55,240
-All of the big closed metaverse are going to talk about this.
+All of the big closed metaverses are going to talk about this.
 
 566
 00:47:55,240 --> 00:47:56,240
@@ -2264,11 +2260,11 @@ Why?
 
 567
 00:47:56,240 --> 00:48:03,320
-Because partially for PR reasons, regulators like interoperability.
+Because partially for PR reasons, regulators like interoperability, and so
 
 568
 00:48:03,320 --> 00:48:10,560
-Nobody is going to come say, I don't want to be interoperable with others.
+nobody is going to come say, I don't want to be interoperable with others.
 
 569
 00:48:10,560 --> 00:48:16,880
@@ -2288,7 +2284,7 @@ closed.
 
 573
 00:48:30,280 --> 00:48:39,360
-What they're going to say is we are absolutely in favor of interoperability.
+What they're going to say is "we are absolutely in favor of interoperability".
 
 574
 00:48:39,360 --> 00:48:46,160
@@ -2304,7 +2300,7 @@ And usually what happens in this case is there's a game to make it easy to come 
 
 577
 00:48:57,040 --> 00:49:08,840
-your world or application or what have you and make it hard or inconvenient to leave.
+your world or application or what have you, and make it hard or inconvenient to leave.
 
 578
 00:49:08,840 --> 00:49:21,480
@@ -2328,7 +2324,7 @@ A lot of people say, yeah, no, all your digital objects.
 
 583
 00:49:47,760 --> 00:49:54,040
-Your land in, fill in the bank is an NFT.
+Your land in, fill-in-the-bank is an NFT.
 
 584
 00:49:54,040 --> 00:49:56,040
@@ -2348,7 +2344,7 @@ But also, this usually comes with a bunch of terms and conditions.
 
 588
 00:50:11,040 --> 00:50:16,080
-If you want to play this object in our world, you got to do these things that we can kick
+If you want to play this object in our world, you got to do these things or we can kick
 
 589
 00:50:16,080 --> 00:50:21,520
@@ -2360,11 +2356,11 @@ Bitcoin does not come with terms and conditions like Bitcoin.
 
 591
 00:50:27,040 --> 00:50:32,720
-It's not going to get out of the Bitcoin world.
+No one can kick you out of the Bitcoin world.
 
 592
 00:50:32,720 --> 00:50:33,720
-Let's stop it.
+Next topic.
 
 593
 00:50:33,720 --> 00:50:34,720
@@ -2376,7 +2372,7 @@ Is someone in charge?
 
 595
 00:50:37,720 --> 00:50:43,640
-Some of the metaverse NFT, metaverse platforms, games, etc.
+Some of the metaverse NFT/metaverse platforms, games, etc.
 
 596
 00:50:43,640 --> 00:50:47,520
@@ -2392,7 +2388,7 @@ Some others have some form of partially decentralized governments where differen
 
 599
 00:51:04,080 --> 00:51:13,320
-make decisions for themselves, but they do still, I think, fall within a broader top-level
+make decisions for themselves, but they do still, I think, fall within broader top-level
 
 600
 00:51:13,320 --> 00:51:16,960
@@ -2404,7 +2400,7 @@ Next topic, what's the client?
 
 602
 00:51:17,960 --> 00:51:22,880
-You know, what's the client and what's the server, the client and the server go together?
+You know, what's the client and what's the server, do the client and the server go together?
 
 603
 00:51:22,880 --> 00:51:28,040
@@ -2420,15 +2416,15 @@ There's a some downsides, you know, that infrastructure is more developed to doi
 
 606
 00:51:32,880 --> 00:51:36,280
-with one of the gaming platforms.
+with one of the gaming platforms
 
 607
 00:51:36,280 --> 00:51:43,880
-But browsers are more open as a...
+but browsers are more open
 
 608
 00:51:43,880 --> 00:51:46,880
-As a endpoint.
+as a endpoint.
 
 609
 00:51:46,880 --> 00:51:53,880
@@ -2444,11 +2440,11 @@ digital objects as NFTs, there's still a form of interoperability as opposed to 
 
 612
 00:52:16,480 --> 00:52:19,480
-fully decentralized and open.
+fully decentralized and open
 
 613
 00:52:19,480 --> 00:52:23,480
-And if it's fully decentralized and open, again, the rental model is Bitcoin, anyone can run
+and if it's fully decentralized and open, again, the rental model is Bitcoin; anyone can run
 
 614
 00:52:23,480 --> 00:52:32,480
@@ -2460,7 +2456,7 @@ do something.
 
 616
 00:52:34,480 --> 00:52:45,440
-Today, every one of the platforms, you have to go to a platformame.com or.io to run
+Today, every one of the platforms, you have to go to a platform-name.com or.io to run
 
 617
 00:52:45,440 --> 00:52:46,440
@@ -2556,7 +2552,7 @@ It's all right.
 
 640
 00:54:10,440 --> 00:54:15,440
-And this is, I guess, metaverse is going to be exactly WordPress now, but it's a useful
+And this is, I guess, metaverse is going to be exactly WordPress? No, but it's a useful
 
 641
 00:54:15,440 --> 00:54:16,440
@@ -2564,11 +2560,11 @@ example to think about.
 
 642
 00:54:16,440 --> 00:54:19,440
-Are there centralized companies that are built on top of WordPress?
+Are there centralized companies that are built on top of WordPress? Sure
 
 643
 00:54:19,440 --> 00:54:22,440
-Some of them variable?
+Are some of them variable?
 
 644
 00:54:22,440 --> 00:54:23,440
@@ -2600,7 +2596,7 @@ introduce them to the discussion.
 
 651
 00:54:40,440 --> 00:55:04,440
-Now, let me pause there because I'm on one hour and three.
+Now, let me pause there because I'm on one hour and three minutes.
 
 652
 00:55:04,440 --> 00:55:12,440
@@ -2608,7 +2604,7 @@ So, we'll switch to questions.
 
 653
 00:55:12,440 --> 00:55:20,440
-But I do think the three big takeaways, I would say, is you found interesting to the
+But I do think the three big takeaways, I would say, the is a new found interest in the
 
 654
 00:55:20,440 --> 00:55:21,440
@@ -2616,15 +2612,15 @@ metaverse.
 
 655
 00:55:21,440 --> 00:55:28,440
-Anyways, multiple potential frameworks that metaverse or A metaverse is.
+Anyways, multiple potential frameworks on what THE metaverse or A metaverse is,
 
 656
 00:55:28,440 --> 00:55:31,440
-And there's multiple different candidates over the years of things that could have been
+and there's multiple different candidates over the years of things that could have been
 
 657
 00:55:31,440 --> 00:55:34,440
-or might have been metaverse.
+or might have been metaverses.
 
 658
 00:55:34,440 --> 00:55:40,440
@@ -2636,7 +2632,7 @@ very quickly.
 
 660
 00:55:41,440 --> 00:55:46,440
-And in five, ten, fifteen, twenty years, we're going to have a different framework on these
+In five, ten, fifteen, twenty years, we're going to have a different framework on these
 
 661
 00:55:46,440 --> 00:55:47,440
@@ -2644,35 +2640,29 @@ topics.
 
 662
 00:55:47,440 --> 00:55:55,440
-So, let me open up my chat so I can see.
+So, let me open up my chat so I can see
 
 663
 00:55:55,440 --> 00:56:02,440
-And then I'll switch to questions.
+and then I'll switch to questions.
 
 664
 00:56:25,440 --> 00:56:28,440
-Okay.
 
 665
 00:56:28,440 --> 00:56:31,440
-Okay.
 
 666
 00:56:31,440 --> 00:56:34,440
-Okay.
 
 667
 00:56:34,440 --> 00:56:38,440
-Okay.
 
 668
 00:56:38,440 --> 00:56:46,440
-Okay.
 
 669
 00:56:46,440 --> 00:57:04,440
-Okay.
 
 670
 00:57:04,440 --> 00:57:05,440
@@ -2684,11 +2674,11 @@ First question.
 
 672
 00:57:06,440 --> 00:57:09,440
-Why doesn't your definition include decentralized platforms?
+"Why doesn't your definition include decentralized platforms?
 
 673
 00:57:09,440 --> 00:57:11,440
-It's so important.
+It's so important."
 
 674
 00:57:11,440 --> 00:57:13,440
@@ -2700,7 +2690,7 @@ I'm running around, tweeting all day long about the open metaverse.
 
 676
 00:57:22,440 --> 00:57:29,440
-But I need to be in touch with you in this presentation because it is perfectly possible
+But I need to be in touch and honest in this presentation because it is perfectly possible
 
 677
 00:57:29,440 --> 00:57:36,440
@@ -2716,11 +2706,11 @@ I'm spending an infinite amount of time hoping it does happen.
 
 680
 00:57:49,440 --> 00:57:53,440
-But the metaverse could exist.
+But the metaverse could exist
 
 681
 00:57:53,440 --> 00:57:56,440
-That is close.
+that is closed.
 
 682
 00:57:56,440 --> 00:57:59,440
@@ -2728,19 +2718,20 @@ And I think it would still be a metaverse.
 
 683
 00:57:59,440 --> 00:58:01,440
-It would be a close metaverse.
+It would be a closed metaverse.
 
 684
 00:58:01,440 --> 00:58:03,440
-I'd be less happy about it.
+I'd be less happy about it, but there is no reason why it couldn't exist
+
 
 685
 00:58:03,440 --> 00:58:10,440
-So, me, a six life to nine believe in open metaverse.
+So, me, as 6529 believe in open metaverse.
 
 686
 00:58:10,440 --> 00:58:18,440
-Me and someone running your presentation with a metaverse is, I don't think it is by definition
+Me as someone running your presentation on what a metaverse is, I don't think it is by definition
 
 687
 00:58:18,440 --> 00:58:19,440
@@ -2760,7 +2751,7 @@ That's why I added the slide on open.
 
 691
 00:58:26,440 --> 00:58:33,440
-The at least framework seems to bridge metaverse where they webbed three ethos.
+"The Giaglis Framework seems to bridge metaverse with a Web3 ethos.
 
 692
 00:58:33,440 --> 00:58:35,440
@@ -2768,7 +2759,7 @@ Is that the intention?
 
 693
 00:58:35,440 --> 00:58:37,440
-Because not all visions of the metaverse do this.
+Because not all visions of the metaverse do this."
 
 694
 00:58:37,440 --> 00:58:40,440
@@ -2780,19 +2771,19 @@ George is a crypto person, has been for a very long time.
 
 696
 00:58:46,440 --> 00:58:49,440
-And so, I'm not sure.
+And so,
 
 697
 00:58:49,440 --> 00:58:56,440
-I am not surprised that there is a web three ethos embedded in his metaverse framework.
+I am not surprised that there is a Web3 ethos embedded in his metaverse framework.
 
 698
 00:58:56,440 --> 00:59:04,440
-And I think a lot of people who do not come from this web three slash crypto aspect of
+And I think a lot of people who do not come from this Web3/Crypto aspect 
 
 699
 00:59:04,440 --> 00:59:19,440
-the metaverse framework, it does not include those parameters.
+do not include those parameters at all
 
 700
 00:59:19,440 --> 00:59:26,440
@@ -2800,7 +2791,7 @@ So, I'm glad he has included them.
 
 701
 00:59:26,440 --> 00:59:36,440
-It does the six first time framework believe they will be connected.
+Does the 6529 framework believe they will be connected?
 
 702
 00:59:36,440 --> 00:59:37,440
@@ -2808,15 +2799,15 @@ Well, I hope so.
 
 703
 00:59:37,440 --> 00:59:41,440
-I hope the basis, I'm parking this until week 12.
+I hope the basis, I'm parking this until week 12
 
 704
 00:59:41,440 --> 00:59:44,440
-Because week 12, I'm going to be a little bit more personal.
+because week 12, I'm going to be a little bit more personal.
 
 705
 00:59:44,440 --> 00:59:49,440
-And a week eight, I'm trying to be a little bit more neutral.
+And a week eight, I'm trying to be a little bit more neutral
 
 706
 00:59:49,440 --> 00:59:50,440
@@ -2824,15 +2815,15 @@ I guess.
 
 707
 00:59:50,440 --> 00:59:58,440
-My view is that they.
+My view is that we
 
 708
 00:59:58,440 --> 01:00:02,440
-That we have a mechanism to make them interoperable.
+have a mechanism to make them interoperable.
 
 709
 01:00:02,440 --> 01:00:06,440
-And that mechanism is a kind of tease.
+and that mechanism is a kind of tease.
 
 710
 01:00:06,440 --> 01:00:15,440
@@ -2840,27 +2831,27 @@ And instead of having some large organizations decide on interoperability standa
 
 711
 01:00:15,440 --> 01:00:21,440
-but fundamentally work in closed.
+but fundamentally work in closed
 
 712
 01:00:21,440 --> 01:00:27,440
-Closed environments.
+environments.
 
 713
 01:00:27,440 --> 01:00:32,440
-The.
+
 
 714
 01:00:32,440 --> 01:00:36,440
-And if these are fundamentally open environment.
+NFTs are fundamentally open environment
 
 715
 01:00:36,440 --> 01:00:38,440
-And then people can build on top of them.
+and then people can build on top of them
 
 716
 01:00:38,440 --> 01:00:40,440
-But I want to talk about that in the week 12.
+but I want to talk about that in the week 12.
 
 717
 01:00:40,440 --> 01:00:45,440
@@ -2868,35 +2859,35 @@ There were heading away from.
 
 718
 01:00:45,440 --> 01:00:48,440
-An objective understanding of the situation to my personal belief.
+An objective understanding of the situation to my personal belief
 
 719
 01:00:48,440 --> 01:00:52,440
-And what would be better.
+on what would be better.
 
 720
 01:00:52,440 --> 01:00:55,440
-What is the overlap between the concepts of metaverse and cryptocurrency?
+"What is the overlap between the concepts of metaverse and cryptocurrency?"
 
 721
 01:00:55,440 --> 01:01:01,440
-Well, if you want an open.
+Well, if you want a
 
 722
 01:01:01,440 --> 01:01:03,440
-If you want to close my diverse, not you don't need any.
+closed metaverse, you don't need any.
 
 723
 01:01:03,440 --> 01:01:05,440
-You can run a close metaverse where.
+You can run a close metaverse where
 
 724
 01:01:05,440 --> 01:01:10,440
-People own the game objects, but in.
+people own the game objects, but in
 
 725
 01:01:10,440 --> 01:01:14,440
-It's database and people can pay for them with credits in.
+Epic's database, people can pay for them with credits in
 
 726
 01:01:14,440 --> 01:01:17,440
@@ -2904,11 +2895,10 @@ Epic's database.
 
 727
 01:01:17,440 --> 01:01:24,440
-And the.
+
 
 728
 01:01:24,440 --> 01:01:28,440
-The.
 
 729
 01:01:28,440 --> 01:01:31,440
@@ -2916,19 +2906,19 @@ A lot of companies are going to do that, to be honest.
 
 730
 01:01:31,440 --> 01:01:35,440
-So.
+So,
 
 731
 01:01:35,440 --> 01:01:37,440
-If you want an open.
+if you want an open
 
 732
 01:01:37,440 --> 01:01:39,440
-Metiverse.
+metaverse
 
 733
 01:01:39,440 --> 01:01:46,440
-With not one party in charge with not one person's database in charge.
+with not one party in charge with not one person's database in charge.
 
 734
 01:01:46,440 --> 01:01:57,440
@@ -2936,7 +2926,7 @@ Well, then you need something that's on a database and that's really a blockchai
 
 735
 01:01:57,440 --> 01:02:02,440
-So, that's a good question.
+So, that is a good question.
 
 736
 01:02:02,440 --> 01:02:08,440
@@ -2944,51 +2934,51 @@ I thought there was a social aspect to the metaverse versus just the 3D space, b
 
 737
 01:02:08,440 --> 01:02:11,440
-This is a very good point.
+This is a very good point
 
 738
 01:02:11,440 --> 01:02:15,440
-And we need to think about.
+and we need to think about it.
 
 739
 01:02:15,440 --> 01:02:20,440
-I need to see on the slide somewhere.
+That needs to get on the slide somewhere.
 
 740
 01:02:20,440 --> 01:02:22,440
-Yeah, for sure.
+Yeah, for sure
 
 741
 01:02:22,440 --> 01:02:23,440
-It's a social aspect.
+there's a social aspect
 
 742
 01:02:23,440 --> 01:02:26,440
-And it's kind of implicitly there.
+and it's kind of implicitly there
 
 743
 01:02:26,440 --> 01:02:28,440
-It's just being possible.
+and it should be made explicitly there,
 
 744
 01:02:28,440 --> 01:02:34,440
-I mean, one mental model that I sometimes have is.
+I mean, one mental model that I sometimes have 
 
 745
 01:02:34,440 --> 01:02:36,440
-Or.
+are
 
 746
 01:02:36,440 --> 01:02:43,440
-Metiverse is just social networks.
+metaverses just social networks
 
 747
 01:02:43,440 --> 01:02:46,440
-With just different visualizations.
+with just different visualizations.
 
 748
 01:02:46,440 --> 01:02:49,440
-But overall, there's a social networks.
+But overall, those are social networks.
 
 749
 01:02:49,440 --> 01:02:58,440
@@ -2996,19 +2986,19 @@ I don't know.
 
 750
 01:02:58,440 --> 01:03:03,440
-But we need to put a slide in there, which is senseless.
+But we need to put a slide in there, which says this
 
 751
 01:03:03,440 --> 01:03:06,440
-Explicitly.
+explicitly.
 
 752
 01:03:06,440 --> 01:03:17,440
-High risk that large companies get to set the rules for metaverse is that a threat or a possibility in your opinion. Yes, in fact, the whole reason 65 tonight exists is that I think that.
+High risk that large companies get to set the rules for metaverse, is that a threat or a possibility in your opinion. Yes, in fact, the whole reason 6529 exists is that I think that
 
 753
 01:03:17,440 --> 01:03:19,440
-That is a very high risk.
+that is a very high risk.
 
 754
 01:03:19,440 --> 01:03:21,440
@@ -3016,51 +3006,51 @@ I think that is the default case.
 
 755
 01:03:21,440 --> 01:03:25,440
-I think the default case is that.
+I think the default case is that
 
 756
 01:03:25,440 --> 01:03:32,440
-Metiverses will become like web to they will be centralized in 5, 10, 15, 20 companies.
+metaverses will become like Web2, they will be centralized in 5, 10, 15, 20 companies
 
 757
 01:03:32,440 --> 01:03:34,440
-And I think that's about outcome.
+and I think that's about outcome,
 
 758
 01:03:34,440 --> 01:03:45,440
-And that's my personal opinion. I don't think that's an objective view about the metaverse someone might have someone for meta might think it's better not to be that way.
+and that's my personal opinion. I don't think that's an objective view about the metaverse someone might have. Someone from Meta might think it's better not to be that way.
 
 759
 01:03:45,440 --> 01:03:48,440
-I need to be that way, but.
+I mean, to be that way, but,
 
 760
 01:03:48,440 --> 01:03:51,440
-For sure, I think it's worse.
+for sure I think it's worse.
 
 761
 01:03:51,440 --> 01:04:03,440
-Do you believe in a future of the concept of land and gravity in metaverse to me, they seem like artificial limitations of limit the entry barrier as people are familiar with.
+"Do you believe in a future of the concept of land and gravity in metaverse? To me, they seem like artificial limitations of limit the entry barrier as people are familiar with
 
 762
 01:04:03,440 --> 01:04:06,440
-These concepts.
+these concepts."
 
 763
 01:04:06,440 --> 01:04:15,440
-Well, I mean.
+Well, I mean,
 
 764
 01:04:15,440 --> 01:04:23,440
-I hear this early often.
+I hear this fairly often.
 
 765
 01:04:23,440 --> 01:04:33,440
-People who are.
+From people who are
 
 766
 01:04:33,440 --> 01:04:35,440
-Deep into the space.
+very deep into the space.
 
 767
 01:04:35,440 --> 01:04:39,440
@@ -3080,83 +3070,83 @@ We don't need to stick to the human scale concept.
 
 771
 01:04:50,440 --> 01:04:58,440
-And I appreciate that in theory.
+And I appreciate that in theory
 
 772
 01:04:58,440 --> 01:05:01,440
-Now, without a counter argument.
+now, without a counter argument
 
 773
 01:05:01,440 --> 01:05:04,440
-Which is the following.
+which is the following.
 
 774
 01:05:04,440 --> 01:05:07,440
-The counter argument is.
+The counter argument is,
 
 775
 01:05:07,440 --> 01:05:14,440
-Almost we've been making video games for several decades now.
+almost we've been making video games for several decades now
 
 776
 01:05:14,440 --> 01:05:20,440
-And those video games.
+a,nd those video games
 
 777
 01:05:20,440 --> 01:05:22,440
-Have been.
+have been
 
 778
 01:05:22,440 --> 01:05:25,440
-Overwhelmingly.
+overwhelmingly
 
 779
 01:05:25,440 --> 01:05:28,440
-Overwhelmingly.
+
 
 780
 01:05:28,440 --> 01:05:46,440
-Skillomorphic with land and gravity and things of that nature.
+skeuomorphic with land and gravity and things of that nature.
 
 781
 01:05:46,440 --> 01:05:59,440
-I think there is.
+I think there is something to that,
 
 782
 01:05:59,440 --> 01:06:07,440
-I don't think it's accidental.
+I don't think it's accidental
 
 783
 01:06:07,440 --> 01:06:17,440
-I don't think it's accidental.
+that almost all games match these types of models. I don't think it's an accident.
 
 784
 01:06:17,440 --> 01:06:22,440
-I also have.
+I also have
 
 785
 01:06:22,440 --> 01:06:28,440
-Seen attempts.
+seen attempts to make hugely conceptual spaces
 
 786
 01:06:28,440 --> 01:06:31,440
-And every attempt I've seen so far.
+and every attempt I've seen so far,
 
 787
 01:06:31,440 --> 01:06:34,440
-Has been kind of junk.
+has been kind of junk.
 
 788
 01:06:34,440 --> 01:06:37,440
-Now, maybe the space is really good, but the problem is like.
+Now, maybe the space is really good, but the problem is like
 
 789
 01:06:37,440 --> 01:06:40,440
-Our mental models are stuck on.
+our mental models are stuck on
 
 790
 01:06:40,440 --> 01:06:43,440
-Are stuck on things looking a little bit like the real.
+things looking a little bit like the real world.
 
 791
 01:06:43,440 --> 01:06:44,440
@@ -3172,7 +3162,7 @@ It's.
 
 794
 01:06:48,440 --> 01:06:50,440
-It's.
+
 
 795
 01:06:58,440 --> 01:07:02,440
@@ -3180,59 +3170,59 @@ I have yet to see one where it works.
 
 796
 01:07:02,440 --> 01:07:04,440
-So in theory.
+So in theory,
 
 797
 01:07:04,440 --> 01:07:08,440
-Yes, these are official limitations and we can do whatever we want.
+yes, these are official limitations and we can do whatever we want,
 
 798
 01:07:08,440 --> 01:07:09,440
-And practice.
+and practice,
 
 799
 01:07:09,440 --> 01:07:11,440
-Whatever we want.
+whatever we want.
 
 800
 01:07:11,440 --> 01:07:13,440
-So far has ended up looking.
+So far has ended up looking
 
 801
 01:07:13,440 --> 01:07:15,440
-Kind of like the real world.
+kind of like the real world.
 
 802
 01:07:15,440 --> 01:07:16,440
-Now, not exactly for a little, but.
+Now, not exactly like the real world but,
 
 803
 01:07:16,440 --> 01:07:19,440
-There's gravity in home, for example, but not a lot of gravity.
+there's gravity in home, for example, but not a lot of gravity,
 
 804
 01:07:19,440 --> 01:07:21,440
-You can jump really high.
+you can jump really high.
 
 805
 01:07:21,440 --> 01:07:27,440
-So.
+So
 
 806
 01:07:27,440 --> 01:07:33,440
-To prove it otherwise.
+to prove it otherwise,
 
 807
 01:07:33,440 --> 01:07:37,440
-I would expect most things will somehow correlate with real world
+I would expect most things will somehow correlate with real world 
 
 808
 01:07:37,440 --> 01:07:38,440
-classes.
+concepts.
 
 809
 01:07:38,440 --> 01:07:40,440
-Thoughts on digital twins using the metaverse.
+"Thoughts on digital twins using the metaverse."
 
 810
 01:07:40,440 --> 01:07:44,440
@@ -3240,43 +3230,43 @@ So digital twins are a digital representation of something in the
 
 811
 01:07:44,440 --> 01:07:45,440
-physical world.
+physical world,
 
 812
 01:07:45,440 --> 01:07:48,440
-And they came out of the world of like.
+and they came out of the world of like
 
 813
 01:07:48,440 --> 01:07:51,440
-High end equipment manufacturing and so on.
+high end equipment manufacturing and so on.
 
 814
 01:07:51,440 --> 01:07:55,440
-And so you have like a turbine and.
+And so you have like a turbine and you make a physical copy of the turbine and
 
 815
 01:07:55,440 --> 01:07:58,440
-You put on the physical turbine sensors.
+you put on the physical turbine sensors
 
 816
 01:07:58,440 --> 01:08:02,440
-And those sensors feed data to the digital twin.
+and those sensors feed data to the digital twin
 
 817
 01:08:02,440 --> 01:08:05,440
-And so you can watch and monitor.
+and so you can watch and monitor,
 
 818
 01:08:05,440 --> 01:08:07,440
-The.
+the
 
 819
 01:08:07,440 --> 01:08:09,440
-Turbine.
+turbine
 
 820
 01:08:09,440 --> 01:08:11,440
-During.
+during
 
 821
 01:08:11,440 --> 01:08:13,440
@@ -3284,27 +3274,27 @@ In the digital world.
 
 822
 01:08:13,440 --> 01:08:14,440
-And you know.
+And you know
 
 823
 01:08:14,440 --> 01:08:16,440
-Say, Oh, look, these.
+say, oh, look, there's
 
 824
 01:08:16,440 --> 01:08:17,440
-Data is coming out of line.
+data is coming out of line,
 
 825
 01:08:17,440 --> 01:08:19,440
-The turbines are behaving normally.
+the turbines are not behaving normally,
 
 826
 01:08:19,440 --> 01:08:22,440
-Let's go fix it in the physical world before it breaks.
+let's go fix it in the physical world before it breaks.
 
 827
 01:08:22,440 --> 01:08:23,440
-Now there's other usage cases to it.
+Now there's other use cases too
 
 828
 01:08:23,440 --> 01:08:27,440
@@ -3324,19 +3314,19 @@ water and disease spread.
 
 832
 01:08:38,440 --> 01:08:41,440
-Absolutely is going to exist.
+Absolutely is going to exist
 
 833
 01:08:41,440 --> 01:08:46,440
-I think for.
+I think for
 
 834
 01:08:46,440 --> 01:08:48,440
-Kind of boring.
+kind of boring
 
 835
 01:08:48,440 --> 01:08:54,440
-I'm sorry, what I'm looking at.
+I'm sorry, not boring, what is the word I'm looking for.
 
 836
 01:08:54,440 --> 01:08:56,440
@@ -3348,27 +3338,27 @@ Not like hanging out fun social use actually think digital twins are going
 
 838
 01:08:59,440 --> 01:09:01,440
-to be very important.
+to be very important
 
 839
 01:09:01,440 --> 01:09:04,440
-Because they will give us.
+because they will give us
 
 840
 01:09:04,440 --> 01:09:07,440
-A viable.
+a viable
 
 841
 01:09:07,440 --> 01:09:10,440
-Model.
+model
 
 842
 01:09:10,440 --> 01:09:13,440
-To improve the real world and monitor the real world better.
+to improve the real world and monitor the real world better.
 
 843
 01:09:13,440 --> 01:09:15,440
-So I'm fairly bullish on these.
+So I'm fairly bullish on these as a concept
 
 844
 01:09:15,440 --> 01:09:18,440
@@ -3384,11 +3374,11 @@ I don't think it's easy to be honest.
 
 847
 01:09:25,440 --> 01:09:27,440
-Just like anything else on the Internet.
+Just like anything else on the Internet,
 
 848
 01:09:27,440 --> 01:09:30,440
-How do you protect them from being copied?
+how do you protect them from being copied?
 
 849
 01:09:30,440 --> 01:09:32,440
@@ -3400,7 +3390,7 @@ So what do you have to aim for?
 
 851
 01:09:35,440 --> 01:09:37,440
-Well, the same.
+Well, the same,
 
 852
 01:09:37,440 --> 01:09:40,440
@@ -3408,71 +3398,70 @@ I mean, it's a version of right click.
 
 853
 01:09:40,440 --> 01:09:48,440
-And so you're going to have to have some concept of.
+And so you're going to have to have some concept of
 
 854
 01:09:48,440 --> 01:09:51,440
-Well, evidence.
+providence
 
 855
 01:09:51,440 --> 01:09:55,440
-For that.
+for that
 
 856
 01:09:55,440 --> 01:09:58,440
-For that.
 
 857
 01:09:58,440 --> 01:10:01,440
-Not to be a big issue.
+not to be a big issue.
 
 858
 01:10:01,440 --> 01:10:05,440
-But I do think like you make a cool looking building somewhere.
+But I do think like, if you make a cool looking building somewhere
 
 859
 01:10:05,440 --> 01:10:07,440
-Might someone copy it somewhere else?
+might someone copy it somewhere else?
 
 860
 01:10:07,440 --> 01:10:11,440
-Yeah, I think that one comes.
+yeah, I think that one comes.
 
 861
 01:10:11,440 --> 01:10:15,440
-I don't see it obviously for it not to happen.
+I don't see it obviously for it not to happen
 
 862
 01:10:15,440 --> 01:10:21,440
-So I think given what we've learned from NFTs.
+so I think given what we've learned from NFTs,
 
 863
 01:10:21,440 --> 01:10:23,440
-If.
+if
 
 864
 01:10:23,440 --> 01:10:27,440
-X copy makes some cool X copy building.
+X copy makes some cool X copy building
 
 865
 01:10:27,440 --> 01:10:31,440
-And there are 1000 tokens of that X copy building.
+and there are 1000 tokens of that X copy building
 
 866
 01:10:31,440 --> 01:10:36,440
-And those.
+and 
 
 867
 01:10:36,440 --> 01:10:40,440
-You own one of those.
+you own one of those,
 
 868
 01:10:40,440 --> 01:10:42,440
-That's going to be different.
+that's going to be different
 
 869
 01:10:42,440 --> 01:10:47,440
-And more valuable than someone who just right click saved your X copy building.
+and more valuable than someone who just right clicked saved your X copy building.
 
 870
 01:10:47,440 --> 01:10:56,440
@@ -3480,67 +3469,67 @@ So I suspect we're going to have to use the same frameworks and mental models th
 
 871
 01:10:56,440 --> 01:10:58,440
-I don't see any other.
+I don't see any other
 
 872
 01:10:58,440 --> 01:11:01,440
-I don't see any other way around.
+way around it.
 
 873
 01:11:01,440 --> 01:11:09,440
-You want provenance.
+You want provenance and tokenization
 
 874
 01:11:09,440 --> 01:11:15,440
-To manage this topic.
+to manage this topic.
 
 875
 01:11:15,440 --> 01:11:19,440
-There's a question that I have about the slightest idea what it means.
+There's a question that I don't have about the slightest idea what it means
 
 876
 01:11:19,440 --> 01:11:22,440
-Or how to answer it when I'm going to read it because it's confusing.
+or how to answer it but I'm going to read it because it's amuzing.
 
 877
 01:11:22,440 --> 01:11:28,440
-Is a metaverse a way of function with multiple potentials with collapsing one through observation?
+"Is a metaverse a way of function with multiple potentials with collapsing one through observation?
 
 878
 01:11:28,440 --> 01:11:34,440
-I think quantum computers will drastically change the metaverse definitions.
+I think quantum computers will drastically change the metaverse definitions."
 
 879
 01:11:34,440 --> 01:11:38,440
-I kind of understand the words.
+I kind of understand the words
 
 880
 01:11:38,440 --> 01:11:41,440
-And sort of the concepts behind this.
+and sort of the concepts behind this
 
 881
 01:11:41,440 --> 01:11:44,440
-I just don't have any answers.
+I just don't have any idea how to answer this question.
 
 882
 01:11:44,440 --> 01:11:47,440
-So I didn't think it would be hard to read it for everyone.
+So I didn't think it would be hard to read it for everyone
 
 883
 01:11:47,440 --> 01:11:52,440
-In place it's helpful for anyone else.
+in case it's helpful for anyone else.
 
 884
 01:11:52,440 --> 01:11:55,440
-What's the best book you've read about constructs?
+"What's the best book you've read about constructs?"
 
 885
 01:11:55,440 --> 01:11:58,440
-I mean the classic book on this right is Snow Crash.
+I mean the classic book on this right is Snow Crash,
 
 886
 01:11:58,440 --> 01:12:03,440
-Everyone starts there.
+everyone starts there.
 
 887
 01:12:03,440 --> 01:12:09,440
@@ -3552,19 +3541,19 @@ It is kind of a metaverse book.
 
 889
 01:12:12,440 --> 01:12:22,440
-A mixed reality metaverse book is the series of.
+A mixed reality metaverse book is the series of
 
 890
 01:12:22,440 --> 01:12:32,440
-Demon and freedom.
+Demon and Freedom.
 
 891
 01:12:32,440 --> 01:12:37,440
-So.
+So,
 
 892
 01:12:37,440 --> 01:12:42,440
-It's interesting because it's basically a gaming platform.
+it's interesting because it's basically a gaming platform.
 
 893
 01:12:42,440 --> 01:12:47,440
@@ -3572,11 +3561,11 @@ Like wild and started.
 
 894
 01:12:47,440 --> 01:12:50,440
-Impacting behavior in the real world.
+Impacting behavior in the real world,
 
 895
 01:12:50,440 --> 01:12:55,440
-And it is a form of metaverse.
+and it is a form of metaverse,
 
 896
 01:12:55,440 --> 01:12:59,440
@@ -3584,39 +3573,39 @@ I think.
 
 897
 01:12:59,440 --> 01:13:02,440
-Kind of an abstract form of metaverse like some of these ones we're talking about.
+A kind of an abstract form of metaverse like some of these ones we're talking about
 
 898
 01:13:02,440 --> 01:13:09,440
-So I throw it out there not because it's radically.
+so I threw it out there not because it's...
 
 899
 01:13:09,440 --> 01:13:12,440
-It's not a classic book of the genre.
+it's not a classic book of the genre
 
 900
 01:13:12,440 --> 01:13:18,440
-But I think there's a mental model that you could view it there and I find it's interesting.
+but I think there's a mental model that you could view it there and I find it's interesting.
 
 901
 01:13:18,440 --> 01:13:21,440
-Aren't you afraid that the metaverse will become a trap?
+"Aren't you afraid that the metaverse will become a trap?  
 
 902
 01:13:21,440 --> 01:13:24,440
-A.I. and robotics throw us from offices.
+A.I. and robotics throw us from offices
 
 903
 01:13:24,440 --> 01:13:26,440
-There'll be nothing to do.
+there'll be nothing to do.
 
 904
 01:13:26,440 --> 01:13:31,440
-The metaverse can be such a golden cage to socialize an extra damnit.
+The metaverse can be such a golden cage to socialize and entertain us."
 
 905
 01:13:31,440 --> 01:13:35,440
-Well, I mean.
+Well, I mean
 
 906
 01:13:35,440 --> 01:13:38,440
@@ -3624,11 +3613,11 @@ I'm not sure I believe the premises of this question.
 
 907
 01:13:38,440 --> 01:13:45,440
-But if A.I. and robotics start doing all the work for us.
+But, if A.I. and robotics start doing all the work for us,
 
 908
 01:13:45,440 --> 01:13:50,440
-We probably will hang out in the metaverse more.
+we probably will hang out in the metaverse more.
 
 909
 01:13:50,440 --> 01:13:54,440
@@ -3636,59 +3625,59 @@ I know this question is written with a value judgment in it.
 
 910
 01:13:54,440 --> 01:13:56,440
-But.
+But,
 
 911
 01:13:56,440 --> 01:13:59,440
-Maybe the value judgment is opposite.
+maybe the value judgment is opposite.
 
 912
 01:13:59,440 --> 01:14:02,440
-Maybe if the machines do all of our.
+Maybe if the machines do all of our
 
 913
 01:14:02,440 --> 01:14:04,440
-Work for us.
+work for us
 
 914
 01:14:04,440 --> 01:14:09,440
-We can be the people focused on.
+we can be the people focused on
 
 915
 01:14:09,440 --> 01:14:12,440
-Self development and self expression.
+self development and self expression.
 
 916
 01:14:12,440 --> 01:14:15,440
-I'm a little skeptical of that.
+I'm a little skeptical of how that will play out.
 
 917
 01:14:15,440 --> 01:14:18,440
-It hasn't played out.
+It hasn't played out and I'm
 
 918
 01:14:18,440 --> 01:14:23,440
-Actually not sure it's super healthy for humans not to have challenges.
+actually not sure it's super healthy for humans not to have challenges
 
 919
 01:14:23,440 --> 01:14:27,440
-I don't know if it's going to play out that way.
+so I don't know if it's going to play out that way.
 
 920
 01:14:27,440 --> 01:14:35,440
-But yeah, I mean conceivably in the world that the A.I.s are good enough to do all our work.
+But yeah, I mean conceivably in the world that the A.I.s are good enough to do all our work,
 
 921
 01:14:35,440 --> 01:14:40,440
-But not good enough to get rid of us.
+but not good enough to get rid of us,
 
 922
 01:14:40,440 --> 01:14:44,440
-Will we keep ourselves all frame it differently?
+will we keep ourselves, or to frame it differently,
 
 923
 01:14:44,440 --> 01:14:49,440
-Keep ourselves more occupied with social activities from people around the world.
+keep ourselves more occupied with social activities from people around the world?
 
 924
 01:14:49,440 --> 01:14:51,440
@@ -3696,19 +3685,19 @@ Sure.
 
 925
 01:14:51,440 --> 01:14:53,440
-Is that metaverse as a golden cage?
+Is that metaverse a golden cage?
 
 926
 01:14:53,440 --> 01:14:54,440
-Maybe.
+Maybe
 
 927
 01:14:54,440 --> 01:14:56,440
-But like.
+but like
 
 928
 01:14:56,440 --> 01:15:01,440
-I don't know if there's any more of a golden cage than true is today.
+I don't know if there's any more of a golden cage than Twitter is today.
 
 929
 01:15:01,440 --> 01:15:03,440
@@ -3720,11 +3709,9 @@ It's taking people away from real life.
 
 931
 01:15:08,440 --> 01:15:15,440
-So.
 
 932
 01:15:15,440 --> 01:15:25,440
-The.
 
 933
 01:15:25,440 --> 01:15:30,440
@@ -3732,19 +3719,19 @@ Do you see our visual one largely the same as we come up on a year of their deal
 
 934
 01:15:30,440 --> 01:15:31,440
-Yeah.
+Yeah
 
 935
 01:15:31,440 --> 01:15:32,440
-More or less exactly the same.
+more or less exactly the same
 
 936
 01:15:32,440 --> 01:15:34,440
-I'll talk about it more in week 12.
+I'll talk about it more in week 12
 
 937
 01:15:34,440 --> 01:15:39,440
-And I want to make the session about.
+and I want to make the session more general.
 
 938
 01:15:39,440 --> 01:15:44,440
@@ -3760,19 +3747,19 @@ Thank you as always for joining.
 
 941
 01:15:49,440 --> 01:15:52,440
-We'll make the announcements a little bit about.
+We'll make the announcements in a little bit about
 
 942
 01:15:52,440 --> 01:15:57,440
-We're going to course logistics a little bit so we can start getting the guests back and coming.
+regional and course logistics a little bit so we can start getting the guests back and coming.
 
 943
 01:15:57,440 --> 01:16:03,440
-There's just an awful lot going on and the teams are doing a great job.
+There's just an awful lot going on and the teams are doing a great job
 
 944
 01:16:03,440 --> 01:16:04,440
-Working on things.
+working on things.
 
 945
 01:16:04,440 --> 01:16:09,440
@@ -3788,15 +3775,15 @@ You need to.
 
 948
 01:16:12,440 --> 01:16:15,440
-Can anyone can use a space and put enough teas in it.
+Can anyone can use a space and put NFT's in it.
 
 949
 01:16:15,440 --> 01:16:18,440
-If you want to design spaces, you do need some.
+If you want to design spaces, you do need some
 
 950
 01:16:18,440 --> 01:16:22,440
-Experience and 3D modeling, but if you have that, yes, you can do that.
+experience and 3D modeling, but if you have that, yes, you can do that.
 
 951
 01:16:22,440 --> 01:16:24,440
@@ -3808,7 +3795,7 @@ Thank you so much as always.
 
 953
 01:16:27,440 --> 01:16:30,440
-And I'll see you back on.
+And I'll see you back on Twitter.
 
 954
 01:16:30,440 --> 01:16:34,440

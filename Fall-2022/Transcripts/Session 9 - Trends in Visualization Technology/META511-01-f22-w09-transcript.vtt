@@ -1,5 +1,3 @@
-WEBVTT
-
 00:00.000 --> 00:28.680
 Hello everyone. Hi, this is George Giaglis. Welcome to week 9 of the University of Nicosia's
 
@@ -7,7 +5,7 @@ Hello everyone. Hi, this is George Giaglis. Welcome to week 9 of the University 
 free MOOC on NFTs and the Metaverse. Today's topic is trends in visualization technology.
 
 00:36.600 --> 00:45.200
-So we are in the second week of addressing metaverse related issues. And as we also did
+So we are in the second week of addressing metaverse related issues, and as we also did
 
 00:45.200 --> 00:51.480
 in the beginning of the course, before introducing NFTs, we discussed about Ethereum and underlying
@@ -19,10 +17,10 @@ technologies providing a foundational infrastructure for non-fungible tokens. We
 the same with the metaverse. So today's lecture is going to be more technical in nature. We
 
 01:08.160 --> 01:13.880
-are going to be discussing recent trends in visualization. We are going to say augment
+are going to be discussing recent trends in visualization. We are going to see augmented
 
 01:13.880 --> 01:20.640
-it in virtual reality and try to capture how these things fit into the metaverse vision.
+and virtual reality and try to capture how these things fit into the metaverse vision.
 
 01:20.640 --> 01:27.720
 And because this is a very specialized topic, I am honored to be joined by two colleagues
@@ -31,7 +29,7 @@ And because this is a very specialized topic, I am honored to be joined by two c
 who are experts in the space and will be covering the majority of the presentation today. So
 
 01:35.760 --> 01:42.640
-without further addon, let me introduce you to the first speaker who is none other than
+without further ado, let me introduce you to the first speaker who is none other than
 
 01:42.640 --> 01:48.440
 Chris Christou, a colleague of mine at the University of Nicosia, associate professor,
@@ -58,7 +56,7 @@ architecture of chemical reactions, crowd simulations, fluid dynamics. So comput
 is pretty much everywhere. The origins of visualization come from, I guess,
 
 02:55.820 --> 03:04.120
-web drawings, but more recently from architecture. So if somebody wanted to, for example, create
+cave drawings, but more recently from architecture. So if somebody wanted to, for example, create
 
 03:04.120 --> 03:10.200
 a building, they would go to an architect and they would create some drawings for them.
@@ -79,13 +77,13 @@ drawn-up process. This has been replaced by computer-aided design or CAD. Everyt
 three-dimensional now. We can walk through a model. We can fly through a model of a building
 
 03:48.320 --> 03:58.240
-or a city long before it is even creative. We can also simulate the lighting that is
+or a city long before it is even created. We can also simulate the lighting that is
 
 03:58.240 --> 04:04.760
 available in the building at a particular time of day, at a particular location. So things
 
 04:04.760 --> 04:15.000
-have changed a lot. Looking forward, we imagine that developments in haptics with auditory
+have changed an awful lot. Looking forward, we imagine that developments in haptics with auditory
 
 04:15.000 --> 04:22.360
 representation or faction even will mean that we don't have just visualization. We will
@@ -112,13 +110,13 @@ displays and this includes the organic LEDs that we have in our VR devices. Comp
 AI, machine learning, deep learning are all contributing now to developments in 3D graphics.
 
 05:25.440 --> 05:33.320
-So computer vision is responsible. It is the field where you study how to find structure
+So computer vision is responsible; it is the field where you study how to find structure
 
 05:33.320 --> 05:41.840
-in the world. Whereas graphics is actually the process of rendering that structure. And
+in the world, whereas graphics is actually the process of rendering that structure and
 
 05:41.840 --> 05:52.080
-they are forming a happy collaboration. And then finally, we have LiDAR and structure
+therefore, forming a happy collaboration. And then finally we have LiDAR and structure
 
 05:52.080 --> 06:00.760
 for motion. These are techniques of finding structure, of representing our real world
@@ -136,13 +134,13 @@ give the viewers an idea of what computer graphics is. And then I will end with 
 examples of very recent works. So a brief history of CGI, computer generated imagery.
 
 06:39.200 --> 06:47.680
-It was very much influenced by Edwin Kuttma, Pat Hanrahan and Jim Blinn. Edwin Kuttma
+It was very much influenced by Edwin Catmull, Pat Hanrahan and Jim Blinn. Edwin Catmull
 
 06:47.680 --> 06:55.720
 was responsible, was one of the co-founders of Pixar which went on to create the short
 
 06:55.720 --> 07:05.120
-animation Luxor Junia which is available on YouTube even to this day. And this resulted
+animation "Luxo Jr" which is available on YouTube even to this day. And this resulted
 
 07:05.120 --> 07:18.840
 in computer graphics being used throughout the movie industries and throughout entertainment.
@@ -166,7 +164,7 @@ you have your application. This is your computer game. This is your VR simulatio
 And you want to get the graphics from that app to the screen on the right hand side.
 
 08:11.400 --> 08:16.920
-Okay, so somewhere in there you've got the geometry, you've got whatever it is that's
+Ok, so somewhere in there you've got the geometry, you've got whatever it is that's
 
 08:16.920 --> 08:26.880
 moving, the zombies that are chasing you. And you want to project that onto the screen.
@@ -175,13 +173,13 @@ moving, the zombies that are chasing you. And you want to project that onto the 
 So that involves various stages of occlusion detection and seeing what is visible from
 
 08:36.120 --> 08:43.560
-the screen, working out the colors, et cetera. The rusterization process is the process of
+the screen, working out the colors, etc. The rasterization process is the process of
 
 08:43.560 --> 08:50.760
-actually drawing something onto the screen. And most of this is done in a scan line order.
+actually drawing something onto the screen. And most of this is done in a scanline order.
 
 08:50.760 --> 08:58.080
-So when we talk about scan line, we mean that we refer to the pixels of the screen being
+So when we talk about scanline, we mean that we refer to the pixels of the screen being
 
 08:58.080 --> 09:04.440
 broken up into a rectangular grid. And we usually start at the top left hand side, we
@@ -223,7 +221,7 @@ and it hits an object, in this case of the point X, then we have to calculate wh
 to paint the pixel. Now this color depends on the light. So it's a simple function of
 
 10:32.520 --> 10:38.960
-the surface orientation, the surface normal, and we call it at that point, and the angle
+the surface orientation, the surface normal, as we call it at that point, and the angle
 
 10:38.960 --> 10:46.480
 that makes with the light source. And this is pretty intuitive. So if the surface is
@@ -235,7 +233,7 @@ pointing towards the light, then it gets more energy as brighter. If it's pointi
 from the light source, of course, it receives no illumination and it will be dark. So that's
 
 11:00.080 --> 11:15.800
-very simplistic illumination model. So these illumination models made up the core of computer
+a very simplistic illumination model. So these illumination models made up the core of computer
 
 11:15.800 --> 11:24.440
 graphics research in the last, in the early stages of computer graphics. Okay, so these
@@ -247,7 +245,7 @@ researchers were busy coming up with models of how to best represent the various
 that we have in the real world, the various shading effects that we have in the real world.
 
 11:40.960 --> 11:53.160
-One of the earliest models is the Fong model. And this can be explained by the diagram at
+One of the earliest models is the Phong model. And this can be explained by the diagram at
 
 11:53.160 --> 12:00.920
 the bottom left here. So we can break up the illumination of any object, in this case,
@@ -274,10 +272,10 @@ can see here. And the final component is the specularity, the shiny highlights t
 glass and shiny surfaces. So there's a nice representation on the right-hand side where you
 
 13:04.160 --> 13:12.760
-can see that the process is not as straightforward as you might have just described as you might
+can see that the process is not as straightforward as I have just described as you might
 
 13:12.760 --> 13:20.520
-imagine. We have reflection, we have reflection, we have different types of reflection, we have
+imagine. We have refraction, we have reflection, we have different types of reflection, we have
 
 13:20.520 --> 13:30.360
 diffuse reflection, we have specular reflection. So coming up with an illumination model that
@@ -304,7 +302,7 @@ across this image are a function not just of the direct light sources. So this o
 for example from here. There's also light bouncing off the floor onto the ceiling, bouncing back
 
 14:32.560 --> 14:41.040
-again. So all of this light that's bouncing around in the environment is causing these smith
+again. So all of this light that's bouncing around in the environment is causing this smooth
 
 14:41.040 --> 14:48.720
 shading that you can see, illumination of the ceiling essentially which has no direct light
@@ -322,7 +320,7 @@ stuff that's actually in our computer game that's in our television commercial. 
 going to have been made in some 3D editor. This is the interface with 3D Studio Max. The first thing
 
 15:27.360 --> 15:36.000
-to note is that everything is polygonized. Everything consists of polygons. They use the flaps,
+to note is that everything is polygonized. Everything consists of polygons. They use the flats;
 
 15:36.000 --> 15:43.760
 flat simple surfaces. We join them all together and not one by one but we join them all together
@@ -334,7 +332,7 @@ to make curved surfaces. On the right you may see you may be able to make out th
 primitive shapes and boxes for example and spheres and these are used to create more complicated
 
 15:57.120 --> 16:03.920
-objects. You may also note the teapot and this is just the Utah teapot. I've put a link there. It's
+objects. You may also note the teapot and this is just the Utah Teapot. I've put a link there. It's
 
 16:03.920 --> 16:12.000
 a very special teapot that's been used for computer graphics research for the last 40 or so years.
@@ -346,7 +344,7 @@ Characters, avatars, character modeling. There's no difference here. They still 
 The special thing about 3D characters or avatars is that they have a biped rig or a biped skeleton
 
 16:32.640 --> 16:40.640
-which is the actual thing that does the animation. If we're talking about animated games for example
+which is the actual thing that does the animation so, if we're talking about animated games for example,
 
 16:42.160 --> 16:49.120
 somebody has to create the animations and piece the animations together. This can be done with
@@ -355,16 +353,16 @@ somebody has to create the animations and piece the animations together. This ca
 keyframing or it can be done with motion capture where a real actor performs the motions and then
 
 16:56.400 --> 17:05.920
-these motions are used to move the virtual character. At the bottom just a brief mention
+these motions are used to move the virtual character. At the bottom, just a brief mention
 
 17:05.920 --> 17:14.160
-about this we can do crowd simulation. This is something from my own work. So we're simulating how
+about this, we can do crowd simulation. This is something from my own work. So we're simulating how
 
 17:15.280 --> 17:20.400
 annoyed people get with measuring how annoyed people get when they're surrounded by crowds.
 
 17:20.400 --> 17:29.040
-But you can also use it for escape route planning for example to simulate what happens when there's
+But you can also use it for escape route planning for example, to simulate what happens when there's
 
 17:29.040 --> 17:37.680
 a fire in a building. This is a multi-character scenario where we've got many non-player characters
@@ -376,10 +374,10 @@ in the scene. Again these are no different from the character models that I ment
 Probably just a glare resolution. We're looking at current trends now in the last few slides.
 
 17:57.360 --> 18:10.000
-LIDAR is used throughout for measuring distance for getting a structure or a special structure.
+LiDAR is used throughout for measuring distance for getting a structure or a special structure.
 
 18:10.000 --> 18:17.680
-The principle here is the same as an echo. It takes a while for light to
+The principle here is the same as an echo. It takes a while for light to,
 
 18:19.280 --> 18:25.600
 projected light to bounce back from surfaces. So we can measure the time that it takes for light
@@ -394,10 +392,10 @@ From this we get a pixelated version of the image in front of us. So a point map
 And the point map can be turned into a depth map which is just an encoding of how far
 
 18:55.200 --> 19:02.560
-objects are away from us relative depth. In turn this depth map can be turned into
+objects are away from us in relative depth. In turn this depth map can be turned into
 
 19:02.560 --> 19:12.880
-a structure and a 3D model. This is used throughout the modern tech that you will hear about later on.
+a structure, into a 3D model. This is used throughout the modern tech that you will hear about later on.
 
 19:12.880 --> 19:23.440
 So all of the devices that for example the meta-quest that uses this to work out where it is in the
@@ -406,10 +404,10 @@ So all of the devices that for example the meta-quest that uses this to work out
 room and all the augmented reality and glasses use this to work out the surfaces on which to
 
 19:32.000 --> 19:38.720
-project their graphics. This is some exciting work that's done by meta.
+project their graphics. This is some exciting work that's done by Meta,
 
 19:39.840 --> 19:49.760
-For me known as Facebook. So here they're actually getting the structure of human beings, of people.
+formerly known as Facebook. So here they're actually getting the structure of human beings, of people.
 
 19:50.320 --> 19:54.880
 So people would go in here and they would have their head scanned or their body scanned. So this
@@ -418,22 +416,22 @@ So people would go in here and they would have their head scanned or their body 
 is a multi-camera rig and a multi-light rig just to ensure that there are no shadows.
 
 20:03.520 --> 20:12.880
-It's used to extract the structure or somebody's face in this case or also the textures of the
+It's used to extract the structure of somebody's face, in this case, and also the textures of the
 
 20:12.880 --> 20:23.840
-face. And then deep learning can be used to reconstruct expressions that a device such as the quest
+face. And then deep learning can be used to reconstruct expressions that a device such as the Quest
 
 20:23.840 --> 20:30.720
-for example of the future quest text that the user is making. So if somebody is grimacing
+for example of the Future Quest text that the user is making. So if somebody is grimacing
 
 20:30.720 --> 20:34.480
 then their avatar will be grimacing in the metaverse.
 
 20:38.160 --> 20:44.560
-If you have a, so and light fields and talk about light fields, if you have a steam
+If you have a, so and light fields and talk about light fields, if you have a Steam
 
 20:44.560 --> 20:53.920
-account or a HTC Vive or MetaQuest it's worth downloading. Google's welcome to light fields.
+Account or a HTC Vive or MetaQuest it's worth downloading Google's Welcome to Light Fields.
 
 20:54.720 --> 21:01.440
 So previously I was talking about getting the structure of the person, now you're getting the
@@ -451,28 +449,28 @@ rotating rig and they're basically sampling the amount of light in the room. And
 rotating around the calculating, they're sampling the light structure of that room, the so-called
 
 21:40.240 --> 21:49.280
-light field. Okay, if you store this you can play it back to somebody. And then the feeling is,
+Light Field. Okay, if you store this you can play it back to somebody. And then the feeling is,
 
 21:49.840 --> 21:56.880
-is not just one of her realism but it's also a way to capture the specular
+is not just one of realism but it's also a way to capture the specular
 
 21:58.080 --> 22:06.880
 parts, the specular components of the surfaces in your scene, shiny surfaces, etc.
 
 22:06.880 --> 22:15.760
-Light fields that I'm in particular, I would not mention too much about this as we are,
+Light Fields in particular, I would not mention too much about this as we
 
 22:15.760 --> 22:25.200
-we need to progress. But if you want to capture the full extent of light in the scene, you really
+need to progress. But if you want to capture the full extent of light in the scene, you really
 
 22:25.200 --> 22:34.640
 need to use a multi-camera grid. I'm showing in this middle diagram. You can also use a
 
 22:34.640 --> 22:44.080
-plenotic camera. So in the Google case, they would use the multiple GoPro's which were rotating.
+plenoptic camera. So in the Google case, they would use the multiple GoPro's which were rotating.
 
 22:45.120 --> 22:51.760
-But if you want a forward-facing camera, you can use a plenotic camera,
+But if you want a forward-facing camera, you can use a plenoptic camera,
 
 22:53.440 --> 23:00.640
 which as you can see takes small images of the same scene and you can put these together
@@ -484,13 +482,13 @@ in order to get motion parallax, in order to get the shine from a glass, for exa
 in order to see a little world or represent the world more realistically.
 
 23:21.440 --> 23:30.240
-Now, if you had a limited number of these samples, you could use a neural network to
+Now, if you had a limited number of these samples, you could use a Neural Network to
 
 23:30.240 --> 23:37.760
-actually calculate or to represent the space in between. So this is the principle of NUFs.
+actually calculate or to represent the space in between. So this is the principle of NeRFs.
 
 23:39.440 --> 23:48.880
-And this is the very recent paper by Benjamin Attel from this year. And this demonstrates,
+And this is the very recent paper by Benjamin Attal from this year. And this demonstrates,
 
 23:48.880 --> 23:59.520
 first of all, the power of occlusion effects in depth perception, the power of motion parallax,
@@ -499,34 +497,34 @@ first of all, the power of occlusion effects in depth perception, the power of m
 the realism and specularities, and just the overall structure. So these are novel views of
 
 24:15.120 --> 24:26.080
-just a limited number of samples of images. This is the basic principle of NUFs. So the idea is
+just a limited number of samples of images. This is the basic principle of NeRFs. So the idea is
 
 24:26.080 --> 24:35.280
 that you take a small subset of images from an object and you create a volumetric representation
 
 24:35.280 --> 24:46.720
-using a convolutional neural network. This is another demonstration of this from NVIDIA's
+using a convolutional neural network. This is another demonstration of this from Nvidia's
 
 24:46.720 --> 24:55.040
-websites. Look, put a link to this down below. So again, you have limited number of views
+websites, I put a link to this down below. So again, you have limited number of views
 
 24:55.040 --> 25:08.720
 and the fly through, which is generated by the neural network. So the thing that you might be
 
 25:08.720 --> 25:15.280
-thinking at this stage, and especially seeing the image on the right hand side, is can we get an
+thinking at this stage, and especially seeing the image on the right hand side is, "can we get an
 
 25:15.280 --> 25:23.120
-actual model out of this? Can we get a computer model out of this three-dimensional neural network
+actual model out of this?". "Can we get a computer model out of this three-dimensional neural network
 
 25:23.120 --> 25:31.920
-representation? And the answer is yes, and people are actually working on this. So again, this is
+representation?" And the answer is, Yes, and people are actually working on this. So again, this is
 
 25:31.920 --> 25:43.360
-very recent work by Munkberg taking more to view images representing these within a neural network
+very recent work by Munkberg taking Multi-view images representing these within a neural network
 
 25:43.360 --> 25:54.000
-and outputting a mesh, a three-dimensional mesh of the object, as well as the textures that are used
+and outputting a mesh, a three-dimensional mesh of the object as well as the textures that are used
 
 25:54.000 --> 26:01.280
 to paint the detail onto the surface, and also the light probes. So the light probes capture the
@@ -535,19 +533,19 @@ to paint the detail onto the surface, and also the light probes. So the light pr
 specular components, and this can be output straightened to your favorite game engine, Unity,
 
 26:08.320 --> 26:18.160
-for example, Unreal or into a 3D editor where they can be further edited.
+for example or Unreal or into a 3D editor where they can be further edited.
 
 26:19.440 --> 26:29.360
-Okay, so that brings me to the end of what I wanted to introduce you to in my segment. So
+Okay, so that brings me to the end of what I wanted to introduce you to in my segment.
 
 26:29.360 --> 26:40.080
-we'll pass over to my colleague, George, and he will take over. Thank you very much, Chris.
+So, we'll pass over to my colleague, George, and he will take over. Thank you very much, Chris.
 
 26:41.040 --> 26:49.360
 That's some fascinating stuff here. So for those of you, the students, I mean, who are interested
 
 26:49.360 --> 26:57.760
-in this, and what George Kootetas is going to present in a while, let me tell you that we're
+in this, and what George Koutitas is going to present in a while, let me tell you that we're
 
 26:57.760 --> 27:06.000
 working towards creating a follow-up course that will focus on the upcoming developments in terms of
@@ -562,13 +560,13 @@ developments happening by some big companies and some startups. So we will revis
 post Christmas, and have a special day's course for those that are interested in seeing how our
 
 27:25.280 --> 27:31.600
-world will change. So Chris will stay with us until the end, and he will be available for questions
+world will change. So Chris will stay with us until the end and he will be available for questions
 
 27:31.600 --> 27:40.480
-if you have any. But before we go to the Q&A, let me introduce our other speaker for the day.
+if you have any. But before we go to the Q&A let me introduce our other speaker for the day,
 
 27:41.280 --> 27:49.120
-My colleague and friend, George Kootetas, George is an executive and entrepreneur and academic
+my colleague and friend, George Koutitas. George is an executive entrepreneur and academic
 
 27:49.120 --> 27:57.120
 with more than a decade of experience in business and R&D. He has a multicultural background. He
@@ -580,7 +578,7 @@ has spent six years in Austin, Texas, five years in the UK, and another six year
 where he's currently based. He has founded a startup company in Austin working on AR and VR
 
 28:10.960 --> 28:17.360
-and training of first responders and has a number of publications at the end of the patent in the
+and training of first responders and has a number of publications and a patent in the
 
 28:17.360 --> 28:24.720
 AR and VR space. So it's a great pleasure for me to introduce him to the course. George, are you with us?
@@ -598,49 +596,49 @@ George, thank you very much for your warm welcome. Just give me an indication th
 so I can continue. Okay, all right. So I'm very happy to be here with you today and speak to you
 
 29:04.240 --> 29:09.840
-and introduce you to the concept of extended reality. Some of the things that we're going to
+and introduce you to the concept of Extended Reality. Some of the things that we're going to
 
 29:09.840 --> 29:16.800
 discuss today, probably you might be already aware, but some of them might be new to you and
 
 29:16.800 --> 29:25.760
-might help you expand your horizons. So we all hear about VR, AR, mixed reality.
+might help you expand your horizons. So we all hear about VR, AR, Mixed Reality (MR).
 
 29:27.440 --> 29:35.040
-Let's understand the difference. Virtual reality, a simulated experience, okay, in a fully virtual
+Let's understand the difference. Virtual Reality (VR), a simulated experience, okay, in a fully virtual
 
 29:35.040 --> 29:42.800
-world, and this is available to you through a 3D near-eye displays. So you are fully isolated
+world, and this is available to you through 3D near-eye displays. So you are fully isolated
 
 29:42.800 --> 29:48.240
 from the physical environment. You are in a totally virtual environment with graphics presented to
 
 29:48.240 --> 29:56.240
-you from a display in front of your eyes. On the other hand, augmented reality allows you to interact
+you from a display in front of your eyes. On the other hand, Augmented Reality (AR) allows you to interact
 
 29:56.240 --> 30:05.680
 with the physical world and it overlays digital information and content on top of the physical world.
 
 30:05.680 --> 30:13.680
-Mixed reality, which is now, you know, sometimes we use the same term augmented and mixed reality,
+Mixed Reality, which is now, you know, sometimes we use the same term augmented and Mixed Reality,
 
 30:13.680 --> 30:22.480
 is the ability of the digital content to interact with the physical environment. So this means that
 
 30:22.480 --> 30:28.880
-if you can see the third circle, the 3D graphic is behind the sofa and it is in the Sado region of
+if you can see the third circle, the 3D graphic is behind the sofa and it is in the shadow region of
 
 30:28.880 --> 30:36.320
 the sofa. The sofa is a physical object in my living room and the robot is a digital content
 
 30:36.320 --> 30:42.400
-and I can partially see it. This is called mixed reality. Augmented reality, an example of augmented
+and I can partially see it. This is called Mixed Reality. Augmented Reality, an example of Augmented
 
 30:42.400 --> 30:51.520
-reality was Google glasses, okay, or even our smartphones that we can have AR applications.
+Reality was Google glasses, okay, or even our smartphones that we can have AR applications.
 
 30:51.520 --> 30:57.120
-Mixed reality is more modern applications that can be made usually with Microsoft HoloLens and
+Mixed Reality is more modern applications that can be made usually with Microsoft HoloLens and
 
 30:57.120 --> 31:06.320
 other AR devices. From now on, just to not get confused, AR, MR can be thought of almost the same.
@@ -652,7 +650,7 @@ In order to experience AR, VR, we need to have a head-mounted device and as you 
 there is a plethora of devices in the market. The breakthrough in the HMD head-mounted device came
 
 31:26.160 --> 31:34.640
-from Palmer Lackey in a Kickstarter project. This was in 2012, I think, but started the Oculus, okay,
+from Palmer Luckey in a kick-starter project. This was in 2012, I think, but started the Oculus, okay,
 
 31:34.640 --> 31:41.200
 and there was an excitement there and then an angler of the technology because many developers
@@ -670,7 +668,7 @@ you can see some VR headsets. One is the Oculus Rift. You can see a cable becaus
 be connected to the computer for some processing power. You can see the cardboard that you put your
 
 32:13.280 --> 32:22.000
-smartphone in order to act as the VR display and also you can see the latest versions of meta
+smartphone in order to act as the VR display and also you can see the latest versions of Meta
 
 32:22.000 --> 32:29.440
 Oculus Quest. On the right side, you can see some, a couple of examples of AR headsets. We have
@@ -715,16 +713,16 @@ since they're learning and development or industrial applications. But we have s
 on the application areas. And obviously, the reason is that AR allows you to interact with
 
 33:58.080 --> 34:05.760
-the physical world. Gaming is huge. By 2024, it's going to be 2.5 billion.
+the physical world. Gaming is huge. By 2024, it's going to be 2.5 billions.
 
 34:08.000 --> 34:11.040
-Remote collaboration, we have companies like Special I.O.
+Remote collaboration, we have companies like Spatial I.O.
 
 34:11.040 --> 34:20.400
 Agriculture, it is a recent trend in the integration of AR with Internet of Things.
 
 34:20.960 --> 34:26.480
-So we already have augmented reality startup companies that help farmers
+So we already have augmented reality startup companies that helps farmers
 
 34:27.200 --> 34:36.240
 personalize, actually optimize the quality of the growth of their fields by either deploying
@@ -736,7 +734,7 @@ sensor networks and taking measurements of the humidity, etc., or by using smart
 that allows to optimize where you need to put more water, etc. So there are very, very exciting
 
 34:49.600 --> 34:57.920
-applications. Learning and development, as we will see a little bit later, VR and AR has a very
+applications. Learning and Development, as we will see a little bit later, VR and AR has a very
 
 34:57.920 --> 35:06.880
 important advantage compared to traditional, let's say, web training programs. It improves
@@ -754,7 +752,7 @@ to do if it is related to a repetitive work. So very fascinating. Obviously, hea
 of applications in the health sector, either in the training but also during operation.
 
 35:33.520 --> 35:40.320
-Manufacturing industrial, you don't need to be an expert in order to do a repair. You can download
+Manufacturing and industrial, you don't need to be an expert in order to do a repair. You can download
 
 35:40.320 --> 35:45.520
 the instructions and you can do the repair at the same time that you are actually doing the repair
@@ -763,22 +761,22 @@ the instructions and you can do the repair at the same time that you are actuall
 of a machinery or etc. We are not very far away of what we have seen in the movies that you can
 
 35:52.320 --> 36:00.160
-download something in your not brain, on your AR device and execute it without being an expert
+download something in your, not brain, on your AR device and execute it without being an expert
 
 36:00.160 --> 36:06.720
 in the field, similar to matrix. Architecture and construction, obviously there are numerous
 
 36:06.720 --> 36:14.880
-applications there. So the world is fascinating and ARVR will definitely be dominating in our lives
+applications there. So the world is fascinating and AR VR will definitely be dominating in our lives
 
 36:14.880 --> 36:23.200
 and our work now and in the future. It's really interesting to see how this technology was
 
 36:23.200 --> 36:33.440
-evolved. The first HMD had the mount and device started in 1943. Yes, believe it or not, it's so
+evolved. The first HMD head-mount and device started in 1943. Yes, believe it or not, it's so
 
 36:33.440 --> 36:39.440
-old. You can see that there was a big gap. Obviously, the technology was not there, the user adoption
+old. You can see that there was a big gap. Obviously, you know, the technology was not there, user adoption
 
 36:39.440 --> 36:47.920
 was not there. Then suddenly in 1960 to 1969, there was a decade of people with the growth of
@@ -790,13 +788,13 @@ the computers. They started experiencing different types of technologies in orde
 create immersive environments. The most exciting milestone was in 1962 with
 
 37:01.520 --> 37:06.960
-an immersive experience called Saint Sorama. If you see the video now, it's going to be funny,
+an immersive experience called Sensorama. If you see the video now, it's going to be funny,
 
 37:06.960 --> 37:16.480
 but for 1962 it was a breakthrough. You will see that there are waves, bursts, let's say, of
 
 37:16.480 --> 37:24.640
-evolutions. Now we are in the time that the technology, the hardware, is there. We have portable devices
+evolutions and now we are in the time that the technology, the hardware, is there. We have portable devices
 
 37:24.640 --> 37:32.080
 with very great quality of experience and quality of the graphics. The time is now
@@ -805,19 +803,19 @@ with very great quality of experience and quality of the graphics. The time is n
 to exponentially grow the sector. In the VR space, there are a lot of companies that provide
 
 37:44.000 --> 37:52.560
-head-mounted devices. Obviously, one of the most well-known is Metacoculus. They bought a company
+head-mounted devices. Obviously, one of the most well-known is Meta Oculus. They bought a company
 
 37:52.560 --> 37:59.760
 some years ago and they focused initially on the gaming aspect and they had more like a B2C
 
 37:59.760 --> 38:04.320
-approach, business to consumer. They addressed the consumer market and there was the first let's say
+approach, business to consumer. They addressed the consumer market and there was the first, let's say,
 
 38:07.040 --> 38:12.320
 exponential adoption of the device. Obviously, there are other companies out there like Google,
 
 38:12.320 --> 38:22.480
-HTC Vive, Samsung, etc. Remember, in the VR space, it all started with Saint Sorama.
+HTC Vive, Samsung, etc. Remember, in the VR space, it all started with Sensorama.
 
 38:22.480 --> 38:33.200
 I highly recommend to see this video to understand how 60 years ago people created the first immersive
@@ -826,25 +824,25 @@ I highly recommend to see this video to understand how 60 years ago people creat
 experience. If we focus on one product, the most famous, let's say Oculus Quest, you will see that
 
 38:41.680 --> 38:49.440
-it started with a passive VR experience without any type of controllers. It was more like visualization.
+it started with a passive VR experience without any type of controllers so, it was more like visualization.
 
 38:49.440 --> 38:56.240
-Then we had the Oculus Rift that was connected to EPC in order to provide some required processing
+Then we had the Oculus Rift that was connected to a PC in order to provide some required processing
 
 38:56.240 --> 39:05.280
-power. Then we had Go and Oculus Quest that they work with battery and in a standalone manner,
+power. Then we had Go and Oculus Quest that work with battery and in a standalone manner,
 
 39:05.280 --> 39:12.480
-so you don't need to connect it to a computer. Then we had Metacwest Pro that was recently announced
+so you don't need to connect it to a computer. Then we had Meta Quest Pro that was recently announced
 
 39:12.480 --> 39:19.120
 that it reduces very cool features like mixed reality. You can see that in the front part of
 
 39:19.120 --> 39:24.400
-the display, there are cameras that allow you to perform gestures and you can use your actual hands.
+the display, there are cameras that allow you to perform gestures and you can use your actual hands,
 
 39:24.400 --> 39:33.040
-You don't need the joystick. The level of experience and the graphics has dramatically improved
+you don't need the joystick. The level of experience and the graphics has dramatically improved
 
 39:33.040 --> 39:36.720
 compared to different versions. This evolution is met in all companies.
@@ -862,40 +860,40 @@ It's a platform that anyone can create AR experiences that are used on the mobil
 an AR headset yet, at least available in the market.
 
 40:12.400 --> 40:20.560
-Magic Clip is an important company to see because there was an initial hype back in 2014. I think
+Magic Leap is an important company to see because there was an initial hype back in 2014. I think
 
 40:20.560 --> 40:29.680
 they raised a lot of money for a huge amount of evaluation. The company was not ready to provide
 
 40:29.680 --> 40:35.360
-the product and didn't address the rightness market to penetrate in the market.
+the product and didn't address the right niche market to penetrate in the market.
 
 40:36.000 --> 40:40.160
 That's why there was more like an idle mode for this startup company.
 
 40:40.160 --> 40:47.360
-But recently, we see a lot of motion and evolution coming from Magic Clip since they
+But recently, we see a lot of motion and evolution coming from Magic Leap since they
 
 40:47.360 --> 40:54.720
 trimmed their business model to more like enterprise AR and use cases related to health.
 
 40:54.720 --> 41:00.960
-So we expect to see a lot of growth and a lot of cool new features from Magic Clip too.
+So we expect to see a lot of growth and a lot of cool new features from Magic Leap 2.
 
 41:04.400 --> 41:12.960
-Obviously, a recent trend is coming from the Metavors. Imagine we have AR, VR companies,
+Obviously, a recent trend is coming from the Metaverse. So, imagine we have AR, VR companies,
 
 41:12.960 --> 41:17.360
-we have computer graphics companies and now we have companies in the Metavors space.
+we have computer graphics companies and now we have companies in the Metaverse space.
 
 41:18.160 --> 41:24.160
 Either by creating 3D environments, either by creating serious games and interactive
 
 41:24.160 --> 41:37.120
-environments like Roblox Corporation, Descendralant etc. It's going to be fast to see what type of
+environments like Roblox Corporation, Decentraland etc. It's going to be fascinating to see what type of
 
 41:37.120 --> 41:43.280
-collaboration, accusations or merges are going to happen between the AR, VR and the Metavors space.
+collaborations, acquisitions or merges are going to happen between the AR, VR and the Metavors space.
 
 41:43.840 --> 41:49.680
 So I'm sure that in the next years we're going to see a lot of action in this space.
@@ -910,7 +908,7 @@ have? Obviously, these bullet points do not represent the entire technology but 
 good high level overview of what exists and what are the main components. This is the device from
 
 42:14.560 --> 42:21.920
-Meta, MetaQuest Pro. There are front cameras, depth cameras in order to understand proximity
+Meta, Meta Quest PRO. There are front cameras, depth cameras in order to understand proximity
 
 42:21.920 --> 42:28.160
 and gesture tracking. So you can put your hands in front of the cameras and by moving your fingers
@@ -934,19 +932,19 @@ orientation and other gravitational forces and include accelerometers, gyroscope
 They are used for you to accurately measure position of your hands or the rotation of your head.
 
 43:16.400 --> 43:23.600
-Time of light sensors in order to measure distance, imagine you are entering a room and this physical
+Time of Flight sensors in order to measure distance, imagine you are entering a room and this physical
 
 43:23.600 --> 43:30.320
 room that you enter can automatically become a virtual room in your virtual reality experience.
 
 43:30.320 --> 43:36.320
-So you need depth cameras and time of light sensors to do that. There are processors,
+So you need depth cameras and Time of Flight sensors to do that. There are processors,
 
 43:36.320 --> 43:40.000
-speakers, battery obviously and controllers.
+speakers, battery (obviously) and controllers.
 
 43:44.240 --> 43:51.200
-The controllers of the VR are quite interesting to observe because if you think the user experience
+The controllers of the VR are quite interesting to observe because if you think of the user experience
 
 43:51.200 --> 43:58.400
 before VR you have controllers of game consoles. You use both your hands in one device but now
@@ -961,7 +959,7 @@ of your hands. So the UX of every company out there was responsible to convert t
 that we had in the gaming consoles to two separate controllers with additional sensory device on
 
 44:21.120 --> 44:26.800
-top of them accelerometer gyroscopes in order to simulate the movement of our hands and provide
+top of them accelerometer, gyroscopes in order to simulate the movement of our hands and provide
 
 44:26.800 --> 44:32.640
 the required user experience for us to interact and play our virtual reality games.
@@ -979,22 +977,22 @@ you need to have gestures in order for the device to understand where are your h
 and what are the motions of your fingers. And this is achieved both in AR devices and in the
 
 45:05.200 --> 45:12.960
-AMV devices with the cameras that are in front of the headset. So these cameras have the required
+AMV devices with the cameras that are in front of the headset. So these cameras have the required,
 
 45:13.520 --> 45:18.720
-let's say algorithms that power the cameras to understand the motion of the fingers
+let's say, algorithms that power the cameras to understand the motion of the fingers
 
 45:19.760 --> 45:26.240
-and according to the different type of motions that you do you can interact with a virtual
+and according to the different type of motions that you do, you can interact with a virtual
 
 45:26.240 --> 45:31.360
 environment. So for example when you do in a Microsoft HoloLens this movement which is the
 
 45:31.360 --> 45:37.840
-movement called Bloom the main menu appears. If you want to click you need to do this with your
+movement called Bloom, the main menu appears. If you want to click you need to do this with your
 
 45:37.840 --> 45:44.800
-finger not this this is the gesture. If you want to drag and drop something you click it and you
+finger not this, this is the gesture. If you want to drag and drop something you click it and you
 
 45:44.800 --> 45:53.120
 drop it. So there are different types of gestures in order to allow you to interact with a virtual
@@ -1012,16 +1010,16 @@ where they are is a virtual reality experience but it is deployed on the browser
 or your computer or wherever you want. Obviously you don't have all the nice features of VR
 
 46:29.520 --> 46:37.360
-it feels like you are playing a 3d game okay but it might be the right solution according to the
+it feels like you are playing a 3D game okay but it might be the right solution according to the
 
 46:37.360 --> 46:43.520
 program and the application area. So for example if you want to create a training program for students
 
 46:43.520 --> 46:49.520
-or people to get familiar with the space and what VR might be the right place to deploy your
+or people to get familiar with a space a WebVR might be the right place to deploy your
 
 46:49.520 --> 46:57.200
-experience because it's already available anywhere everybody has a browser okay. It's very cheap
+experience because it's already available anywhere everybody has a browser, okay. It's very cheap,
 
 46:57.200 --> 47:03.040
 you don't need to buy any new equipment. On the other hand if you need to create a more immersive
@@ -1030,10 +1028,10 @@ you don't need to buy any new equipment. On the other hand if you need to create
 environment like a game or a more immersive training then you need a full VR experience
 
 47:09.120 --> 47:18.800
-and deploy your experience on the VR headset. Obviously the web VR is cheap also the VR cardboard
+and deploy your experience on the VR headset. Obviously the WebVR is cheap also the VR cardboard
 
 47:18.800 --> 47:25.360
-it's cheap because the device the cardboard is almost for free it's already it's very cheap
+is cheap because the device the cardboard is almost for free it's already very cheap
 
 47:25.360 --> 47:33.440
 and you only need the smartphone. On the AR space you can deploy your AR application on a smartphone
@@ -1042,16 +1040,16 @@ and you only need the smartphone. On the AR space you can deploy your AR applica
 I'm sure that you all played Pokemon Go or I'm sure you're playing now AR games on your smartphone
 
 47:41.040 --> 47:46.480
-they can be deployed on smart glasses either Google glasses that I'm not sure if who of you
+they can be deployed on smart glasses either Google glasses that, I'm not sure if who of you
 
 47:46.480 --> 47:55.120
-experienced that in the past I tried them back in 2015. We now have car manufacturers having smart
+experienced that in the past, I tried them back in 2015. We now have car manufacturers having smart
 
 47:55.120 --> 48:01.600
-glasses in front of the wheel of the car in order to inform the driver about you know navigation
+glasses in front of the wheel of the car in order to inform the driver about, you know, navigation
 
 48:01.600 --> 48:08.400
-or specific alert and obviously we have AR headset but you can deploy your AR applications like
+or specific alerts and obviously we have AR headsets that you can deploy your AR applications like
 
 48:08.400 --> 48:14.640
 HoloLens, Magic Leap etc. So according to the application the level of immersion and the use
@@ -1060,13 +1058,13 @@ HoloLens, Magic Leap etc. So according to the application the level of immersion
 case you have a plethora of delivery mechanisms delivery technologies for your AR VR experiences.
 
 48:25.280 --> 48:31.840
-Something that is interesting also in the AR VR space is optics so in order to make the experience
+Something that is interesting also in the AR VR space is Haptics. So in order to make the experience
 
 48:31.840 --> 48:42.160
 even more immersive we now have gloves that can have sensory devices in order to improve the
 
 48:42.160 --> 48:48.720
-overall experience so vibration so your finger vibration on a shoot that you are wearing.
+overall experience, so vibration, so your finger vibration, on a suit that you are wearing.
 
 48:49.360 --> 48:55.520
 So imagine that you are playing let's say a game that you are giving a punch to the enemy and you
@@ -1081,707 +1079,707 @@ the bird is landing on your finger and you can feel it. So all this extra level 
 is delivered to you through extra hardware equipment that are obviously in a tactile
 
 49:17.440 --> 49:24.240
-monitor communicating really fast with the hair with a VR headset and you need to have some extra
+manner communicating really fast with the hair with a VR headset and you need to have some extra
 
 49:24.240 --> 49:34.240
-hardware to experience it. There are other level of immersion in order to have a better VR experience
+hardware to experience it. There are other levels of immersion in order to have a better VR experience
 
 49:34.240 --> 49:41.440
-this is an example one of the most famous is the treadmill that allows you to run in VR this was
+this is an example one of the most famous is the Treadmill that allows you to run in VR this was
 
 49:41.440 --> 49:46.000
 one of the main drawbacks of VR compared to AR in AR you can move your hands but also you can
 
 49:46.000 --> 49:50.960
-move your body in virtual reality you can move you cannot move your body you only have the joy
+move your body. In virtual reality you can move you cannot move your body you only have the joy
 
 49:50.960 --> 49:58.320
-stick in order to navigate in the environment with treadmills via treadmills you are on top
+stick in order to navigate in the environment with treadmills (VR treadmills) you are on top
 
 49:58.320 --> 50:08.480
-of a treadmill you can run you can do all the physical movements and these are translated as
+of a treadmill, you can run, you can do all the physical movements and these are translated as
 
 50:08.480 --> 50:18.880
-locomotion in the VR space we also have flying simulators we can have theme parks etc in order
+locomotion in the VR space. We also have Flying Simulators we can have Theme Parks etc. in order
 
 50:18.880 --> 50:27.920
-to increase the level of immersion hey I'm not gonna spend too much time on two of the most
+to increase the level of immersion. I'm not gonna spend too much time on two of the most,
 
 50:27.920 --> 50:34.080
-let's say commonly used engines to create AR VR experiences you know I'm sure that you are
+let's say, commonly used engines to create AR VR experiences, you know, I'm sure that you are
 
 50:34.080 --> 50:41.280
-all familiar with unity and unreal both of them are engines that allows you to create a VR and
+all familiar with Unity and Unreal, both of them are engines that allows you to create a VR and
 
 50:41.280 --> 50:50.320
-AR experience as a very general rule of thumb unreal engine is most widely used in games
+AR experience. As a very general rule of thumb, Unreal Engine is most widely used in games,
 
 50:50.320 --> 50:59.440
-it has very good graphics where else unity has a lot of libraries that can help you if you want to
+it has very good graphics, where as Unity has a lot of libraries that can help you if you want to
 
 50:59.440 --> 51:07.760
-create it more like trainings and other type of VR experiences but obviously this is not a no
+create more like trainings and other type of VR experiences but obviously this is not
 
 51:07.760 --> 51:15.120
-a hard rule it is quite commonly met out there so if you are a startup and you want to create let's
+a hard rule, it is quite commonly met out there. So if you are a startup and you want to create, let's
 
 51:15.120 --> 51:24.080
-say if not a higher resolution graphic VR experience but more related to training and learning and
+say, not a higher resolution graphic VR experience but more related to training and learning and
 
 51:24.080 --> 51:28.720
-development unity might be the right tool because there are a lot of languages out there and libraries
+development, Unity might be the right tool because there are a lot of languages out there and libraries.
 
 51:29.520 --> 51:36.720
-if you want to create a very realistic game then probably unreal engine might be the right platform
+If you want to create a very realistic game then probably Unreal Engine might be the right platform
 
 51:36.720 --> 51:46.160
-for you but obviously depends on you know the use case and the application so now let's move to
+for you but obviously depends on, you know, the use case and the application. So now let's move to
 
 51:46.160 --> 51:54.400
-some of the development challenges that we face nowadays how do you develop a VR experience
+some of the development challenges that we face nowadays. How do you develop a VR experience.
 
 51:55.680 --> 52:01.600
-most probably you are aware of agile development process so let me give you some personal
+Most probably you are aware of agile development process, so let me give you some 
 
 52:01.600 --> 52:09.520
-some some I'm gonna give you some of the lessons I personally learned in my startup career
+of the lessons I personally learned in my startup career.
 
 52:10.400 --> 52:20.960
-creating a VR or an AR training or game let's say experience is time consuming and quite a
+Creating a VR or an AR training or game, let's say experience, is time consuming and quite a
 
 52:20.960 --> 52:27.120
-difficult thing to do this is because there is a plethora of platforms that is a plethora of
+difficult thing to do. This is because there is a plethora of platforms, there is a plethora of
 
 52:27.120 --> 52:36.720
-devices you can use there is a plethora of different type of 3D objects and environments that you can
+devices you can use, there is a plethora of different type of 3D objects and environments that you can
 
 52:36.720 --> 52:42.080
-create and in most of the cases what I have seen is that you don't know what really the customer
+create and in most of the cases that I have seen is that you don't know what really the customer
 
 52:42.080 --> 52:52.800
-wants the user so one of the most commonly we help you on your development of the experience is what
+wants, the user. So one of the most commonly we help you on your development of the experience is what
 
 52:52.800 --> 52:59.280
-we call agile development process that helps you understand what the user needs and what are the
+we call Agile development process that helps you understand what the user needs and what are the
 
 52:59.280 --> 53:06.080
-challenges explore the different alternatives you have experiment and then materialize and this is
+challenges, explore the different alternatives you have, experiment and then materialize. And this is
 
 53:06.080 --> 53:13.200
-done through interactive cycles with small cross-functional teams so instead of going and creating a
+done through interative cycles with small cross-functional teams so instead of going and creating a
 
 53:13.200 --> 53:20.480
-monolithic game or experience that nobody's gonna use it try to make it a adaptive and iterative
+monolithic game or experience that nobody's gonna use, try to make it adaptive and iterative.
 
 53:20.480 --> 53:27.200
-so we wanted to create a virtual reality training for first responders and this virtual reality
+So we wanted to create a virtual reality training for first responders and this virtual reality
 
 53:27.200 --> 53:34.240
-train should be delivered in virtual reality a oculus quest and also a are experience using
+training should be delivered in virtual reality, Oculus Quest and also a AR experience using
 
 53:34.240 --> 53:40.240
-Microsoft HoloLens so we need to develop two products but we didn't even know what the user
+Microsoft HoloLens. So we need to develop two products but we didn't even know what the user
 
 53:40.240 --> 53:46.480
-and the customer wanted so for example and design thinking principles what we did is we
+and the customer wanted. So for example and design thinking principles what we did is we
 
 53:46.480 --> 53:55.600
 created an MVP with 360 images or 360 videos and we use InstaVR as a platform to let users
 
 53:55.600 --> 54:02.400
-experience it very easy to do and to tell you the truth the budget that you need is less than 500
+experience it. Very easy to do and to tell you the truth, the budget that you need is less than 500
 
 54:02.400 --> 54:10.000
-dollars let's say or euros or zero amount of money you'd go in the place you take 360 images and
+dollars, let's say, or euros, or zero amount of money, you'd go in the place, you take 360 images and
 
 54:10.000 --> 54:16.720
-then you program in an InstaVR and experience you give it to the users and you receive a feedback
+then you program in an InstaVR and experience. You give it to the users and you receive a feedback,
 
 54:16.720 --> 54:22.560
-I would like this feature I don't like that I would like to add another feature so with this
+I would like this feature, I don't like that, I would like to add another feature. So with this
 
 54:22.560 --> 54:32.560
-iterative process you know we started creating progressively experiences in VR and AAR we published
+iterative process, you know, we started creating progressively experiences in VR and AR, we published
 
 54:32.560 --> 54:41.680
-that on a VR store and then we were able to scale it to a large number of users I definitely want
+that on a VR store and then we were able to scale it to a large number of users. I definitely want
 
 54:41.680 --> 54:49.360
-to give you this advice that don't go and develop something big focus on an MVP MVP stands for a
+to give you this advice that, don't go and develop something big, focus on an MVP, MVP stands for a
 
 54:49.360 --> 54:56.480
-minimum viable product and follow agile principles iterative work in order to you know step by step
+Minimum Viable Product, and follow agile principles, iterative work in order to, you know, step by step
 
 54:56.480 --> 55:07.600
-improve your model and your experience if you want to to see all the development stages of an AR and VR
+improve your model and your experience. If you want to see all the development stages of an AR and VR
 
 55:07.600 --> 55:14.880
-experience you know the most basic steps are the following create the theory environment design
+experience, you know, the most basic steps are the following. Create the theory environment, 
 
 55:14.880 --> 55:20.880
-create the instructional design let's say the series game and the experience behind it create
+design/create the instructional design, let's say the series game and the experience behind it, create
 
 55:20.880 --> 55:28.080
-some special effects and immersion levels you know some special gestures define what are going to be
+some special effects and immersion levels, you know, some special gestures, define what are going to be
 
 55:28.080 --> 55:35.200
-the analytics that you need to keep track in order to understand user engagement package all of these
+the analytics that you need to keep track in order to understand user engagement, package all of these
 
 55:35.200 --> 55:42.480
-in an application file and publish it on a marketplace on every step there are a lot of questions that
+in an application file and publish it on a marketplace. On every step there are a lot of questions that
 
 55:42.480 --> 55:48.960
-you need to answer these are just a small tiny portion of the actual questions that exist out there
+you need to answer, these are just a small tiny portion of the actual questions that exist out there
 
 55:48.960 --> 55:55.520
-but it gives you let's say an indication of what are the steps involved what are the main let's say
+but it gives you, let's say, an indication of what are the steps involved, what are the main, let's say,
 
 55:56.480 --> 56:01.280
-obstacles that you need to bypass in realities 10x of what you see here
+obstacles that you need to bypass. In reality, it's 10x of what you see here.
 
 56:03.360 --> 56:10.720
-another development challenge is the avatar who owns my avatar what type of diversity we need to
+Another development challenge is the avatar; who owns my avatar, what type of diversity we need to
 
 56:10.720 --> 56:18.000
-give to people it needs to be customizable I want to have my face on the avatar some other people
+give to people. It needs to be customizable I want to have my face on the avatar, some other people
 
 56:18.000 --> 56:26.400
-want to be anonymized or wear sunglasses so giving the creating a avatar is not a simple thing in
+want to be anonymized or wear sunglasses, so giving, creating an avatar is not a simple thing in
 
 56:26.400 --> 56:33.600
-modern AR and VR experiences and it is something that is gonna we are gonna see a lot of innovation
+modern AR and VR experiences and it is something that is gonna, we are gonna see a lot of innovation
 
 56:33.600 --> 56:42.880
-in the near future another challenge that we met in mainly in virtual reality is what we call motion
+in the near future. Another challenge that we met in mainly in virtual reality is what we call motion
 
 56:42.880 --> 56:50.160
-sickness it's an important drawback because I personally experience it sometimes because it
+sickness. It's an important drawback because, I personally experience it sometimes, because it
 
 56:50.160 --> 56:58.960
-doesn't let you experience the entire virtual reality game after five minutes or ten minutes you
+doesn't let you experience the entire virtual reality game. After five minutes or ten minutes you
 
 56:58.960 --> 57:06.560
-might feel motion sickness and you might quit a bond on the game it's quite interesting to see
+might feel motion sickness and you might quit, abandon the game. It's quite interesting to see
 
 57:06.560 --> 57:18.320
-how motion sickness is created so we have two sensors that detect motion in our body one is our
+how motion sickness is created. So we have two sensors that detect motion in our body, one is our
 
 57:18.320 --> 57:28.400
-ear and the other is our eye inside our ear there are some tiny tiny tiny sensors that understand you
+ear and the other is our eye. Inside our ear there are some tiny tiny tiny sensors that understand, you
 
 57:28.400 --> 57:34.960
-know motion think of it like an accelerometer inside our ear okay and obviously the eye detects
+know, motion. Think of it like an accelerometer inside our ear okay. And obviously the eye detects
 
 57:34.960 --> 57:45.280
-motion through the visual when we experience VR what is happening is that the brain that is
+motion through the visual. When we experience VR, what is happening is that the brain that is
 
 57:45.280 --> 57:53.360
-connected to our ear and our eye receive two signals that are opposite the ear does not feel
+connected to our ear and our eye receives two signals that are opposite. The ear does not feel
 
 57:53.360 --> 58:00.480
-any type of motion and it sends a no signal motion to the brain world the eye can see the motion
+any type of motion and it sends a no signal motion to the brain, whereas the eye can see the motion
 
 58:00.480 --> 58:05.600
-because I can see you know motion in the virtual reality environment cars are passing by you know
+because I can see, you know, motion in the virtual reality environment, cars are passing by, you know,
 
 58:05.600 --> 58:12.800
 I'm flying a plane and the brain does not know which of these two sensors to trust more because it
 
 58:12.800 --> 58:20.960
-has an equal trust to both of them it trusts the ear it trusts the eye so in order to defend itself
+has an equal trust to both of them; it trusts the ear, it trusts the eye. So in order to defend itself
 
 58:20.960 --> 58:28.640
-the brain sends a sickness signal to our stomach and this forces to stop whatever we do that creates
+the brain sends a sickness signal to our stomach and this forces us to stop whatever we do that creates
 
 58:28.640 --> 58:36.400
-motion sickness was so recent trend now in head-mounted devices in VR headsets is that
+motion sickness to us. So recent trends now in head-mounted devices in VR headsets is that
 
 58:36.400 --> 58:45.280
-it's going to include a magnetic sensor actually an actuator on the ear side in order to synchronize
+they're going to include a magnetic sensor, actually an actuator on the ear side in order to synchronize
 
 58:45.280 --> 58:53.920
-the motion that the eye detects with an actuator on a rear in order to also detect a fake motion
+the motion that the eye detects, with an actuator on our ear in order to also detect a fake motion.
 
 58:53.920 --> 59:01.680
-so motion sickness is something that it's not going to happen from now on in many of the new VR headsets
+So motion sickness is something that is not going to happen from now on in many of the new VR headsets.
 
 59:04.160 --> 59:11.120
-another cool challenge that is happening is what we call teleportation it's not like actual
+Another cool challenge that is happening is what we call teleportation. It's not like actual
 
 59:11.120 --> 59:18.720
-teleportation but it's very similar to what we have seen in Star Wars movie the idea for teleportation
+teleportation but it's very similar to what we have seen in Star Wars movie. The idea for teleportation
 
 59:18.720 --> 59:27.360
-is for me to be able to see a 3D full-scale avatar of the person that I'm communicating with
+is for me to be able to see a 3D full-scale avatar of the person that I'm communicating with.
 
 59:27.360 --> 59:35.040
-so imagine that I'm in my room yeah you are in your room and you can see my 3D body walking inside
+So imagine that I'm in my room, yeah, you are in your room and you can see my 3D body walking inside
 
 59:35.040 --> 59:41.120
-your room and delivering you this lecture there are different types of technologies to do that
+your room and delivering you this lecture. There are different types of technologies to do that
 
 59:41.120 --> 59:49.680
 either by transferring a large number of pixels in this 3D environment or by creating a 3D object
 
 59:49.680 --> 59:57.760
-and setting putting a skin of how I look on top of it obviously there are different types of
+and setting, putting a skin of how I look on top of it. Obviously there are different types of
 
-59:57.760 --> 01:00:04.560
-cameras and hardware equipment that need to be created I'm not an expert about that but I definitely
+59:57.760 --> 00:04.560
+cameras and hardware equipment that need to be created. I'm not an expert about that but I definitely
 
-01:00:04.560 --> 01:00:12.960
-know that there are a lot of development challenges in that teleportation space and before I close
+00:04.560 --> 00:12.960
+know that there are a lot of development challenges in that teleportation space. And before I close,
 
-01:00:12.960 --> 01:00:20.720
+00:12.960 --> 00:20.720
 another challenge is how we interact with all these huge networks of internet of things that are out
 
-01:00:20.720 --> 01:00:31.040
-there imagine that by 2025 or it might already be happening you know non-human centric data
+00:20.720 --> 00:31.040
+there. Imagine that by 2025, or it might already be happening, you know non-human centric data,
 
-01:00:31.040 --> 01:00:36.560
-data that are coming from internet of things are gonna be larger than human centric data
+00:31.040 --> 00:36.560
+data that are coming from internet of things are gonna be larger than human centric data,
 
-01:00:36.560 --> 01:00:42.800
-data that the real human is creating and one of the key problems that we face now is how can I
+00:36.560 --> 00:42.800
+data that the real human is creating. And one of the key problems that we face now is, how can I
 
-01:00:42.800 --> 01:00:49.680
-interact with all this big data we have a dashboard on my tablet or my smartphone but it's too small
+00:42.800 --> 00:49.680
+interact with all this big data? We have a dashboard on my tablet or my smartphone but it's too small.
 
-01:00:50.480 --> 01:00:56.720
-we have a NLP natural language processing algorithms that I can speak to as smart device and have
+00:50.480 --> 00:56.720
+We have NLP natural language processing algorithms that I can speak to as smart device and have
 
-01:00:56.720 --> 01:01:03.040
-access to this big data or I can interact with smart devices like this thermostat and I can see the
+00:56.720 --> 01:03.040
+access to this big data, or I can interact with smart devices like this thermostat and I can see the
 
-01:01:03.040 --> 01:01:12.320
-data but one of the most expected breakthrough that is gonna appear is through the use of AR and VR
+01:03.040 --> 01:12.320
+data. But one of the most expected breakthroughs that is gonna appear is through the use of AR and VR.
 
-01:01:12.320 --> 01:01:20.160
+01:12.320 --> 01:20.160
 I'm gonna be able to visualize big data on the physical world by connecting AR applications with
 
-01:01:20.160 --> 01:01:29.120
-internet of things networks so accessibility to data is gonna be an immersive experience to us
+01:20.160 --> 01:29.120
+internet of things networks. So accessibility to data is gonna be an immersive experience to us
 
-01:01:29.120 --> 01:01:31.680
-instead of having let's say a flat screen in front of us
+01:29.120 --> 01:31.680
+instead of having, let's say, a flat screen in front of us.
 
-01:01:35.520 --> 01:01:42.960
-that's all on my side and obviously there is a list of conclusions that you can see in your slide
+01:35.520 --> 01:42.960
+That's all on my side and obviously there is a list of conclusions that you can see in your slide
 
-01:01:42.960 --> 01:01:50.240
-and George we can welcome questions and I hope you found the lecture interesting thank you very
+01:42.960 --> 01:50.240
+and George, we can welcome questions and I hope you found the lecture interesting. Thank you very
 
-01:01:50.240 --> 01:01:56.960
-much thank you very much George thank you very much Chris this was a really packed session but
+01:50.240 --> 01:56.960
+much. Thank you very much George thank you very much Chris this was a really packed session but
 
-01:01:57.760 --> 01:02:04.160
+01:57.760 --> 02:04.160
 at least for me because I watched it more as a student because I'm not an expert in these things
 
-01:02:04.160 --> 01:02:09.760
-I found it very fascinating just to let everyone know that this is quite a long presentation you
+02:04.160 --> 02:09.760
+I found it very fascinating. Just to let everyone know that this is quite a long presentation you
 
-01:02:09.760 --> 01:02:14.880
+02:09.760 --> 02:14.880
 might have noticed that it's more than 70 slides so we're gonna mint it and have it available for
 
-01:02:14.880 --> 01:02:22.320
+02:14.880 --> 02:22.320
 you to claim as an NFT as soon as possible and obviously both Chris and George will be available
 
-01:02:22.320 --> 01:02:30.720
-for for questions offline as well on on biber or twitter so we have a couple of minutes I think
+02:22.320 --> 02:30.720
+for questions offline as well on Viber or Twitter. So we have a couple of minutes, I think
 
-01:02:30.720 --> 01:02:40.080
-we can take a couple of questions one question is okay people are naturally confused with acronyms
+02:30.720 --> 02:40.080
+we can take a couple of questions. One question is, okay, people are naturally confused with acronyms
 
-01:02:40.080 --> 01:02:46.880
-so George you started by trying to explain the differences between AR VR and MR
+02:40.080 --> 02:46.880
+so George you started by trying to explain the differences between AR VR and MR.
 
-01:02:47.920 --> 01:02:51.840
-student asking about XR which is your standard reality
+02:47.920 --> 02:51.840
+A student is asking about XR which is Extended Reality.
 
-01:02:52.560 --> 01:02:58.560
+02:52.560 --> 02:58.560
 I guess I know the answer to that question but can you clarify the difference on how XR fits with
 
-01:02:58.560 --> 01:03:07.120
-the other acronyms and what everything is yeah acronyms are and abbreviations are always a big
+02:58.560 --> 03:07.120
+the other acronyms and what everything is? Yeah, acronyms and abbreviations are always a big
 
-01:03:07.120 --> 01:03:20.080
-issue and sometimes there is an overlap extended reality mixed reality AR VR I think that we are
+03:07.120 --> 03:20.080
+issue and sometimes there is an overlap. Extended reality, mixed reality, AR and VR. I think that we are
 
-01:03:20.080 --> 01:03:30.000
-gonna have a more dominant let's say names focusing on VR everything that has to do without any
+03:20.080 --> 03:30.000
+gonna have more dominant, let's say, names focusing on VR everything that has to do without any
 
-01:03:30.000 --> 01:03:36.800
+03:30.000 --> 03:36.800
 type of interaction in the physical world so I'm totally isolated in a virtual experience and then
 
-01:03:36.800 --> 01:03:42.720
-XR I think in my personal opinion you know that will include all the rest but this is something
+03:36.800 --> 03:42.720
+XR, I think, in my personal opinion, you know, that will include all the rest. But this is something
 
-01:03:42.720 --> 01:03:49.120
-that you know we're gonna see different names probably coming in the near future so me personally
+03:42.720 --> 03:49.120
+that, you know, we're gonna see different names probably coming in the near future. So me personally,
 
-01:03:49.120 --> 01:03:55.920
-I use VR AR some other people are using XR so it's up to you to use the name that you prefer
+03:49.120 --> 03:55.920
+I use VR AR some other people are using XR so it's up to you to use the name that you prefer.
 
-01:03:57.840 --> 01:03:59.440
-Chris any comment or comments?
+03:57.840 --> 03:59.440
+Chris, any comments on that?
 
-01:03:59.440 --> 01:04:05.040
-Chris might be able to provide well I use VR for everything
+03:59.440 --> 04:05.040
+Chris might be able to provide. Well I use VR for everything. (laughter)
 
-01:04:08.960 --> 01:04:16.800
-okay case is boy yeah I personally like to keep it simple and I I just say well it's it's
+04:08.960 --> 04:16.800
+Okay case is boy yeah. I personally like to keep it simple and I just say well it's,
 
-01:04:16.800 --> 01:04:26.880
-I think virtual reality is good enough if it's going to blend with you know but who's to say what
+04:16.800 --> 04:26.880
+I think virtual reality is good enough if it's going to blend with, you know, but who's to say what
 
-01:04:26.880 --> 01:04:35.040
-real reality is anyway so keep it simple virtual reality is fine XR I have read papers
+04:26.880 --> 04:35.040
+real reality is anyway, So keep it simple. Virtual reality is fine, XR I have read papers
 
-01:04:36.560 --> 01:04:46.320
-which say just treat the X as a as a variable just a placeholder so in the X you can you can
+04:36.560 --> 04:46.320
+which say just treat the X as a variable, just a placeholder. So in the X you can 
 
-01:04:46.320 --> 01:04:54.160
-put whatever or mentored you can put the glasses you can put immersive and whatever comes next you
+04:46.320 --> 04:54.160
+put whatever, augmented, you can put the glasses you can put immersive and whatever comes next, you
 
-01:04:54.160 --> 01:05:04.000
-know so I'd rather not confuse people I'd rather not confuse people and I would either just go
+04:54.160 --> 05:04.000
+know. So I'd rather not confuse people. I'd rather not confuse people and I would either just go
 
-01:05:04.000 --> 01:05:11.200
-with VR or go with with what George just said AR and VR are fine I mean it's it's good enough
+05:04.000 --> 05:11.200
+with VR or go with what George just said, AR and VR are fine I mean it's good enough.
 
-01:05:11.200 --> 01:05:20.640
-yeah I agree I mean the the keep it simple I think principle applies here I'm probably older than
+05:11.200 --> 05:20.640
+Yeah I agree, I mean the "keep it simple" I think principle applies here. I'm probably older than
 
-01:05:20.640 --> 01:05:26.240
-everyone around here and I've been around in the early days of the internet the early days of
+05:20.640 --> 05:26.240
+everyone around here and I've been around in the early days of the internet, the early days of
 
-01:05:26.240 --> 01:05:36.000
-mobile the early days of crypto and I've seen how acronyms are used and abused by consultants
+05:26.240 --> 05:36.000
+mobile, the early days of crypto and I've seen how acronyms are used and abused by consultants
 
-01:05:36.000 --> 01:05:41.840
-and vendors as they try to to position their products and differentiate themselves from
+05:36.000 --> 05:41.840
+and vendors as they try to position their products and differentiate themselves from
 
-01:05:41.840 --> 01:05:49.120
-competition so sometimes we get you know bombarded with different acronyms that mostly mean if not
+05:41.840 --> 05:49.120
+competition. So sometimes we get, you know, bombarded with different acronyms that mostly mean, if not
 
-01:05:49.120 --> 01:05:55.200
-completely the same very similar things and tends to be confusing so yeah I'm only in for simplicity
+05:49.120 --> 05:55.200
+completely the same, very similar things and tends to be confusing so yeah, I'm all in for simplicity.
 
-01:05:56.480 --> 01:06:02.480
-and you know as it happened with the internet the things that have real value that the names
+05:56.480 --> 06:02.480
+And, you know, as it happened with the internet, the things that have real value that the names
 
-01:06:02.480 --> 01:06:08.000
-will stick others like you know the internet we have been discussing back then in the 90s or
+06:02.480 --> 06:08.000
+will stick. Others like, you know, the intranets we have been discussing back then in the 90s or
 
-01:06:08.000 --> 01:06:14.080
-everything will just disappear from the from the foreground okay another question
+06:08.000 --> 06:14.080
+everything will just disappear from the foreground. Okay, another question
 
-01:06:15.920 --> 01:06:22.000
-both of you especially George I think have mentioned a number of of of devices that are
+06:15.920 --> 06:22.000
+Both of you, especially George I think, have mentioned a number of devices that are
 
-01:06:22.640 --> 01:06:30.080
-commercially available announced or in the process of being developed and okay we I guess most of us
+06:22.640 --> 06:30.080
+commercially available, announced, or in the process of being developed, and okay, I guess most of us
 
-01:06:30.080 --> 01:06:36.640
-know about occlusion stuff like that but you mentioned things like haptic interfaces or treadmills
+06:30.080 --> 06:36.640
+know about Oculus and stuff like that, but you mentioned things like haptic interfaces or treadmills
 
-01:06:36.640 --> 01:06:43.920
-or this actuator in the year that will alleviate the symptoms of motion sickness can you give us
+06:36.640 --> 06:43.920
+or this actuator in the year that will alleviate the symptoms of motion sickness. Can you give us,
 
-01:06:43.920 --> 01:06:54.320
-either of you a like a a time horizon of when these things would hit the commercial market when
+06:43.920 --> 06:54.320
+either of you, like a time horizon of when these things would hit the commercial market, when
 
-01:06:54.320 --> 01:07:00.080
-we would see them I mean are they available in the market now are we expecting them in 2023 or is
+06:54.320 --> 07:00.080
+we would see them. I mean, are they available in the market now? Are we expecting them in 2023 or is
 
-01:07:00.080 --> 01:07:12.640
-it like a five year horizon thing resource would I go first yes go okay the technology is already
+07:00.080 --> 07:12.640
+it like a five year horizon thing? Christos, should I go first? Yes go. Okay, the technology is already
 
-01:07:12.640 --> 01:07:21.360
-here and obviously there is a supply and demand you know driver here so the more the demand is
+07:12.640 --> 07:21.360
+here and obviously there is a supply and demand, you know, driver here so the more the demand is
 
-01:07:21.360 --> 01:07:27.680
-gonna grow from the end users the technology will accelerate we have seen cases that were the
+07:21.360 --> 07:27.680
+gonna grow from the end users, the technology will accelerate. We have seen cases where the
 
-01:07:27.680 --> 01:07:32.160
-technology accelerated so fast but the user adoption was not there and this from the business
+07:27.680 --> 07:32.160
+technology accelerated so fast but the user adoption was not there and this, from the business
 
-01:07:32.160 --> 01:07:39.600
-perspective is you know sometimes not very sustainable but for the moment technology is here to deliver
+07:32.160 --> 07:39.600
+perspective, is, you know, sometimes not very sustainable, but for the moment technology is here to deliver,
 
-01:07:39.600 --> 01:07:48.480
-you know acceptable levels of immersion and experience so it can be engaging for the end user so gloves
+07:39.600 --> 07:48.480
+you know, acceptable levels of immersion and experience so it can be engaging for the end user. So gloves
 
-01:07:48.480 --> 01:07:58.640
-that can improve let's say haptic VR okay or treadmills and they already exist they might be hard to find
+07:48.480 --> 07:58.640
+that can improve, let's say, haptic VR, okay, or treadmills and they already exist. They might be hard to find
 
-01:07:58.640 --> 01:08:04.480
-because there is no mass production there are no games you know still yet out there to let you
+07:58.640 --> 08:04.480
+because there is no mass production there are no games, you know, still yet out there to let you
 
-01:08:04.480 --> 01:08:11.440
-experience you know with the use of a haptic glove you know the level of immersion that you want so
+08:04.480 --> 08:11.440
+experience, you know, with the use of a haptic glove, you know, the level of immersion that you want so
 
-01:08:11.440 --> 01:08:16.960
-there is the technologies here the demand is coming so we are gonna see like a step-by-step
+08:11.440 --> 08:16.960
+there is. The technology is here, the demand is coming so we are gonna see like a step-by-step
 
-01:08:16.960 --> 01:08:27.680
-growth my personal sense is that you know 2023 we are gonna see much more evolution compared to 22
+08:16.960 --> 08:27.680
+growth. My personal sense is that, you know, 2023 we are gonna see much more evolution compared to 22
 
-01:08:29.680 --> 01:08:34.000
-and more penetration of this type of technologies in our experiences
+08:29.680 --> 08:34.000
+and more penetration of this type of technologies in our experiences.
 
-01:08:34.000 --> 01:08:47.360
-yeah so yeah I tend to agree but if you ask me which one of the AR VR is going to hit
+08:34.000 --> 08:47.360
+Yeah so yeah I tend to agree but if you if you ask me which one of the AR or VR is going to hit
 
-01:08:48.080 --> 01:08:55.440
-a use case or a use scenario quicker I think it's going to be augmented reality because of the
+08:48.080 --> 08:55.440
+a use case or a use scenario quicker I think it's going to be augmented reality because of the,
 
-01:08:55.440 --> 01:09:04.720
-you know not everybody as George mentioned some people really do not like the sense of isolation
+08:55.440 --> 09:04.720
+you know, not everybody as George mentioned some people really do not like the sense of isolation
 
-01:09:04.720 --> 01:09:13.920
-that you get from immersive tech you know and I've been working with the tech for quite a long time
+09:04.720 --> 09:13.920
+that you get from immersive tech, you know, and I've been working with the tech for quite a long time
 
-01:09:13.920 --> 01:09:20.800
-and yeah you don't find me putting on my headset I'd like to kick back and watch a nice flat screen
+09:13.920 --> 09:20.800
+and yeah, you don't find me putting on my headset I'd like to kick back and watch a nice flat screen,
 
-01:09:20.800 --> 01:09:32.960
-but imagine this you've got augmented reality glasses and you kick back and you turn your room
+09:20.800 --> 09:32.960
+but imagine this, you've got augmented reality glasses and you kick back and you turn your room
 
-01:09:32.960 --> 01:09:47.360
-into a living cinema now this is a use case it flows with larger and larger TV screens for example
+09:32.960 --> 09:47.360
+into a living cinema. Now this is a use case, it flows with larger and larger TV screens for example
 
-01:09:47.360 --> 01:09:54.960
-that everywhere every Christmas you're buying a bigger TV set well at some point you don't need
+09:47.360 --> 09:54.960
+that everywhere every Christmas you're buying a bigger TV set, well at some point you don't need
 
-01:09:54.960 --> 01:10:02.000
-to buy a TV set okay you can have a shared experience with your family wearing a pair of glasses that
+09:54.960 --> 10:02.000
+to buy a TV set, okay you can have a shared experience with your family wearing a pair of glasses that
 
-01:10:02.000 --> 01:10:07.760
-you can take with you from one room to the next there could be a market for this employment
+10:02.000 --> 10:07.760
+you can take with you from one room to the next. There could be a market for this employment
 
-01:10:07.760 --> 01:10:17.360
-entertainment in terms of home entertainment for business use is absolutely you know everything is
+10:07.760 --> 10:17.360
+entertainment in terms of home entertainment. For business uses, absolutely, you know everything is
 
-01:10:17.360 --> 01:10:30.720
-there currently it will get better haptics has fallen out it's fallen out a little bit because
+10:17.360 --> 10:30.720
+there currently, it will get better. Haptics has fallen out it's fallen out a little bit because,
 
-01:10:30.720 --> 01:10:41.840
-you know it's clunky it's to the technology is too clunky to be viable at the moment I remember the
+10:30.720 --> 10:41.840
+you know, it's clunky, the technology is too clunky to be viable at the moment. I remember the
 
-01:10:41.840 --> 01:10:53.600
-the old haptic device was called the phantom if anyone would like to go back to the 1990s the late
+10:41.840 --> 10:53.600
+the old haptic device was called the Phantom if anyone would like to go back to the 1990s the late
 
-01:10:53.600 --> 01:11:02.000
-1990s early 2000s so this was a little robot you put your finger into it and you could feel
+10:53.600 --> 11:02.000
+1990s early 2000s. So this was a little robot, you put your finger into it and you could feel
 
-01:11:02.720 --> 01:11:08.800
-you could feel stuff and then and play around with you know elastic effects etc
+11:02.720 --> 11:08.800
+you could feel stuff and play around with, you know, elastic effects etc.
 
-01:11:11.760 --> 01:11:19.920
-now we have haptic gloves but I think yeah this will be a while taking off I think it's a slow
+11:11.760 --> 11:19.920
+Now we have haptic gloves but I think, yeah, this will be a while taking off, I think it's a slow
 
-01:11:19.920 --> 01:11:25.920
-process let me let me take you a little bit further in the future then because I have a question that
+11:19.920 --> 11:25.920
+process. Let me let me take you a little bit further in the future then because I have a question that
 
-01:11:25.920 --> 01:11:32.240
-I really like from one of our students and the question is what about brain computer interfaces
+11:25.920 --> 11:32.240
+I really like from one of our students and the question is, what about brain computer interfaces?
 
-01:11:32.240 --> 01:11:38.880
-how far away is that do you think I guess eventually we will tap directly into the optical part of the
+11:32.240 --> 11:38.880
+How far away is that do you think? I guess eventually we will tap directly into the optical part of the
 
-01:11:38.880 --> 01:11:46.960
-brain and bypass AR spectacle sore goggles do you have any views on this that's already here
+11:38.880 --> 11:46.960
+brain and bypass AR spectacles or goggles. Do you have any views on this? That's already here.
 
-01:11:46.960 --> 01:11:57.840
-is it okay yeah yeah that's that's already here so okay there is a principle I have one just here
+11:46.960 --> 11:57.840
+Is it? Okay yeah yeah that's that's already here so okay. There is a principle, I have one just here
 
-01:11:57.840 --> 01:12:08.240
-and in fact it's a 32 channel BCI with a principal shell so you could you get the 3d model you
+11:57.840 --> 12:08.240
+in fact, it's a 32 channel BCI with a principal shell so you could you get the 3d model you
 
-01:12:08.240 --> 01:12:16.160
-could you can print it and you  get a pack from a open BCI is the name of the company it was a kick
+12:08.240 --> 12:16.160
+could you can print it and you get a pack from a OpenBCI is the name of the company. It was a kick
 
-01:12:16.160 --> 01:12:24.720
-starter from a few years ago and the perfect use case is as a motion device
+12:16.160 --> 12:24.720
+starter from a few years ago and the perfect use case is as a motion motion device.
 
-01:12:24.720 --> 01:12:40.480
-yeah so you can train it picks up the skin currents on the head on the on the scalp you can train
+12:24.720 --> 12:40.480
+Yeah, so you can train, it picks up the skin currents on the head on the on the scalp you can train
 
-01:12:40.480 --> 01:12:49.280
-it on the motor the sensors of the head with repetitive movements and then you can associate
+12:40.480 --> 12:49.280
+it on the on the motor the sensors of the head with repetitive movements and then you can associate
 
-01:12:49.280 --> 01:12:54.560
-those movements with movement in a virtual environment and people have been doing that for
+12:49.280 --> 12:54.560
+those movements with movement in a virtual environment. And people have been doing that for
 
-01:12:54.560 --> 01:13:05.440
-a few years now yeah and there's also it's used for paraplegics so if you have a case where you use
+12:54.560 --> 13:05.440
+a few years now. Yeah, and there's also it's used for paraplegics so if you have a case where you use
 
-01:13:05.440 --> 01:13:11.680
-it for a paraplegic in a wheelchair to move their wheelchair and you can for sure take this straight
+13:05.440 --> 13:11.680
+it for a paraplegic in a wheelchair to move their wheelchair, and you can for sure take this straight
 
-01:13:11.680 --> 01:13:19.600
-away and put it into a virtual environment fascinating I didn't know we were so advanced in BCI next
+13:11.680 --> 13:19.600
+away and put it into a virtual environment. Fascinating I didn't know we were so advanced in BCI. Next
 
-01:13:19.600 --> 01:13:28.000
-time I am in your lab you you need to show me this George  and he used a lot and I think that
+13:19.600 --> 13:28.000
+time I am in your lab, you need to show me this. George, any views on that? I think that
 
-01:13:28.000 --> 01:13:36.400
-one of the enablers of something really really interesting is gonna be 5g or you know 66g networks
+13:28.000 --> 13:36.400
+one of the enablers of something really really interesting is gonna be 5G or you know 6G networks
 
-01:13:36.400 --> 01:13:46.480
-that will allow real-time 360 video transfer and I remember that a couple of years ago when I
+13:36.400 --> 13:46.480
+that will allow real-time 360 video transfer. And I remember that a couple of years ago when I
 
-01:13:46.480 --> 01:13:55.920
-broke my leg all right I said I would pay anything if I could click on a person on a map let's say
+13:46.480 --> 13:55.920
+broke my leg, all right, I said I would pay anything if I could click on a person on a map, let's say
 
-01:13:57.440 --> 01:14:04.640
-on the top of a mountain that he or she is no boring with a 360 camera on her head okay and I can be
+13:57.440 --> 14:04.640
+on the top of a mountain that he or she is snowboarding with a 360 camera on her head, okay, and I can be
 
-01:14:04.640 --> 01:14:12.800
+14:04.640 --> 14:12.800
 with my broken leg in my sofa of my home in Greece and wear my VR headset and you have the assert
 
-01:14:12.800 --> 01:14:20.640
-experience real-time 360 high-definition video and the person is you know doing a nice downhill
+14:12.800 --> 14:20.640
+experience real-time, 360 high-definition video and the person is, you know, doing a nice downhill
 
-01:14:20.640 --> 01:14:30.000
-run for me while I can't so I think that when we are gonna have a content creators real-time
+14:20.640 --> 14:30.000
+run for me while I can't, So I think that when we are gonna have content creators real-time,
 
-01:14:30.800 --> 01:14:38.800
-high-definition 360 video be able to be transferred and headsets that can allow us to you know consume
+14:30.800 --> 14:38.800
+high-definition, 360 video be able to be transferred and headsets that can allow us to, you know, consume
 
-01:14:38.800 --> 01:14:45.200
-this type of content there's gonna be a really really interesting application area
+14:38.800 --> 14:45.200
+this type of content, there's gonna be a really really interesting application area,
 
-01:14:46.720 --> 01:14:54.560
-we are a little bit some years behind because the network and the speed is not already there
+14:46.720 --> 14:54.560
+We are a little bit some years behind because the network and the speed is not already there
 
-01:14:54.560 --> 01:15:00.960
-in many cases in some you know denser burn environments it is but I think this is gonna be
+14:54.560 --> 15:00.960
+in many cases, in some you know denser burn environments it is, but I think this is gonna be
 
-01:15:00.960 --> 01:15:04.880
-fascinating and obviously we need the 360 cameras in our smartphones
+15:00.960 --> 15:04.880
+fascinating and obviously we need the 360 cameras in our smartphones.
 
-01:15:04.880 --> 01:15:12.880
-awesome very very interesting once you then did asking what was the name of the company that you
+15:04.880 --> 15:12.880
+Awesome, very very interesting. One student is asking, what was the name of the company that you
 
-01:15:12.880 --> 01:15:20.160
-mentioned Greece I think it was open BCI you said you're muted you're muted I think
+15:12.880 --> 15:20.160
+mentioned, Chris, I think it was OpenBCI, you said? (you're muted, you're muted I think)
 
-01:15:21.840 --> 01:15:28.240
-open BCI open BCI for brain computer interface great yeah okay
+15:21.840 --> 15:28.240
+OpenBCI, BCI for brain computer interface great, yeah okay.
 
-01:15:28.240 --> 01:15:39.040
-another question is if you were to pick like one or the top difficulty either technical or
+15:28.240 --> 15:39.040
+Another question is, if you were to pick like one or the top difficulty either technical or
 
-01:15:39.040 --> 01:15:47.760
-adoption related or regulatory or whatever you want to make these things you know commercially
+15:39.040 --> 15:47.760
+adoption related or regulatory or whatever you want to make these things, you know, commercially
 
-01:15:47.760 --> 01:15:55.120
-viable and adopted by NMASS what do you think that the biggest obstacles or obstacles are at the
+15:47.760 --> 15:55.120
+viable and adopted by en masse, what do you think that the biggest obstacle or obstacles are at the
 
-01:15:55.120 --> 01:16:01.680
-moment is it that we are you know missing technological elements is it that we miss
+15:55.120 --> 16:01.680
+moment? Is it that we are, you know, missing technological elements, is it that we miss
 
-01:16:02.640 --> 01:16:08.560
-applications that we miss education what is it that hasn't allowed of my
+16:02.640 --> 16:08.560
+applications, that we miss education, what is it that hasn't allowed augmented or virtual 
 
-01:16:08.560 --> 01:16:10.880
-individual reality to reach their full potential
+16:08.560 --> 16:10.880
+reality to reach their full potential?
 
-01:16:14.320 --> 01:16:19.440
-I think there are different use cases for for each of them
+16:14.320 --> 16:19.440
+I think there are different use cases for each of them.
 
-01:16:19.440 --> 01:16:31.440
-I believe and well I saw a breakdown of 60 to 40 on matters expenditure vis-a-vis the
+16:19.440 --> 16:31.440
+I believe and, well, I saw a breakdown of 60 to 40 on Meta's expenditure vis-a-vis the
 
-01:16:32.000 --> 01:16:39.920
+16:32.000 --> 16:39.920
 augmented reality expenditure versus virtual reality and I don't think it's the case that
 
-01:16:39.920 --> 01:16:44.880
-matter for example is building this closed world in the evening you know they expect this closed
+16:39.920 --> 16:44.880
+Meta, for example, is building this closed world in the evening you know they expect this closed
 
-01:16:44.880 --> 01:16:50.560
-world this is not going to be the use case it's not it's not going to be the you know what's going
+16:44.880 --> 16:50.560
+world this is not going to be the use case it's not it's not going to be the, you know, what's going
 
-01:16:50.560 --> 01:17:04.640
-to break it for for this tech I think this tech will gradually it become pervasive
+16:50.560 --> 17:04.640
+to break it for for this tech. I think this tech will gradually become pervasive
 
-01:17:05.440 --> 01:17:11.840
-through everything that we do it it's a slow process and I don't think that there is going to be a
+17:05.440 --> 17:11.840
+through everything that we do, it's a slow process and I don't think that there is going to be a
 
-01:17:11.840 --> 01:17:21.200
-massive jump in my personal opinion I think what will happen is that we will just I saw a
+17:11.840 --> 17:21.200
+massive jump, in my personal opinion. I think what will happen is that we will just, I saw a
 
-01:17:21.200 --> 01:17:27.680
+17:21.200 --> 17:27.680
 visualization of this itself where somebody walks out of their living room and they are bombarded
 
-01:17:28.400 --> 01:17:37.440
-with augmentation right so in the streets where they walk there's information this information
+17:28.400 --> 17:37.440
+with augmentation, right, so in the streets where they walk there's information, this information
 
-01:17:37.440 --> 01:17:45.280
-regarding the strict name there's advertising once the advertisers get in there oh believe me
+17:37.440 --> 17:45.280
+regarding the street name there's advertising, once the advertisers get in there, oh believe me
 
-01:17:46.000 --> 01:17:53.680
-things will take off people I also saw in our cafeteria today a pair of glasses which
+17:46.000 --> 17:53.680
+things will take off people. I also saw in our cafeteria today a pair of glasses which,
 
-01:17:54.640 --> 01:18:00.480
-you know stop the glare from a screen and I think the wearing of glasses like this with a form
+17:54.640 --> 18:00.480
+you know, stop the glare from a screen and I think the wearing of glasses like this with a form
 
-01:18:00.480 --> 01:18:11.440
-factor like this with computer graphics augmented is going to be the clinician people will start
+18:00.480 --> 18:11.440
+factor like this with computer graphics augmented is going to be the clincher. People will start
 
-01:18:11.440 --> 01:18:20.560
-wearing these they'll be tough to wear in them and we will have everywhere we go there will be data
+18:11.440 --> 18:20.560
+wearing these, they'll feel comfortable wearing them and we will have, everywhere we go there will be data,
 
-01:18:20.560 --> 01:18:28.880
-it will be data rich and this will be the most of us in the in my opinion very interesting very
+18:20.560 --> 18:28.880
+it will be data rich and this will be the metaverse, in my opinion. Very interesting, very
 
-01:18:28.880 --> 01:18:34.480
-interesting definition of the metaverse as well jolts and any final thoughts on this because I
+18:28.880 --> 18:34.480
+interesting definition of the metaverse as well. George, any final thoughts on this because I
 
-01:18:34.480 --> 01:18:42.320
-think this is this is our last question for for today I agree that you know one of the key obstacles
+18:34.480 --> 18:42.320
+think this is this is our last question for today. I agree that, you know, one of the key obstacles,
 
-01:18:42.320 --> 01:18:48.960
-you know to wear the glasses is because now we send all the processing power on top of the glass
+18:42.320 --> 18:48.960
+you know, to wear the glasses is because now we send all the processing power on top of the glass.
 
-01:18:48.960 --> 01:18:55.200
-what we need is a glass that it is like the one that we wear for our son or you know to improve
+18:48.960 --> 18:55.200
+What we need is a glass that it is like the one that we wear for our sun or, you know, to improve
 
-01:18:55.200 --> 01:19:02.720
-our site so having migrating all the processing power to another device probably our smartphone
+18:55.200 --> 19:02.720
+our sight. So having migrating all the processing power to another device, probably our smartphone,
 
-01:19:02.720 --> 01:19:13.680
-our you know our smart words and having the acceptable level of graphics and experience
+19:02.720 --> 19:13.680
+our, you know, our smart watch and having the acceptable level of graphics and experience
 
-01:19:13.680 --> 01:19:19.680
-and delivered in a normal class will open new horizons in the adoption of the services and then
+19:13.680 --> 19:19.680
+delivered in a normal glass will open new horizons in the adoption of the services and then,
 
-01:19:19.680 --> 01:19:27.360
-you know wherever you are you can see you'll commit information everywhere advertising you know real
+19:19.680 --> 19:27.360
+you know, wherever you are you can see augmented information everywhere, Advertising, you know, real
 
-01:19:27.360 --> 01:19:34.880
-time information navigation everything can make your life much easier fantastic we're gonna say
+19:27.360 --> 19:34.880
+time information navigation, everything can make your life much easier. Fantastic we're gonna say
 
-01:19:34.880 --> 01:19:41.360
-we're gonna say huge stages in the coming years and I agree with Chris that they would happen gradually
+19:34.880 --> 19:41.360
+we're gonna see huge changes in the coming years and I agree with Chris that they would happen gradually
 
-01:19:41.360 --> 01:19:50.960
-and then and then suddenly maybe when advertisers pick up on on these and we have a sudden influx of
+19:41.360 --> 19:50.960
+and then and then suddenly maybe when advertisers pick up on these and we have a sudden influx of
 
-01:19:50.960 --> 01:19:56.880
-of applications all around us and then we will be chasing the applications that of them chasing us
+19:50.960 --> 19:56.880
+of applications all around us and then we will be chasing the applications instead of them chasing us.
 
-01:19:57.440 --> 01:20:02.720
-anyway thank you very much this was a very fascinating session thank you for being here thank you for
+19:57.440 --> 20:02.720
+Anyway, thank you very much this was a very fascinating session thank you for being here thank you for
 
-01:20:02.720 --> 01:20:08.880
-sharing your expertise with us and looking forward to seeing you again in one of our future courses
+20:02.720 --> 20:08.880
+sharing your expertise with us and looking forward to seeing you again in one of our future courses.
 
-01:20:08.880 --> 01:20:15.680
-thank you very much everyone we'll see you next week with week then bye bye bye bye
+20:08.880 --> 20:15.680
+Thank you very much everyone, we'll see you next week with week 10. bye 
 
-01:20:38.880 --> 01:20:41.440
-bye
+20:38.880 --> 20:41.440
+
 

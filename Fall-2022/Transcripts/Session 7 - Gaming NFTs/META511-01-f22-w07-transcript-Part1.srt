@@ -1,22 +1,22 @@
 1
 00:00:00,000 --> 00:00:22,800
-Hello, hi everyone.
+Hello, hi everyone,
 
 2
 00:00:22,800 --> 00:00:32,880
-Welcome to the seventh week of the University of Nicosia free MOOC on NFTs and the Metaverse.
+welcome to the seventh week of the University of Nicosia's free MOOC on NFTs and the Metaverse,
 
 3
 00:00:32,880 --> 00:00:40,720
-This is George Giaglis and today our topic of discussion is going to be gaming NFT.
+this is George Giaglis and today our topic of discussion is going to be gaming NFTs,
 
 4
 00:00:40,720 --> 00:00:44,600
-So we're going to be discussing gaming today.
+so we're going to be discussing gaming today.
 
 5
 00:00:44,600 --> 00:00:51,640
-So today's session, I would dare say it's sort of a bridging session because as you know,
+So today's session, I would dare say is sort of a bridging session because as you know,
 
 6
 00:00:51,640 --> 00:00:56,720
@@ -24,11 +24,11 @@ this is a 12-week course we've done, we've covered the first six weeks which wer
 
 7
 00:00:56,720 --> 00:00:57,720
-NFTs.
+NFTs,
 
 8
 00:00:57,720 --> 00:01:03,560
-So we did an introduction and we saw the various use cases and application areas of non-fungible
+so we did an introduction and we saw the various use cases and application areas of non-fungible
 
 9
 00:01:03,560 --> 00:01:06,560
@@ -52,11 +52,11 @@ the sense that it is my personal feeling that many people will first experience 
 
 14
 00:01:32,760 --> 00:01:36,200
-through some sort of a game.
+through some sort of a game,
 
 15
 00:01:36,200 --> 00:01:41,200
-So I'd like to spend some time today discussing the various types of games, the history of
+so I'd like to spend some time today discussing the various types of games, the history of
 
 16
 00:01:41,200 --> 00:01:51,760
@@ -72,11 +72,11 @@ as the metaverse.
 
 19
 00:02:03,200 --> 00:02:09,120
-So we will start by going through a short history of video games, and how it all started.
+So we will start by going through a short history of video games, and how it all started,
 
 20
 00:02:09,120 --> 00:02:14,800
-And I'm not going to, it's totally impossible to cover everything of course, but I'll try
+and I'm not going to, it's totally impossible to cover everything of course, but I'll try
 
 21
 00:02:14,800 --> 00:02:26,760
@@ -116,11 +116,11 @@ so that we can see why existing blockchain-based games and why existing gaming N
 
 30
 00:03:19,280 --> 00:03:22,640
-not managed to live up to their expectations.
+not managed to live up to their expectations,
 
 31
 00:03:22,640 --> 00:03:30,000
-So the complexities and intricacies of the process of creating games make it quite difficult.
+so the complexities and intricacies of the process of creating games make it quite difficult.
 
 32
 00:03:30,000 --> 00:03:39,000
@@ -160,7 +160,7 @@ a number of projects in this presentation, none of them is included for anything
 
 41
 00:04:38,200 --> 00:04:43,400
-apart from an indicative example for educational purposes.
+apart from as an indicative example for educational purposes.
 
 42
 00:04:43,400 --> 00:04:50,640
@@ -168,11 +168,11 @@ So please do your own research if you decide to delve more in-depth into any of 
 
 43
 00:04:50,640 --> 00:04:53,200
-that are mentioned in these schools.
+that are mentioned in this course.
 
 44
 00:04:53,200 --> 00:04:59,400
-So let's start with the first argument that I'd like to make.
+So, let's start with the first argument that I'd like to make.
 
 45
 00:04:59,400 --> 00:05:06,760
@@ -180,11 +180,11 @@ The argument, as I've said, is that games can be thought of as very early exampl
 
 46
 00:05:06,760 --> 00:05:07,760
-Metaverse.
+Metaverses,
 
 47
 00:05:07,760 --> 00:05:12,280
-So those of you in the audience that are already gamers know what I'm talking about
+so those of you in the audience that are already gamers know what I'm talking about
 
 48
 00:05:12,280 --> 00:05:21,960
@@ -204,15 +204,15 @@ and gameplay and the types of things that are happening are not like a virtual w
 
 52
 00:05:38,800 --> 00:05:44,400
-as a whole is a very specific, narrow virtual world, but a virtual world nevertheless.
+as a whole is a very specific, narrow virtual world, but a virtual world nevertheless,
 
 53
 00:05:44,400 --> 00:05:49,600
-So I think as I've said that games can be thought of as proton Metaverse, so very
+so I think as I've said that games can be thought of as proton Metaverse, so very
 
 54
 00:05:49,600 --> 00:05:56,640
-early examples of Metaverse and I think many of us are going to experience the Metaverse
+early examples of a Metaverse and I think many of us are going to experience the Metaverse
 
 55
 00:05:56,640 --> 00:06:00,440
@@ -220,7 +220,7 @@ through games.
 
 56
 00:06:00,440 --> 00:06:03,040
-I like this definition of what a game is.
+I like this definition of what a game is,
 
 57
 00:06:03,040 --> 00:06:08,440
@@ -236,15 +236,15 @@ A game is an interactive experience, so it's something that is between players o
 
 60
 00:06:15,320 --> 00:06:21,760
-a player and a computer and it's an experience that provides a player with an increasingly
+a player and a computer and is an experience that provides a player with an increasingly
 
 61
 00:06:21,760 --> 00:06:26,680
-the challenging sequence of patterns that the player learns and eventually masters.
+the challenging sequence of patterns which the player learns and eventually masters,
 
 62
 00:06:26,680 --> 00:06:37,480
-So most of the games will make the player go through a series of steps, tasks, challenges
+so most of the games will make the player go through a series of steps, tasks, challenges
 
 63
 00:06:37,480 --> 00:06:47,240
@@ -304,7 +304,7 @@ it, the combination of these three things, so having a virtual world out there, 
 
 77
 00:08:06,680 --> 00:08:13,440
-the world that is displayed in some sort of output device which could be immersive, could be
+the world that is displayed in some sort of output device which could be immersive, it could be
 
 78
 00:08:13,440 --> 00:08:15,360
@@ -332,7 +332,7 @@ a metaverse is all about, that's why I'm saying that video games can be thought
 
 84
 00:08:46,040 --> 00:08:51,440
-of asa  sort of metaverse type of experience.
+of as sort of metaverse type of experiences.
 
 85
 00:08:51,440 --> 00:08:59,240
@@ -360,7 +360,7 @@ type of interface where you have very simple two-dimensional graphics effectivel
 
 91
 00:09:43,920 --> 00:09:50,760
-players or one player and the computer, it's controlling a dash that moves up and down
+players or one player and the computer, is controlling a dash that moves up and down
 
 92
 00:09:50,760 --> 00:09:56,760
@@ -412,11 +412,11 @@ this, so they did and they commercialized it like this, when we're talking about
 
 104
 00:11:12,320 --> 00:11:18,760
-in the 70s, this is the setting that we're talking about, standard loans, special made,
+in the 70s, this is the setting that we're talking about, stand-alone, special made,
 
 105
 00:11:18,760 --> 00:11:26,480
-you know, for Godboards that included the screen and they, and some controls as you can see
+you know, whole 'cupboards' that included a screen and they, and some controls as you can see
 
 106
 00:11:26,480 --> 00:11:31,120
@@ -444,7 +444,7 @@ games started the kind of home entertainment again from the 1970s, you can see o
 
 112
 00:12:09,920 --> 00:12:14,600
-picture of two kids playing the same game, this is Pong now, but now they're playing
+a picture of two kids playing the same game, this is Pong now, but now they're playing
 
 113
 00:12:14,600 --> 00:12:24,880
@@ -484,7 +484,7 @@ the whole world revolves around your own point of view.
 
 122
 00:13:22,920 --> 00:13:28,600
-And the third person games like the example we see on the right, you control a character
+In the third person games like the example we see on the right, you control a character
 
 123
 00:13:28,600 --> 00:13:36,000
@@ -584,7 +584,7 @@ because again trying to make a point that would lead us to NFTs and Web3 is that
 
 147
 00:16:44,800 --> 00:16:53,480
-video games would be classified as what we call RPGs like role playing games in the sense
+video games would be classified as what we call RPGs like Role Playing Games in the sense
 
 148
 00:16:53,480 --> 00:16:59,760
@@ -592,11 +592,11 @@ that when you play the game you assume the role of a character and you take cont
 
 149
 00:16:59,760 --> 00:17:08,080
-the actions of that character. So most of video games are RPGs. One sub-gender of
+the actions of that character, so most of video games are RPGs. One sub-gender of
 
 150
 00:17:08,080 --> 00:17:14,720
-RPGs that became popular especially in the 80s and beginning of 90s, what we would
+RPGs that became popular especially in the 80s and beginning of 90s, was what we would
 
 151
 00:17:14,720 --> 00:17:24,080
@@ -604,7 +604,7 @@ call multi-user dimension, originally it was called multi-user dungeon or multi-
 
 152
 00:17:24,080 --> 00:17:29,920
-games, it became popular with the art from the mud anyway. Dungeon because it started
+games, it became popular with the art from the MUD anyway. Dungeon because it started
 
 153
 00:17:29,920 --> 00:17:35,960
@@ -632,7 +632,7 @@ housing front of you, this was typical like the introduction to Zork, one of the
 
 159
 00:18:11,040 --> 00:18:16,600
-based adventure games but the distinguishing characteristic of muds was that they were
+based adventure games but the distinguishing characteristic of MUDs was that they were
 
 160
 00:18:16,600 --> 00:18:23,800
@@ -644,23 +644,23 @@ have either an adversarial or a collaborative relationship between them dependin
 
 162
 00:18:30,160 --> 00:18:37,520
-game and how it works. So sometimes you would know be there to kill other players or
+game and how it works, so sometimes you would know be there to kill other players or
 
 163
 00:18:37,520 --> 00:18:45,840
-to cooperate with them in order to achieve some objective and this sounds sort of like
+to cooperate with them in order to achieve some objective and this sounds sort of like,
 
 164
 00:18:45,840 --> 00:18:52,680
-you know trivial today but it was far from trivial back then the ability to create worlds
+you know, trivial today but it was far from trivial back then, the ability to create worlds
 
 165
 00:18:52,680 --> 00:19:01,320
-that would accommodate many users. So mud was the mud types of games were the first games
+that would accommodate many users. So MUD types of games were the first games
 
 166
 00:19:01,320 --> 00:19:08,320
-that created an internet type of experience for the users back then in the early 90s many
+that created an internet type of experience for the users back then in the early 90s, many
 
 167
 00:19:08,320 --> 00:19:15,000
@@ -676,7 +676,7 @@ technology limitations these games were usually very limited in terms of their g
 
 170
 00:19:28,120 --> 00:19:37,920
-Now, RPGs and muds came together and evolved in what today we would call MMORPGs or massively
+Now, RPGs and MUDs came together and evolved into what today we would call MMORPGs or massively
 
 171
 00:19:37,920 --> 00:19:43,360
@@ -696,11 +696,11 @@ talking in the range of even millions of players to play the game at the same ti
 
 175
 00:20:10,680 --> 00:20:16,600
-distinguishing characteristic of these games and this is characteristic that is very important
+distinguishing characteristic of these games and this characteristic that is very important
 
 176
 00:20:16,600 --> 00:20:24,360
-for us is that these games feature what we would call persistent worlds in other words
+for us is that these games feature what we would call persistent worlds, in other words
 
 177
 00:20:24,360 --> 00:20:32,040
@@ -708,7 +708,7 @@ we're talking about games where if you as a player stop playing the game the gam
 
 178
 00:20:32,040 --> 00:20:37,680
-continues to exist other players are there the world evolves things happen so next time
+continues to exist, other players are there, the world evolves, things happen, so next time
 
 179
 00:20:37,680 --> 00:20:42,880
@@ -716,7 +716,7 @@ you go back online you might find a very different environment because things ha
 
 180
 00:20:42,880 --> 00:20:48,280
-you were away and this is something that okay for the younger people here that you know the
+you were away and this is something that, okay for the younger people here that you know the
 
 181
 00:20:48,280 --> 00:20:56,080
@@ -740,7 +740,7 @@ there the world stopped existing it came into existence and it stopped being the
 
 186
 00:21:23,600 --> 00:21:29,840
-I entered and when I stopped playing the game MMORPGs are the first example of persistent
+I entered and when I stopped playing the game. MMORPGs are the first example of persistent
 
 187
 00:21:29,840 --> 00:21:37,560
@@ -748,7 +748,7 @@ worlds and as we will be discussing next week because persistence is a very impo
 
 188
 00:21:37,560 --> 00:21:44,280
-characteristic of the metaverse I would say that you know most early metaverse
+characteristic of the metaverse, I would say that you know most early metaverses
 
 189
 00:21:44,280 --> 00:21:50,400
@@ -760,7 +760,7 @@ many users in them will feature some sort of game-like persistence in the experi
 
 191
 00:21:58,600 --> 00:22:09,560
-the users now these games have become hugely popular those of you that play such games
+the users. Now these games have become hugely popular those of you that play such games
 
 192
 00:22:09,560 --> 00:22:15,280
@@ -768,11 +768,11 @@ know that already for those of you that you know all these are new there are gam
 
 193
 00:22:15,280 --> 00:22:22,600
-World of Warcraft where the total player counts people that have accounts play that game are
+World of Warcraft where the total player count of people that have accounts play that game are,
 
 194
 00:22:22,600 --> 00:22:28,840
-like you know in the in the hundreds of millions and there might be more than a million people
+like you know, in the in the hundreds of millions and there might be more than a million people
 
 195
 00:22:28,840 --> 00:22:35,520
@@ -784,19 +784,19 @@ popular really successful and mass-adopted games in the respective communities
 
 197
 00:22:43,200 --> 00:22:50,280
-and this has resulted naturally in gaming being a huge industry I mean I come from I
+and this has resulted naturally in gaming being a huge industry, I mean I come 
 
 198
 00:22:50,280 --> 00:23:01,960
-from a blockchain and crypto type of background into this course so for me you know the fact
+from a blockchain and crypto type of background into this course so for me, the fact
 
 199
 00:23:01,960 --> 00:23:09,800
-that you know the whole crypto industry is worth around a trillion is like you know mind-blowing
+that the whole crypto industry is worth around a trillion is, mind-blowingly
 
 200
 00:23:09,800 --> 00:23:16,360
-hugely successful but we're talking here about an industry in which you know there are the
+hugely successful but we're talking here about an industry in which the
 
 201
 00:23:16,360 --> 00:23:23,320
@@ -804,15 +804,15 @@ number of cryptocurrency users are measured in the hundreds of thousands of mill
 
 202
 00:23:23,320 --> 00:23:29,520
-around the world here we're talking about an industry in which almost half the world more
+around the world, here we're talking about an industry in which almost half the world more
 
 203
 00:23:29,520 --> 00:23:35,400
-than 3.2 billion people worldwide play some sort of computer game many of these people
+than 3.2 billion people worldwide play some sort of computer game, many of these people
 
 204
 00:23:35,400 --> 00:23:46,880
-play MMORPGs but not only that and there's a very aggressively growing isport industry
+play MMORPGs but not only that and there's a very aggressively growing e-sport industry
 
 205
 00:23:46,880 --> 00:23:56,040
@@ -820,19 +820,19 @@ where the audiences have grown to more than half a billion people in 2022 so you
 
 206
 00:23:56,040 --> 00:24:04,040
-about it, almost one every two persons in the whole world are playing games and around one
+about it, almost one in every two persons in the whole world are playing games and around one
 
 207
 00:24:04,040 --> 00:24:12,120
-since 16 people are watching video games being played competitively by other players so this is
+in sixteen people are watching video games being played competitively by other players so this is
 
 208
 00:24:12,120 --> 00:24:20,040
-a huge industry and if it somehow makes the transition to the to to to to web 3 it's going to be
+a huge industry and if it somehow makes the transition to Web3 it's going to be
 
 209
 00:24:20,040 --> 00:24:28,440
-you know a killer app for blockchains for web 3 and for NFTs in general the global gaming
+a killer app for blockchains, for Web3 and for NFTs in general. The global gaming
 
 210
 00:24:28,440 --> 00:24:34,920
@@ -840,47 +840,47 @@ market is projected to be worth more than 250 billion dollars by 2025 so we're t
 
 211
 00:24:35,560 --> 00:24:44,200
-industry there's you know console based marketplaces where you can get games like Nintendo
+industry, there's console based marketplaces where you can get games like Nintendo,
 
 212
 00:24:44,200 --> 00:24:52,280
-PlayStation or Microsoft Xbox and stuff like that whole industry of course mobile games iOS
+PlayStation or Microsoft Xbox and stuff like that, a whole industry of course in mobile games, iOS,
 
 213
 00:24:52,280 --> 00:25:00,520
-Google play around draw it and so on a huge number of websites and a huge number of platforms
+Google Play for Andriod and so on, a huge number of websites and a huge number of platforms
 
 214
 00:25:00,520 --> 00:25:10,920
-that provide access to gaming to desktop computers of which I think Steam is the largest they support
+that provide access to gaming to desktop computers of which I think Steam is the largest, they support
 
 215
 00:25:10,920 --> 00:25:21,240
-around 70,000 gaming titles the industry is huge and being dominated by players that come from all
+around 70,000 gaming titles. The industry is huge and being dominated by players that come from all
 
 216
 00:25:21,240 --> 00:25:28,360
-backgrounds so you see technology companies like Microsoft you see consumer electronics
+backgrounds so you see technology companies like Microsoft, you see consumer electronics
 
 217
 00:25:28,360 --> 00:25:38,840
-companies like Sony you see game studios like I don't know electronic cards and games like Rob
+companies like Sony, you see game studios like electronic cards and games like Rob
 
 218
 00:25:38,840 --> 00:25:47,000
-blocks being in the top 10 of of the gaming industry and you see the top 10 companies have
+Blocks being in the top 10 of the gaming industry and you see the top 10 companies have
 
 219
 00:25:47,000 --> 00:25:55,000
-market caps that range from tens of billions of dollars to okay Microsoft has a huge market
+market caps that range from tens of billions of dollars to, okay Microsoft has a huge market
 
 220
 00:25:55,000 --> 00:26:01,880
-cap but it's not only gaming so we're talking about a very very big industry that might make
+cap but it's not only gaming, so we're talking about a very very big industry that might make
 
 221
 00:26:01,880 --> 00:26:10,120
-the transition towards Web3 in the coming years now this was a very quick introduction
+the transition towards Web3 in the coming years. Now this was a very quick introduction
 
 222
 00:26:10,120 --> 00:26:17,800
@@ -888,11 +888,11 @@ to the history of gaming and how we have arrived where we are today with NFT gam
 
 223
 00:26:17,800 --> 00:26:24,920
-discussing this I'd like to spend just a few minutes discussing game development so
+discussing this I'd like to spend just a few minutes discussing game development. So
 
 224
 00:26:27,240 --> 00:26:35,560
-the games that you saw a couple of static images from in the previous slides like I don't know
+the games that you saw a couple of static images from in the previous slides like
 
 225
 00:26:35,560 --> 00:26:42,360
@@ -900,15 +900,15 @@ world of Warcraft or Minecraft or similar types of games are very very complex c
 
 226
 00:26:42,360 --> 00:26:51,160
-projects to to develop they need huge teams of engineers of artists of designers and of
+projects to develop, they need huge teams of engineers, of artists, of designers and of
 
 227
 00:26:51,160 --> 00:26:58,920
-producers to be coordinated and to be able to create something that is not a one of thing
+producers to be coordinated and to be able to create something that is not a one off thing,
 
 228
 00:26:58,920 --> 00:27:05,400
-it's not like you know Hollywood movies where you might also need a similar type of of of
+it's not like a Hollywood movie where you might also need a similar type of
 
 229
 00:27:05,400 --> 00:27:10,680
@@ -916,15 +916,15 @@ array of people coming together and coordinating themselves for a limited amount
 
 230
 00:27:10,680 --> 00:27:19,320
-the movie gets out to theaters and then that's it here we're talking about an ongoing process
+the movie gets out to theaters and then that's it, here we're talking about an ongoing process
 
 231
 00:27:19,320 --> 00:27:27,000
-of always you know improving developing and evolving the game while the game is being played
+of always improving, developing and evolving the game while the game is being played
 
 232
 00:27:27,000 --> 00:27:34,120
-and especially when they came in the case of MMORPGs you need to be able to deploy like
+and especially in the case of MMORPGs you need to be able to deploy
 
 233
 00:27:34,120 --> 00:27:40,280
@@ -932,35 +932,35 @@ upgrades in real time while millions of people are using the product so we're ta
 
 234
 00:27:40,280 --> 00:27:49,320
-complex and there go and I'm I'm saying this because I won't I want you and I want people like me
+complex and there go and I'm saying this because I want you and I want people like me
 
 235
 00:27:49,320 --> 00:27:59,480
-also to be a bit lenient when it comes to judging the gameplay the design and the general
+also to be a bit lenient when it comes to judging the gameplay, the design and the general
 
 236
 00:27:59,480 --> 00:28:06,280
-complexity and sophistication of blockchain-based that games that we see around us because we're
+complexity and sophistication of blockchain-based games that we see around us because we're
 
 237
 00:28:06,280 --> 00:28:14,520
-trying to compare huge companies with billions of dollars of market cap and thousands of employees
+trying to compare what huge companies with billions of dollars of market cap and thousands of employees
 
 238
 00:28:14,520 --> 00:28:24,920
-are able to produce after you know 10 or 15 years in the industry with what a team of you know five
+are able to produce after 10 or 15 years in the industry, with what a team of five
 
 239
 00:28:24,920 --> 00:28:31,960
-or 10 start-upers might be doing in a whole new technology with whole new types of assets like
+or ten start-upers might be doing in a whole new technology with whole new types of assets like
 
 240
 00:28:31,960 --> 00:28:37,240
-fans of the lot non-fungible tokens and sometimes I see reports saying you know yeah but none of
+fans of the lot non-fungible tokens and sometimes I see reports saying, yeah but none of
 
 241
 00:28:37,240 --> 00:28:46,440
-these games are fun to play or you know sophisticated enough or whatever what do you expect did you
+these games are fun to play or sophisticated enough or whatever what do you expect did you
 
 242
 00:28:46,440 --> 00:28:55,000
@@ -968,7 +968,7 @@ expect that you know a team of people that have just released a game that there'
 
 243
 00:28:56,520 --> 00:29:03,640
-throw them path and there's no prior learning or whatever would be able to achieve anything close
+trodden path and there's no prior learning or whatever would be able to achieve anything close
 
 244
 00:29:03,640 --> 00:29:12,440
@@ -976,11 +976,11 @@ to what a very sophisticated professional public company making billions of doll
 
 245
 00:29:12,440 --> 00:29:24,040
-producing I mean it's sort of expected that you would see the types of games that we see in the
+producing, I mean, it's sort of expected that you would see the types of games that we see in the
 
 246
 00:29:24,040 --> 00:29:29,080
-in the blockchain and the crypto world today so anyway coming back to the team you would need
+in the blockchain and the crypto world today. So anyway, coming back to the team you would need
 
 247
 00:29:29,080 --> 00:29:34,600
@@ -988,43 +988,42 @@ engineers obviously and not only people that would actually code and program the
 
 248
 00:29:34,600 --> 00:29:39,400
-especially when we're talking about console-based games also people that would design and
+especially when we're talking about console-based games, also people that would design and
 
 249
 00:29:39,400 --> 00:29:49,000
-manufacture and integrate the hardware on which the software will be running you would need a huge
+manufacture and integrate the hardware on which the software will be running, you would need a huge
 
 250
 00:29:49,000 --> 00:29:54,280
-array of artists because you would need people that would define the concept what is the game
+array of artists because you would need people that would define the concept, what is the game
 
 251
 00:29:54,280 --> 00:29:58,920
-vision of the storyline and everything you would need people that would do the 3D modeling
+vision of the storyline and everything, you would need people that would do the 3D modeling
 
 252
 00:29:58,920 --> 00:30:05,080
-of everything within the virtual world the environment the characters the assets you would
+of everything within the virtual world, the environment, the characters, the assets you would
 
 253
 00:30:05,080 --> 00:30:13,960
-need texture artists that would add textures and details to the 3D models created by the by the
+need texture artists that would add textures and details to the 3D models created by the
 
 254
 00:30:13,960 --> 00:30:20,200
-modulus you would need people that would spend their time working on lighting and motion capture
+modulus, you would need people that would spend their time working on lighting and motion capture
 
 255
 00:30:20,200 --> 00:30:29,000
-and sound and all these things if you attended and watched the discussion of 6 5 to 9
+and sound and all these things. If you attended and watched the discussion of (Punk) 6529 
 
-256
 00:30:29,000 --> 00:30:38,120
-with people the other day you would you might remember how much time and energy people was
+with Beeple the other day you might remember how much time and energy Beeple was
 
 257
 00:30:38,840 --> 00:30:44,520
-telling us that he was he's spending when he's creating he did the alert not in actual you know
+telling us that he was he's spending when he's creating his digital art, not in actual
 
 258
 00:30:44,520 --> 00:30:53,400
@@ -1032,11 +1031,11 @@ modeling or customizing the models that he started working from but actually is 
 
 259
 00:30:53,400 --> 00:31:01,960
-photographing or playing with the lighting around these objects that he creates so you will
+photographing or playing with the lighting around these objects that he creates. So you will
 
 260
 00:31:01,960 --> 00:31:07,800
-need designers you will need people to design the mechanics of the gameplay to design the modalities
+need designers, you will need people to design the mechanics of the gameplay, to design the modalities
 
 261
 00:31:07,800 --> 00:31:12,440
@@ -1044,19 +1043,19 @@ of player interaction and so forth and you need a production team that would act
 
 262
 00:31:12,440 --> 00:31:18,200
-everything together would deal with this as a project with specific you know milestones and
+everything together would deal with this as a project with specific milestones and
 
 263
 00:31:18,200 --> 00:31:26,040
-deadlines and phases and what have you and they was they would liaise with the business units
+deadlines and phases and what have you, and they was they would liaise with the business units
 
 264
 00:31:26,040 --> 00:31:34,360
-that would commercialize or market or sell the game so we're talking about very big teams and
+that would commercialize or market or sell the game, so we're talking about very big teams and
 
 265
 00:31:34,360 --> 00:31:42,120
-that's why sometimes we make distinctions between what we call indie and triple-a games so there are
+that's why sometimes we make distinctions between what we call indie and AAA games so there are
 
 266
 00:31:42,120 --> 00:31:48,200
@@ -1068,11 +1067,11 @@ of actors in the gaming industry and there are indies so an indie game would be 
 
 268
 00:31:58,120 --> 00:32:05,080
-independent studio or a small number of individuals and this is you know all the games in the blockchain
+independent studio or a small number of individuals and this is all the games in the blockchain
 
 269
 00:32:05,080 --> 00:32:13,320
-the world I guess I spoke about mechanics so the mechanics of the gameplay is a very very important
+world, I guess. I spoke about mechanics so the mechanics of the gameplay is a very very important
 
 270
 00:32:13,320 --> 00:32:20,760
@@ -1080,15 +1079,15 @@ thing because it defines all the rules and procedures that guide the player and 
 
 271
 00:32:20,760 --> 00:32:28,360
-the game responses to the player's moves or actions can be an interesting thought here is that
+the game responses to the player's moves or actions can be; an interesting thought here is that
 
 272
 00:32:28,360 --> 00:32:38,280
-many games most of the games that we have today in order to not confuse the player or not
+many/most of the games that we have today, in order to not confuse the player or not
 
 273
 00:32:40,120 --> 00:32:47,960
-create a steep learning curve for a new player they try to adhere to the laws of physics so you
+create a steep learning curve for a new player, try to adhere to the laws of physics so you
 
 274
 00:32:47,960 --> 00:32:54,360
@@ -1096,7 +1095,7 @@ know when you leave an object in the game it will fall down you know pulled by g
 
 275
 00:32:54,360 --> 00:33:02,120
-in the physical world however you understand of course that there is no reason for this to happen
+in the physical world however, you understand of course that there is no reason for this to happen
 
 276
 00:33:02,120 --> 00:33:11,480
@@ -1112,11 +1111,11 @@ or world function mechanics where the world would not necessarily work as it doe
 
 279
 00:33:32,840 --> 00:33:40,280
-world so we might you know free ourselves from the limitations of the physical world in these environments
+world, so we might you know free ourselves from the limitations of the physical world in these environments.
 
 280
 00:33:41,880 --> 00:33:49,000
-another important aspect is creating assets and here you would need to have access to
+Another important aspect is creating assets and here you would need to have access to
 
 281
 00:33:49,000 --> 00:33:57,480
@@ -1124,11 +1123,11 @@ quite sophisticated software for 3D modeling either to create characters as you 
 
 282
 00:33:58,360 --> 00:34:03,320
-in the top of the screen which is I think from blender one of the software's
+in the top of the screen which is I think from blender one of 
 
 283
 00:34:06,520 --> 00:34:15,480
-the open source type of software for 3D modeling all creating you know the details like the last
+the open source types of software for 3D modeling all creating the details like the last
 
 284
 00:34:15,480 --> 00:34:21,880
@@ -1136,7 +1135,7 @@ and best practices in the machine gun that you see in the image below which is f
 
 285
 00:34:21,880 --> 00:34:31,480
-a map software I think is from 3D studio mark so you would need to have all these things to create
+a map software I think is from 3D Studio Mark so you would need to have all these things to create
 
 286
 00:34:31,480 --> 00:34:40,200
@@ -1148,7 +1147,7 @@ assets that come from your 3D modeling software and you usually start from some 
 
 288
 00:34:50,120 --> 00:34:56,760
-polygonal type of structure to create and that texture and details and lightning and stuff like
+polygonal type of structure to create and add texture and details and lightning and stuff like
 
 289
 00:34:56,760 --> 00:35:05,960
@@ -1156,11 +1155,11 @@ that on top of this and all this work is still to create the asset itself which 
 
 290
 00:35:05,960 --> 00:35:12,440
-of the virtual world could be a playing character it would be a non-playing character within a game
+of the virtual world, could be a playing character, it could be a non-playing character within a game,
 
 291
 00:35:12,440 --> 00:35:23,880
-it would be a weapon or a shield or a uniform or you name it and has nothing to do with the actual
+it could be a weapon or a shield or a uniform or you name it, and has nothing to do with the actual
 
 292
 00:35:23,880 --> 00:35:30,760
@@ -1168,11 +1167,11 @@ gameplay and ownership and transferability and where you would be able to find a
 
 293
 00:35:30,760 --> 00:35:38,200
-be able to sell or swap or trade these types of assets so the learning outcome here is that
+be able to sell or swap or trade these types of assets, so the learning outcome here is that
 
 294
 00:35:38,200 --> 00:35:46,680
-creating a sophisticated competitive game is a very very competitive process there are there are
+creating a sophisticated competitive game is a very very competitive process. There are there 
 
 295
 00:35:46,680 --> 00:35:53,160
@@ -1184,7 +1183,7 @@ allow game designers to bring everything together so 3D modeling gameplay mechan
 
 297
 00:36:02,600 --> 00:36:09,400
-interaction between players and non-playing characters and so on examples are the unreal engine
+interaction between players and non-playing characters and so on, examples are the unreal engine
 
 298
 00:36:09,400 --> 00:36:19,160
@@ -1196,15 +1195,15 @@ developing standardized libraries for APIs and software interfaces for either 3D
 
 300
 00:36:33,080 --> 00:36:42,840
-processing hardware like your GPUs in your computer like OpenGL and WebGL or more proprietary types
+processing hardware like your GPUs in your computer, like OpenGL and WebGL or more proprietary types
 
 301
 00:36:42,840 --> 00:36:49,880
-of APIs like DirectX by Microsoft for those that are programming games on Microsoft platforms
+of APIs like DirectX by Microsoft for those that are programming games on Microsoft platforms.
 
 302
 00:36:51,800 --> 00:36:56,200
-now having said all this and I understand that this is a very very
+Now having said all this and I understand that this is a very very
 
 303
 00:36:56,840 --> 00:37:05,160
@@ -1212,23 +1211,23 @@ quick and shallow introduction to the technologies and processes around game cre
 
 304
 00:37:05,160 --> 00:37:10,680
-I would like to focus the remainder of our time on what we're interested in today's like
+I would like to focus the remainder of our time on what we're interested in today, like
 
 305
 00:37:10,680 --> 00:37:17,240
-what happens when the technology of blockchain when cryptocurrency when fans will talk and some
+what happens when the technology of blockchain when cryptocurrency when fungible tokens and non-fungiable tokens (NFTs) 
 
 306
 00:37:17,240 --> 00:37:25,640
-non-fancy bit tokens and NFTs meet gaming how might we see the future of gaming through this
+meet gaming, how might we see the future of gaming through this
 
 307
 00:37:25,640 --> 00:37:33,640
-through this lens and as I've said in the beginning I think that there are three major
+this lens and as I've said in the beginning I think that there are three major
 
 308
 00:37:33,640 --> 00:37:49,320
-types of implications that blockchain will have in gaming blockchain being a technology that allows
+types of implications that blockchain will have in gaming, blockchain being a technology that allows
 
 309
 00:37:50,040 --> 00:37:58,440
@@ -1240,11 +1239,11 @@ effect on gaming because it will provide a much-needed layer for storing and tra
 
 311
 00:38:06,520 --> 00:38:14,600
-in gaming and I think there are three things there one is asset ownership so who owns the assets
+in gaming and I think there are three things there, one is asset ownership so who owns the assets
 
 312
 00:38:15,320 --> 00:38:22,760
-in a game, there's this famous story that Vitalik Butterin thought of a non-substralized Ethereum
+in a game, there's this famous story that Vitalik Butterin thought of a non-centralized Ethereum
 
 313
 00:38:22,760 --> 00:38:32,680
@@ -1252,23 +1251,23 @@ when I don't remember which game he was playing but they deprived him of one of 
 
 314
 00:38:32,680 --> 00:38:42,600
-or sales that he had managed to earn by playing the game and he realized that you know although
+or sheilds that he had managed to earn by playing the game and he realized that although
 
 315
 00:38:42,600 --> 00:38:49,800
-he thought that because this was in his inventory it was his it was actually not there was not there's
+he thought that because this was in his inventory it was his it was actually not there was not, there's
 
 316
 00:38:49,800 --> 00:38:55,320
-no real ownership of your character your avatar your asset your weaponry or whatever when you're
+no real ownership of your character, your avatar, your asset, your weaponry or whatever when you're
 
 317
 00:38:55,320 --> 00:39:00,920
-playing a game everything is being controlled centrally by the game provider so if they won't
+playing a game, everything is being controlled centrally by the game provider so if they want
 
 318
 00:39:00,920 --> 00:39:06,360
-they can throw you out of the game they can you know
+they can throw you out of the game they can, 
 
 319
 00:39:09,320 --> 00:39:11,240
@@ -1280,7 +1279,7 @@ deprive you of any asset that you might have had so blockchain will change all t
 
 321
 00:39:21,160 --> 00:39:28,280
-because it would allow people to actually really own the assets that they use in the games and
+because it would allow people to actually really own their assets that they use in the games and
 
 322
 00:39:28,280 --> 00:39:36,200
@@ -1288,11 +1287,11 @@ when I say really own I mean they would have the ability to not only trade them 
 
 323
 00:39:36,200 --> 00:39:45,240
-but also do that and many other things outside of the game so when you are when you have the asset
+but also do that and many other things outside of the game, so when you are when you have the asset
 
 324
 00:39:45,240 --> 00:39:53,240
-in your wallet as an NFT, you might use it in this particular game but the asset becomes also interoperable
+in your wallet as an NFT, you might use it in this particular game but the asset becomes also interoperable,
 
 325
 00:39:53,240 --> 00:39:59,240
@@ -1300,7 +1299,7 @@ it can be used in other things so for example many of you have minted the course
 
 326
 00:39:59,240 --> 00:40:05,000
-for unique this is a token that give you access to some of the material for the course and certainly
+for UNIC, this is a token that give you access to some of the material for the course and certainly
 
 327
 00:40:05,000 --> 00:40:13,160
@@ -1308,7 +1307,7 @@ the exams so it's a token that helps utility within the ecosystem of this course
 
 328
 00:40:13,160 --> 00:40:20,120
-stops someone from creating some other experience which could be educational a game or what have
+stops someone from creating some other experience which could be educational, a game or what have
 
 329
 00:40:20,120 --> 00:40:29,240
@@ -1320,15 +1319,15 @@ so have created something that is accessible only by people who happen to have t
 
 331
 00:40:36,600 --> 00:40:45,320
-wallet so assets become more important than the games themselves I don't know how many of you
+wallet so assets become more important than the games themselves, I don't know how many of you
 
 332
 00:40:45,880 --> 00:40:55,240
-are familiar with projects like loot for adventurers or the end project in the NFT
+are familiar with projects like Loot (for Adventurers) or the N Project in the NFT
 
 333
 00:40:55,240 --> 00:41:03,480
-space but both these projects and many others have started have flipped the idea of a game
+space but both these projects and many others have flipped the idea of a game
 
 334
 00:41:04,680 --> 00:41:12,520
@@ -1336,7 +1335,7 @@ on its head and they said why should we create a game and have assets only withi
 
 335
 00:41:12,520 --> 00:41:20,280
-and not create the assets first so create a set of I don't know weapon and
+and not create the assets first, so create a set of weaponry and
 
 336
 00:41:20,280 --> 00:41:27,400
@@ -1344,11 +1343,11 @@ shields and shoes and helmets and so on with different powers and different degr
 
 337
 00:41:28,040 --> 00:41:36,840
-and aesthetics and so on and let everyone use the collection of these this becomes an NFT
+and aesthetics and so on and let everyone use the collection of these, this becomes an NFT
 
 338
 00:41:36,840 --> 00:41:44,520
-collection of assets in the games or arts or experiences that they create so we're talking
+collection of assets in the games or arts or experiences that they create, so we're talking
 
 339
 00:41:44,520 --> 00:41:54,440
@@ -1356,11 +1355,11 @@ about a wholly different perspective on how we view games if we have blockchain-
 
 340
 00:41:54,440 --> 00:42:04,840
-assets in them and the final the effect of blockchain into gaming is the ability to create
+assets in them. And the final the effect of blockchain into gaming is the ability to create
 
 341
 00:42:04,840 --> 00:42:11,800
-in-game and sometimes hopefully in the future across game economies so create whole economic
+in-game and sometimes (hopefully in the future) across game economies, so create whole economic
 
 342
 00:42:11,800 --> 00:42:21,640
@@ -1368,11 +1367,11 @@ structures with supply and demand dynamics in which value is distributed to user
 
 343
 00:42:21,640 --> 00:42:31,640
-by the users within the game and not monopolized by the platform creating the game itself so again
+by the users within the game and not monopolized by the platform creating the game itself. So again
 
 344
 00:42:31,640 --> 00:42:39,880
-NFTs allow for true bits the longer support for game assets so if you hold your characters or
+NFTs allow for true digital ownership for game assets so if you hold your character or
 
 345
 00:42:39,880 --> 00:42:47,080
@@ -1396,7 +1395,7 @@ users or internal values so the collection of these four properties that you see
 
 350
 00:43:13,240 --> 00:43:23,160
-create a revolutionary out there say environment on how assets in games can be thought of that
+create a revolutionary, I would dare say, environment on how assets in games can be thought of that
 
 351
 00:43:23,160 --> 00:43:29,640
@@ -1404,15 +1403,15 @@ was simply not possible in the pre-blockchain world even in the MMORPG era.
 
 352
 00:43:29,640 --> 00:43:38,360
-This has created a number of experiments one of them that I'd like to spend a few minutes
+This has created a number of experiments, one of them that I'd like to spend a few minutes
 
 353
 00:43:38,360 --> 00:43:46,600
-discussing because it has received quite some attention from the community at least the blockchain
+discussing because it has received quite some attention by the community (at least the blockchain
 
 354
 00:43:46,600 --> 00:43:55,320
-community is the so-called played-win games so as the names suggest these are games in which
+community) is the so-called played-win games so as the names suggest these are games in which
 
 355
 00:43:55,320 --> 00:44:05,080
@@ -1420,7 +1419,7 @@ the economics go to the next level because they allow their players to play the 
 
 356
 00:44:05,080 --> 00:44:16,280
-of a financial game not in the sense of gaining from other players so like betting and battling
+of a financial gain. Not in the sense of gaining from other players so like betting and battling
 
 357
 00:44:16,280 --> 00:44:22,840
@@ -1432,7 +1431,7 @@ creating new value that is created by playing the game itself. There are typical
 
 359
 00:44:30,280 --> 00:44:35,400
-categories those that are called free-to-play games so you thought you can start playing the
+categories, those that are called "free-to-play" games, so you you can start playing the
 
 360
 00:44:35,400 --> 00:44:42,280
@@ -1440,7 +1439,7 @@ game for free although if you do that you most probably will be limited in your 
 
 361
 00:44:42,280 --> 00:44:49,800
-to gain money from playing it or the so-called pay-to-play games in the sense that users will need to be
+to gain money from playing it, or, the so-called "pay-to-play" games in the sense that users will need to be
 
 362
 00:44:49,800 --> 00:44:56,920
@@ -1452,19 +1451,19 @@ so you need to buy NFTs you need to invest in the game in the beginning and once
 
 364
 00:45:02,120 --> 00:45:09,720
-that investment depending on how good you are in the game and how powerful or rare the properties
+that investment, depending on how good you are in the game and how powerful or rare the properties
 
 365
 00:45:09,720 --> 00:45:17,480
-of your NFTs are you might earn money usually in the form of some digital tokens which has fluctuating
+of your NFTs are, you might earn money usually in the form of some digital tokens which has fluctuating
 
 366
 00:45:17,480 --> 00:45:27,000
-value so you know the whether these games would be able to create sustaining economies is a different
+value so whether these games would be able to create sustaining economies is a different
 
 367
 00:45:27,000 --> 00:45:34,360
-question that we're going to say in a while. Typically in such games that players will be able to create
+question that we're going to see in a while. Typically in such games players will be able to create
 
 368
 00:45:34,360 --> 00:45:40,360
@@ -1472,7 +1471,7 @@ or breed new characters so you would be able to you know literally breed your ch
 
 369
 00:45:40,360 --> 00:45:46,600
-new ones that you can either use for playing or sell in the marketplace you would be able to purchase
+new ones that you can either use for playing or sell in the marketplace, you would be able to purchase
 
 370
 00:45:46,600 --> 00:45:53,000
@@ -1480,19 +1479,19 @@ items either within the game or in third-party marketplaces and you would typica
 
 371
 00:45:53,000 --> 00:46:00,520
-unlock or earn additional digital assets or tokens by playing the game depending on you know how long
+unlock or earn additional digital assets or tokens by playing the game depending on how long
 
 372
 00:46:00,520 --> 00:46:08,520
-you played or how good you are at it and so on. The archetypal example here is actually infinity
+you played or how good you are at it and so on. The archetypal example here is actually infinity,
 
 373
 00:46:08,520 --> 00:46:15,720
-I'm not going to spend so much time on it because I think it's it's all news now but I don't
+I'm not going to spend so much time on it because I think it's old news now but I don't
 
 374
 00:46:15,720 --> 00:46:23,320
-think any discussion about play to earn would be complete without discussion. Actually because it
+think any discussion about "play-to-earn" would be complete without discussing. Actually because it
 
 375
 00:46:23,320 --> 00:46:29,400
@@ -1500,11 +1499,11 @@ was the first game that became hugely successful I mean at some point a year or 
 
 376
 00:46:29,400 --> 00:46:36,840
-ago there were you know lots of people, especially in countries like the Philippines where it was
+ago there were lots of people, especially in countries like the Philippines where it was
 
 377
 00:46:36,840 --> 00:46:42,440
-extremely popular but were actually you know doing it as they had jobs they were making money by
+extremely popular but were actually doing it as their job, they were making money by
 
 378
 00:46:42,440 --> 00:46:50,680
@@ -1512,7 +1511,7 @@ playing the game. What is typical about Axie is that they pioneered this dual to
 
 379
 00:46:50,680 --> 00:46:58,840
-these games usually have more than one types of token so they have both fungible and non-fungible
+these games usually have more than one type of tokens so they have both fungible and non-fungible
 
 380
 00:46:58,840 --> 00:47:07,400
@@ -1520,15 +1519,15 @@ tokens and the fungible tokens usually are split between a governance token in t
 
 381
 00:47:07,400 --> 00:47:15,400
-if it's the the Axie Infinity Shard and the AXS token and a utility token in the case of Axie Gold smooth
+Infinity it's the Axie Infinity Shard and the AXS token and a utility token in the case of Axie Gold Smooth
 
 382
 00:47:15,400 --> 00:47:23,080
-love smooth I thought the small anyway smooth or small love potion the SLP token which is the
+(I thought the small anyway smooth or small) love potion the SLP token which is the
 
 383
 00:47:23,080 --> 00:47:32,200
-reward token or the utility token that people would earn and there's also NFT tokens in the in
+reward token or the utility token that people would earn and there's also NFT tokens in the
 
 384
 00:47:32,200 --> 00:47:39,800
@@ -1536,7 +1535,7 @@ the case of Axie the playing characters are NFTs the Axie themselves as well as 
 
 385
 00:47:39,800 --> 00:47:47,480
-land that act as forms or basis of operation for the activity the game is about you know battling
+land that act as forms or basis of operation for the activity. The game is about battling
 
 386
 00:47:47,480 --> 00:47:55,880
@@ -1544,15 +1543,15 @@ with with other opponents your Axie against them so it's mostly a card-based gam
 
 387
 00:47:55,880 --> 00:48:04,680
-players playing Terrence is not very interactive there are a number of games that have been developed
+players playing Terrence is not very interactive. There are a number of games that have been developed
 
 388
 00:48:04,680 --> 00:48:11,720
-following us on the same or similar ideas I have just some indicators examples here so Alien
+following on the same or similar ideas. I have just some indicators examples here so Alien
 
 389
 00:48:11,720 --> 00:48:20,120
-worlds or Galaxy fight club or Gods Unchained they are I would dare say and forgive me because it's a
+Worlds or Galaxy Fight Club or Gods Unchained they are I would dare say and forgive me because it's a
 
 390
 00:48:20,120 --> 00:48:27,880
@@ -1564,15 +1563,15 @@ infinity in the sense that they follow a similar trajectory in terms of creating
 
 392
 00:48:36,680 --> 00:48:44,280
-which characters fight or battle its other end players you know might make money if they
+which characters fight or battle each other and players might make money if they
 
 393
 00:48:44,280 --> 00:48:53,240
-win against their opponents a different Sam Zendre is the one in the in the bottom
+win against their opponents. A different Sam Zendre is the one in the bottom,
 
 394
 00:48:54,360 --> 00:48:59,800
-projects like Stepping or Genopets which are what we would call move-to-earm
+projects like Stepping or Genopets which are what we would call "move-to-earn"
 
 395
 00:49:01,080 --> 00:49:10,040
@@ -1580,23 +1579,23 @@ games in the sense that they would reward users for their daily movements so the
 
 396
 00:49:10,040 --> 00:49:15,400
-walk or run or okay in the case of Genopets is much more complicated because you have a
+walk or run or in the case of Genopets is much more complicated because you have
 
 397
 00:49:15,960 --> 00:49:22,360
-this is this virtual pet so on top of you know banking steps you might do other things it's
+this virtual pet so on top of banking steps you might do other things it's
 
 398
 00:49:22,920 --> 00:49:30,920
-more move-to-earm and plate-to-earm type of game but all of them or most of them have the same
+more move-to-earm and plat-to-earm type of game but all of them (or most of them) have the same
 
 399
 00:49:30,920 --> 00:49:37,880
-basic underlying economic structure in the sense that there are a number of NFTs so in the galaxy
+basic underlying economic structure in the sense that there are a number of NFTs so in the Galaxy
 
 400
 00:49:37,880 --> 00:49:45,480
-fight club you have your fighter and you have weapons that this fighter is equipped to
+Fight Club you have your fighter and you have weapons that this fighter is equipped to
 
 401
 00:49:45,480 --> 00:49:51,960
@@ -1608,15 +1607,15 @@ abilities in battle and so the outcome of the game would be a combination of you
 
 403
 00:50:00,520 --> 00:50:06,840
-the types of assets that you own in the case of Stepping how much money you would make
+the types of assets that you own. In the case of Stepping how much money you would make
 
 404
 00:50:06,840 --> 00:50:14,600
-would depend on a combination of factors like you know what type of shoe you have so this is an
+would depend on a combination of factors like you what type of shoe you have (so this is an
 
 405
 00:50:14,600 --> 00:50:24,920
-NFT what type of added properties you have equipped these shoe with and different shoes have different
+NFT) what type of added properties you have equipped these shoe with and different shoes have different
 
 406
 00:50:24,920 --> 00:50:32,200
@@ -1628,11 +1627,11 @@ optimal configurations of your shoes so quite complicated but at the same time t
 
 408
 00:50:42,920 --> 00:50:51,720
-complication might you know increase the joy or the the satisfaction that users get
+complication might increase the joy or the satisfaction that users get
 
 409
 00:50:52,600 --> 00:51:01,480
-by playing the game so these types of games exist today but I would like to emphasize that we are
+by playing the game. So these types of games exist today but I would like to emphasize that we are
 
 410
 00:51:01,480 --> 00:51:09,960
@@ -1640,19 +1639,19 @@ still extremely early in the NFT gaming phenomenon not only played one games but
 
 411
 00:51:11,960 --> 00:51:18,760
-I said earlier that we sometimes tend to be unfair to the people that create are creating these games
+I said earlier that we sometimes tend to be unfair to the people that are creating these games
 
 412
 00:51:18,760 --> 00:51:28,520
-because we compare them with you know huge conglomerates that have been hugely successful
+because we compare them with huge conglomerates that have been hugely successful
 
 413
 00:51:28,520 --> 00:51:35,080
-in monetizing web 2 types of games but these people are startups that are trying to redefine an industry
+in monetizing Web2 types of games but these people are startups that are trying to redefine an industry
 
 414
 00:51:36,280 --> 00:51:42,760
-and it has proven to be very challenging to create a self-sustaining in-game economy so as I've said
+and it has proven to be very challenging to create a self-sustaining in-game economy. So as I've said
 
 415
 00:51:42,760 --> 00:51:47,560
@@ -1668,11 +1667,11 @@ and multiple NFTs but I have yet to see a successful token economics mechanism s
 
 418
 00:52:04,440 --> 00:52:10,840
-if you witness most of the projects they they follow a trajectory in which at least their utility
+if you witness most of the projects they follow a trajectory in which at least if their utility
 
 419
 00:52:10,840 --> 00:52:19,400
-token if it doesn't have enough utility it tends to to to fall in value because people would sell
+token doesn't have enough utility it tends to fall in value because people would sell
 
 420
 00:52:19,400 --> 00:52:27,080
@@ -1684,11 +1683,11 @@ that combined with the infinite supply utility tokens that most projects would f
 
 422
 00:52:35,000 --> 00:52:41,160
-will result a in a death spiral for the price of the token it is interesting because
+will result a in a death spiral for the price of the token. It is interesting because
 
 423
 00:52:41,160 --> 00:52:49,880
-some analysts go as far as claiming that the play to earn movement itself is not sustainable
+some analysts go as far as claiming that the play-to-earn movement itself is not sustainable
 
 424
 00:52:49,880 --> 00:52:56,760
@@ -1696,7 +1695,7 @@ because giving monetary rewards may prove to be bad for player retention because
 
 425
 00:52:56,760 --> 00:53:02,680
-the internal motivation that players would have at playing the game I'm not sure I subscribe to this
+the internal motivation that players would have at playing the game, I'm not sure I subscribe to this
 
 426
 00:53:02,680 --> 00:53:09,800
@@ -1704,27 +1703,27 @@ line of thought I think there's a very huge incentive for people to play games f
 
 427
 00:53:09,800 --> 00:53:21,400
-monitor game gain and you know if we are true believers in our conviction that web 3
+monitary gain and if we are true believers in our conviction that Web3
 
 428
 00:53:21,400 --> 00:53:29,240
-is about taking value from the platforms and giving it to the users then you know all these
+is about taking value from the platforms and giving it to the users then all these
 
 429
 00:53:29,240 --> 00:53:35,720
-billions that we discussed earlier being made today by the gaming industry and being shared by a
+billions that we discussed earlier, being made today by the gaming industry and being shared by a
 
 430
 00:53:35,720 --> 00:53:45,000
-small group of you know companies that control it we will we will you know flow through to to the end
+small group of companies that control it, we will flow through to the end
 
 431
 00:53:45,000 --> 00:53:54,760
-users if and when we start fighting to find self-sustainable economic models for that more
+users if and when we start finding self-sustainable economic models for that. A more
 
 432
 00:53:55,400 --> 00:54:00,440
-fair criticism is that most games today seem to emphasize the token no mix what I've discussed
+fair criticism is that most games today seem to emphasize the tokenomics that I discussed
 
 433
 00:54:00,440 --> 00:54:07,640
@@ -1732,11 +1731,11 @@ earlier more than game design but we have to understand that for game design on 
 
 434
 00:54:07,640 --> 00:54:15,320
-huge technical challenges which at the moment prevent us from creating a hundred percent decentralized
+huge technical challenges which at the moment prevent us from creating 100% decentralized
 
 435
 00:54:15,320 --> 00:54:22,120
-games remember the metaphor I used earlier we are in the early days of the internet so was the first
+games, remember the metaphor I used earlier, we are in the early days of the internet so as the first
 
 436
 00:54:23,080 --> 00:54:29,880
@@ -1748,23 +1747,23 @@ together but they were text-based or storyboarded because you couldn't have soph
 
 438
 00:54:36,920 --> 00:54:43,640
-in the primitive internet infrastructure we have the same thing here we have blockchains that are
+in the primitive internet infrastructure we have the same thing here, we have blockchains that are
 
 439
 00:54:43,640 --> 00:54:51,160
-very slow transactions are public so you cannot have a real-time game you cannot have game in
+very slow, transactions are public so you cannot have a real-time game, you cannot have game in
 
 440
 00:54:51,160 --> 00:54:56,680
-which you know if I do something and this something creates a transaction on the blockchain and this
+which if I do something and this something creates a transaction on the blockchain and this
 
 441
 00:54:56,680 --> 00:55:04,360
-is published you know 12 seconds ago in a later in Ethereum then my character will wait for 12
+is published you know 12 seconds later in Ethereum then my character will wait for 12
 
 442
 00:55:04,360 --> 00:55:11,080
-seconds before you know it fires a bullet out of their weapon this is a very bad user experience
+seconds before it fires a bullet out of their weapon, this is a very bad user experience
 
 443
 00:55:11,080 --> 00:55:16,920
@@ -1776,19 +1775,19 @@ happened in the early days of the internet and many people thought back then tha
 
 445
 00:55:24,360 --> 00:55:28,120
-you know the lack of speed or security or whatever would be something that would
+the lack of speed or security or whatever would be something that would
 
 446
 00:55:29,480 --> 00:55:35,880
-condemn internet to oblivion and of course, it didn't happen I am sure that the technical
+condemn internet to oblivion and of course, it didn't happen, I am sure that the technical
 
 447
 00:55:35,880 --> 00:55:43,400
-challenges will be solved in the meantime we will be looking at games that are only partially
+challenges will be solved. In the meantime we will be looking at games that are only partially
 
 448
 00:55:43,400 --> 00:55:50,520
-decentralized and when I say partially I mean the characters the avatars and the assets are
+decentralized and when I say partially I mean the characters, the avatars and the assets are
 
 449
 00:55:50,520 --> 00:55:56,840
@@ -1796,19 +1795,19 @@ decentralized they exist on public blockchains and they are truly owned by the p
 
 450
 00:55:56,840 --> 00:56:05,720
-gameplay mechanics are still centralized and they happen on centralized servers so concluding
+gameplay mechanics are still centralized and they happen on centralized servers. So concluding
 
 451
 00:56:07,480 --> 00:56:15,480
-this session I would like to just emphasize four points number one is that gaming is huge
+this session I would like to just emphasize four points: Number one is that gaming is huge
 
 452
 00:56:15,480 --> 00:56:23,560
-and if gaming moves to blockchain and mass so this will prove to be a killer application for
+and if gaming moves to blockchain and mass this will prove to be a killer application for
 
 453
 00:56:23,560 --> 00:56:31,800
-NFTs I know that with 6 5 to 9 you've discussed a lot about art and generative art and PFPs and
+NFTs I know that with (Punk) 6529 you've discussed a lot about art and generative art and PFPs and
 
 454
 00:56:31,800 --> 00:56:38,840
@@ -1820,23 +1819,23 @@ of the killer application of NFTs and of course PFP collections and even generat
 
 456
 00:56:44,600 --> 00:56:53,320
-that has a huge role to play in gaming the second takeaway is I think that blockchain
+that has a huge role to play in gaming. The second takeaway is, I think that blockchain
 
 457
 00:56:54,040 --> 00:57:01,240
-will act as the value layer in games providing three things one is true ownership of assets by users
+will act as the value layer in games providing three things, one is true ownership of assets by users,
 
 458
 00:57:03,000 --> 00:57:09,000
-number two interoperability of assets so the ability to move assets across games and number
+number two interoperability of assets so the ability to move assets across games and, number
 
 459
 00:57:09,000 --> 00:57:17,720
-three creating sustainable in-game and across-game economics take away number three there are still
+three, creating sustainable in-game and across-game economics. Take away number three, there are still
 
 460
 00:57:17,720 --> 00:57:24,200
-significant challenges to be overcome many of them are technological and design oriented we still
+significant challenges to be overcome many of them are technological and design oriented, we still
 
 461
 00:57:24,200 --> 00:57:33,480
@@ -1844,15 +1843,15 @@ haven't figured out ways in which we can move game mechanics to the blockchain a
 
 462
 00:57:33,480 --> 00:57:40,120
-are economic we still haven't managed to find the perfect balance between you know governance
+are economic we still haven't managed to find the perfect balance between governance,
 
 463
 00:57:40,120 --> 00:57:47,400
-utility and non-fungible tokens to create you know self-sustaining economy within a game
+utility and non-fungible tokens to create a self-sustaining economy within a game.
 
 464
 00:57:48,360 --> 00:57:55,960
-finally, keep in mind and we'll discuss this next week with 6 5 to 9 in more detail that games
+Finally, keep in mind and we'll discuss this next week with (Punk) 6529 in more detail that games
 
 465
 00:57:56,920 --> 00:58:00,760
@@ -1864,27 +1863,27 @@ yet prove to be the application type through which most people will have their f
 
 467
 00:58:07,640 --> 00:58:15,080
-work-free exposure as always we have some further reading for you and this concludes
+work-free exposure. As always we have some further reading for you and this concludes
 
 468
 00:58:15,640 --> 00:58:25,240
-the slides for this week if you have questions let me move to discord I mean as usual as you can
+the slides for this week. If you have questions let me move to Discord. I mean as usual, you can
 
 469
 00:58:25,240 --> 00:58:33,080
-say in the screen you can ask your questions in the om chat or on Twitter using the NFT QnA
+see in the screen you can ask your questions in the OM Chat or on Twitter using the #NFTQnA
 
 470
 00:58:33,080 --> 00:58:42,680
-hashtag my colleagues will probably have already started feeding questions on Discord for me so
+hashtag my colleagues will have probably already started feeding questions on Discord for me so
 
 471
 00:58:42,680 --> 00:58:50,680
-let me switch and see if I can find them there and I have my colleague Chris Chris too from
+let me switch and see if I can find them there and I have my colleague Chris Christou from
 
 472
 00:58:50,680 --> 00:58:57,240
-the unique virtual reality lab with me showing case there are questions that are more technical
+the UNIC Virtual Reality Lab with me in case there are questions that are more technical
 
 473
 00:58:57,240 --> 00:59:03,960
@@ -1892,15 +1891,15 @@ because as I said I don't come from a gaming background I might call him to join
 
 474
 00:59:03,960 --> 00:59:15,160
-answering them so let me see so there's one question that says is it actually sustainable
+answering them so let me see. So there's one question that says "is it actually sustainable
 
 475
 00:59:15,160 --> 00:59:22,520
-to release a token for a game that can be exchanged for fiat well that's that you know that's a
+to release a token for a game that can be exchanged for fiat?" well that's a
 
 476
 00:59:22,520 --> 00:59:33,480
-million dollar question it's certainly this is the case we have it is proven by the gaming
+million dollar question. It's certainly this is the case we have it is proven by the gaming
 
 477
 00:59:33,480 --> 00:59:38,680
@@ -1908,15 +1907,15 @@ industry that people there's lots of people out there there's a big market for g
 
 478
 00:59:38,680 --> 00:59:44,760
-lots of people that would actually be able to you know open their wallet and pay money to play a game
+lots of people that would actually be able to open their wallet and pay money to play a game,
 
 479
 00:59:44,760 --> 00:59:53,560
-they pay literally billions every year to play games whether this could translate in a sustainable
+they pay literally billions every year to play games. Whether this could translate into a sustainable
 
 480
 00:59:53,560 --> 01:00:03,720
-mechanism through which that money flows into an in-game economy in blockchain and allows that value
+mechanism through which money flows into an in-game economy in blockchain and allows that value
 
 481
 01:00:03,720 --> 01:00:10,360
@@ -1924,15 +1923,15 @@ to be multiplied between the users of that economy and somehow shared between th
 
 482
 01:00:10,360 --> 01:00:18,520
-create the game those that play the game and those that provide the foundational infrastructure for
+create the game, those that play the game and those that provide the foundational infrastructure for
 
 483
 01:00:18,520 --> 01:00:28,760
-security and scalability so the underlying blockchain is something to to to get we need we
+security and scalability so the underlying blockchain is something we
 
 484
 01:00:28,760 --> 01:00:35,560
-need to see how this could happen I have to say that out of the examples that I showed you earlier
+need to see how this could happen. I have to say that out of the examples that I showed you earlier
 
 485
 01:00:35,560 --> 01:00:42,920
@@ -1940,27 +1939,27 @@ and all the others that I've seen in the NFT gaming space this hasn't happened y
 
 486
 01:00:42,920 --> 01:00:54,680
-has happened for two reasons one is that there hasn't been a game yet that would attract people
+has happened for two reasons. One is that there hasn't been a game yet that would attract people
 
 487
 01:00:56,520 --> 01:01:03,080
-for the intrinsic motivation, there have not been games like I don't know Minecraft or Roblox or
+for the intrinsic motivation, there have not been games like Minecraft or Roblox or
 
 488
 01:01:03,080 --> 01:01:09,160
-the world of Warcraft or all the other games that have managed to create communities of millions of
+the World of Warcraft or all the other games that have managed to create communities of millions of
 
 489
 01:01:09,160 --> 01:01:15,240
-people that want to play the game for the shared pleasure of playing the game and even pay to play
+people that want to play the game for the shear pleasure of playing the game and even pay to play
 
 490
 01:01:15,240 --> 01:01:24,840
-that game here we have mostly seen people that come like kamikaze you know getting into the game to
+that game. Here we have mostly seen people that come in like "Kamikazes", getting into the game to
 
 491
 01:01:24,840 --> 01:01:33,400
-make a quick gain out of it and this mentality does not help the community of a very particular game to
+make a quick gain out of it and this mentality does not help the community of a very particular game
 
 492
 01:01:34,120 --> 01:01:36,440
@@ -1984,7 +1983,7 @@ they're not ready to leave it to go to the next game because they would make mor
 
 497
 01:02:04,760 --> 01:02:16,200
-out of it I'm not saying it's not
+out of it. I'm not saying it's not
 
 498
 01:02:16,200 --> 01:02:19,400
@@ -2012,7 +2011,7 @@ maybe it's a process some of the games that we've seen become useful for a
 
 504
 01:02:50,040 --> 01:02:57,560
-community or a longer amount of time like actually infinity or stepping might make it
+community or a longer amount of time like Axie Infinity or Stepping might make it
 
 505
 01:02:57,560 --> 01:03:04,280
@@ -2028,7 +2027,7 @@ that people would be willing to use their tokens inside the game and sell it out
 
 508
 01:03:23,560 --> 01:03:29,080
-and there will be a thriving you know demand
+and there will be a thriving demand
 
 509
 01:03:32,120 --> 01:03:36,760
@@ -2052,7 +2051,7 @@ blockchain scalability is a challenging thing I mean
 
 514
 01:03:53,800 --> 01:04:01,160
-I've been in blockchain since the very beginning you know Satoshi chose a 10-minute interval between
+I've been in blockchain since the very beginning. Satoshi chose a 10-minute interval between
 
 515
 01:04:01,160 --> 01:04:13,240
@@ -2064,7 +2063,7 @@ in a less amount of time so that all miners would know of the latest block
 
 517
 01:04:21,880 --> 01:04:26,360
-and we'll be able to start working on the next one when the previous one was mine so
+and we'll be able to start working on the next one when the previous one was mineg so
 
 518
 01:04:26,360 --> 01:04:32,680
@@ -2072,7 +2071,7 @@ the Bitcoin blockchain had and still has a 10-minute interval between
 
 519
 01:04:36,440 --> 01:04:38,440
-between books
+between blocks
 
 520
 01:04:40,920 --> 01:04:42,840
@@ -2080,7 +2079,7 @@ now moved to
 
 521
 01:04:45,560 --> 01:04:54,440
-my 12 intervals between blocks so in 10 years' time because Bitcoin started in 2009 we're not
+my 12 intervals between blocks so in 10 years time because Bitcoin started in 2009, we're not
 
 522
 01:04:54,440 --> 01:05:03,800
@@ -2088,23 +2087,23 @@ my 12 intervals between blocks so in 10 years' time because Bitcoin started in 2
 
 523
 01:05:05,240 --> 01:05:14,280
-scaling that further and new technologies are coming all the time either for layer 2 like optimistic roll-ups or
+scaling that further and new technologies are coming all the time either for Layer 2s like optimistic roll-ups or
 
 524
 01:05:14,280 --> 01:05:26,120
-zero-knowledge snarks or other ways all for layer ones that have much much less demands in terms of
+zero-knowledge snarks or other ways all for Layer 1s that have much much less demands in terms of
 
 525
 01:05:26,120 --> 01:05:39,720
-space or computing power or synchronization nodes and so on so I'm sure that in the future
+space or computing power or synchronization of nodes and so on so I'm sure that in the future
 
 526
 01:05:39,720 --> 01:05:47,480
-this problem will be solved but for the time being because games need a near-instantaneous
+this problem will be solved but for the time being because games need near-instantaneous
 
 527
 01:05:49,000 --> 01:05:56,520
-type of reactions when I when I have a shooting game and you find weapon it's the bullet to go
+type of reactions, when I have a shooting game and you fire the weapon it's the bullet to go
 
 528
 01:05:56,520 --> 01:06:02,360
@@ -2136,23 +2135,23 @@ free for or stepping or whatever because these things do not have with and and r
 
 535
 01:06:49,480 --> 01:07:01,640
-requirements it will probably be a few years before we start seeing the migration of of in
+requirements it will probably be a few years before we start seeing the migration of 
 
 536
 01:07:01,640 --> 01:07:09,720
-directive games to the block today I have to wait until the holographic technology comes out and
+interactive games to the blockchain today. I have to wait until the holographic technology comes out and
 
 537
 01:07:09,720 --> 01:07:17,240
-then games will be the ultimate experience that's very interesting and I think I will I will answer
+then games will be the ultimate experience, that's very interesting and I think I will answer
 
 538
 01:07:17,240 --> 01:07:26,600
-this question then we can probably wrap this up in the reader science world there have been two
+this question then we can probably wrap this up. In the reader science world there have been two
 
 539
 01:07:26,600 --> 01:07:34,840
-technologies that have how can I say invited the radical of researchers
+technologies that (how can I say) invited radical of researchers at
 
 540
 01:07:36,120 --> 01:07:41,800
@@ -2160,35 +2159,35 @@ indifferent points in time one was artificial intelligence that started in the l
 
 541
 01:07:41,800 --> 01:07:49,880
-lots of unfair and you know expectations never managed to deliver much until the
+lots of unfair and expectations never managed to deliver much until the
 
 542
 01:07:53,240 --> 01:07:58,120
-the discovery of neural networks and deep learning a few years ago and suddenly we have a
+the discovery of Neural Networks and Deep Learning a few years ago and suddenly we have a
 
 543
 01:07:58,760 --> 01:08:04,760
-solution the other technology is virtually everything that has to do with the virtualization of the
+solution. The other technology is virtually everything that has to do with the virtualization of the reality
 
 544
 01:08:04,760 --> 01:08:13,480
-around us, either pure virtual reality or of managed reality has up to now more high
+around us, either pure virtual reality or of managed reality has up to nowbeen more hype
 
 545
 01:08:13,480 --> 01:08:24,040
-than reality so to address the students comment I will yes I agree if and when we see a holographic
+than reality so to address the students comment I will say yes, I agree, if and when we see a holographic
 
 546
 01:08:24,040 --> 01:08:37,400
-uh uh uh technology come out or um uh uh to be too heavy and difficult to use and we'll not have
+technology come out or be too heavy and difficult to use and we'll not have
 
 547
 01:08:37,400 --> 01:08:41,960
-a huge latency and I will not get these after using them for 10 minutes or whatever
+a huge latency and I will not get dizzy after using them for 10 minutes or whatever,
 
 548
 01:08:42,520 --> 01:08:48,120
-yes there's huge potential for virtual long-term reality and also to be extremely
+yes, there's huge potential for virtual long-term reality and also to be extremely
 
 549
 01:08:48,120 --> 01:08:55,560
@@ -2196,35 +2195,34 @@ uh and this happened we'll discuss all these in a couple of weeks because we hav
 
 550
 01:08:55,560 --> 01:09:03,000
-session in transiting visualization technology I think Chris would have a lot to uh to say then but
+session in transiting visualization technology, I think Chris would have a lot to say then but
 
 551
 01:09:03,880 --> 01:09:09,720
-until the time that these technologies become really um
-
+until the time that these technologies become really
 552
 01:09:09,720 --> 01:09:23,160
-um let's say come to go to standard in which they can be commercially deployed uh for the mass market
+let's say, come to go to standard in which they can be commercially deployed for the mass market
 
 553
 01:09:25,480 --> 01:09:34,040
-need some time so uh we'll say another question is what incentive to current game designers have
+need some time so we'll see. Another question is "what incentive do current game designers have
 
 554
 01:09:34,600 --> 01:09:39,400
-to explore or adopt blockchain in their games don't they currently benefit from their centralized
+to explore or adopt blockchain in their games, don't they currently benefit from their centralized
 
 555
 01:09:39,400 --> 01:09:45,880
-approach the answer is a clear yes uh but that has never stopped the world from progressing it's you know
+approach?" The answer is a clear yes but that has never stopped the world from progressing it's you know
 
 556
 01:09:46,920 --> 01:09:53,240
-heard this argument time and again and says you know what incentive Kodak have to
+heard this argument time and again and says "what incentive does Kodak have to
 
 557
 01:09:53,240 --> 01:09:59,800
-invest in digital photography don't they profit from you know analog photography the answer is yes
+invest in digital photography, don't they profit from analog photography?" The answer is yes
 
 558
 01:09:59,800 --> 01:10:06,120
@@ -2248,15 +2246,15 @@ you know in 10 years' time many of the household names that we know today will b
 
 563
 01:10:34,280 --> 01:10:43,480
-Kodak or Fuji is in the analog for those businesses and they are not they will be substituted by others
+Kodak or Fuji in the analog for those businesses and they will be substituted by others.
 
 564
 01:10:44,760 --> 01:10:52,760
-so i think this concludes today's lecture thank you very much for being with us next week we'll
+So, i think this concludes today's lecture, thank you very much for being with us, next week we'll
 
 565
 01:10:52,760 --> 01:11:08,680
-have a 6529 discussing the Metaverse thank you very much for being here and see you next week bye bye
+have a (Punk)6529 discussing the Metaverse, thank you very much for being here and see you next week. Bye bye
 
 566
 01:11:22,760 --> 01:11:25,400
