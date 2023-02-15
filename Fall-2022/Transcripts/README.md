@@ -53,9 +53,9 @@ Inside this directory you may find the transcripts of the live sessions, were -w
 
 - **Week 5: Art NFTs (Generative Art)**
     - **Week 5.1 - Lecture Video**
-        - .txt - https://arweave.net/bn13okDTuMQsFJJVcDUcBXheq38HWQ1PfR_lAgpRF3A
-        - .srt - https://arweave.net/gfdNfB2rAsrUOgRTjhUdKCWZZG8kmTqoxXBYayRnIaQ
-        - .vtt - https://arweave.net/HwTEhy3XrNFhedkadBibqYck-r5N5Q9nFhDe-95NpgY
+        - .txt - https://arweave.net/oxZrhu-yzcgrT7hiPo6cG8Ja7xXc-CSXHZVTmD3v1ZQ
+        - .srt - https://arweave.net/xwRvLqEhPDT2nDMo8Cah6u-oZOEOc_YncU8je1ioLEo
+        - .vtt - https://arweave.net/pnafuoM3uThFxUsIitQt4GmIHoPIXQAkGE9zS5dvnO8
 
     - **Week 5.2 - Guest Video**
         - .txt - https://arweave.net/s53CDS39UX4457_Kio2NtlB4o7jkIwFUYuHj_owdV24
