@@ -120,8 +120,14 @@ Inside this directory you may find the transcripts of the live sessions, were -w
     - .srt - https://arweave.net/swq5hocPgkvCdeO4FmUd-EgQxVxqr9lz8YRzbVhvgLw
     - .vtt - https://arweave.net/anlJ2uPWHxfQTMzOX_9UO3-XJqjJOsDHmIyQri9Pzc4
 
-- **Week 12: Metaverse 2030 - Lecture Video**
-    - .txt - https://arweave.net/oSdd10cJDa-NTLa3oKLcBBFMENHbkAh0tz_f10pkpDI
-    - .srt - https://arweave.net/MQ-WQTxRT949FSYGue0swrXUv30z6SZXElW-3aQQlow
-    - .vtt - https://arweave.net/lCShWKfvBUkdZQa4XeF9S1tmcyl0eo9NAMqhOvXxtBY
+- **Week 12: Metaverse 2030**
+    - **Week 12.1 - Lecture Video**
+        - .txt - https://arweave.net/oSdd10cJDa-NTLa3oKLcBBFMENHbkAh0tz_f10pkpDI
+        - .srt - https://arweave.net/MQ-WQTxRT949FSYGue0swrXUv30z6SZXElW-3aQQlow
+        - .vtt - https://arweave.net/lCShWKfvBUkdZQa4XeF9S1tmcyl0eo9NAMqhOvXxtBY
+    - **Week 12.2 - Guest Video**
+        - .txt - https://arweave.net/L2fAGc81TxQ5DXdhrvSGHllMcIr7AfKq1P0x1DClx_c
+        - .srt - https://arweave.net/GYMQtNP9U8v7DJgCDuw8fpeWj0yLrnyP3zZOfRLQKs0
+        - .vtt - https://arweave.net/zCmVrpTIEHgxjBym7OuLQJQBIqbdngKHj-DUKn1bfoE
+
 

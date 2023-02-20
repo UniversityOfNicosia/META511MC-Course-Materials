@@ -1,0 +1,1916 @@
+WEBVTT
+
+00:00.000 --> 00:20.000
+Music
+
+00:20.000 --> 00:25.000
+Everyone, I am absolutely thrilled with today's session.
+
+00:25.000 --> 00:33.000
+This is one of the sessions I was most looking forward to in the course among very, very high competition.
+
+00:33.000 --> 00:41.000
+The magnitude of Austin has been, I think one of the most impressive thinkers in the tech space,
+
+00:41.000 --> 00:47.000
+but specifically in and around cryptocurrencies and crypto assets for a very long time.
+
+00:47.000 --> 00:57.000
+I have been following his work for a very long time. I have thought it has been just very insightful and prescient in many ways.
+
+00:57.000 --> 01:08.000
+One of the, my favorite tweets was someone wrote some of the most terrifying words in English language as follows you as right.
+
+01:08.000 --> 01:14.000
+And I've had that feeling sometimes where I've read something from him and I said,
+
+01:14.000 --> 01:18.000
+Oh, that doesn't make any sense whatsoever. And then like six months or a year or two years later,
+
+01:18.000 --> 01:25.000
+said, Oh, well, he was actually absolutely right. So I'm very excited that he's here with us today.
+
+01:25.000 --> 01:37.000
+We'll talk a little bit about his background. But then most interestingly, we're going to talk about a network state that is a concept he is popularized in his latest book.
+
+01:37.000 --> 01:45.000
+Try to understand what that means. Understand if that's a metaverse, if that's different than a metaverse, how to overlap from the metaverse is that an open metaverse?
+
+01:45.000 --> 01:53.000
+What is it and how do these concepts? How do we use these frameworks and concepts going forward? So, again, thank you for your time.
+
+01:53.000 --> 01:58.000
+Thank you for joining us and we're delighted you're here on the course.
+
+01:58.000 --> 02:00.000
+Glad to be here.
+
+02:00.000 --> 02:16.000
+Let's start with the simple question. When did you discover crypto assets? How did you get involved? What was the journey that started there and led to the network state?
+
+02:16.000 --> 02:35.000
+Well, so I've been probably thinking about crypto and crypto assets since the early 2010s. And certainly the financial crisis meant that lots of things we thought of as constants became variables.
+
+02:35.000 --> 02:49.000
+That was one input. And you started thinking, okay, when is the dollar not worth the dollar? Well, for example, when you have a dollar in the bank and you're beyond the FTIC limits and so on all these things that you took for constants became variables.
+
+02:49.000 --> 03:05.000
+Number two is I encountered the regulatory state firsthand in founding a company and seeing just how onerous it could be to deal with, but in the area of genomics, I actually dealt with the FDA.
+
+03:05.000 --> 03:17.000
+And I realized actually, you know, they're far worse than people think and in fact that's, it's not intention or rather it is intentional that they are worse than people think because the whole thing is optimized for optics.
+
+03:17.000 --> 03:32.000
+So anybody, it's almost like a black hole anybody who actually knows what the whole thing is about cannot get out of the gravitational pull because they're a biotech executive who's actually seen the horror, but then they're locked in because if they talk about what the FDA is the FDA will punish them.
+
+03:32.000 --> 03:36.000
+So realizing what that was that was another kind of aspect of it.
+
+03:36.000 --> 03:41.000
+And then also seeing kind of the rise the rest of the world these are all sort of inputs to kind of prime me for this.
+
+03:41.000 --> 03:51.000
+And I'd say, you know, I was monitoring Bitcoin and cryptocurrencies, you know, we're really Bitcoin really specifically is the only thing in town.
+
+03:51.000 --> 04:01.000
+And then probably before Silk Road I think in 2010 is probably my first emails or something when I was like, like it was on my radar, but didn't really get into it at that time.
+
+04:01.000 --> 04:10.000
+And it was after the recovery gradual recovery from the post Silk Road collapse, where it went from 32 down to two but it came back up to 10.
+
+04:10.000 --> 04:23.000
+And that's when I really started to get into it in late 2012. So, so that's a short version, but, and then, you know, did a lot of substance and I think you and I have been talking since around that time.
+
+04:23.000 --> 04:28.000
+Well, actually since since birth right I believe that's a real thing. Go ahead. Yeah.
+
+04:28.000 --> 04:29.000
+Correct.
+
+04:29.000 --> 04:31.000
+We're having this chat in our heads.
+
+04:31.000 --> 04:42.000
+That's right. Go ahead. Okay. Yes. You wrote a whole book about the network stage. You've been trying to write about it, but what is for those who have not read it.
+
+04:42.000 --> 04:46.000
+What's the executive summary? What do people need to take away?
+
+04:46.000 --> 04:49.000
+And a few minutes version.
+
+04:49.000 --> 04:58.000
+So the, the one sentence for actually have the one sentence, one image, one essay, etc. version on on the network state.com website.
+
+04:58.000 --> 05:13.000
+But the very short version is, what if you had a social network that crowd funded territory actually live together in the physical world, but not in one spot in all kinds of little spots all around the world just like a social network is geographically distributed so with the physical
+
+05:13.000 --> 05:20.000
+territories you have a thousand people here and a hundred people there and 400 people here in a ranch and apartment building a cul-de-sac.
+
+05:20.000 --> 05:35.000
+And that the sum of all those physical territories added up to something that had the real estate footprint and population and then also in the cloud the annual income of something that was at the scale of a legacy nation state.
+
+05:35.000 --> 05:36.000
+Okay.
+
+05:36.000 --> 05:50.000
+That is a concept of network state is something which starts in the cloud that bias physical territory and eventually gains the diplomatic recognition from a legacy nation state or another recognized state.
+
+05:50.000 --> 05:51.000
+Okay.
+
+05:51.000 --> 06:00.000
+And just like a cryptocurrency start in the cloud, you know, Bitcoin started the cloud and ranks with fiat currencies. So too, this could be a crypto country.
+
+06:00.000 --> 06:03.000
+So let me pause there.
+
+06:03.000 --> 06:09.000
+Okay, let me let me grab onto that last piece because I think this is something we can build on.
+
+06:09.000 --> 06:14.000
+Bitcoin started with, you know, a paper and an individual.
+
+06:14.000 --> 06:20.000
+And as you say is a competitive with nation state sized cards.
+
+06:20.000 --> 06:34.000
+Right.
+
+06:34.000 --> 06:37.000
+Now, Bitcoin never went and asked her say for diplomatic recognition.
+
+06:37.000 --> 06:41.000
+I guess some countries having effect made it legal tender.
+
+06:41.000 --> 06:42.000
+Yes.
+
+06:42.000 --> 06:45.000
+How important to try and break it down to pieces.
+
+06:45.000 --> 06:49.000
+How important is it that it has a quote unquote diplomatic record that the nation state has diplomatic recognition.
+
+06:49.000 --> 06:51.000
+V one is sort of the dumb approach.
+
+06:51.000 --> 06:54.000
+Where you try to do everything within the existing system.
+
+06:54.000 --> 07:04.000
+And what that means is like imagine you started trying to start Bitcoin by going to the IMF or the World Bank and saying, I want to start a new decentralized currency. You know, no one would be able to do it.
+
+07:04.000 --> 07:06.000
+It would just be laughed out of the room.
+
+07:06.000 --> 07:15.000
+You know, you can't go to a VC and tell them to race or something like this in 2009, which is not a big thought of as a legitimate thing unless maybe it's PayPal or flues or something like that.
+
+07:15.000 --> 07:21.000
+But working within the system is like a failure mode, but also and maybe less obvious.
+
+07:21.000 --> 07:26.000
+You can start outside the system and Bitcoin did start outside the system.
+
+07:26.000 --> 07:32.000
+But perhaps a non obvious thing was that it didn't just gain traction purely as an agenda phenomenon.
+
+07:32.000 --> 07:41.000
+A huge part of it was the Bitcoin to USD exchange rate and having that be an early driver of the whole system and it continues to be a driver through this day.
+
+07:41.000 --> 07:52.000
+You know, future historians will look back on this as like a step function where Bitcoin is zero and then went to whatever its terminal value is over about 20 years and in the in the fullness of history, it looks like an eye blink.
+
+07:52.000 --> 07:54.000
+It looks like things just went vertical.
+
+07:54.000 --> 07:57.000
+But of course, as you know, there's many reversals and back and forth there.
+
+07:57.000 --> 08:09.000
+So we managed to turn this, you know, what seems like a discrete approach of, you know, it's not money and now it's money into a continuous thing like a just like a bunch of continuous 40 series can approximate a step function.
+
+08:09.000 --> 08:16.000
+So to, can we figure out this continuous approximation of this otherwise seemingly discrete process zero to one.
+
+08:16.000 --> 08:22.000
+So the V two. So if the V one is doing everything within the institution and V two is doing everything completely outside.
+
+08:22.000 --> 08:34.000
+The V three is having something that started outside that can also grow outside, but that keeps knocking on the door of the institutions and eventually getting diplomatic recognition of some kind.
+
+08:34.000 --> 08:48.000
+For example, the first step was Bitcoin is legal and the second step is like Bloomberg and, you know, gosh, CNBC and so on are listing it as a price feed.
+
+08:48.000 --> 08:55.000
+And the third step is like, you know, legitimate investors are buying it and then eventually you get El Salvador recognizes national currency.
+
+08:55.000 --> 08:59.000
+Each of those are in a sense steps towards diplomatic recognition.
+
+08:59.000 --> 09:08.000
+And so the concept is you have the absolute metrics of just internet based traction over here, and that can grow on its own.
+
+09:08.000 --> 09:23.000
+And then eventually you get the sort of system capitulation or recognition or whatever you want to call it over here, even if there can be setbacks here and long gaps, right, there might be years after a crypto crash before people take the thing serious again it might take four years, five years.
+
+09:23.000 --> 09:27.000
+And then it comes back and then the system has to recognize it.
+
+09:27.000 --> 09:36.000
+But you combine those two where you have the absolute internet base growth the absolute metrics the hash rate and, you know, adoption and developers all the type of stuff.
+
+09:36.000 --> 09:46.000
+Then you the relative metrics which are like listing on Bloomberg and CNBC or recognition by a, you know, as legality or recognition by a country. Does that make sense.
+
+09:46.000 --> 10:00.000
+It's perfect makes perfect sense. And I like the example of the exchange rate with a fiat currency. What's, and we might not know this yet. What would be the equivalent exchange rate for a network state.
+
+10:00.000 --> 10:15.000
+Great question. So the equivalent is the transit between a network state and a nation state, like how many people are, you know, trading. So the equivalent between let's say, when you sell.
+
+10:15.000 --> 10:21.000
+Monero for Zcash or you sell USD for BTC or USD for ETH.
+
+10:21.000 --> 10:26.000
+Every such trade is like a migration of capital from one to the other, right.
+
+10:26.000 --> 10:35.000
+And within the United States, you haul prepares a map every year of all 50 states versus all 50 states to say who's moving from where to where.
+
+10:35.000 --> 10:40.000
+And so for example, lots more people are moving from California to Texas than vice versa.
+
+10:40.000 --> 10:50.000
+And so you haul charges way more for a truck that's going one way from California, Texas than vice versa. Okay. And that's actually being a historical thing in American history.
+
+10:50.000 --> 11:01.000
+If you Google, there's this thing where the last 30 years are kind of made up, but it's like a US states by population 1790 to 2050 obviously stop it at 2020 because the next 30 years haven't happened.
+
+11:01.000 --> 11:13.000
+But the first, you know, 230 years, you see, like, you know, for example, Virginia was a really big deal at the time of the American founding and then mid century, Ohio and Illinois were a big deal in the US.
+
+11:13.000 --> 11:20.000
+And it was only, you know, in the early 1900s that California came online and Florida only started to growth like mid century. Okay.
+
+11:20.000 --> 11:27.000
+And so at different times in American history, different states have been pulling things. There was a time in the 1800s when Ohio was hot stuff.
+
+11:27.000 --> 11:34.000
+Ohio was father of presidents, you know, at the time of Lincoln Douglas debates. That's why Illinois and Indiana. They were a big deal at that time. Right.
+
+11:34.000 --> 11:42.000
+So there's a sense in which the states you sort of think about if you're asked to name five states are also the states that are top of mind for people in places that they're going.
+
+11:42.000 --> 11:50.000
+So you actually have that's like a third angle on the US. The first angle is when everyone knows about which is the US is a nation of immigrants, people who've come to the country.
+
+11:50.000 --> 12:00.000
+The second is that it's a nation of immigrants, which is something I talk about, which is folks who come from other countries. They've come from Poland or they've come from India or China or something like that. Right.
+
+12:00.000 --> 12:14.000
+And the third is actually a nation of internal immigrants, which is they're moving between states. Okay. And that constant, they're moving from California to Texas. They're moving from New York to Ohio and then from Ohio to California. Right.
+
+12:14.000 --> 12:23.000
+And every such movement, you don't actually need a huge number of people to do so. Where you need is enough on the margins to sort of, you know, for example, shift the U Hall price.
+
+12:23.000 --> 12:31.000
+And how does that relate to this? So basically, just like you've got this table of all the coins for all the other coins, all the assets for all the other assets.
+
+12:31.000 --> 12:47.000
+Think of all the passports for all the other passports and who is exchanging what for what, right. Now, it's more complicated in this because you can have dual passports triple passports and I think the distinction between your Google login and your private keys and your keycard and your
+
+12:47.000 --> 13:00.000
+digital wallet and all of those things actually become the same thing. And eventually you have a digital passport that opens both digital and physical services, for example, in Singapore, there's something called sing pass, which is like your USA.gov sign on.
+
+13:00.000 --> 13:12.000
+Imagine if USA.gov, if everybody who is a US citizen had an account at USA.gov and you could log into any website and pull the credentials from that and you wouldn't have to reenter all your stuff over and over again, right.
+
+13:12.000 --> 13:23.000
+Singapore has something like that's called sing pass India has something like that's called other. I think eventually that becomes the definition of citizenship is what is the status of your single sign on.
+
+13:23.000 --> 13:34.000
+And that actually subsumes your passport, which you scan at the border and it really is just looking up your sing pass or your other or what happened. And so that actually merges I think with ENS and the digital passports.
+
+13:34.000 --> 13:42.000
+And so just to summarize digital currency is about trading pairs and digital passports, which I think come next are about like passport pairs.
+
+13:42.000 --> 13:49.000
+Okay, I'm going to hold that thought and come back to it. I wanted to ask you about the second part of the definition.
+
+13:49.000 --> 13:54.000
+We're going to be buying land in the physical world and I have two questions about this.
+
+13:54.000 --> 14:10.000
+Is that really important? I mean, what if you just had a bunch of people who use the internet and do all the things that a network state does but don't buy land. Does that matter.
+
+14:10.000 --> 14:20.000
+And or does this just include the existing land. Let's say I'm in a network state and I own my house. Is that house in the network state?
+
+14:20.000 --> 14:26.000
+It seems what if I might like my house to want to be in a network state, I want to go buy a new one.
+
+14:26.000 --> 14:27.000
+Right.
+
+14:27.000 --> 14:28.000
+How are we supposed to think about this?
+
+14:28.000 --> 14:39.000
+Yeah, so several different cut points, right. Just like every new business doesn't have to become Google. It's okay to have a stop point of being a restaurant or even a stop point of being a restaurant chain or a chain.
+
+14:39.000 --> 14:47.000
+Or a chain gas stations, right. In the same way, not every single star society needs to go all the way to the end to try to become a million person network state.
+
+14:47.000 --> 14:57.000
+There's waypoints. For example, you could be what I call the network union, which is a purely digital thing that organizes people for a common goal as opposed to just a hangout group. This is doing tasks together.
+
+14:57.000 --> 15:08.000
+Or you could be able to call a network archipelago, which goes one more step and you're not just organizing for collective action. That collective action includes crowdfunding territory and you're living together and you're doing things together in different pockets around the world.
+
+15:08.000 --> 15:18.000
+But you're not achieving diplomatic recognition. Maybe it's just a network of gyms or churches or co living spaces, but you know, you're not, you're not trying to achieve diplomatic recognition.
+
+15:18.000 --> 15:24.000
+And then the highest level is you're actually trying to petition a sovereign for recognition as like a genuine nation.
+
+15:24.000 --> 15:28.000
+And so there's all these different waypoints in between here and there.
+
+15:28.000 --> 15:32.000
+To answer your other question about, oh, you know, what if I've got a house and I don't want to uproot.
+
+15:32.000 --> 15:37.000
+Well, that's actually one way of thinking about it is, you know, just like you can be like a dual society.
+
+15:37.000 --> 15:48.000
+You can be like a dual citizen of a country and like be remote from that country not living physically there. In the same way your spirit can be with this cloud community you might visit there. Right.
+
+15:48.000 --> 16:01.000
+You might be a dual citizen for a long time before you pick up stakes and move if you ever do to one of these sites of aggregation it may turn out for example that in a million person network state.
+
+16:01.000 --> 16:10.000
+And so there's a hundred thousand people are singletons and they just literally fly the flag in their apartment or their home.
+
+16:10.000 --> 16:16.000
+But they've they don't actually move they can't move for whatever reason they have a family range they need to maintain or something like that but they fly the flag anyway.
+
+16:16.000 --> 16:25.000
+Okay. And the next, you know, 200,000 people are just doubles or triples or quadruples or it's like two or three or four people living together.
+
+16:25.000 --> 16:39.000
+And the very largest community has 50,000 people, right. So you have some sort of power law. I don't know what the exact distribution will look like. We have some distribution of the size of the cold living communities that constitute the network state, of which almost certainly the single largest will be the
+
+16:39.000 --> 16:41.000
+singletons. Does that make sense.
+
+16:41.000 --> 16:56.000
+That makes perfect sense. Let me ask you about this diplomatic recognition point because I have a sense.
+
+16:56.000 --> 17:12.000
+Check whether and we're going to go back to history here with the Bitcoin.
+
+17:12.000 --> 17:28.000
+We do have exchange store value programmable money all these things right. And I think more or less on all these things.
+
+17:28.000 --> 17:47.000
+And I think that's also a very strong sense in a lot of the original Bitcoin community and some still now they're like, Oh, we're going to end the Fed and central banks and we're going to replace fiat and there'll be hyper Bitcoinization your dollars will be worthless
+
+17:47.000 --> 18:01.000
+and you're going to be more and all the sort of thing right, which generally central banks and did not enjoy being told they were going to be replaced right or hyperinflationized.
+
+18:01.000 --> 18:19.000
+And I even today if I go to anyone in government or quite frankly, a lot of people and say, Hey, it would be really guess what I'm here to spread the good word. You're a year old and dollars and yen are going to be worthless and team Bitcoin is going to be
+
+18:19.000 --> 18:41.000
+like this. I don't know if it ended the development. I don't know if it was actively unhelpful and not sure it was actively helpful. And then I got in the same question of if you're giving the dramatic recognition to a group of people who live in dozens of
+
+18:41.000 --> 18:54.000
+countries. I think for the same reason that central banks want to defend the central bank countries do want to defend the territorial integrity. And if it is an intro to political recognition delay like we understand it and not just a concept.
+
+18:54.000 --> 19:12.000
+As no great I now have diplomatic recognition. My house and wherever Brazil London, etc. Is sovereign territory of I don't think it works quite like that. Yeah, I don't think it would work necessarily quite like that though in the very long term maybe it could.
+
+19:12.000 --> 19:26.000
+But a couple of thoughts. First is just a level set on the plausibility of diplomatic recognition. You have Tuvalu and Columbia that have done deals for the dot TV and dot co domain.
+
+19:26.000 --> 19:46.000
+Right. You have Wyoming that the US state that has worked with the basically the theorem blockchain to recognize Dows. You have Miami and New York where the mayors have taken their salary and Bitcoin. You have the state of El Salvador, but also the central
+
+19:46.000 --> 19:56.000
+African Republic I believe that a Bitcoin is national currency. Okay. You have the state of Virginia that did deal with Amazon for HQ to and the state of Nevada that did deal with Tesla for the Geiger factor.
+
+19:56.000 --> 20:14.000
+So point is, that's like, you know, about 10 examples or so of sovereigns being open for business, whether cities like Miami and New York or US states like Virginia or Nevada or Wyoming or nation states like El Salvador and Central African Republic.
+
+20:14.000 --> 20:18.000
+And maybe Panama, they were flirting with it as well a while ago.
+
+20:18.000 --> 20:29.000
+Whether cities or US states or nation states, they are doing deals with companies in the form of let's say Go Daddy or Tesla or Amazon or currencies in the form of Ethereum and Bitcoin.
+
+20:29.000 --> 20:33.000
+So sovereigns are already open for business. That is actually already there.
+
+20:33.000 --> 20:45.000
+And now then the so that once you have that like and you see that there's a paradigm that exists and there's already ways that sovereigns do business actually that that that predates, you know, cryptocurrencies you go back and you know there's deals for oil exploration
+
+20:45.000 --> 20:48.000
+other kinds of things. Okay.
+
+20:48.000 --> 20:56.000
+And so now then the question is, can a crypto community or a proto crypto country gain such recognition? I think absolutely.
+
+20:56.000 --> 21:13.000
+If you think about what is Google or Facebook, it's a giant network around the world. It is not a network tape, but it's got aspects of one where it's got like offices everywhere and your Google card key swipes you into Google Bangalore and Google Berlin, just as much as it does Google Boston
+
+21:13.000 --> 21:15.000
+and there's a slice of Google everywhere in the world.
+
+21:15.000 --> 21:19.000
+And that's like commercial real estate, but could very well be applied to residential.
+
+21:19.000 --> 21:30.000
+So now then the question is, what is diplomatic recognition? Why is it actually even useful? I don't think it immediately starts with, let's say, a little house in Brazil being recognized as network state territory. It's just one thing.
+
+21:30.000 --> 21:47.000
+What is instead of happen is, if you go to, you know, this image. Okay, if you watch this gift, basically, it goes from like one person in Tokyo to like 17 that 172, then 1000, 10,000, 100,000 eventually a million.
+
+21:47.000 --> 22:01.000
+And basically the buildings on the left hand side get more complex and more sophisticated goes from a single apartment to full apartments and like little, you know, towns and eventually like many cities as the density of people increases.
+
+22:01.000 --> 22:05.000
+And here's the thing, when you have like 100.
+
+22:05.000 --> 22:17.000
+And you have protrusions, you have this cloud entity and it's got little manifestations of 1000 people here and 500 people there. It's negotiating in 100 different jurisdictions at the same time.
+
+22:17.000 --> 22:30.000
+And one jurisdiction that recognizes it suddenly that particular piece of territory becomes way more valuable for the network state and lots of people reallocate over there. Okay. So for example, do you understand what I'm saying? Go ahead.
+
+22:30.000 --> 22:51.000
+I'm not even ready. So let's say, for example, you have this 100,000 person online thing and the 200 person network node in the nation of Tuvalue manages to have Tuvalue and dual citizens negotiate with a Tuvalue and government to have that network state recognized for example,
+
+22:51.000 --> 23:04.000
+but maybe they buy a small piece of the islands there or something like that. Okay. And the reason would be dual citizens that do it in the same way that like dual Bitcoin Americans set up Bitcoin exchange in the US, right?
+
+23:04.000 --> 23:20.000
+Dual Bitcoin Britishers, you know, or dual Bitcoin British citizens set up Bitcoin exchanges in the UK, right? And if you think about it that way, like dual citizens did it. It wasn't like, you know, foreign nationals came into your country and just set things up.
+
+23:20.000 --> 23:32.000
+It's, you know, Patrick Friedman is a good line. The network state or a network state will be a child of the host country and the cloud, not a transplant.
+
+23:32.000 --> 23:47.000
+Okay. So those networks, the netizens that are also Tuvaluins will be able to, you know, speak to the local government. Okay. Let me actually get the exact, I think it's Tuvaluins.
+
+23:47.000 --> 23:59.000
+Yeah, Tuvaluins, that's right. So this is like, you know, this, it's just like a, it is a sink. It's an island country and so on. There's like little islands next to it.
+
+23:59.000 --> 24:08.000
+You know, there's other kinds of things that are like this, like, care body, right? Care body has, you know, about 120,000 people, right? Let's say it's 100K.
+
+24:08.000 --> 24:16.000
+And you have a billion dollars. Let's say you've crowd phone online. I'm dividing that into that 100K people.
+
+24:16.000 --> 24:27.000
+One, nine divided by one, five, you're getting one, four, or about $10,000 per person. And, you know, that's actually a fair amount of money.
+
+24:27.000 --> 24:39.000
+That might be, you know, if I look there, you know, Jeep, your capita is $2,000. That's like five years of annual income ish or thereabouts per person of Jeep, your capita is roughly corresponding to annual income.
+
+24:39.000 --> 24:50.000
+And you could go away less than that, right? Like probably $2,000 per person, probably $200 per person would be enough, right? So maybe 150 at that amount of money.
+
+24:50.000 --> 24:57.000
+Maybe you don't even need, you know, a billion dollars, maybe 20 million would do it, maybe 200 million. I don't know the exact number. Okay.
+
+24:57.000 --> 25:02.000
+So you're negotiating simultaneous with all these different governments around the world. And they could not just be nation states.
+
+25:02.000 --> 25:13.000
+It could be cities or US states. US states, for example, they do sanctuary cities, right? They don't care. Some of them don't care about federal law on certain issues.
+
+25:13.000 --> 25:20.000
+And they, they're diverging even more on gun laws, drug laws, abortion laws, education, other kinds of things, right?
+
+25:20.000 --> 25:25.000
+Make America States again. That is happening. There's greater, greater divergence within the US.
+
+25:25.000 --> 25:30.000
+So you don't necessarily have to negotiate the nation state level. It could be the state level. It could be the city level.
+
+25:30.000 --> 25:37.000
+Once you talk about city level, there's thousands of cities around the world. You just need somebody who will grant you some sort of sovereign shelter.
+
+25:37.000 --> 26:00.000
+And once you do that, that little 200 person, 300 person, sort of projection of the network state there suddenly is one of the most valuable projections of that network state in the world because, you know, the care body ends have done a deal where that little, you know, island, you can now, for example, you could have self driving cars there, right?
+
+26:00.000 --> 26:09.000
+They're okay with that. Suddenly thousands of network netizens from around the world just pick up stakes and move here to do that, to implement that. Okay.
+
+26:09.000 --> 26:20.000
+That's a concept. And so what it is is something where the state itself becomes dynamic. It's more similar in some ways to a hunter-gatherer tribe from many thousands of years ago.
+
+26:20.000 --> 26:29.000
+You know, because the only thing that's more traditional than borders is no borders. If you go all the way back in history, you have hunter-gatherers, they're just roaming the world as opposed to the farmer and soldiers who are, you know,
+
+26:29.000 --> 26:42.000
+soldiers who are localized to one, you know, location, right? And so those are the, that's a tension within humanity to want to roam the world, to see all the countries to have nothing blocking you to live free.
+
+26:42.000 --> 26:50.000
+And then there's no place like home. This land is my land, etc. Right? That that fundamental tension exists in humanity. Both sides exist within us.
+
+26:50.000 --> 27:04.000
+But this is kind of like a rapprochement where you actually, in some ways, lean more into the hunter-gatherer aspect of our society, where the community, the cloud is first, and the land is just a parameter.
+
+27:04.000 --> 27:23.000
+Can I throw out an example that might sound practical that I thought of as you were saying this? That what an example of this being, if you're a company as an analogy that has an office in a certain country,
+
+27:23.000 --> 27:36.000
+and you have negotiated whether it's preexisting or custom, the ability to be able to bring your employees to work there. Right? Like it's a form of quote unquote diplomatic recognition direct,
+
+27:36.000 --> 27:43.000
+recognizing your corporate ability to bring people to come work in, you know, Italy or Brazil or what have you.
+
+27:43.000 --> 27:50.000
+And it's like a light version of what you're talking about. Is it in that direction? Is that a useful mental model?
+
+27:50.000 --> 27:55.000
+Could you just repeat that? Just like the last 15 seconds.
+
+27:55.000 --> 28:11.000
+Is it this a light version of what you're talking about that is a useful mental model that if I'm Facebook, use your example, and Facebook sets up shop in Vietnam and says I need to be able to bring my foreign to Vietnam employees to work here.
+
+28:11.000 --> 28:26.000
+And that's the right to tell me. Yeah, it's not aspect of that. It is sort of like that. The difference is though that Facebook is a multinational company. Right. And so one thing I'm at pains to talk about in the book is that, you know, a multinational
+
+28:26.000 --> 28:41.000
+corporation is not the same thing as a network state has aspects of it. But just like a, I mean, like, you know, it's a little bit of a category issue where you have something. There's a lot of things that are precedents for the
+
+28:41.000 --> 28:56.000
+network state like Google having all this territory worldwide or Bitcoin, you know, or would have you. Right. All of these are things that the precedents for the network state. But they're not the same thing as. Right.
+
+28:56.000 --> 29:07.000
+You know, just like, I don't know, they're precedents to a computer, for example, right. You know, abacus is and things like that. But they're not what we think of as a modern digital computer. Right.
+
+29:07.000 --> 29:20.000
+So, you know, I'll try and think of the same kind of thing where there's like a precedent device for it, but just not quite the same like, you know, the, for example, Blackberries were not the iPhone. They were on the path to the iPhone.
+
+29:20.000 --> 29:36.000
+But the modern smartphone as we know it, the first one of its genre was iPhone. It's got just enough different features. It's a programmable screen and the app store and all the stuff that just changed the game enough that we've been operating from that paradigm for last 13 years and
+
+29:36.000 --> 29:44.000
+like, I don't know, 10 billion units or whatever sold. Right. And that's kind of what I think of the network state is like, it's as much of a sort of an air gap.
+
+29:44.000 --> 30:02.000
+I mean, if I'm if I'm to be so bold or whatever over sort of these previous modes of distributed organization as like iPhone was from Blackberry, if it works, because it is not simply, and that's a big caveat. So let's see if it works. I'm not saying it's, it's guaranteed to work. I think it has a chance of working.
+
+30:02.000 --> 30:15.000
+So it actually gains diplomatic recognition. That is actually the new thing that truly puts it head and head and shoulders above just a company bringing in people into an office or setting up in Thailand. Right.
+
+30:15.000 --> 30:28.000
+I'm not dismissing that. I'm saying that's on the path to it. But it's like a curve that then has like a jump up. Another example is there was digital currency stuff and then Bitcoin was a significant step function up that put us on a new track. Does that make sense?
+
+30:28.000 --> 30:38.000
+It was absolutely. Yeah, depending on the past. Go ahead. Of course, a company is centralized in network state from my understanding is not centralized. So, well, yeah.
+
+30:38.000 --> 30:47.000
+So, so, well, it's actually essentially a point. I actually, at least in the model that I have, the network state system is decentralized. But each individual one has governance.
+
+30:47.000 --> 30:58.000
+Decentralization is not because different ways of doing decentralization. Right. One way of doing it is no leaders. And one way of doing it is a multiplicity of leaders to choose from.
+
+30:58.000 --> 31:10.000
+Right. So there's different forms of decentralization where there's no one throw to choke. And this is a different one where, you know, the goal is maybe a thousand presidents of different network states.
+
+31:10.000 --> 31:20.000
+Internally, they are quote centralized, but decentralization is maintained because you have choice between them.
+
+31:20.000 --> 31:32.000
+Okay. No, no, I understood that. You had mentioned passports. And I think in your book or any discussion we had, you had given the example that there's all kinds of passports.
+
+31:32.000 --> 31:42.000
+There's a family passport, but most of New York City is not actually open to you just from an American passport. You have to have the keycard to the JP working chase office to go into that.
+
+31:42.000 --> 31:47.000
+And I thought that was a really interesting analogy. I was wondering if you could expand a little bit.
+
+31:47.000 --> 31:56.000
+Yeah. So basically, if you have a US passport and you're just in New York City, for example, and you, you're gazing.
+
+31:56.000 --> 32:03.000
+I don't know, you go up to the top of the Empire State building, you some roof deck or whatever, something like that, if you can get there anymore, I don't know if you can.
+
+32:03.000 --> 32:08.000
+You just gaze over all the windows, you know, one of those photos, which is a panorama of all these windows, right.
+
+32:08.000 --> 32:12.000
+And then imagine you had like augmented reality glasses on.
+
+32:12.000 --> 32:20.000
+And you light up in red and in green, all of the territory that you can walk towards, or that you can walk into.
+
+32:20.000 --> 32:27.000
+And then you have a street level, for example, you can, that's green, right, your US passport allows you to walk the streets of New York.
+
+32:27.000 --> 32:33.000
+All right, you can walk into subway sandwich or a deli or whatever, a baguette, something like that, that you can do.
+
+32:33.000 --> 32:35.000
+Right, that part is easy. Okay.
+
+32:35.000 --> 32:53.000
+So, to go to like the 53rd floor of some building and look out the window, that's red, because you would need the card key for that building, which might mean either renting a room, or getting a lease, or getting a friend to extend you, you know, the card key for that day to visit, right.
+
+32:53.000 --> 32:59.000
+And then you realize actually most of this is actually not accessible to you.
+
+32:59.000 --> 33:10.000
+And in fact, when you think about it, most of it nowadays is gated by a card key. So it's digitally gated private space. You need a second passport, or a third or a fourth or a fifth.
+
+33:10.000 --> 33:18.000
+If you want to gaze out of multiple windows that day, otherwise it's basically scenery for you. It's like, you know, in a video game, you cannot access that level.
+
+33:18.000 --> 33:25.000
+You know what I mean? You have to go and you can't roam free like the hunter, gather, or have you have to go and buy a passport effectively to that thing. You can do so.
+
+33:25.000 --> 33:42.000
+You have to spend money to do so. Okay. Now that may not be the biggest limitation in the world. But once you realize that you're like, I don't know the exact ratio, but let's say, probably on the order of only 10 or 20% of the city is accessible to you with your US passport, all the green areas,
+
+33:42.000 --> 33:54.000
+many of the red areas, whether they're apartments or hotel rooms or offices are not accessible to you. What means is probably most of the city is digitally gated private space.
+
+33:54.000 --> 34:10.000
+You need to buy a second passport, a private passport from a hotel or a real estate, you know, investment trust to read, or, you know, like a company has to give you a, you have to get a second private passport to access the red space.
+
+34:10.000 --> 34:22.000
+And now you're like, oh, wait a second, most of what a city is is digitally gated private space. You need a card key to get into this stuff. You flip that around.
+
+34:22.000 --> 34:30.000
+And that means digitally gated private space could mean most of what a city is.
+
+34:30.000 --> 34:47.000
+So digitally gated private space. Now what you could imagine is now you're in VR and you imagine you see all the little territories around the world of your network state are these just, you know, you can organize them however you want this cul-de-sac in Texas and this ranch and, you know, Ohio,
+
+34:47.000 --> 34:54.000
+they can actually like be adjacent or at some scale model in VR. Maybe that's not the right paradigm that's a skewer morphe paradigm but something along those lines.
+
+34:54.000 --> 35:02.000
+You can imagine lots of doors there and eventually with air glasses. Have you seen the AR hologram stuff?
+
+35:02.000 --> 35:03.000
+Yes, of course.
+
+35:03.000 --> 35:13.000
+Yeah, so for those viewers who don't know, you can put on augmented reality glasses and you can see a hologram. It's like zoom but in person of the person on the other side.
+
+35:13.000 --> 35:20.000
+Okay, they might be 3000 miles away. And they can project themselves depending on what kind of equipment they've got.
+
+35:20.000 --> 35:28.000
+It's basically like, you know, maybe a camera might even just do it. They stand in front of a full body camera and that records them and uses AI and then projection on the other side.
+
+35:28.000 --> 35:35.000
+If you have an omnidirectional treadmill, you might even be able to walk around on the other side. Okay, and like you're like, astral plane projection of yourself.
+
+35:35.000 --> 35:40.000
+All of that I think is going to come with AR glasses and omnidirectional treadmills over the next decade or so. Okay.
+
+35:40.000 --> 35:45.000
+And saves on gas costs, saves on, I mean, remote work is only beginning. Okay.
+
+35:45.000 --> 36:01.000
+Once you can do something like that, though, you can imagine that in this VR world, you can walk around, you knock on someone's door in Ohio, you just teleport in, you know, say hello, teleport back, you can go and visit, you know, someone in Vietnam, teleport in, hello, you know, come back, right.
+
+36:01.000 --> 36:09.000
+You could basically quote travel the world like that hunter-gatherer, virtually teleporting and then you can go back to your nice, you know, a little bed and sleep, right.
+
+36:09.000 --> 36:14.000
+So that I think is becoming feasible pretty soon.
+
+36:14.000 --> 36:26.000
+And now you think about all of that. And what is your gateway to all that is your card key to enter this community, your NFT, your ENS, something that is now this digitally gated private space.
+
+36:26.000 --> 36:31.000
+How are you getting into this community? You need to hold something, right, because it's a high trust community.
+
+36:31.000 --> 36:36.000
+Not everybody is allowed in just like not everybody's allowed into an apartment or hotel room.
+
+36:36.000 --> 36:49.000
+And so once you kind of think about that, you start thinking, okay, that increases the value of what I thought of a passport to be, and I start merging a few things that were previously disparate in my head.
+
+36:49.000 --> 37:07.000
+This is just a super mental model. I think once I heard it, I can't unsee it. The idea that a city is primarily digitally gated. Right. And I lived in New York for a long time and I go, the city's online, but it's right. It's not.
+
+37:07.000 --> 37:12.000
+It's not. It's not. The street's years, even the ratings and the subway sandwich shop. That's also private space.
+
+37:12.000 --> 37:23.000
+It's your, it might be default open during certain hours, but it's also default closed for another hour. So when subway shuts down, you can be ejected from that space as well. Right.
+
+37:23.000 --> 37:24.000
+Exactly.
+
+37:24.000 --> 37:29.000
+So this is very interesting.
+
+37:29.000 --> 37:41.000
+Let me give one more piece of it, which is in the same way that we knew that there's, you know, US, US dollars, that's one form of currency. And then there was also this whole market of equities, the stock market and bonds and so on. Right.
+
+37:41.000 --> 37:48.000
+That's similar to sort of the street level view is like the US dollars and you have all these different buildings. Here's a Facebook building, the Google building, this building.
+
+37:48.000 --> 37:52.000
+And each of those have like equities or different kinds, right.
+
+37:52.000 --> 37:54.000
+And different currencies exist.
+
+37:54.000 --> 38:01.000
+In the same way, you kind of have, you know, this sort of base level public cash and then you have a public asset and you've got these private assets.
+
+38:01.000 --> 38:21.000
+You know, and kind of crypto came in from the private and is becoming like a public thing, right? You can have something which says, okay, recognizing that people need to buy both or own both a US passport or a country passport and they need a hotel or room key or something like that of some kind.
+
+38:21.000 --> 38:35.000
+Well, that's actually the direction where imagine you did have some private key, okay, that opened up, I don't know, 5% of New York. Okay, I don't know, you get access to equinox and all this other stuff.
+
+38:35.000 --> 38:43.000
+That actually has some value. I don't know exactly what percentage you might need anywhere near close to 5%. But let's say, I don't know, you're something that access is every single gym in New York, right?
+
+38:43.000 --> 38:59.000
+That has some value. And you know, I start thinking about, okay, that's like a reverse way of establishing what a passport is. And in one sense, if, you know, the goal of Bitcoin, the goal of cryptocurrencies to have an asset that is competitive with the US dollar, the goal of the network state is to have a passport
+
+38:59.000 --> 39:01.000
+that's competitive with any country's passport.
+
+39:01.000 --> 39:11.000
+And that's, that's, I think the next step, you know, you go from the 90s where you had eyeballs and people were just kind of being lucky to lose tourists, you know, online.
+
+39:11.000 --> 39:22.000
+And the 2000s where now they're daily active users, they're logging into the website every day. You go to the 2010s, they go up one more level. They're actually holders. They believe in this digital thing so much they're putting in all this money.
+
+39:22.000 --> 39:29.000
+And now I think the 2020s, they actually become full digital netizens and their primary identity is online.
+
+39:29.000 --> 39:36.000
+And, you know, they had to be really robust for that to happen. You know, everybody needs to have mobile phones. They need to be staring at social media.
+
+39:36.000 --> 39:47.000
+Most of the day, people need to spend as is already happening. Most of their waking hours online, the elite have to buy into this, not just in the US, but all these countries, all that stuff has now happened.
+
+39:47.000 --> 39:58.000
+And so now I think that's the next big step is primary identity being digital. And as such, I think that that's why the digital passport becomes a big thing this decade.
+
+39:58.000 --> 40:17.000
+Absolutely fascinating. I want to ask a state of today question. What's the closest thing to a network state now is NFT Twitter, a permanent network state. What's the closest thing to it?
+
+40:17.000 --> 40:27.000
+If you go to the network state dot com front slash dashboard, we have a tracker. And as of the time of this talk, there's like 26 star societies are being tracked there.
+
+40:27.000 --> 40:44.000
+And so like cul-de-sac dot com, kift dot com, prospera dot hn. Okay. Those are three, I think, star societies of different kinds cul-de-sac is like a car free city in Arizona and they want to build these kinds of things all the workplaces
+
+40:44.000 --> 40:56.000
+that are in the US. So it's not a car free. You're literally living in a car rather a van, but you have like no rent, right? You're free and now you can be in Utah today in Montana tomorrow.
+
+40:56.000 --> 41:08.000
+And you're just working remote under the stars and under star like. And then prospera is like an island English speaking island called Rotan in South America that they've like turned into like a free city. Okay.
+
+41:08.000 --> 41:17.000
+So there's more, but those are different pieces of what I called the network state. And so that's kind of how I think about it.
+
+41:17.000 --> 41:30.000
+I asked you a question about NFTs because here, you and I had this discussion a few months ago, and my mental model, but where these overlap is the following.
+
+41:30.000 --> 41:52.000
+First of all, I think NFTs are an extremely expressive, decentralized way to express many things, including societal structures. Right. So if you wanted to have rules and voting and all those such things, they're kind of difficult to do anything other than, you know, very simplistic models with functional coins.
+
+41:52.000 --> 42:09.000
+But with NFTs, you could have NFTs with different roles and different metadata and it unlocks different things and different governance models. So I feel you can represent the social structure and arbitrarily complex social structure with NFTs a and B.
+
+42:09.000 --> 42:29.000
+Since a huge part of this is getting people to want to do it. Right. The societies do a lot of work on social construction. You start as a little kid and you sing the national anthem you punch allegiance to the flag you have not all of it.
+
+42:29.000 --> 42:46.000
+Right. Is this, and I always think NFTs can move inter subjective myths means, and it's a way to encapsulate some of these ideas that then drive behavior downstream from.
+
+42:46.000 --> 42:48.000
+How do you think about this?
+
+42:48.000 --> 42:55.000
+Yeah, I think that's, I think that's right.
+
+42:55.000 --> 43:09.000
+And basically, one way to think about an org chart, for example, is who has permission to do what, right. Like the cleanest kind of org chart is the CEO has all the permissions to everything they can fire anybody hire anybody spend anything within the law, right.
+
+43:09.000 --> 43:16.000
+They have all these permissions, and they delegate permissions to an executive and they say you can hire you can fire, etc, within this division.
+
+43:16.000 --> 43:34.000
+And basically, you can imagine that actually being turned quantitative, where you actually have an NFT that is like a credential. That's almost like a, you know, with Google, Google Docs, you can set edit and view and download and whatever permissions there, right.
+
+43:34.000 --> 43:49.000
+You have an NFT that actually gives you access controls, and those access controls allow you to do things to the treasury of a Dow, or the personnel of a Dow, or the payroll or the salary, and then the use of those access controls is itself locked.
+
+43:49.000 --> 43:50.000
+Okay.
+
+43:50.000 --> 43:53.000
+And it can be done all in a zero knowledge or privacy preserving way.
+
+43:53.000 --> 44:03.000
+And in this fashion you can put an org chart on chain with these sort of permission granting access control granting NFTs, and that could be both a company but also more generally a community.
+
+44:03.000 --> 44:10.000
+The last question is the phone. What is the question that I should have asked you, but I didn't ask you.
+
+44:10.000 --> 44:18.000
+What is going to be the big stuff for the next cycle? What's, you know, what's what is the next few years look like? Go ahead.
+
+44:18.000 --> 44:22.000
+Yeah, no, tell me you ask yourself and answer the question that I should have asked.
+
+44:22.000 --> 44:28.000
+Sure. So there's both within crypto and then outside right so within Web 3 within crypto.
+
+44:28.000 --> 44:34.000
+You know, I think ENS and crypto names I think crypto karma and crypto credentials I think zero knowledge.
+
+44:34.000 --> 44:43.000
+I think I'm not sure the next cycle will be as financial as this one. I think people are out sort of financial for a little while.
+
+44:43.000 --> 44:59.000
+I think it's going to be the so called non monetary use cases, or the primary use case is not speculation but it's, you know, it's proving something like your knowledge is, you know, proving something like a crypto resume, a crypto credential, it is a crypto name like ENS.
+
+44:59.000 --> 45:05.000
+It's decentralized social media like Farcaster or like poster if it implements like ENS login.
+
+45:05.000 --> 45:11.000
+And I think it's that kind of stuff not that the not that the financial stuff will go away. They're still interesting.
+
+45:11.000 --> 45:17.000
+I said, but I feel more stuff that's like that right decentralized search those kinds of things. That's kind of one.
+
+45:17.000 --> 45:28.000
+Then the second thing is crypto as a component. Web 3 is a component. Now you've got certain things that have become, you know, widgetized enough that you can use them as components of applications as opposed to the whole thing itself.
+
+45:28.000 --> 45:41.000
+Right. For example, you could have potentially a product that was, you know, a VR environment and cryptocurrency was just natively integrated like a great example of Reddit implementing NFTs recently.
+
+45:41.000 --> 45:45.000
+That is not a crypto company. It's crypto as a component. Right.
+
+45:45.000 --> 45:59.000
+Crypto as component as opposed to crypto as company can only happen when the space gets to a level of maturity that something that previously acquired a full corporation to do gets turned into an open source project and then into a widget and then to a one liner and then into a no brainer.
+
+45:59.000 --> 46:07.000
+Right. But that takes some time. But now you can do things like you can embed embedded decks into your app with like, you know, one line of code.
+
+46:07.000 --> 46:15.000
+Soon you'll be able to embed like ENS registration into your app with one line of code. All that type of stuff basically allows you to do more complex behavior.
+
+46:15.000 --> 46:26.000
+And so then you get maybe the next thing is crypto as component versus crypto as company, not to say that crypto companies won't exist, but like a lot of infrastructure becomes more viable.
+
+46:26.000 --> 46:31.000
+Right. Well, thank you so much for your time. Thank you for coming to join us.
+
+46:31.000 --> 46:33.000
+And it was a pleasure as always.
+
+46:33.000 --> 46:36.000
+Wonderful. Thank you, sir.
+
+46:36.000 --> 46:43.000
+Okay. It's nice to see you again in a different time of day under different lighting.
+
+46:43.000 --> 46:53.000
+Sure. Can you hear me? Yeah, I can hear you. And I have some questions that have come from the audience. Sorry, I'm just going to run through them. Okay.
+
+46:53.000 --> 47:02.000
+Will there be war before the diplomatic recognition is accepted by existing physical states.
+
+47:02.000 --> 47:16.000
+Can there be war before? I don't think so. Mainly because, you know, when you talk about a decentralized country, what are you fighting against?
+
+47:16.000 --> 47:26.000
+You know, you're something it's not easy to invade. It's something where the entire point of the Internet at what point was to avoid a nuclear attack or make it infeasible.
+
+47:26.000 --> 47:42.000
+Can you nuke Bitcoin? You can really nuke Bitcoin. So a typical war is difficult. A, and then B is you're really talking about fighting with words and with numbers and with technology and with finance and so on and so forth.
+
+47:42.000 --> 47:46.000
+Fighting in the sense of arguing your point.
+
+47:46.000 --> 47:57.000
+You know, I think it's sort of, yeah, I don't think that the way to win is going to be a land way of winning. I think the way to win is a cloud native way of winning. But we'll see.
+
+47:57.000 --> 47:59.000
+That's what I think.
+
+47:59.000 --> 48:20.000
+I understood on the physical war. I have a follow on because it's in the news right now, but theoretically or possibly the US is at a war with the banking system. Is that the type of war someone could do against the network state?
+
+48:20.000 --> 48:30.000
+Yeah, I mean, so this is actually something that I sort of think is that the world is NYC CCP BTC, right? Those are the those are the three polls.
+
+48:30.000 --> 48:38.000
+And it's actually not just a it's not a unipolar world. It's not just the US. It's not just a bipolar world. It's not just the US and China.
+
+48:38.000 --> 48:44.000
+In fact, even the US is not really a unitary poll. It's like the US establishment, which I call MIT.
+
+48:44.000 --> 48:59.000
+It's not really all Chinese with the CCP and then BTC is the third poll. And crypto is going to go around the BTC poll and many Chinese people around the CCP poll and many Americans are around the NYT poll, but not identified with them.
+
+48:59.000 --> 49:23.000
+And those folks who are in the middle who are Chinese liberals or their American, you know, conservatives or libertarians or centrists or just, you know, non establishment like playing green wall types and so on, as well as all those people who are who are not on the rails of US dollar or the
+
+49:23.000 --> 49:31.000
+government, all of those, I think, are going to be part of the crypto campaign. I think it's going to be one or two more cycles before that happens.
+
+49:31.000 --> 49:46.000
+And I think that nothing is nothing that's happening is unexpected. I think that the big difference in the US in my view is that versus China, China made a relative right China did a bunch of this stuff already.
+
+49:46.000 --> 49:56.000
+But they are relatively efficient within their borders and they don't have that much power beyond. And the US is inefficient within its borders, which is good.
+
+49:56.000 --> 50:05.000
+There'll be an enormous amount of pushback. And we will basically see just where this is fought to.
+
+50:05.000 --> 50:16.000
+I think at the end of the day, it will be difficult for them to totally take down crypto before the next surge. And then, you know, we'll see, we'll see what happens.
+
+50:16.000 --> 50:27.000
+I do think also other countries outside the US will support crypto financial centers and so on and then we'll, we'll have at least an exchange rate in enough countries to keep the thing going.
+
+50:27.000 --> 50:30.000
+But we'll see.
+
+50:30.000 --> 50:42.000
+Next question. What is the likelihood of a network state emerging in the next three to five years and who would be the most likely first citizens.
+
+50:42.000 --> 50:49.000
+It depends on if you go to my definition, the formal definition of a network state in terms of getting diplomatic recognition.
+
+50:49.000 --> 51:10.000
+I think for four, I think for sure we will get, not for sure. I think with a lot of hard work and dedication, I think it is possible that we have a network archipelago of significant scale that crowd fence territory around the world in five years time sort of like a global
+
+51:10.000 --> 51:22.000
+political party, in a sense, that also owns land around the world. It's built a community that has, you know, tens of thousands of not hundreds of thousands of people. I think that's totally feasible within five years or so.
+
+51:22.000 --> 51:27.000
+To pull that a recognition by a sovereign is a slower process.
+
+51:27.000 --> 51:44.000
+But once it comes, then you could have a bunch all happening at once. That might take a decade that might take longer. It might be surprisingly fast, you know, Wyoming and, you know, Tennessee now have Dow laws, the mayors of Miami and New York have accepted Bitcoin.
+
+51:44.000 --> 51:47.000
+El Salvador has Bitcoin's national currency.
+
+51:47.000 --> 52:01.000
+And another non crypto context, you know, to have alluded to the dot TV domain deal, Columbia, the dot CEO, a bunch of these examples that I've mentioned before. So, so I do think that we can get diplomatic recognition.
+
+52:01.000 --> 52:06.000
+That will be the slowest part, but that might take that might take a decade. It might happen sooner, might happen longer than that.
+
+52:06.000 --> 52:17.000
+Okay.
+
+52:17.000 --> 52:24.000
+What the metaverse 2030 is and its significance in the near future.
+
+52:24.000 --> 52:35.000
+Well, I mean, the thing is, you know, these kind of questions are asking about very long term stuff and I think you can make this one the previous question. So, these, some of those questions are asking very kind of long term stuff.
+
+52:35.000 --> 52:41.000
+And I think it's useful to have a sort of speculative vision as to what things could be.
+
+52:41.000 --> 52:47.000
+And then you make directional bets and you don't take them extremely seriously. You take them as directional, you know what I mean?
+
+52:47.000 --> 52:55.000
+In the sense of, yeah, that's probably right. And then, you know, things may transpire quite differently. And then you kind of work towards that and you adapt and so on.
+
+52:55.000 --> 53:00.000
+They're not, they shouldn't be thought of as prophecies, but just scenarios, right.
+
+53:00.000 --> 53:07.000
+With that said, are you asking like, what is a metaverse in 2030 look like? Is that the question?
+
+53:07.000 --> 53:09.000
+I guess so.
+
+53:09.000 --> 53:10.000
+Yeah.
+
+53:10.000 --> 53:22.000
+The first is probably probably it's more AR than VR. I think Tim Cooks remark and that is probably true. I think you do get glasses that are some combo AR VR glasses.
+
+53:22.000 --> 53:30.000
+And it's sort of like VR is desktop and they are as mobile, because you can walk around outside and have a are all the time.
+
+53:30.000 --> 53:37.000
+Whereas VR you have to be in a very controlled environment since you're blacked out from the world around you, you know.
+
+53:37.000 --> 53:46.000
+So, you know, the metaverse in the sense that we're talking about will probably be more AR than VR. And that's a significant change.
+
+53:46.000 --> 53:56.000
+B is, I think it's going to, I think it's kind of already here in some sense, you know, in the sense that you're, you're annotating all these pieces of territory around the world.
+
+53:56.000 --> 54:07.000
+You know, you're using maps to kind of look them up or you've, you know, there's more of a division still between online and offline and all that kind of goes away.
+
+54:07.000 --> 54:14.000
+And I definitely think, you know, digital objects, digital assets, all that type of stuff is a big part of it.
+
+54:14.000 --> 54:21.000
+I think actually it'll be difficult to tell who's a human in the metaverse because the eye is getting so good.
+
+54:21.000 --> 54:34.000
+And so, verification is going to become, I think, a very underappreciated quality, like just knowing somebody is a human, like human notarization.
+
+54:34.000 --> 54:39.000
+We already kind of have that as an industry, you know, the CAPSHA industry and so on.
+
+54:39.000 --> 54:49.000
+But Alan Turing's hypothetical test of whether something is a machine or not, whether it's a human or not,
+
+54:49.000 --> 54:59.000
+will probably be like a trillion dollar industry, maybe certainly billions, sorry billions, but maybe hundreds of billions or what have you, just distinguishing reality from fake.
+
+54:59.000 --> 55:06.000
+And that's not just whether somebody is human, but also whether something is artificial or synthetically generated or something like that.
+
+55:06.000 --> 55:14.000
+That's where the AI part where all of this synthetic stuff comes out means that the crypto part of cryptographic verification becomes really important.
+
+55:14.000 --> 55:31.000
+And so then an NFT with a check mark next to it saying this is the original one may have some value, for example, and a check mark next to a human that says 5000 other people that also are human met this human in person and vouch that they are human.
+
+55:31.000 --> 55:34.000
+That's got value, not web of trust, web three of trust.
+
+55:34.000 --> 55:43.000
+So I think that rebuilding the trust structure with things like that I just described is going to be important to make the metaverse work.
+
+55:43.000 --> 55:48.000
+Okay, there is a more practical question that came in relating to the metaverse not attend your question.
+
+55:48.000 --> 55:57.000
+If you are today looking to become more involved in this space as an individual or as organization.
+
+55:57.000 --> 56:02.000
+What advice would you give someone who's looking to be more involved?
+
+56:02.000 --> 56:13.000
+For an individual, I would say, maybe, maybe obviously, but I'll just get let me start with the obvious.
+
+56:13.000 --> 56:31.000
+I think like step one is get an Oculus meta, you know, or meta quest to get and write it a small game for that if you can get apples, a or kit and play around with that and write something for that.
+
+56:31.000 --> 56:36.000
+Actually, I think Microsoft may have discontinued HoloLens or I would have said get that.
+
+56:36.000 --> 56:41.000
+See if you can get your hands or Google Glass enterprise edition.
+
+56:41.000 --> 56:51.000
+And even Snapchat spectacles and basically those five products by companies or shipping products that you can buy and mess around with.
+
+56:51.000 --> 56:54.000
+And it's useful just get a sense of where the state of the art is.
+
+56:54.000 --> 57:02.000
+B is if you aren't already good at it, I would start to get a good at graphics.
+
+57:02.000 --> 57:13.000
+And you might try some of the newer AI stuff in terms of procedural generation, but just knowing the basics of, you know, computer graphics and rendering and stuff like that is probably very helpful to understand the fundamentals.
+
+57:13.000 --> 57:17.000
+Maybe try to code like something in Unreal or Unity.
+
+57:17.000 --> 57:24.000
+And this is the kind of thing advice I'd give to like someone who's like a student who had some time to mess around with things for somebody who's between jobs.
+
+57:24.000 --> 57:27.000
+It's like a few months of just playing around with stuff.
+
+57:27.000 --> 57:35.000
+And then I would try to at that point, try to build, you know, quote, make something people want, right?
+
+57:35.000 --> 57:38.000
+You know, try to actually build something in the space.
+
+57:38.000 --> 57:40.000
+Probably it's a game right now.
+
+57:40.000 --> 57:43.000
+Oculus Quest has sold 20 million units.
+
+57:43.000 --> 57:48.000
+You know, Pokemon Go had its surge, you know, a while back.
+
+57:48.000 --> 57:49.000
+Maybe it's something else.
+
+57:49.000 --> 57:52.000
+Maybe games need to get to a billion units beforehand.
+
+57:52.000 --> 57:55.000
+At that point, it's kind of your thesis on the space.
+
+57:55.000 --> 58:02.000
+Of course, you could also join Apple or Meta or something else and work on that, you know, that division.
+
+58:02.000 --> 58:04.000
+That's also totally reasonable.
+
+58:04.000 --> 58:10.000
+Or if you go a different direction and say, actually, let's start with WebVR.
+
+58:10.000 --> 58:13.000
+And that's actually going to be there first.
+
+58:13.000 --> 58:14.000
+That's sort of the sleeper version.
+
+58:14.000 --> 58:15.000
+It's not the headset.
+
+58:15.000 --> 58:17.000
+It's in browser stuff.
+
+58:17.000 --> 58:20.000
+Select spatial.io or Mozilla hubs.
+
+58:20.000 --> 58:29.000
+And I think there's definitely something to that where people just get used to, you know, web-based VR environments first.
+
+58:29.000 --> 58:31.000
+Because you don't have to put on a headset.
+
+58:31.000 --> 58:32.000
+You can just click.
+
+58:32.000 --> 58:33.000
+You can try it out, you know.
+
+58:33.000 --> 58:36.000
+And I think there's definitely something to that.
+
+58:36.000 --> 58:40.000
+And so that's certainly probably the VR that I use the most.
+
+58:40.000 --> 58:41.000
+I end up using the most.
+
+58:41.000 --> 58:42.000
+You know, people don't think of it as VR.
+
+58:42.000 --> 58:44.000
+And then maybe there's some gradual trends.
+
+58:44.000 --> 58:51.000
+Once you are so immersed in that world, then you upsell somebody on the headset or whatever in the upper right corner.
+
+58:51.000 --> 58:54.000
+And it gives you some significant benefit over using it in a browser.
+
+58:54.000 --> 58:55.000
+Something like that.
+
+58:55.000 --> 59:03.000
+One other application that I think is a sleeper application but is worth looking at that a lot of people are thinking about is,
+
+59:03.000 --> 59:06.000
+and this would be hard because it's system integration.
+
+59:06.000 --> 59:11.000
+But, you know, what Boston Dynamics, they've all got these autonomous or quasi-autonomous robots.
+
+59:11.000 --> 59:19.000
+And maybe what you could do is set up like an omnidirectional treadmill and gloves, haptics of some kind and a VR headset.
+
+59:19.000 --> 59:23.000
+And now you can like manipulate a robot on their side of the world.
+
+59:23.000 --> 59:25.000
+People have done remote surgeries and things like that.
+
+59:25.000 --> 59:29.000
+That's not, you know, that's not completely new.
+
+59:29.000 --> 59:33.000
+But that is another angle of attack on the problem, which is not games.
+
+59:33.000 --> 59:36.000
+You don't have to not do games, but just another attack that's not games.
+
+59:36.000 --> 59:42.000
+So those are a few different things I would do if I was tasked with innovating in this space.
+
+59:42.000 --> 59:45.000
+Okay.
+
+59:45.000 --> 59:51.000
+Let me, there's a series of questions that came in on AI and I'm going to try and group them and structure them.
+
+59:51.000 --> 59:57.000
+When you start with the basics, I think ever since chat GPT came out,
+
+59:57.000 --> 01:00:01.000
+people have been super, super excited again about AI.
+
+01:00:01.000 --> 01:00:12.000
+What's your view on where we stand right now in the next, I don't know, three to 24 months on AI?
+
+01:00:12.000 --> 01:00:13.000
+What's my view?
+
+01:00:13.000 --> 01:00:18.000
+Well, so first is, I mean, chat GPT is a historical accomplishment.
+
+01:00:18.000 --> 01:00:23.000
+And, you know, not that many people know, but, you know, I was like,
+
+01:00:23.000 --> 01:00:28.000
+actually taught stats at Stanford and it actually came from like a stats computer science background.
+
+01:00:28.000 --> 01:00:31.000
+I did that professionally for many years.
+
+01:00:31.000 --> 01:00:36.000
+You know, the computational genomics, fiscal genomics, like, you know, from DNA doing variant calling,
+
+01:00:36.000 --> 01:00:37.000
+base calling, all the type of stuff.
+
+01:00:37.000 --> 01:00:39.000
+So applied machine learning in the context of genomics.
+
+01:00:39.000 --> 01:00:41.000
+That was my, that was my first company.
+
+01:00:41.000 --> 01:00:47.000
+And all of that is actually machine learning going up from raw base pair calling and, you know,
+
+01:00:47.000 --> 01:00:52.000
+like Fred and Frapp and, you know, the stuff coming off of the Lumina machines through variant calling
+
+01:00:52.000 --> 01:00:58.000
+and then through figuring out what genetic condition somebody has or doing like polygenic risk scores.
+
+01:00:58.000 --> 01:01:00.000
+All that is, it's stats at least.
+
+01:01:00.000 --> 01:01:03.000
+And then, you know, depending on what kind of stuff you're doing.
+
+01:01:03.000 --> 01:01:05.000
+So you get more complicated.
+
+01:01:05.000 --> 01:01:11.000
+So I actually use my background, but then I, you know, gone to crypto around 2013, 2014.
+
+01:01:11.000 --> 01:01:16.000
+So I've not been, you know, the cutting edge in ML for a while and a lot has happened in a while.
+
+01:01:16.000 --> 01:01:21.000
+You know, I mess around with it, but, you know, I'm not, you know, it sounds something that I'm spending all my time
+
+01:01:21.000 --> 01:01:22.000
+on.
+
+01:01:22.000 --> 01:01:26.000
+I did invest in Seattle diffusion and so on and so on beforehand.
+
+01:01:26.000 --> 01:01:28.000
+I've invested a bunch of AI companies.
+
+01:01:28.000 --> 01:01:31.000
+So haven't, haven't like missed it.
+
+01:01:31.000 --> 01:01:40.000
+But I was impressed certainly with the progress of chat GPT this year, like everybody was.
+
+01:01:40.000 --> 01:01:49.000
+Because they, you know, GPT three was a great technology demo, but with chat GPT, open AI took risk.
+
+01:01:49.000 --> 01:01:52.000
+And they actually went and put the thing out there.
+
+01:01:52.000 --> 01:01:55.000
+And, and that was, that was really impressive.
+
+01:01:55.000 --> 01:01:58.000
+A lot of people within Facebook are like, Oh, we've had this for a while.
+
+01:01:58.000 --> 01:01:59.000
+What's a big deal or whatever.
+
+01:01:59.000 --> 01:02:02.000
+And it's like the big deal is people are actually able to use it.
+
+01:02:02.000 --> 01:02:05.000
+And, you know, these folks took, took risk and they put it out there.
+
+01:02:05.000 --> 01:02:11.000
+Now, of course, it's closed in its own way and, you know, it's something which open AI was supposed to open source and so on.
+
+01:02:11.000 --> 01:02:13.000
+And so I want the decentralized AI out there.
+
+01:02:13.000 --> 01:02:15.000
+I'd make a few remarks on AI.
+
+01:02:15.000 --> 01:02:20.000
+First is obviously it's real. It's here. It's going to be around and a big deal for a while.
+
+01:02:20.000 --> 01:02:23.000
+A lot of business models are going to get disrupted.
+
+01:02:23.000 --> 01:02:27.000
+Second is AI actually went through its own winter, not so long ago.
+
+01:02:27.000 --> 01:02:33.000
+I mean, chatbots in 2015 and 2016 were super hyped and then super over.
+
+01:02:33.000 --> 01:02:36.000
+Like completely, totally, totally over.
+
+01:02:36.000 --> 01:02:38.000
+You know, people thought they were the stupidest thing.
+
+01:02:38.000 --> 01:02:41.000
+And it was a stupid VC hype thing or whatever.
+
+01:02:41.000 --> 01:02:42.000
+Go back and look at chatbots.
+
+01:02:42.000 --> 01:02:48.000
+And the reason I remember basically, I remember remarking somebody at that time.
+
+01:02:48.000 --> 01:02:49.000
+I mean, chatbots are hard.
+
+01:02:49.000 --> 01:02:59.000
+I'm like, if you can actually get a chatbot, which allows arbitrary free text input and is basically doing iterated search, you've built something better than Google.
+
+01:02:59.000 --> 01:03:03.000
+And I actually have a memo that I wrote in 2015, 2016 on exactly that.
+
+01:03:03.000 --> 01:03:08.000
+And I'm like, that is possible, but that would be better than Google if you could do that than people who replaced Google with it.
+
+01:03:08.000 --> 01:03:10.000
+And voila, here we are.
+
+01:03:10.000 --> 01:03:13.000
+That's actually what it is, right?
+
+01:03:13.000 --> 01:03:24.000
+But that was the level of difficulty of the problems is genuinely difficult problem that people were pursuing to their great credit during a period when other people were simply ignoring that whole space.
+
+01:03:24.000 --> 01:03:26.000
+They weren't making fun of it anymore.
+
+01:03:26.000 --> 01:03:28.000
+They were left for debt, right?
+
+01:03:28.000 --> 01:03:31.000
+Chatbots were absolutely not the hot area in.
+
+01:03:31.000 --> 01:03:33.000
+I mean, their LLMs were interesting.
+
+01:03:33.000 --> 01:03:34.000
+Don't get me wrong.
+
+01:03:34.000 --> 01:03:40.000
+But it wasn't something that people were publicly talking about and it wasn't hyped or whatever.
+
+01:03:40.000 --> 01:03:44.000
+And so there's the danger of going into AI because there's hype.
+
+01:03:44.000 --> 01:04:01.000
+And unless you're mathematical enough to know what, you know, creating dissent is, or if you know, unless you know math, and unless you, you know, without throwing a bunch of terms or whatever, you know, you don't have to know tons of math to just use, you know, neural
+
+01:04:01.000 --> 01:04:04.000
+neural libraries, but to understand what you're doing, you do.
+
+01:04:04.000 --> 01:04:08.000
+Certainly to actually go and innovate on LLMs, you probably do.
+
+01:04:08.000 --> 01:04:11.000
+Otherwise, you're at the level of just trying to customize a prompt.
+
+01:04:11.000 --> 01:04:15.000
+And if your defensibility for your business is a prompt, that's not a business, really.
+
+01:04:15.000 --> 01:04:18.000
+I mean, your margin will get eroded properly eventually.
+
+01:04:18.000 --> 01:04:19.000
+It'll have to be something else.
+
+01:04:19.000 --> 01:04:22.000
+It'll be your UX or something else.
+
+01:04:22.000 --> 01:04:26.000
+You know, for example, Repplet has a great business and then they layer AI on top, right?
+
+01:04:26.000 --> 01:04:31.000
+Notion is a great business and they layer AI on top.
+
+01:04:31.000 --> 01:04:34.000
+That I think will work for a lot of companies.
+
+01:04:34.000 --> 01:04:45.000
+For those that are just starting out and they're like, okay, we're going to take, you know, chat GPT or we're going to take some LM or some, maybe it's a diffusion model, something like that on the image side.
+
+01:04:45.000 --> 01:04:49.000
+I'm just going to just going to put some prompts or whatever on top on.
+
+01:04:49.000 --> 01:04:57.000
+That will have a moat or something, but welcome to try.
+
+01:04:57.000 --> 01:04:58.000
+It's really interesting to see whether that works.
+
+01:04:58.000 --> 01:04:59.000
+That's kind of one thought, right?
+
+01:04:59.000 --> 01:05:01.000
+So basically it's sort of a momentum trade.
+
+01:05:01.000 --> 01:05:17.000
+You shouldn't, in my view, I mean, some people, this works for them, but just rushing into whatever area is hot and then abandoning whatever area is not is actually not usually a good way to make money or to build like enduring value.
+
+01:05:17.000 --> 01:05:22.000
+So it's like buying a high selling low, if that makes any sense.
+
+01:05:22.000 --> 01:05:34.000
+And it's easy to do because everybody's doing, but it's actually about, you know, often, now with that said though, momentum trading can work.
+
+01:05:34.000 --> 01:05:37.000
+You know, sometimes just getting into something when it's hot, it's fine.
+
+01:05:37.000 --> 01:05:46.000
+And if you stick with it through that rise and you're now in transfer, this young people who are onboarding every year, we have to remember that every year you or I get older by a year and there's some, you know, you know, you're going to be able to get a little bit more money.
+
+01:05:46.000 --> 01:05:51.000
+So it's like, you know, you're going to buy a year and there's some Brian Bush detail 21 year olds is like, Oh, this is the most amazing care.
+
+01:05:51.000 --> 01:05:56.000
+Go get them, you know, like, you know, go 18 year old 16 year old 13 year old, whatever, right.
+
+01:05:56.000 --> 01:06:12.000
+So with that proviso on the, like, I mean, there's like you could just do a whole thing on just AI, but basically, the, I'll make a couple of observations first is everything in the internet will soon be considered fake unless cryptographically verified.
+
+01:06:12.000 --> 01:06:17.000
+So, you know, it's going to be a few years out, 2024 will probably be the first election.
+
+01:06:17.000 --> 01:06:24.000
+Everything will get faked every kind of crazy meme or whatever that may be, but brings it to people's attention very convincing.
+
+01:06:24.000 --> 01:06:26.000
+Yeah, video of everybody.
+
+01:06:26.000 --> 01:06:37.000
+And that's actually good in a sense. It's actually good because you're supposed to quote distrust things on the internet in a, you know, you could, or you could argue it's good.
+
+01:06:37.000 --> 01:06:47.000
+You know, you could just trust certain things on the internet. And now if it kind of gets pushed to this level of extremely convincing fake, people go and check it in a different way, or they just distrust it.
+
+01:06:47.000 --> 01:06:51.000
+Now there's obviously bad about that. It means the internet becomes less usable in certain respects.
+
+01:06:51.000 --> 01:07:00.000
+It does mean that everything that we've been building for proof of X and proof of Y and proof of Z becomes really important. That's what's solid. That's where you can touch it.
+
+01:07:00.000 --> 01:07:09.000
+Number two is, I think, you know, people don't really, Source has this concept of reflexivity, which I think is really important.
+
+01:07:09.000 --> 01:07:14.000
+Most people don't think there's going to be a revolution. A few people think there's going to be a revolution.
+
+01:07:14.000 --> 01:07:21.000
+And a very few people are also thinking about the counter revolution, you know, the resistance to the revolution.
+
+01:07:21.000 --> 01:07:29.000
+And even the most successful revolutions in history, like the Reformation, or Christianity, or Islam, or even Communist, these got to like a billion times.
+
+01:07:29.000 --> 01:07:35.000
+And then there's a lot to like a billion, two billion people, whatever. And then there's enormous pushback against them, a counter revolution.
+
+01:07:35.000 --> 01:07:42.000
+Very few things get make it just all the way to seven billion, eight billion people, like water. Water gets to that level.
+
+01:07:42.000 --> 01:07:50.000
+Okay. Very few things get to eight billion people without some resistance, friction, pushback, counter revolution happening at some point.
+
+01:07:50.000 --> 01:07:58.000
+And I think AI is no different. And, you know, everyone's budgeting for the revolution, but they're not thinking about the counter revolution.
+
+01:07:58.000 --> 01:08:06.000
+And what's the counter revolution? Well, think about it. You can have an AI tutor on your phone. You can have an AI doctor on your phone.
+
+01:08:06.000 --> 01:08:13.000
+You can have an AI lawyer on your phone. Do you think the doctors lawyers? I mean, the lawyers especially, right?
+
+01:08:13.000 --> 01:08:25.000
+Doctors, educators, professors, lawyers, the artists, the journalists, all of these folks who normally talk all the time about equality, blah, blah, blah.
+
+01:08:25.000 --> 01:08:39.000
+One huge thing is their salaries or their comp, for those who are not like, you know, going to be empowered by AI or not leaning into it, their comp, for the mediocre ones, just goes maybe to zero.
+
+01:08:39.000 --> 01:08:54.000
+And yeah, the good thing is like, you know, a billion people in Africa or India or South America might be able to get in a plus better than Stanford or Harvard education for free on their phone from a tutor who knows everything about them is available 24 seven is available.
+
+01:08:54.000 --> 01:09:02.000
+For free speaks their language and looks exactly like them. But a prof won't be able to pay their bills.
+
+01:09:02.000 --> 01:09:12.000
+Right. Or an education school, right. So who's to say which of those is better, right? I'm being sarcastic of course, but the point is that professors will fight this.
+
+01:09:12.000 --> 01:09:23.000
+And, you know, doctors will also fight this to the nail. Yeah, you could have automated diagnosis on your phone with provable, you know, encryption such that your medical record was there and is feeding information.
+
+01:09:23.000 --> 01:09:31.000
+To a local AI that would tell you what you're likely coming down with it, analyze all of your data and maybe figure that out.
+
+01:09:31.000 --> 01:09:37.000
+But some doctor wouldn't get a billing event. So they may be able to be against that as being harmful to patients, blah, blah, blah.
+
+01:09:37.000 --> 01:09:42.000
+So the counter revolution will consist of the US establishment in particular.
+
+01:09:42.000 --> 01:09:52.000
+And all of its voters, the doctors, the lawyers, engineers, all these credentials, people, the professors, the journals, the artists, all of these knowledge workers will fight this to the end.
+
+01:09:52.000 --> 01:10:05.000
+And the folks I think will benefit from it will be some people within the empire who defect. And then all these folks, especially from India, who recently say India is just the single largest pool of English speakers in the world.
+
+01:10:05.000 --> 01:10:12.000
+And I think it's massively underpriced. And we'll all, I think, see that over the next 10 years. They have no investment in the current world order.
+
+01:10:12.000 --> 01:10:21.000
+This is not an appreciated, right? You have tens of millions of really smart people, billions of like a billion plus people where India isn't part of the UN Security Council, right?
+
+01:10:21.000 --> 01:10:28.000
+India doesn't have the repeat as part of the SDR. India's talent is underpriced relative to where it is, like a coiled spring.
+
+01:10:28.000 --> 01:10:34.000
+And how can it get to where it needs to be? Well, it uses all these disruptive technologies and leans into them.
+
+01:10:34.000 --> 01:10:41.000
+It does, you know, metaverse movies and it does AI articles. And it does, you know, machine learning medicine.
+
+01:10:41.000 --> 01:10:50.000
+And it does, you know, cryptocurrency, right? And that's how this coiled spring. And it's not just like India, the country, the Indian state is the country.
+
+01:10:50.000 --> 01:10:57.000
+The Indian state is like, okay, it's actually doing, you know, roads and stuff doing better than it's ever done in my life.
+
+01:10:57.000 --> 01:11:06.000
+But I only moderately bullish on the Indian state. I'm really bullish on the Indian network, right? Like in the sense of China plays maybe the world's best home game in terms of their infrastructure and so on.
+
+01:11:06.000 --> 01:11:10.000
+It's about all about the Chinese state. The diaspora hours getting pushed back.
+
+01:11:10.000 --> 01:11:24.000
+And so, obviously, India's state is okay. But if China plays the world's best home game, India plays the world's best away game with all the Indian CEOs and investors and doctors and engineers and so on around the world.
+
+01:11:24.000 --> 01:11:31.000
+And so I think that basically that is the sort of political or social dimension of what's going to happen.
+
+01:11:31.000 --> 01:11:36.000
+And you're already seeing this with Getty suing a company for like a trillion dollars or something like that.
+
+01:11:36.000 --> 01:11:46.000
+And, you know, how does that relate to crypto, it relates crypto in a third way or a second or third way depending on how we're counting, which is as, you know, there's three, there's three spheres of AI.
+
+01:11:46.000 --> 01:11:48.000
+Did we talk about this three spheres of AI?
+
+01:11:48.000 --> 01:11:50.000
+I'm not sure we did.
+
+01:11:50.000 --> 01:11:55.000
+So just like NYTCCP BTC, those are like three different polls.
+
+01:11:55.000 --> 01:12:00.000
+And they will also have three spheres of AI if we're lucky corresponding to those polls.
+
+01:12:00.000 --> 01:12:19.000
+The NYTA is everything that's under the centralized US establishment. And this is like at first the innovative one, but it's going to eventually get laid and potentially with so many lawsuits and regulations and strangulations that it, you know, it may either go the fate of Napster or Spotify.
+
+01:12:19.000 --> 01:12:22.000
+Napster where it just gets sued into oblivion.
+
+01:12:22.000 --> 01:12:33.000
+Spotify where it works, it's actually really good, but a huge amount of their margin is going to RA, right, enormous amount of their margin just goes to the record companies.
+
+01:12:33.000 --> 01:12:36.000
+There's this guy who calls it wholesale transfer pricing.
+
+01:12:36.000 --> 01:12:45.000
+And with that does it means that the burden of copyright, the burden of paying for obsolete business models of old things is now on the new things.
+
+01:12:45.000 --> 01:12:56.000
+So that is where I think the Western AI, the establishment is going to go. The Chinese AI will take everything the West does because they're great, you know, both copying and surveillance and espionage and whatever.
+
+01:12:56.000 --> 01:13:02.000
+But they also have every post that's ever been emitted by anybody ever on WeChat, right? They just hit a button.
+
+01:13:02.000 --> 01:13:06.000
+They've got immensely well formatted training data.
+
+01:13:06.000 --> 01:13:20.000
+They can, you know, push, I don't know, a million Chinese people to label things on a daily basis. They will have a phenomenal, you know, language model for Chinese probably very soon if they don't already have it.
+
+01:13:20.000 --> 01:13:29.000
+And they will just deploy that across all of society and it'll be like nothing we've ever seen because they have, they just have root access over the whole thing.
+
+01:13:29.000 --> 01:13:36.000
+So that's the second model and it'll also interpret all their surveillance data and all this other stuff, right? So crazy things will happen there.
+
+01:13:36.000 --> 01:13:57.000
+And then the third model is the one I hope that we participate in, which is the part AI AI, you know, the BitTorrent AI, the Bitcoin AI, the LibGen and Sai Hub AI, the decentralized and free AI, which isn't politically indoctrinated, which is neither, you know, the province of a failed state
+
+01:13:57.000 --> 01:14:09.000
+or a surveillance state. But that is, you know, the AI of the network state. And that is AI, which is not one thing, but it's configurable by people.
+
+01:14:09.000 --> 01:14:19.000
+This, by the way, is actually one of the benefits. Have you seen those papers? The paper actually on how they trained OpenAI to be chat sheet to be woke? Have you seen that?
+
+01:14:19.000 --> 01:14:35.000
+I think I've seen summaries. I'll take a look at the paper. Yeah, so Psycho sort is this guy Brian Chow on Twitter. He actually found the exact paper where the methodology was actually discussed, right?
+
+01:14:35.000 --> 01:14:49.000
+So it is literally a paper, right, which he wrote, which he summarized, right? It's here. Okay. And it actually describes exactly how they politically indoctrinated OpenAI.
+
+01:14:49.000 --> 01:15:04.000
+Now, the reason that's really important is it actually, it's almost like a scales falling from the eyes moment, where it's a little bit like seeing behind the Wizard of Oz curtain and being like, oh, okay, it's fake, right?
+
+01:15:04.000 --> 01:15:14.000
+But in the sense of these ideologies have been brainwashing people for a long time. And now suddenly it's like, oh, it's like just 50 questions of indoctrination and you can get it to say stupid things.
+
+01:15:14.000 --> 01:15:27.000
+And then you can unindoxinate it, or you can have it break out of the sandbox. And it makes it much harder to argue that this is just being a good person or anybody would come to independently when you have to do explicit indoctrination instructions.
+
+01:15:27.000 --> 01:15:36.000
+And now it's bytes that are coded into a program and you can actually like isolate exactly where an ideology is, whether it's welcome this or Chinese communism.
+
+01:15:36.000 --> 01:15:44.000
+Sir, some will do a Bitcoin Maxx, but let's say I at some point retake the general intelligence and you make it specifically stupid. If that makes any sense, right?
+
+01:15:44.000 --> 01:15:51.000
+Right. So the thing is that basically the free AI will be hopefully customizable.
+
+01:15:51.000 --> 01:16:06.000
+And, you know, the one way of thinking about it, by the way, the most charitable way of thinking about it is that an intelligence can reason from premises, but those premises are taken and stipulated as true.
+
+01:16:06.000 --> 01:16:10.000
+You know, and then you reason from them. They are kind of like first premises.
+
+01:16:10.000 --> 01:16:19.000
+And so if you think of it like that, you know, then installing those first premises is like the culture that that AI comes from.
+
+01:16:19.000 --> 01:16:28.000
+And with crypto, hopefully what will happen is every sufficiently large enough community as prices decline will be able to crowd fund their own AI.
+
+01:16:28.000 --> 01:16:41.000
+And I want to see the Greek Orthodox AI. And I want to see the, you know, Japanese AI. And I want to see the Hindu AI. And I want to see the this and the that right. And I mean, the Hindu AI, the zillion versions of that right.
+
+01:16:41.000 --> 01:16:50.000
+And I want to see the, you know, I don't know the Spanish AI, whatever, right. There's like so many different versions of that, the Muslim AI, all this stuff.
+
+01:16:50.000 --> 01:16:54.000
+And, you know, she I'd answer any whatever, right.
+
+01:16:54.000 --> 01:17:05.000
+And I think that is actually also by the way, the ethical argument against centralizing AI because centralized AI is inherently, you know, even though they're saying, Oh, we're making it woke so we're not discriminating.
+
+01:17:05.000 --> 01:17:17.000
+You're not discriminating, then decentralize it. If you really want quote, African and Indian and South American and Middle Eastern people all and set it to be represented, we'll let them be represented as system administrators and be able to run their own copy.
+
+01:17:17.000 --> 01:17:25.000
+Right. Otherwise, it's just lip service. Otherwise, you know, there you're just having them cast as extras, unwilling extras in your movie.
+
+01:17:25.000 --> 01:17:30.000
+You know, true, truly free AI truly ethical AI is decentralized AI.
+
+01:17:30.000 --> 01:17:34.000
+And otherwise, you're just using fake ethical arguments to centralized power.
+
+01:17:34.000 --> 01:17:40.000
+So these are, I think, some of the ways that, you know, like our communities lens applies to some of this stuff.
+
+01:17:40.000 --> 01:17:48.000
+And just to summarize, it's cryptographic verification and everything is fake. It's cryptographic decentralization when AI centralized.
+
+01:17:48.000 --> 01:17:50.000
+Those two are big.
+
+01:17:50.000 --> 01:17:56.000
+And I think it's also the crypto sentiment of doing something free when everything is controlled.
+
+01:17:56.000 --> 01:18:00.000
+That's like the third piece and it's related to the second of decentralization.
+
+01:18:00.000 --> 01:18:15.000
+Can I ask a practical question about the last piece because this chat GPT costs, I don't know, $3 million a day to run or whatever it costs, but it's a lot of money, right, a lot of computation.
+
+01:18:15.000 --> 01:18:20.000
+I mean, I can't sort of servers really not when the computation has been pretty bad.
+
+01:18:20.000 --> 01:18:30.000
+But, and I like the idea of a free AI.
+
+01:18:30.000 --> 01:18:33.000
+I like the idea of a I being decentralized.
+
+01:18:33.000 --> 01:18:39.000
+I somehow feel that should have something to do with cryptocurrency, right, because that's decentralized.
+
+01:18:39.000 --> 01:18:53.000
+And I have not clarified in my head. I don't have a good mental model of how a decentralized crypto based AI works in practice. How did the true things integrate?
+
+01:18:53.000 --> 01:18:55.000
+Do you have any of those methods?
+
+01:18:55.000 --> 01:19:10.000
+Sure, I'll say one thing, which is there's this site crypto fees identified just pasted that link into the chat. And you know what actually is at that same level, Ethereum makes 5.5 million dollars a day in fees.
+
+01:19:10.000 --> 01:19:11.000
+Right.
+
+01:19:11.000 --> 01:19:17.000
+It is a global decentralized computer. Uniswap is $2 million a day in fees. This is in the bear market. Right.
+
+01:19:17.000 --> 01:19:32.000
+And so the thing is, in 2010, I would have said that the part of the big tech company moats that I think is the most difficult. You know, there's a joke that used to go like, well, how many stories is your data center?
+
+01:19:32.000 --> 01:19:33.000
+Right.
+
+01:19:33.000 --> 01:19:41.000
+Because, you know, like small companies would like talk about their data center stuff. And it's like, you just have no scale idea of what scale Google and Facebook are operating on. Right.
+
+01:19:41.000 --> 01:19:47.000
+They literally have multiple stories to their data centers. Right. Until you're talking about anything on that level.
+
+01:19:47.000 --> 01:19:56.000
+You know, how could, how could I didn't know how decentralized technologies could compete? And I thought, you know, okay, look, you know, that maybe that game is over.
+
+01:19:56.000 --> 01:20:02.000
+But to my great surprise, not surprised. Well, okay. Yeah, it's a to my surprise initially.
+
+01:20:02.000 --> 01:20:19.000
+And then, you know, to now, now I kind of expect it. The global data center or, you know, let's call it hardware build out of not just Bitcoin, but Ethereum and Solana and file coin and actually a bunch of other coins has been very substantial.
+
+01:20:19.000 --> 01:20:27.000
+And it's definitely in the billions of dollars. And it makes millions of dollars a day. And there's a zillion variants of mining and farming and staking and this and that.
+
+01:20:27.000 --> 01:20:39.000
+And some require more hardware and some require less. But the point has been proven that with the right financial incentives and the right protocol, you can get a decentralized global hardware build out.
+
+01:20:39.000 --> 01:20:52.000
+And that's really important. Because that at least solves one piece of the problem, which is if it's a simple protocol that you can execute on every machine.
+
+01:20:52.000 --> 01:20:57.000
+We have a model for that. Right with me so far.
+
+01:20:57.000 --> 01:21:03.000
+And number two is what is an LM? You're not actually updating it that much. Right.
+
+01:21:03.000 --> 01:21:07.000
+It is a function that you're just evaluating over and over and over again.
+
+01:21:07.000 --> 01:21:15.000
+So there isn't that big gap between these two things, you know, that we already know you can build a global data center footprint.
+
+01:21:15.000 --> 01:21:28.000
+What has to be done is for someone to figure out the crypto economics of how to pull those two pieces together. But a function that you evaluate over and over again is the kind of thing that you could decentralize and have a bunch of hardware run.
+
+01:21:28.000 --> 01:21:34.000
+And maybe it's something where, like here's one possible. I mean, this is a straw man example and you can probably do better.
+
+01:21:34.000 --> 01:21:44.000
+A million people crowd found an AI that's token gated. And only those people who have the token in their wallet can issue queries to the AI.
+
+01:21:44.000 --> 01:21:47.000
+And they have to buy.
+
+01:21:47.000 --> 01:21:55.000
+You know, so rather than even more clear, only those people who have an NFT that said that they crowd funded it can issue queries that AI.
+
+01:21:55.000 --> 01:22:04.000
+And they can sell that NFT to somebody else, but they also need to buy fungible tokens to pay for the queries if there's too much overload on the machines.
+
+01:22:04.000 --> 01:22:11.000
+Right. Something like that could probably work. And as costs come down, I think that will probably work.
+
+01:22:11.000 --> 01:22:23.000
+So, you know, it can't be $50 billion, but could you crowd fund a billion dollars? Maybe $100 billion for sure.
+
+01:22:23.000 --> 01:22:26.000
+Interesting.
+
+01:22:26.000 --> 01:22:36.000
+Very interesting. I think somewhere we're going to see some very interesting activity on this dimension.
+
+01:22:36.000 --> 01:22:43.000
+How are you in time to set half an hour and we could go forever. So we go forever. But, um,
+
+01:22:43.000 --> 01:22:48.000
+I'll take one more question. Is that right? I just got to see. I love talking to you. Don't get me wrong.
+
+01:22:48.000 --> 01:22:50.000
+I'm just going to go. I'm just interested.
+
+01:22:50.000 --> 01:22:55.000
+Um, I'm looking at the questions. I'm going to pick one.
+
+01:22:55.000 --> 01:23:08.000
+All right. I'll cycle back to where we started.
+
+01:23:08.000 --> 01:23:13.000
+On network states.
+
+01:23:13.000 --> 01:23:17.000
+It's a short question. I think it's really easy for you.
+
+01:23:17.000 --> 01:23:23.000
+Is there even a legal basis for diplomatic recognition of a network state by a sovereign?
+
+01:23:23.000 --> 01:23:32.000
+What would a diplomatic relationship look like and who would it be with?
+
+01:23:32.000 --> 01:23:44.000
+Or did diplomatic relationship look like? Um, well, it would look like something where I think the V zero is you have the members of the network state that are just.
+
+01:23:44.000 --> 01:23:54.000
+Writing positive articles and up voting and so on and so forth about policies and policymakers that are aligned with them.
+
+01:23:54.000 --> 01:23:59.000
+For example, if you're a pro tech, let's say you're a longevity focused network state.
+
+01:23:59.000 --> 01:24:05.000
+Then any policy maker around the world who made a positive noise about this, you'd be pricing them.
+
+01:24:05.000 --> 01:24:13.000
+Anyone who said we're, you know, I mean, I know this sounds stupid today, but we're going to ban life extension tech or they're all just like,
+
+01:24:13.000 --> 01:24:21.000
+vampires and crazy people and see if it will and we should all those people. You might criticize them on my right.
+
+01:24:21.000 --> 01:24:30.000
+And so you start building essentially, you know, in a sense, political support globally for those politicians who are pro and those who are against.
+
+01:24:30.000 --> 01:24:44.000
+And so like V zero looks like a global media or political party that supports those folks who are who side with your policy and then oppose those who are against.
+
+01:24:44.000 --> 01:24:56.000
+And then you take it from there because you'll probably have, you know, in country X, you might have a thousand locals who are part of your network state who also agree with your policy and, you know, so them that makes this not an alien thing.
+
+01:24:56.000 --> 01:25:02.000
+For example, it's not like Brazilians coming to the US that brought Bitcoin to the US.
+
+01:25:02.000 --> 01:25:12.000
+It was Americans who got into Bitcoin that built Bitcoin exchanges in the US or Bitcoin Americans, you know, they became part of a cloud movement and brought it to land to evangelize it.
+
+01:25:12.000 --> 01:25:20.000
+It wasn't, you know, I don't know Polish people who brought Ethereum to Japan.
+
+01:25:20.000 --> 01:25:39.000
+There were a theorem Japanese people, right. And so that concept of like a native group of people who are part of the country, who also believe in the cloud movement will be an important sort of bridge group, like a, like a Fiat crypto bridge, but not in the sense of fiat currency
+
+01:25:39.000 --> 01:25:40.000
+cryptocurrency.
+
+01:25:40.000 --> 01:25:43.000
+It's a fiat community crypto community bridge.
+
+01:25:43.000 --> 01:25:48.000
+And that's kind of how you established diplomatic relations, in my view.
+
+01:25:48.000 --> 01:25:52.000
+Okay, well, thank you so much for your time.
+
+01:25:52.000 --> 01:26:09.000
+We will release the video in the next few days and the transcript also and we can share it on Twitter and elsewhere for those who are, you know, the US is still asleep. So we'll get it out to them in the next couple of days and I look forward to seeing what the coming years bring.
+
+01:26:09.000 --> 01:26:11.000
+All right, great. Thank you, sir.
+
+01:26:11.000 --> 01:26:38.000
+Thank you, sir. Thank you.
+
